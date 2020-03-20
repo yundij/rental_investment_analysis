@@ -1,0 +1,32 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,213 N Simpson St,Philadelphia,PA,19139,"$1,175/mo",3,1.0,1140.0,1925,900.0,SINGLE_FAMILY
+Apartment for rent,5431 Spruce St # 2,Philadelphia,PA,19139,"$1,100/mo",3,1.0,900.0,1940,-1.0,MULTI_FAMILY
+Apartment for rent,5022 Walnut St APT 3,Philadelphia,PA,19139,"$1,125/mo",3,2.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,5026 Walnut St # 2,Philadelphia,PA,19139,$950/mo,2,2.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,5153 Walnut St FLOOR 2,Philadelphia,PA,19139,"$1,250/mo",2,1.0,850.0,-1,-1.0,APARTMENT
+Apartment for rent,4841 Walnut St FLOOR 2,Philadelphia,PA,19139,"$1,600/mo",3,1.0,,-1,-1.0,APARTMENT
+House for rent,111 N Felton St,Philadelphia,PA,19139,"$1,000/mo",3,1.0,920.0,1925,2100.0,SINGLE_FAMILY
+House for rent,215 N Robinson St,Philadelphia,PA,19139,"$1,375/mo",4,2.0,1250.0,1925,1585.0,SINGLE_FAMILY
+Apartment for rent,4830 Walnut St # 4830,Philadelphia,PA,19139,"$1,350/mo",2,1.0,1000.0,-1,-1.0,MULTI_FAMILY
+House for rent,5007 Walnut St,Philadelphia,PA,19139,"$2,700/mo",6,3.0,2250.0,1935,1742.0,SINGLE_FAMILY
+Apartment for rent,5128 Arch St # 1R,Philadelphia,PA,19139,$695/mo,1,1.0,625.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,445 N Wilton St # A,Philadelphia,PA,19139,$800/mo,1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,110 N 49th St # 1,Philadelphia,PA,19139,$900/mo,1,1.0,900.0,1915,-1.0,MULTI_FAMILY
+House for rent,801 N 48th St,Philadelphia,PA,19139,"$2,500/mo",4,2.5,2300.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,6031 Chestnut St APT 2R,Philadelphia,PA,19139,$850/mo,1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,53 N 53rd St,Philadelphia,PA,19139,"$1,500/mo",3,1.0,1302.0,1925,1110.0,TOWNHOUSE
+Apartment for rent,12 N 50th St APT 3,Philadelphia,PA,19139,$925/mo,1,1.0,550.0,-1,-1.0,APARTMENT
+Apartment for rent,4911 Market St UNIT 1,Philadelphia,PA,19139,"$1,450/mo",3,2.0,1250.0,-1,-1.0,APARTMENT
+House for rent,N 62nd St,Philadelphia,PA,19139,$975/mo,3,1.0,1120.0,-1,-1.0,SINGLE_FAMILY
+House for rent,234 N Creighton St,Philadelphia,PA,19139,"$1,050/mo",3,1.0,1200.0,1925,1306.0,SINGLE_FAMILY
+Apartment for rent,4720 Chestnut St APT C,Philadelphia,PA,19139,"$1,100/mo",2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,146 N Farson St,Philadelphia,PA,19139,"$1,200/mo",3,1.0,1218.0,1941,871.0,TOWNHOUSE
+Apartment for rent,303 N 52nd St # 3,Philadelphia,PA,19139,"$1,100/mo",3,2.0,,-1,-1.0,APARTMENT
+Apartment for rent,4823 Walnut St # 2,Philadelphia,PA,19139,"$1,250/mo",2,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,202 N 58th St # 1,Philadelphia,PA,19139,$750/mo,2,1.0,850.0,-1,-1.0,APARTMENT
+House for rent,11 S Yewdall St,Philadelphia,PA,19139,"$1,199/mo",3,1.0,1100.0,1933,1306.0,SINGLE_FAMILY
+Apartment for rent,207 S 46th St # A7,Philadelphia,PA,19139,"$1,395/mo",3,1.0,1150.0,-1,-1.0,MULTI_FAMILY
+House for rent,272 S Cecil St,Philadelphia,PA,19139,"$1,295/mo",3,1.0,1100.0,1930,871.0,SINGLE_FAMILY
+Apartment for rent,4944 Walnut St APT 2R,Philadelphia,PA,19139,$735/mo,0,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,6032 Market St UNIT 1,Philadelphia,PA,19139,"$1,300/mo",3,1.0,3360.0,-1,-1.0,APARTMENT
+Apartment for rent,4932 Chestnut St APT 3,Philadelphia,PA,19139,$850/mo,1,1.0,2400.0,1925,-1.0,MULTI_FAMILY

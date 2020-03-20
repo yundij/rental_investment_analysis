@@ -1,0 +1,25 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,505 W Norris St # 1,Philadelphia,PA,19122,"$1,900/mo",3,2.0,1450.0,2019,-1.0,APARTMENT
+Townhouse for rent,2026 N Howard St FLOOR 1,Philadelphia,PA,19122,"$1,600/mo",2,2.0,2470.0,1925,-1.0,TOWNHOUSE
+Townhouse for rent,1801 N Mascher St,Philadelphia,PA,19122,"$1,450/mo",1,1.0,800.0,1925,871.0,TOWNHOUSE
+Apartment for rent,164 W Norris St # 4,Philadelphia,PA,19122,$800/mo,1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,1630 N 10th St,Philadelphia,PA,19122,"$1,495/mo",3,1.5,1224.0,1965,1755.0,TOWNHOUSE
+Apartment for rent,1722 N 7th St APT 4,Philadelphia,PA,19122,"$1,195/mo",2,1.0,1200.0,1930,-1.0,MULTI_FAMILY
+Apartment for rent,1227-29 N 7th St # 2C,Philadelphia,PA,19122,"$1,495/mo",1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,1304 N Randolph St,Philadelphia,PA,19122,"$2,000/mo",3,3.0,1506.0,1916,871.0,TOWNHOUSE
+Apartment for rent,1241 N Hancock St,Philadelphia,PA,19122,"$1,750/mo",2,1.0,900.0,1913,1306.0,APARTMENT
+House for rent,1804 N Front St,Philadelphia,PA,19122,"$2,250/mo",5,2.5,1225.0,1921,871.0,SINGLE_FAMILY
+Apartment for rent,1208 N Howard St # 1,Philadelphia,PA,19122,"$1,325/mo",1,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,1400 N 4th St FLOOR 3,Philadelphia,PA,19122,"$1,580/mo",1,1.0,1200.0,-1,-1.0,APARTMENT
+Apartment for rent,110 W Thompson St # A,Philadelphia,PA,19122,"$2,100/mo",2,1.5,1375.0,2012,-1.0,APARTMENT
+Townhouse for rent,1227 W Thompson St,Philadelphia,PA,19122,"$1,400/mo",4,2.0,1360.0,1964,1742.0,TOWNHOUSE
+Apartment for rent,1100 W Montgomery Ave # 818,Philadelphia,PA,19122,"$1,079/mo",4,2.0,,-1,-1.0,APARTMENT
+Apartment for rent,1207 W Susquehanna Ave # D,Philadelphia,PA,19122,"$1,800/mo",3,2.0,2790.0,-1,-1.0,APARTMENT
+Apartment for rent,1744 N Marshall St,Philadelphia,PA,19122,"$1,600/mo",2,1.0,,-1,1306.0,APARTMENT
+Apartment for rent,1509 N Hancock St APT 3,Philadelphia,PA,19122,"$1,400/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,1225 N 2nd St,Philadelphia,PA,19122,"$1,199+/mo",2,1.0,800.0,-1,-1.0,APARTMENT
+House for rent,1422 N Front St,Philadelphia,PA,19122,"$1,400/mo",1,1.0,1998.0,1920,1377.0,SINGLE_FAMILY
+Apartment for rent,2022 N 8th St FLOOR 2,Philadelphia,PA,19122,"$1,000/mo",4,2.0,1300.0,-1,-1.0,APARTMENT
+Townhouse for rent,1732 N 3rd St,Philadelphia,PA,19122,"$1,800/mo",4,1.5,1408.0,1915,840.0,TOWNHOUSE
+Apartment for rent,1927 N 9th St # A,Philadelphia,PA,19122,"$1,000/mo",2,1.0,,2011,-1.0,APARTMENT
+House for rent,1236 N 5th St,Philadelphia,PA,19122,"$2,600/mo",3,3.0,,-1,-1.0,SINGLE_FAMILY

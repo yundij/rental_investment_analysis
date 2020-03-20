@@ -1,0 +1,40 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,1201 Friendship St,Philadelphia,PA,19111,$785/mo,1,1.0,500.0,1950,5063.0,SINGLE_FAMILY
+Apartment for rent,7507 Verree Rd APT 3,Philadelphia,PA,19111,$800/mo,1,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,6800 Bingham St APT B5,Philadelphia,PA,19111,$895/mo,1,1.0,500.0,-1,-1.0,APARTMENT
+Apartment for rent,6318 Rising Sun Ave # 1,Philadelphia,PA,19111,$950/mo,2,1.0,1576.0,-1,-1.0,APARTMENT
+Apartment for rent,1715 Lansing St APT 9,Philadelphia,PA,19111,$900/mo,2,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,1234 Fuller St # 2,Philadelphia,PA,19111,"$1,100/mo",2,1.0,1100.0,-1,-1.0,APARTMENT
+House for rent,7613 Whitaker Ave,Philadelphia,PA,19111,$825/mo,1,1.0,,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,542 Gilham St FLOOR 1,Philadelphia,PA,19111,$695/mo,1,1.0,,1935,-1.0,APARTMENT
+Apartment for rent,528 Knorr St APT 5,Philadelphia,PA,19111,$925/mo,2,1.0,650.0,-1,-1.0,APARTMENT
+Apartment for rent,6232 Lawndale St,Philadelphia,PA,19111,"$1,090/mo",2,1.0,1638.0,1925,-1.0,MULTI_FAMILY
+Townhouse for rent,1400 Gilham St,Philadelphia,PA,19111,$785/mo,1,1.0,1152.0,1925,1080.0,TOWNHOUSE
+House for rent,Passmore St,Philadelphia,PA,19111,"$1,125/mo",3,1.5,1800.0,1925,-1.0,SINGLE_FAMILY
+Apartment for rent,8305 Ridgeway St # 2,Philadelphia,PA,19111,$950/mo,1,1.0,800.0,1960,-1.0,APARTMENT
+Apartment for rent,1920 Ripley St # 1,Philadelphia,PA,19111,"$1,200/mo",2,1.0,1500.0,1954,-1.0,MULTI_FAMILY
+Apartment for rent,604 Princeton Ave,Philadelphia,PA,19111,"$1,500/mo",3,1.0,1335.0,1951,2116.0,MULTI_FAMILY
+Apartment for rent,8310 Pine Rd # 2,Phila,PA,19111,"$1,850/mo",3,2.0,1400.0,-1,-1.0,APARTMENT
+Apartment for rent,7201 Dungan St FLOOR 1,Philadelphia,PA,19111,$800/mo,1,1.0,675.0,1964,-1.0,APARTMENT
+Apartment for rent,7430 Belden St,Philadelphia,PA,19111,"$1,350/mo",3,1.5,1332.0,1958,2243.0,MULTI_FAMILY
+House for rent,543 Mckinley St,Philadelphia,PA,19111,$875/mo,2,1.0,925.0,1931,3484.0,SINGLE_FAMILY
+Apartment for rent,7231 Rising Sun Ave APT 1F,Philadelphia,PA,19111,$799/mo,1,1.0,650.0,-1,-1.0,APARTMENT
+House for rent,7370 Shelbourne St,Philadelphia,PA,19111,"$1,375/mo",3,1.0,1020.0,1955,3005.0,SINGLE_FAMILY
+House for rent,909 Fanshawe St,Philadelphia,PA,19111,"$2,300/mo",3,2.5,1360.0,1950,5631.0,SINGLE_FAMILY
+House for rent,1214 Knorr St,Philadelphia,PA,19111,"$1,150/mo",3,1.0,1393.0,1949,1793.0,SINGLE_FAMILY
+Apartment for rent,7615 Rising Sun Ave APT D5,Philadelphia,PA,19111,$895/mo,1,1.0,650.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,6736 Rising Sun Ave,Philadelphia,PA,19111,$945/mo,1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,1233 Fuller St # 1,Philadelphia,PA,19111,"$1,300/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,639 Unruh Ave # 1,Philadelphia,PA,19111,$900/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,1015 Afton St,Philadelphia,PA,19111,$895/mo,1,1.0,700.0,-1,-1.0,APARTMENT
+Apartment for rent,6616 Rising Sun Ave # 1,Philadelphia,PA,19111,"$3,450/mo",3,1.5,,-1,-1.0,APARTMENT
+Apartment for rent,7103 Rising Sun Ave APT 3,Philadelphia,PA,19111,"$3,350/mo",2,1.5,,-1,-1.0,APARTMENT
+Apartment for rent,Griffith St,Philadelphia,PA,19111,$900/mo,1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,7339 Claridge St # 2,Philadelphia,PA,19111,$945/mo,2,1.0,800.0,-1,-1.0,MULTI_FAMILY
+House for rent,1321 Gilham St,Philadelphia,PA,19111,"$1,500/mo",3,2.5,1056.0,1941,1080.0,SINGLE_FAMILY
+Apartment for rent,7837 Dungan Rd,Philadelphia,PA,19111,$800/mo,1,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,533 Glenview St # 1,Philadelphia,PA,19111,"$1,100/mo",2,1.0,700.0,-1,-1.0,APARTMENT
+Condo for rent,1730 Bleigh Ave # 2,Philadelphia,PA,19111,"$1,045/mo",2,1.0,,1958,-1.0,CONDO
+Townhouse for rent,6402 Oxford Ave # 2,Philadelphia,PA,19111,"$1,150/mo",2,2.0,1050.0,-1,-1.0,TOWNHOUSE
+Apartment for rent,1730 Borbeck Ave # 2,Philadelphia,PA,19111,"$1,350/mo",3,2.0,2340.0,1958,-1.0,MULTI_FAMILY
+Apartment for rent,410 Kerper St # 3,Philadelphia,PA,19111,"$1,150/mo",2,1.0,700.0,-1,-1.0,MULTI_FAMILY

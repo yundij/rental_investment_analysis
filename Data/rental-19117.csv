@@ -1,0 +1,30 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,4823 Trego Dr,San Jose,CA,95118,"$3,400/mo",3,2.0,1118.0,1962,6621.0,SINGLE_FAMILY
+Apartment for rent,Karen Dr,Santa Clara,CA,95050,"$2,495/mo",1,1.0,650.0,-1,-1.0,APARTMENT
+Apartment for rent,3067 26th St,San Francisco,CA,94110,"$3,495/mo",2,1.0,1100.0,-1,-1.0,APARTMENT
+Apartment for rent,925 The Alameda UNIT 306,San Jose,CA,95126,"$2,995/mo",1,1.5,1088.0,2006,1066.0,APARTMENT
+Apartment for rent,1036 Oak Grove Rd APT 79,Concord,CA,94518,"$1,745/mo",1,1.0,671.0,1971,786.0,APARTMENT
+House for rent,11 Cooks Ct,Oakley,CA,94561,"$2,150/mo",2,1.0,750.0,1950,-1.0,SINGLE_FAMILY
+Townhouse for rent,180 Evandale Ave,Mountain View,CA,94043,"$4,950/mo",3,3.5,1612.0,2007,2114.0,TOWNHOUSE
+Apartment for rent,5389 Fig Grove Ct,San Jose,CA,95123,"$2,600/mo",2,1.5,950.0,1970,760.0,MULTI_FAMILY
+Apartment for rent,223 Cadloni Ln APT B,Vallejo,CA,94591,"$1,600/mo",1,1.0,669.0,-1,-1.0,APARTMENT
+Apartment for rent,607 18th St,Oakland,CA,94612,"$2,690/mo",1,1.0,550.0,1895,3780.0,APARTMENT
+House for rent,1671 Elwood Dr,Los Gatos,CA,95032,"$5,000/mo",3,2.0,1492.0,1967,6200.0,SINGLE_FAMILY
+House for rent,851 Kyle St,San Jose,CA,95127,"$3,500/mo",3,2.5,1728.0,1985,4791.0,SINGLE_FAMILY
+House for rent,3266 Santa Sophia Way,Union City,CA,94587,"$2,950/mo",3,2.0,1395.0,1971,5500.0,SINGLE_FAMILY
+Apartment for rent,2637 Regent St # 2,Berkeley,CA,94704,"$3,050/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,3056 Owen Ave APT 2,Marina,CA,93933,"$1,825/mo",2,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,Aqua Vista St,Oakland,CA,94601,"$2,560/mo",2,1.0,1000.0,-1,-1.0,APARTMENT
+Apartment for rent,401 Cork Harbour Cir APT F,Redwood City,CA,94065,"$3,600/mo",2,2.0,1200.0,1985,1218.0,APARTMENT
+House for rent,1115 Glendora Ave,Oakland,CA,94602,"$2,200/mo",1,1.0,700.0,1911,4200.0,SINGLE_FAMILY
+Apartment for rent,499 Fairbanks Ave,Oakland,CA,94610,"$2,395/mo",2,1.0,800.0,1940,14000.0,APARTMENT
+House for rent,33863 Juliet Cir,Fremont,CA,94555,"$3,500/mo",3,2.0,1118.0,1985,5391.0,SINGLE_FAMILY
+House for rent,26 Nancy Ln,Daly City,CA,94014,"$4,800/mo",4,2.5,2180.0,1999,3312.0,SINGLE_FAMILY
+Apartment for rent,1120 W Lockeford St APT 37,Lodi,CA,95240,"$1,225/mo",2,1.5,1350.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,1910 Grande Cir UNIT 120,Fairfield,CA,94533,"$1,900/mo",3,1.5,1212.0,1982,924.0,MULTI_FAMILY
+House for rent,693 W Cotati Ave,Cotati,CA,94931,"$4,300/mo",3,2.0,1120.0,1962,62726.0,SINGLE_FAMILY
+Townhouse for rent,2941 Ross Ave,San Jose,CA,95124,"$2,995/mo",2,1.0,900.0,1962,6890.0,TOWNHOUSE
+Apartment for rent,1815 40th Ave FLOOR 1,San Francisco,CA,94122,"$3,344/mo",1,1.0,700.0,1949,-1.0,APARTMENT
+Apartment for rent,550 Fairmount Ave APT J,Oakland,CA,94611,"$2,595/mo",2,1.0,850.0,-1,-1.0,APARTMENT
+Apartment for rent,1437 Martin Luther King Jr Way,Berkeley,CA,94709,"$2,750/mo",2,1.5,900.0,1907,2500.0,APARTMENT
+Apartment for rent,135 S Morrison Ave APT D,San Jose,CA,95126,"$1,699/mo",1,1.0,650.0,-1,-1.0,MULTI_FAMILY

@@ -1,0 +1,29 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,3600 W School House Ln APT B105,Philadelphia,PA,19129,$895/mo,1,1.0,575.0,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,3357 Vaux St,Philadelphia,PA,19129,"$1,850/mo",3,1.5,1184.0,1940,1863.0,TOWNHOUSE
+House for rent,3502 Vaux St,Philadelphia,PA,19129,"$1,535/mo",0,1.0,1056.0,1939,1315.0,SINGLE_FAMILY
+Townhouse for rent,4402 Driftwood Dr,Philadelphia,PA,19129,"$2,200/mo",2,2.0,1670.0,2008,1670.0,TOWNHOUSE
+Apartment for rent,4223 Ridge Ave # A,Philadelphia,PA,19129,"$1,195/mo",2,1.5,1000.0,-1,-1.0,APARTMENT
+Townhouse for rent,3695 Calumet St,Philadelphia,PA,19129,"$1,750/mo",4,4.0,1400.0,1943,1306.0,TOWNHOUSE
+Apartment for rent,3460 Division St,Philadelphia,PA,19129,"$1,700/mo",2,1.0,1072.0,1939,1006.0,APARTMENT
+Apartment for rent,Midvale Ave,Philadelphia,PA,19129,"$1,890/mo",3,2.0,,-1,-1.0,APARTMENT
+Condo for rent,4421 Driftwood Dr # 100,Philadelphia,PA,19129,"$2,550/mo",2,2.5,1900.0,2011,-1.0,CONDO
+Condo for rent,351030 Scotts Ln UNIT 3022,Philadelphia,PA,19129,"$1,995/mo",2,1.0,1413.0,2018,-1.0,CONDO
+Townhouse for rent,3728 Midvale Ave,Philadelphia,PA,19129,"$1,500/mo",2,1.0,1269.0,1920,871.0,TOWNHOUSE
+Townhouse for rent,3216 N Spangler St,Philadelphia,PA,19129,"$1,200/mo",2,1.0,1264.0,1925,1280.0,TOWNHOUSE
+Apartment for rent,3460 Midvale Ave APT 301,Philadelphia,PA,19129,"$1,675/mo",1,1.0,900.0,2017,-1.0,APARTMENT
+Townhouse for rent,3548 Calumet St,Philadelphia,PA,19129,"$2,250/mo",3,2.5,2000.0,1999,1398.0,TOWNHOUSE
+Condo for rent,3507 Indian Queen Ln # 3,Philadelphia,PA,19129,$895/mo,0,1.0,550.0,1939,-1.0,CONDO
+Apartment for rent,4034 Ridge Ave APT 2R,Philadelphia,PA,19129,"$1,150/mo",2,1.0,1000.0,-1,-1.0,MULTI_FAMILY
+Condo for rent,3503 Indian Queen Ln # 3,Philadelphia,PA,19129,"$1,295/mo",2,1.0,2440.0,1939,-1.0,CONDO
+House for rent,3408 W Penn St,Philadelphia,PA,19129,"$1,745/mo",2,1.0,1120.0,1943,960.0,SINGLE_FAMILY
+Condo for rent,3305 Indian Queen Ln # 1,Philadelphia,PA,19129,"$1,100/mo",1,1.0,1480.0,1940,-1.0,CONDO
+Townhouse for rent,3408 Indian Queen Ln,Philadelphia,PA,19129,"$2,000/mo",3,2.0,1900.0,1939,1306.0,TOWNHOUSE
+Townhouse for rent,3452 Division St,Philadelphia,PA,19129,"$1,800/mo",4,2.0,1616.0,1939,975.0,TOWNHOUSE
+Apartment for rent,3343 Conrad St APT 301,Philadelphia,PA,19129,"$1,595/mo",1,2.0,975.0,2008,5227.0,MULTI_FAMILY
+Apartment for rent,3456 Sunnyside Ave,Philadelphia,PA,19129,$925/mo,1,1.0,500.0,1939,1097.0,APARTMENT
+Condo for rent,4153 Ridge Ave # 2,Philadelphia,PA,19129,"$1,350/mo",2,1.0,700.0,1939,-1.0,CONDO
+Apartment for rent,4000 Gypsy Ln UNIT 529,Philadelphia,PA,19129,"$1,550/mo",2,2.0,1250.0,1970,-1.0,APARTMENT
+Apartment for rent,4030 Ridge Ave # 3,Philadelphia,PA,19129,"$1,050/mo",2,1.0,550.0,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,3351 Tilden St,Philadelphia,PA,19129,"$1,750/mo",3,1.0,1646.0,1941,1472.0,TOWNHOUSE
+Townhouse for rent,3447 Vaux St,Philadelphia,PA,19129,"$1,650/mo",3,1.0,1620.0,1945,1450.0,TOWNHOUSE

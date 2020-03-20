@@ -1,0 +1,33 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,262-264 E Cliveden St APT 1,Philadelphia,PA,19119,$875/mo,1,1.0,700.0,-1,-1.0,APARTMENT
+Apartment for rent,7137 Chew Ave # 2,Philadelphia,PA,19119,$975/mo,1,1.0,780.0,-1,-1.0,APARTMENT
+House for rent,E Slocum St,Philadelphia,PA,19119,"$1,500/mo",3,1.5,1286.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,811 E Vernon Rd,Philadelphia,PA,19119,"$1,085/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,504 N Pleasant Pl # A,Philadelphia,PA,19119,$700/mo,1,1.0,,-1,-1.0,MULTI_FAMILY
+House for rent,Greene St,Philadelphia,PA,19119,"$4,000/mo",3,2.0,1900.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,7224 Germantown Ave APT 2,Philadelphia,PA,19119,"$1,500/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,Germantown Ave,Philadelphia,PA,19119,"$1,150/mo",1,1.0,1000.0,-1,-1.0,APARTMENT
+House for rent,99 W Weaver St,Philadelphia,PA,19119,"$1,600/mo",4,1.0,1282.0,-1,-1.0,SINGLE_FAMILY
+House for rent,E Upsal St,Philadelphia,PA,19119,"$1,250/mo",3,1.0,960.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,22 W Upsal St # 2,Philadelphia,PA,19119,"$1,150/mo",1,1.0,875.0,-1,-1.0,MULTI_FAMILY
+Condo for rent,540 W Sedgwick St # C1,Philadelphia,PA,19119,"$1,295/mo",2,1.0,,1961,-1.0,CONDO
+Apartment for rent,112 W Sharpnack St APT 2,Philadelphia,PA,19119,"$1,095/mo",1,1.0,1000.0,-1,-1.0,APARTMENT
+Apartment for rent,6600 Lincoln Dr APT B5,Philadelphia,PA,19119,"$1,045/mo",1,1.0,660.0,-1,-1.0,APARTMENT
+Apartment for rent,6804 Quincy St APT 2F,Philadelphia,PA,19119,"$1,000/mo",0,1.0,,-1,-1.0,MULTI_FAMILY
+Condo for rent,502 Glen Echo Rd,Philadelphia,PA,19119,"$1,275/mo",2,1.0,1920.0,1950,-1.0,CONDO
+House for rent,7005-07 Mccallum St,Philadelphia,PA,19119,"$1,300/mo",2,1.0,800.0,-1,-1.0,SINGLE_FAMILY
+House for rent,48 E Pleasant St,Philadelphia,PA,19119,"$1,195/mo",3,1.0,1290.0,1925,1155.0,SINGLE_FAMILY
+Apartment for rent,6655 Mccallum St APT 402,Philadelphia,PA,19119,"$1,100/mo",1,1.0,790.0,1900,790.0,APARTMENT
+Apartment for rent,429 W Sedgwick St # B,Philadelphia,PA,19119,"$1,350/mo",2,1.0,1150.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,19 W Allens Ln APT 17,Philadelphia,PA,19119,$850/mo,1,1.0,573.0,-1,-1.0,APARTMENT
+Apartment for rent,262 E Cliveden St,Philadelphia,PA,19119,$875/mo,1,1.0,700.0,1968,-1.0,MULTI_FAMILY
+Townhouse for rent,226 Idell St,Philadelphia,PA,19119,"$2,200/mo",3,1.0,1640.0,1965,1916.0,TOWNHOUSE
+Apartment for rent,59 W Sharpnack St,Philadelphia,PA,19119,$800+/mo,0,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,342 Glen Echo Rd,Philadelphia,PA,19119,"$2,050/mo",3,1.5,1360.0,1953,1742.0,TOWNHOUSE
+Apartment for rent,6788 Blakemore St APT A2,Philadelphia,PA,19119,"$1,125/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,515 E Sedgwick St,Philadelphia,PA,19119,"$1,550/mo",1,1.0,800.0,1925,22000.0,APARTMENT
+Apartment for rent,6441 Chew Ave # 2,Philadelphia,PA,19119,$895/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,625 E Vernon Rd,Philadelphia,PA,19119,$875/mo,1,1.0,550.0,-1,-1.0,APARTMENT
+House for rent,11 W Sharpnack St,Philadelphia,PA,19119,"$1,450/mo",4,1.0,1520.0,1920,1320.0,SINGLE_FAMILY
+Apartment for rent,123 W Mount Pleasant Ave # B,Philadelphia,PA,19119,"$1,000/mo",2,1.0,500.0,-1,-1.0,APARTMENT
+Apartment for rent,7330 Germantown Ave,Philadelphia,PA,19119,"$1,095+/mo",1,1.0,700.0,-1,-1.0,APARTMENT

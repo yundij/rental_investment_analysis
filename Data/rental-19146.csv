@@ -1,0 +1,29 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,2402 Carpenter St # B,Philadelphia,PA,19146,"$2,000/mo",4,2.0,2043.0,-1,-1.0,APARTMENT
+House for rent,2232 Kimball St,Philadelphia,PA,19146,"$1,850/mo",2,1.0,,-1,741.0,SINGLE_FAMILY
+House for rent,2928 Gerritt St,Philadelphia,PA,19146,"$1,200/mo",2,1.0,840.0,1937,435.0,SINGLE_FAMILY
+Apartment for rent,2227 Catharine St # 2F,Philadelphia,PA,19146,"$1,125/mo",1,1.0,,-1,-1.0,APARTMENT
+House for rent,1541 S Patton St,Philadelphia,PA,19146,"$1,800/mo",3,2.0,1020.0,1923,767.0,SINGLE_FAMILY
+Townhouse for rent,1130 S 26th St,Philadelphia,PA,19146,"$1,550/mo",2,1.5,1032.0,1923,690.0,TOWNHOUSE
+Townhouse for rent,1937 Federal St,Philadelphia,PA,19146,"$2,200/mo",4,2.5,2262.0,1925,871.0,TOWNHOUSE
+Townhouse for rent,2137 Cross St,Philadelphia,PA,19146,"$3,150/mo",4,3.0,1700.0,2017,871.0,TOWNHOUSE
+Apartment for rent,2124 South St # 2,Philadelphia,PA,19146,"$1,250/mo",1,1.0,750.0,-1,-1.0,APARTMENT
+Townhouse for rent,1024 S Bouvier St,Philadelphia,PA,19146,"$2,050/mo",2,1.5,1024.0,1925,435.0,TOWNHOUSE
+Apartment for rent,1416 Christian St # 3,Philadelphia,PA,19146,"$1,950/mo",2,1.0,,1915,-1.0,APARTMENT
+Townhouse for rent,2001 Bainbridge St,Philadelphia,PA,19146,"$3,300/mo",3,3.0,1500.0,-1,-1.0,TOWNHOUSE
+Townhouse for rent,2551 Grays Ferry Ave # 1,Philadelphia,PA,19146,"$2,000/mo",2,2.0,1500.0,2015,-1.0,TOWNHOUSE
+Apartment for rent,623 S 17th St # 2,Philadelphia,PA,19146,"$2,600/mo",3,2.0,1600.0,-1,-1.0,APARTMENT
+Townhouse for rent,2210 Pemberton St,Philadelphia,PA,19146,"$2,200/mo",2,1.0,1050.0,1920,686.0,TOWNHOUSE
+Townhouse for rent,1248 S Dover St # 1,Philadelphia,PA,19146,"$1,000/mo",3,1.0,,-1,-1.0,TOWNHOUSE
+Townhouse for rent,1515 S Newkirk St,Philadelphia,PA,19146,"$1,300/mo",3,1.0,1098.0,1920,710.0,TOWNHOUSE
+Townhouse for rent,1339 S Lambert St,Philadelphia,PA,19146,"$1,775/mo",2,2.0,1000.0,1917,644.0,TOWNHOUSE
+Apartment for rent,1536 S 26th St # 1,Philadelphia,PA,19146,"$1,500/mo",4,2.0,1150.0,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,1165 S Mole St,Philadelphia,PA,19146,"$2,400/mo",2,2.0,980.0,1920,518.0,TOWNHOUSE
+Townhouse for rent,407 S 23rd St,Philadelphia,PA,19146,"$3,200/mo",2,2.5,1740.0,1920,1056.0,TOWNHOUSE
+House for rent,1313 S Myrtlewood St,Philadelphia,PA,19146,$950/mo,2,1.0,784.0,1940,670.0,SINGLE_FAMILY
+House for rent,2721 Wharton St,Philadelphia,PA,19146,"$1,000/mo",2,1.0,766.0,1923,688.0,SINGLE_FAMILY
+Apartment for rent,1613 Ellsworth St # 1,Philadelphia,PA,19146,"$1,600/mo",2,1.0,1300.0,1923,-1.0,APARTMENT
+Townhouse for rent,708 S 20th St,Philadelphia,PA,19146,"$2,750/mo",2,2.0,1250.0,1915,1041.0,TOWNHOUSE
+House for rent,1447 S Patton St,Philadelphia,PA,19146,"$1,150/mo",3,1.0,1100.0,1923,845.0,SINGLE_FAMILY
+Apartment for rent,1706 Catharine St # A,Philadelphia,PA,19146,"$2,100/mo",2,2.0,800.0,1915,-1.0,APARTMENT
+House for rent,2056 Gerritt St,Philadelphia,PA,19146,"$2,635/mo",3,3.0,2100.0,2016,768.0,SINGLE_FAMILY

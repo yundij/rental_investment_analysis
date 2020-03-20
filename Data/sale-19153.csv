@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,7021 Lark Pl,Philadelphia,PA,19153,"$170,000",3,2.0,1360.0,1794.0,1965,TOWNHOUSE,128300.0,https://www.zillow.com/homedetails/7021-Lark-Pl-Philadelphia-PA-19153/10414031_zpid/
+Townhouse for sale,2547 S 75th St,Philadelphia,PA,19153,"$189,900",3,2.0,1046.0,1141.0,1916,TOWNHOUSE,90400.0,https://www.zillow.com/homedetails/2547-S-75th-St-Philadelphia-PA-19153/10407651_zpid/
+Townhouse for sale,2426 S Arcola St,Philadelphia,PA,19153,"$160,000",4,2.0,1056.0,1742.0,1925,TOWNHOUSE,122000.0,https://www.zillow.com/homedetails/2426-S-Arcola-St-Philadelphia-PA-19153/10407751_zpid/
+House for sale,8416 Suffolk Pl,Philadelphia,PA,19153,"$325,000",3,3.0,2816.0,4321.0,1960,SINGLE_FAMILY,198900.0,https://www.zillow.com/homedetails/8416-Suffolk-Pl-Philadelphia-PA-19153/10409101_zpid/
+Townhouse for sale,7215 Mallard Pl,Philadelphia,PA,19153,"$215,000",3,2.0,1360.0,1785.0,1965,TOWNHOUSE,133900.0,https://www.zillow.com/homedetails/7215-Mallard-Pl-Philadelphia-PA-19153/10414096_zpid/
+House for sale,7703 Chelwynde Ave,Philadelphia,PA,19153,"$109,900",3,1.0,1014.0,1306.0,1925,SINGLE_FAMILY,99100.0,https://www.zillow.com/homedetails/7703-Chelwynde-Ave-Philadelphia-PA-19153/10409491_zpid/
+Townhouse for sale,7619 Raven Pl,Philadelphia,PA,19153,"$185,000",3,2.0,1418.0,2696.0,1965,TOWNHOUSE,137900.0,https://www.zillow.com/homedetails/7619-Raven-Pl-Philadelphia-PA-19153/10409608_zpid/
+Auction,8502 Lyons Pl,Philadelphia,PA,19153,,3,1.0,1440.0,2156.0,1960,SINGLE_FAMILY,124600.0,https://www.zillow.com/homedetails/8502-Lyons-Pl-Philadelphia-PA-19153/10408999_zpid/
+Townhouse for sale,8214 Chelwynde Ave,Philadelphia,PA,19153,"$216,999",3,3.0,1320.0,2199.0,1965,TOWNHOUSE,129800.0,https://www.zillow.com/homedetails/8214-Chelwynde-Ave-Philadelphia-PA-19153/10409454_zpid/
+House for sale,3109 S 82nd St,Philadelphia,PA,19153,"$175,000",2,2.0,1208.0,2500.0,1925,SINGLE_FAMILY,100700.0,https://www.zillow.com/homedetails/3109-S-82nd-St-Philadelphia-PA-19153/10408834_zpid/
+Townhouse for sale,7366 Buist Ave,Philadelphia,PA,19153,"$174,900",3,1.0,1120.0,953.0,1925,TOWNHOUSE,82700.0,https://www.zillow.com/homedetails/7366-Buist-Ave-Philadelphia-PA-19153/10408445_zpid/
+House for sale,2837 S 81st St,Philadelphia,PA,19153,"$135,000",2,1.0,810.0,1306.0,1925,SINGLE_FAMILY,73000.0,https://www.zillow.com/homedetails/2837-S-81st-St-Philadelphia-PA-19153/10408832_zpid/
+Townhouse for sale,7125 Hummingbird Pl,Philadelphia,PA,19153,"$239,000",3,3.0,1520.0,1803.0,1965,TOWNHOUSE,129300.0,https://www.zillow.com/homedetails/7125-Hummingbird-Pl-Philadelphia-PA-19153/10414062_zpid/
+Auction,7825 Mercury Pl,Philadelphia,PA,19153,,3,1.0,1260.0,1613.0,1950,CONDO,123000.0,https://www.zillow.com/homedetails/7825-Mercury-Pl-Philadelphia-PA-19153/10409985_zpid/
+Townhouse for sale,7832 Centaur Pl,Philadelphia,PA,19153,"$150,000",3,2.0,1360.0,1799.0,1965,TOWNHOUSE,125600.0,https://www.zillow.com/homedetails/7832-Centaur-Pl-Philadelphia-PA-19153/10409866_zpid/
+Townhouse for sale,2554 S Ashford St,Philadelphia,PA,19153,"$171,900",3,2.0,1046.0,1115.0,1925,TOWNHOUSE,89400.0,https://www.zillow.com/homedetails/2554-S-Ashford-St-Philadelphia-PA-19153/10407564_zpid/
+Townhouse for sale,2515 S Ashford St,Philadelphia,PA,19153,"$169,000",3,1.0,1024.0,1023.0,1925,TOWNHOUSE,88400.0,https://www.zillow.com/homedetails/2515-S-Ashford-St-Philadelphia-PA-19153/10407517_zpid/
+Townhouse for sale,2518 S Berbro St,Philadelphia,PA,19153,"$140,000",3,1.0,960.0,1119.0,1925,TOWNHOUSE,74000.0,https://www.zillow.com/homedetails/2518-S-Berbro-St-Philadelphia-PA-19153/10407414_zpid/
+Townhouse for sale,7347 Theodore St,Philadelphia,PA,19153,"$174,900",3,1.0,1120.0,1119.0,1925,TOWNHOUSE,83700.0,https://www.zillow.com/homedetails/7347-Theodore-St-Philadelphia-PA-19153/10408292_zpid/
+Townhouse for sale,7326 Dicks Ave,Philadelphia,PA,19153,"$179,900",4,2.0,1088.0,1149.0,1925,TOWNHOUSE,112800.0,https://www.zillow.com/homedetails/7326-Dicks-Ave-Philadelphia-PA-19153/10408663_zpid/
+Auction,7215 Guyer Ave,Philadelphia,PA,19153,,3,1.0,936.0,1245.0,1966,CONDO,96300.0,https://www.zillow.com/homedetails/7215-Guyer-Ave-Philadelphia-PA-19153/10408710_zpid/
+Auction,7506 Elmwood Ave,Philadelphia,PA,19153,,3,1.0,1056.0,1318.0,1925,CONDO,88800.0,https://www.zillow.com/homedetails/7506-Elmwood-Ave-Philadelphia-PA-19153/10408127_zpid/
+Foreclosure,7336 Chelwynde Ave,Philadelphia,PA,19153,"$108,750",3,1.0,1120.0,1119.0,1925,SINGLE_FAMILY,29100.0,https://www.zillow.com/homedetails/7336-Chelwynde-Ave-Philadelphia-PA-19153/10408551_zpid/
+Townhouse for sale,7326 Buist Ave,Philadelphia,PA,19153,"$135,000",3,1.0,1120.0,953.0,1925,TOWNHOUSE,82700.0,https://www.zillow.com/homedetails/7326-Buist-Ave-Philadelphia-PA-19153/10408426_zpid/
+Apartment for sale,7357 Buist Ave,Philadelphia,PA,19153,"$240,000",0,,1544.0,1189.0,1925,MULTI_FAMILY,91400.0,https://www.zillow.com/homedetails/7357-Buist-Ave-Philadelphia-PA-19153/10408399_zpid/
+Townhouse for sale,7374 Wheeler St,Philadelphia,PA,19153,"$169,900",3,1.0,1024.0,1054.0,1925,TOWNHOUSE,83000.0,https://www.zillow.com/homedetails/7374-Wheeler-St-Philadelphia-PA-19153/10407945_zpid/
+Lot / Land for sale,2600 Island Ave,Philadelphia,PA,19153,"$799,000",,,,7531.0,-1,LOT,46100.0,https://www.zillow.com/homedetails/2600-Island-Ave-Philadelphia-PA-19153/118359415_zpid/
+Townhouse for sale,7212 Dicks Ave,Philadelphia,PA,19153,"$118,900",3,1.0,1024.0,1149.0,1930,TOWNHOUSE,102900.0,https://www.zillow.com/homedetails/7212-Dicks-Ave-Philadelphia-PA-19153/10408639_zpid/
+Townhouse for sale,7148 Dicks Ave,Philadelphia,PA,19153,"$115,000",3,1.0,960.0,1167.0,1930,TOWNHOUSE,101900.0,https://www.zillow.com/homedetails/7148-Dicks-Ave-Philadelphia-PA-19153/10408629_zpid/
+Pre-foreclosure / Auction,2425 S Arcola St,Philadelphia,PA,19153,,3,1.0,1084.0,4274.0,1925,SINGLE_FAMILY,107800.0,https://www.zillow.com/homedetails/2425-S-Arcola-St-Philadelphia-PA-19153/10407736_zpid/
+Pre-foreclosure / Auction,7122 Guyer Ave,Philadelphia,PA,19153,,3,1.0,960.0,1306.0,1966,SINGLE_FAMILY,95300.0,https://www.zillow.com/homedetails/7122-Guyer-Ave-Philadelphia-PA-19153/10408736_zpid/
+Pre-foreclosure / Auction,7929 Buist Ave,Philadelphia,PA,19153,,3,1.0,1360.0,1791.0,1965,SINGLE_FAMILY,124900.0,https://www.zillow.com/homedetails/7929-Buist-Ave-Philadelphia-PA-19153/10409240_zpid/
+Pre-foreclosure / Auction,2631 S Lloyd St,Philadelphia,PA,19153,,3,2.0,1024.0,1119.0,1925,TOWNHOUSE,73000.0,https://www.zillow.com/homedetails/2631-S-Lloyd-St-Philadelphia-PA-19153/10407249_zpid/
+Pre-foreclosure / Auction,7331 Theodore St,Philadelphia,PA,19153,,3,1.0,1120.0,1306.0,1925,TOWNHOUSE,83700.0,https://www.zillow.com/homedetails/7331-Theodore-St-Philadelphia-PA-19153/10408284_zpid/
+Foreclosed,7713 Delphi Pl,Philadelphia,PA,19153,,3,1.0,1360.0,2944.0,1965,TOWNHOUSE,131500.0,https://www.zillow.com/homedetails/7713-Delphi-Pl-Philadelphia-PA-19153/10409802_zpid/
+Pre-foreclosure / Auction,2615 S 73rd St,Philadelphia,PA,19153,,3,1.0,1008.0,1120.0,1920,SINGLE_FAMILY,73100.0,https://www.zillow.com/homedetails/2615-S-73rd-St-Philadelphia-PA-19153/10407328_zpid/
+Pre-foreclosure / Auction,8049 Chelwynde Ave,Philadelphia,PA,19153,,3,1.0,1260.0,1797.0,1965,SINGLE_FAMILY,124400.0,https://www.zillow.com/homedetails/8049-Chelwynde-Ave-Philadelphia-PA-19153/10409545_zpid/
+Pre-foreclosure / Auction,7395 Elmwood Ave,Philadelphia,PA,19153,,3,1.0,2446.0,1536.0,1925,SINGLE_FAMILY,113100.0,https://www.zillow.com/homedetails/7395-Elmwood-Ave-Philadelphia-PA-19153/10408016_zpid/
+Pre-foreclosure / Auction,7337 Chelwynde Ave,Philadelphia,PA,19153,,3,1.0,1120.0,1306.0,1937,TOWNHOUSE,86800.0,https://www.zillow.com/homedetails/7337-Chelwynde-Ave-Philadelphia-PA-19153/10408522_zpid/
+Pre-foreclosure / Auction,2562 S Ashford St,Philadelphia,PA,19153,,3,1.0,1584.0,1655.0,1925,TOWNHOUSE,91100.0,https://www.zillow.com/homedetails/2562-S-Ashford-St-Philadelphia-PA-19153/10407568_zpid/

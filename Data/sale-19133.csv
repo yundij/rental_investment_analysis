@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,2908 N Howard St,Philadelphia,PA,19133,"$40,000",3,1.0,800.0,958.0,1935,TOWNHOUSE,31800.0,https://www.zillow.com/homedetails/2908-N-Howard-St-Philadelphia-PA-19133/10202741_zpid/
+Foreclosure,3123 N Camac St,Philadelphia,PA,19133,"$37,900",3,1.0,1396.0,1049.0,1935,TOWNHOUSE,58900.0,https://www.zillow.com/homedetails/3123-N-Camac-St-Philadelphia-PA-19133/10431509_zpid/
+For sale by owner,2518 N Jessup St,Philadelphia,PA,19133,"$40,000",3,1.0,1584.0,655.0,1925,TOWNHOUSE,52100.0,https://www.zillow.com/homedetails/2518-N-Jessup-St-Philadelphia-PA-19133/10374246_zpid/
+Apartment for sale,541 W Lehigh Ave,Philadelphia,PA,19133,"$85,000",0,,2420.0,1080.0,1915,MULTI_FAMILY,74700.0,https://www.zillow.com/homedetails/541-W-Lehigh-Ave-Philadelphia-PA-19133/10263818_zpid/
+Townhouse for sale,2606 N Darien St,Philadelphia,PA,19133,"$39,000",3,1.0,630.0,470.0,1920,TOWNHOUSE,27900.0,https://www.zillow.com/homedetails/2606-N-Darien-St-Philadelphia-PA-19133/10373886_zpid/
+For sale by owner,2335 N 5th St,Philadelphia,PA,19133,"$119,000",4,2.0,1188.0,666.0,1915,TOWNHOUSE,67900.0,https://www.zillow.com/homedetails/2335-N-5th-St-Philadelphia-PA-19133/10261911_zpid/
+Townhouse for sale,2743 N Reese St,Philadelphia,PA,19133,"$99,500",3,2.0,1200.0,967.0,1920,TOWNHOUSE,41400.0,https://www.zillow.com/homedetails/2743-N-Reese-St-Philadelphia-PA-19133/10263339_zpid/
+Townhouse for sale,2616 N Jessup St,Philadelphia,PA,19133,"$50,000",5,1.0,1740.0,897.0,1915,TOWNHOUSE,63700.0,https://www.zillow.com/homedetails/2616-N-Jessup-St-Philadelphia-PA-19133/10374271_zpid/
+Townhouse for sale,3012 N Marshall St,Philadelphia,PA,19133,"$29,900",3,1.0,1350.0,1337.0,1925,TOWNHOUSE,51200.0,https://www.zillow.com/homedetails/3012-N-Marshall-St-Philadelphia-PA-19133/10375561_zpid/
+House for sale,2928 N Hope St # R,Philadelphia,PA,19133,"$19,900",0,,392.0,392.0,1935,SINGLE_FAMILY,15300.0,https://www.zillow.com/homedetails/2928-N-Hope-St-R-Philadelphia-PA-19133/126308895_zpid/
+House for sale,151 W Huntingdon St,Philadelphia,PA,19133,"$110,000",4,2.0,1610.0,927.0,1920,SINGLE_FAMILY,55400.0,https://www.zillow.com/homedetails/151-W-Huntingdon-St-Philadelphia-PA-19133/10263790_zpid/
+Lot / Land for sale,1040 W Monmouth St,Philadelphia,PA,19133,"$50,000",3,,896.0,614.0,1920,LOT,11500.0,https://www.zillow.com/homedetails/1040-W-Monmouth-St-Philadelphia-PA-19133/10377624_zpid/
+Apartment for sale,1215 W Cambria St,Philadelphia,PA,19133,"$89,900",0,,1979.0,1289.0,1925,MULTI_FAMILY,32200.0,https://www.zillow.com/homedetails/1215-W-Cambria-St-Philadelphia-PA-19133/10377598_zpid/
+Apartment for sale,1017 W Huntingdon St,Philadelphia,PA,19133,"$389,500",0,,2192.0,871.0,1915,MULTI_FAMILY,90300.0,https://www.zillow.com/homedetails/1017-W-Huntingdon-St-Philadelphia-PA-19133/10375251_zpid/
+Apartment for sale,201 W Wishart St,Philadelphia,PA,19133,"$99,990",3,1.0,1092.0,670.0,1920,MULTI_FAMILY,44900.0,https://www.zillow.com/homedetails/201-W-Wishart-St-Philadelphia-PA-19133/10265145_zpid/
+House for sale,2250 N 12th St,Philadelphia,PA,19133,"$449,000",9,5.0,1701.0,1424.0,1920,SINGLE_FAMILY,96900.0,https://www.zillow.com/homedetails/2250-N-12th-St-Philadelphia-PA-19133/10374425_zpid/
+House for sale,2819 N Mascher St,Philadelphia,PA,19133,"$399,999",2,2.0,3330.0,3327.0,1917,SINGLE_FAMILY,,https://www.zillow.com/homedetails/2819-N-Mascher-St-Philadelphia-PA-19133/2082137545_zpid/
+Townhouse for sale,2545 N Marshall St,Philadelphia,PA,19133,"$53,900",3,1.0,1268.0,1136.0,1920,TOWNHOUSE,40900.0,https://www.zillow.com/homedetails/2545-N-Marshall-St-Philadelphia-PA-19133/10373631_zpid/
+For sale by owner,156 W Wishart St,Philadelphia,PA,19133,"$59,000",3,1.0,1044.0,660.0,1935,TOWNHOUSE,21200.0,https://www.zillow.com/homedetails/156-W-Wishart-St-Philadelphia-PA-19133/10202371_zpid/
+Townhouse for sale,2342 N Camac St,Philadelphia,PA,19133,"$249,000",6,3.0,1074.0,670.0,1925,TOWNHOUSE,50400.0,https://www.zillow.com/homedetails/2342-N-Camac-St-Philadelphia-PA-19133/10374566_zpid/
+Lot / Land for sale,405 W Clearfield St,Philadelphia,PA,19133,"$10,000",0,,,696.0,-1,LOT,8100.0,https://www.zillow.com/homedetails/405-W-Clearfield-St-Philadelphia-PA-19133/118350601_zpid/
+Townhouse for sale,2527 N Front St,Philadelphia,PA,19133,"$158,000",4,1.0,1800.0,1306.0,1951,TOWNHOUSE,116500.0,https://www.zillow.com/homedetails/2527-N-Front-St-Philadelphia-PA-19133/10322225_zpid/
+Townhouse for sale,2852 N Leithgow St,Philadelphia,PA,19133,"$50,000",2,1.0,700.0,539.0,1920,TOWNHOUSE,26900.0,https://www.zillow.com/homedetails/2852-N-Leithgow-St-Philadelphia-PA-19133/10262965_zpid/
+Townhouse for sale,2325 N Camac St,Philadelphia,PA,19133,"$199,000",3,2.0,1084.0,670.0,1925,TOWNHOUSE,70800.0,https://www.zillow.com/homedetails/2325-N-Camac-St-Philadelphia-PA-19133/10374526_zpid/
+Townhouse for sale,2509 N Marshall St,Philadelphia,PA,19133,"$120,000",3,1.0,1092.0,1136.0,1925,TOWNHOUSE,38800.0,https://www.zillow.com/homedetails/2509-N-Marshall-St-Philadelphia-PA-19133/10595475_zpid/
+Townhouse for sale,2960 N Hancock St,Philadelphia,PA,19133,"$99,999",2,1.0,975.0,696.0,1935,TOWNHOUSE,34900.0,https://www.zillow.com/homedetails/2960-N-Hancock-St-Philadelphia-PA-19133/10203268_zpid/
+Townhouse for sale,2963 N Lawrence St,Philadelphia,PA,19133,"$110,000",3,3.0,1410.0,714.0,1920,TOWNHOUSE,42800.0,https://www.zillow.com/homedetails/2963-N-Lawrence-St-Philadelphia-PA-19133/10263046_zpid/
+Lot / Land for sale,403 W Clearfield St,Philadelphia,PA,19133,"$10,000",0,,,696.0,-1,LOT,8100.0,https://www.zillow.com/homedetails/403-W-Clearfield-St-Philadelphia-PA-19133/118337601_zpid/
+New construction,2208 N 7th St,Philadelphia,PA,19133,"$549,900",0,,3000.0,1028.0,2019,MULTI_FAMILY,14900.0,https://www.zillow.com/homedetails/2208-N-7th-St-Philadelphia-PA-19133/118351477_zpid/
+Lot / Land for sale,407 W Clearfield St,Philadelphia,PA,19133,"$19,000",,,,696.0,-1,LOT,2500.0,https://www.zillow.com/homedetails/407-W-Clearfield-St-Philadelphia-PA-19133/118362805_zpid/
+Townhouse for sale,2242 N 12th St,Philadelphia,PA,19133,"$189,999",4,3.0,1484.0,1149.0,1920,TOWNHOUSE,74200.0,https://www.zillow.com/homedetails/2242-N-12th-St-Philadelphia-PA-19133/10374421_zpid/
+Townhouse for sale,2611 N 12th St,Philadelphia,PA,19133,"$29,900",2,1.0,1000.0,784.0,1925,TOWNHOUSE,11300.0,https://www.zillow.com/homedetails/2611-N-12th-St-Philadelphia-PA-19133/10374391_zpid/
+For sale by owner,2310 N Reese St,Philadelphia,PA,19133,"$169,000",3,1.0,1224.0,840.0,1875,TOWNHOUSE,30000.0,https://www.zillow.com/homedetails/2310-N-Reese-St-Philadelphia-PA-19133/10262013_zpid/
+Townhouse for sale,1128 W Glenwood Ave,Philadelphia,PA,19133,"$129,000",3,2.0,1304.0,901.0,1925,TOWNHOUSE,64500.0,https://www.zillow.com/homedetails/1128-W-Glenwood-Ave-Philadelphia-PA-19133/10378043_zpid/
+Townhouse for sale,2838 N 12th St,Philadelphia,PA,19133,"$45,000",3,1.0,1050.0,1049.0,1925,TOWNHOUSE,44300.0,https://www.zillow.com/homedetails/2838-N-12th-St-Philadelphia-PA-19133/10376809_zpid/
+Apartment for sale,1123 W Nevada St,Philadelphia,PA,19133,"$159,000",0,,1174.0,993.0,1925,MULTI_FAMILY,19200.0,https://www.zillow.com/homedetails/1123-W-Nevada-St-Philadelphia-PA-19133/10374812_zpid/
+Apartment for sale,2409 N 5th St,Philadelphia,PA,19133,"$229,900",0,,1500.0,805.0,1915,MULTI_FAMILY,71200.0,https://www.zillow.com/homedetails/2409-N-5th-St-Philadelphia-PA-19133/10261921_zpid/
+Townhouse for sale,3145 N 8th St,Philadelphia,PA,19133,"$65,000",3,1.0,1254.0,1019.0,1925,TOWNHOUSE,48700.0,https://www.zillow.com/homedetails/3145-N-8th-St-Philadelphia-PA-19133/10376009_zpid/
+Apartment for sale,2756 N 12th St,Philadelphia,PA,19133,"$230,000",0,,2720.0,1359.0,1990,MULTI_FAMILY,144000.0,https://www.zillow.com/homedetails/2756-N-12th-St-Philadelphia-PA-19133/10376803_zpid/
+Townhouse for sale,1219 W William St,Philadelphia,PA,19133,"$40,000",3,1.0,904.0,923.0,1920,TOWNHOUSE,16800.0,https://www.zillow.com/homedetails/1219-W-William-St-Philadelphia-PA-19133/10377457_zpid/

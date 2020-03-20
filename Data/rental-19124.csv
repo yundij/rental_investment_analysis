@@ -1,0 +1,37 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Townhouse for rent,4020 Claridge St,Philadelphia,PA,19124,"$1,050/mo",3,1.0,960.0,1925,1119.0,TOWNHOUSE
+Apartment for rent,4283 Frankford Ave APT 2,Philadelphia,PA,19124,$750/mo,1,1.0,800.0,-1,-1.0,APARTMENT
+House for rent,4701 Hawthorne St,Philadelphia,PA,19124,"$1,395/mo",4,1.0,1500.0,1925,1306.0,SINGLE_FAMILY
+Townhouse for rent,3932 Howland St,Philadelphia,PA,19124,"$1,100/mo",2,1.0,1120.0,1925,1119.0,TOWNHOUSE
+Townhouse for rent,1638 Allengrove St,Philadelphia,PA,19124,"$1,250/mo",3,1.0,1423.0,1925,1515.0,TOWNHOUSE
+Apartment for rent,1258 Pratt St FLOOR 2,Philadelphia,PA,19124,$810/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,1829 Kinsey St,Philadelphia,PA,19124,$825/mo,1,1.0,850.0,1925,3879.0,APARTMENT
+Townhouse for rent,1351 E Lycoming St,Philadelphia,PA,19124,$745/mo,1,1.0,1280.0,1920,1184.0,TOWNHOUSE
+House for rent,4332 Potter St,Philadelphia,PA,19124,"$1,300/mo",3,1.5,1152.0,1955,1742.0,SINGLE_FAMILY
+Townhouse for rent,1718 Brill St,Philadelphia,PA,19124,"$1,200/mo",3,1.0,960.0,1940,1123.0,TOWNHOUSE
+Townhouse for rent,5329 Howland St,Philadelphia,PA,19124,"$1,100/mo",3,1.5,1230.0,1935,1350.0,TOWNHOUSE
+House for rent,4248 Penn St,Philadelphia,PA,19124,"$1,195/mo",3,1.0,1060.0,1940,1340.0,SINGLE_FAMILY
+Apartment for rent,2112 Orthodox St,Philadelphia,PA,19124,$950/mo,2,1.0,450.0,1940,-1.0,APARTMENT
+Apartment for rent,1726 Meadow St FLOOR 3,Philadelphia,PA,19124,$650/mo,0,1.0,,-1,-1.0,APARTMENT
+House for rent,5014 Duffield St,Philadelphia,PA,19124,"$1,250/mo",3,1.5,1802.0,1925,2323.0,SINGLE_FAMILY
+Condo for rent,1643 Haworth St,Philadelphia,PA,19124,$775/mo,1,1.0,2000.0,1945,2328.0,CONDO
+House for rent,3922 Arcadia St,Philadelphia,PA,19124,$995/mo,2,1.0,968.0,1910,1970.0,SINGLE_FAMILY
+Condo for rent,4433 Frankford Ave UNIT 2,Philadelphia,PA,19124,$650/mo,1,1.0,790.0,1935,-1.0,CONDO
+House for rent,920 Anchor St,Philadelphia,PA,19124,"$1,395/mo",4,1.0,1116.0,1946,938.0,SINGLE_FAMILY
+Apartment for rent,4455 Frankford Ave # 3,Philadelphia,PA,19124,$800/mo,2,1.0,400.0,1950,-1.0,MULTI_FAMILY
+Apartment for rent,922 Anchor St,Philadelphia,PA,19124,$950/mo,0,1.0,540.0,1945,938.0,APARTMENT
+House for rent,4021 Claridge St,Philadelphia,PA,19124,"$1,200/mo",3,1.0,1140.0,1925,975.0,SINGLE_FAMILY
+Condo for rent,5156 Pennway St # 2,Philadelphia,PA,19124,$825/mo,1,1.0,1327.0,1940,1742.0,CONDO
+Townhouse for rent,1372 Anchor St,Philadelphia,PA,19124,"$1,300/mo",4,2.5,1132.0,1945,1260.0,TOWNHOUSE
+House for rent,2133 Shallcross St,Philadelphia,PA,19124,"$1,221/mo",3,1.0,984.0,1920,931.0,SINGLE_FAMILY
+House for rent,2123 Shallcross St,Philadelphia,PA,19124,"$1,000/mo",2,1.0,846.0,1920,871.0,SINGLE_FAMILY
+Apartment for rent,1236 E Sanger St # 1,Philadelphia,PA,19124,$850/mo,1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,4813 Leiper St,Philadelphia,PA,19124,$700/mo,1,1.0,2016.0,1935,1108.0,MULTI_FAMILY
+Apartment for rent,4433 Penn St # 2,Philadelphia,PA,19124,$825/mo,2,1.0,2580.0,1943,1742.0,APARTMENT
+Apartment for rent,1013 E Lycoming St # 1,Philadelphia,PA,19124,$725/mo,1,1.0,1248.0,1925,-1.0,MULTI_FAMILY
+Townhouse for rent,2112 Shallcross St,Philadelphia,PA,19124,"$1,100/mo",3,1.0,1000.0,1920,871.0,TOWNHOUSE
+Apartment for rent,4122 Glendale St # 2,Philadelphia,PA,19124,$700/mo,1,1.0,,-1,-1.0,MULTI_FAMILY
+House for rent,1709 E Hunting Park Ave,Philadelphia,PA,19124,"$1,450/mo",3,1.0,1241.0,1925,1275.0,SINGLE_FAMILY
+House for rent,2118 Simon St,Philadelphia,PA,19124,$900/mo,2,1.0,816.0,1930,990.0,SINGLE_FAMILY
+Condo for rent,1655 Harrison St # B5,Philadelphia,PA,19124,$625/mo,0,1.0,10725.0,1925,-1.0,CONDO
+Apartment for rent,1336 Arrott St APT A5A,Philadelphia,PA,19124,$795/mo,1,1.0,573.0,-1,-1.0,MULTI_FAMILY

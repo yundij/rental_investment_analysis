@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+House for sale,3199 Jackson St,San Francisco,CA,94115,"$32,000,000",9,15.0,24000.0,7148.0,1905,SINGLE_FAMILY,,https://www.zillow.com/homedetails/3199-Jackson-St-San-Francisco-CA-94115/2081023776_zpid/
+Condo for sale,35 Dolores St APT 103,San Francisco,CA,94103,"$312,324",2,2.0,,-1.0,2015,CONDO,,https://www.zillow.com/homedetails/35-Dolores-St-APT-103-San-Francisco-CA-94103/2080983565_zpid/
+House for sale,950 Lombard St,San Francisco,CA,94133,"$40,500,000",6,8.0,9495.0,15709.0,-1,SINGLE_FAMILY,4967576.0,https://www.zillow.com/homedetails/950-Lombard-St-San-Francisco-CA-94133/303807055_zpid/
+New construction,2799 Broadway St,San Francisco,CA,94115,"$39,000,000",6,9.0,11600.0,6969.0,-1,SINGLE_FAMILY,,https://www.zillow.com/homedetails/2799-Broadway-St-San-Francisco-CA-94115/2082359386_zpid/
+House for sale,2127 35th Ave,San Francisco,CA,94116,"$795,000",3,2.0,1670.0,2996.0,1940,SINGLE_FAMILY,80249.0,https://www.zillow.com/homedetails/2127-35th-Ave-San-Francisco-CA-94116/15117254_zpid/
+House for sale,3520 Hillcrest Rd,El Sobrante,CA,94803,"$399,000",2,1.0,1058.0,11761.0,1958,SINGLE_FAMILY,199312.0,https://www.zillow.com/homedetails/3520-Hillcrest-Rd-El-Sobrante-CA-94803/18515379_zpid/
+House for sale,3100 Old Sonoma Rd,Napa,CA,94558,"$9,495,000",6,6.0,6248.0,1518065.0,1982,SINGLE_FAMILY,4347865.0,https://www.zillow.com/homedetails/3100-Old-Sonoma-Rd-Napa-CA-94558/19413443_zpid/
+Lot / Land for sale,250 Robinridge Ln,Los Gatos,CA,95033,"$495,000",,,,469010.0,-1,LOT,,https://www.zillow.com/homedetails/250-Robinridge-Ln-Los-Gatos-CA-95033/2099983512_zpid/
+House for sale,24615 Skyland Rd,Los Gatos,CA,95033,"$895,000",2,2.0,1040.0,277999.0,1884,SINGLE_FAMILY,136592.0,https://www.zillow.com/homedetails/24615-Skyland-Rd-Los-Gatos-CA-95033/16161861_zpid/
+House for sale,1717 Wayne Ct,Fairfield,CA,94534,"$479,888",5,3.0,2392.0,9147.0,1977,SINGLE_FAMILY,157873.0,https://www.zillow.com/homedetails/1717-Wayne-Ct-Fairfield-CA-94534/15723300_zpid/
+House for sale,517 Nevin Ave,Richmond,CA,94801,"$280,000",3,2.0,2015.0,4181.0,1913,SINGLE_FAMILY,274732.0,https://www.zillow.com/homedetails/517-Nevin-Ave-Richmond-CA-94801/18545092_zpid/
+For sale by owner,225 Locust St # C,Sausalito,CA,94965,"$64,900",1,1.0,300.0,-1.0,1974,MANUFACTURED,,https://www.zillow.com/homedetails/225-Locust-St-C-Sausalito-CA-94965/2083771192_zpid/
+House for sale,1463 Thomas Ave,San Francisco,CA,94124,"$659,000",7,3.0,2274.0,2495.0,1900,SINGLE_FAMILY,603430.0,https://www.zillow.com/homedetails/1463-Thomas-Ave-San-Francisco-CA-94124/15154182_zpid/
+House for sale,16815 San Dimas Ln,Morgan Hill,CA,95037,"$524,000",3,3.0,1795.0,3920.0,2014,SINGLE_FAMILY,376290.0,https://www.zillow.com/homedetails/16815-San-Dimas-Ln-Morgan-Hill-CA-95037/122248097_zpid/
+House for sale,665 Goodhill Rd,Kentfield,CA,94904,"$8,995,000",6,9.0,6320.0,50094.0,1962,SINGLE_FAMILY,4983227.0,https://www.zillow.com/homedetails/665-Goodhill-Rd-Kentfield-CA-94904/19274055_zpid/
+House for sale,20750 Lost Ranch Rd,San Jose,CA,95120,"$4,290,000",5,7.0,7004.0,95317.0,2005,SINGLE_FAMILY,3240432.0,https://www.zillow.com/homedetails/20750-Lost-Ranch-Rd-San-Jose-CA-95120/54772851_zpid/
+House for sale,3208 17 Mile Dr,Pebble Beach,CA,93953,"$30,000,000",4,5.0,7403.0,112820.0,1998,SINGLE_FAMILY,,https://www.zillow.com/homedetails/3208-17-Mile-Dr-Pebble-Beach-CA-93953/2090159512_zpid/
+House for sale,955 Snow Lily Ave,Galt,CA,95632,"$377,000",3,2.0,1351.0,6520.0,1999,SINGLE_FAMILY,218210.0,https://www.zillow.com/homedetails/955-Snow-Lily-Ave-Galt-CA-95632/25955405_zpid/
+House for sale,299 Highway Ave,Bay Point,CA,94565,"$390,000",3,2.0,1160.0,6899.0,1947,SINGLE_FAMILY,402900.0,https://www.zillow.com/homedetails/299-Highway-Ave-Bay-Point-CA-94565/18333596_zpid/
+House for sale,148 Mountain View Ave,Vallejo,CA,94590,"$539,000",3,1.0,1541.0,6098.0,1938,SINGLE_FAMILY,377000.0,https://www.zillow.com/homedetails/148-Mountain-View-Ave-Vallejo-CA-94590/15656489_zpid/
+House for sale,22950 Summit Rd,Los Gatos,CA,95033,"$1,799,000",3,3.0,2666.0,181950.0,1948,SINGLE_FAMILY,834819.0,https://www.zillow.com/homedetails/22950-Summit-Rd-Los-Gatos-CA-95033/16161459_zpid/
+Condo for sale,1335 Filbert St APT 101,San Francisco,CA,94109,"$187,620",1,1.0,914.0,871.0,1924,CONDO,117567.0,https://www.zillow.com/homedetails/1335-Filbert-St-APT-101-San-Francisco-CA-94109/15071601_zpid/
+House for sale,333 Janie Ct,Stockton,CA,95210,"$275,000",3,2.0,1153.0,9483.0,1976,SINGLE_FAMILY,218500.0,https://www.zillow.com/homedetails/333-Janie-Ct-Stockton-CA-95210/15284340_zpid/
+House for sale,1505 Mira Vista Ct,Antioch,CA,94509,"$480,000",3,3.0,1682.0,5902.0,1991,SINGLE_FAMILY,426564.0,https://www.zillow.com/homedetails/1505-Mira-Vista-Ct-Antioch-CA-94509/18321566_zpid/
+House for sale,8 Liberty Dock,Sausalito,CA,94965,"$783,000",2,1.0,1200.0,435.0,1965,SINGLE_FAMILY,,https://www.zillow.com/homedetails/8-Liberty-Dock-Sausalito-CA-94965/2096825518_zpid/
+House for sale,27 Jonathan Way,Scotts Valley,CA,95066,"$1,349,000",4,3.0,2561.0,43603.0,1963,SINGLE_FAMILY,125650.0,https://www.zillow.com/homedetails/27-Jonathan-Way-Scotts-Valley-CA-95066/16147678_zpid/
+House for sale,4679 E Harvest Rd,Acampo,CA,95220,"$290,000",4,1.0,1304.0,24829.0,1910,SINGLE_FAMILY,146374.0,https://www.zillow.com/homedetails/4679-E-Harvest-Rd-Acampo-CA-95220/15257307_zpid/
+House for sale,430 Iron Club Dr,Brentwood,CA,94513,"$699,000",5,3.0,3235.0,8319.0,2001,SINGLE_FAMILY,744000.0,https://www.zillow.com/homedetails/430-Iron-Club-Dr-Brentwood-CA-94513/54625413_zpid/
+House for sale,2160 Mastlands Dr,Oakland,CA,94611,"$1,800,000",4,3.0,2581.0,16274.0,1961,SINGLE_FAMILY,151634.0,https://www.zillow.com/homedetails/2160-Mastlands-Dr-Oakland-CA-94611/54788841_zpid/
+House for sale,3631 Lyon Ave,Oakland,CA,94601,"$698,888",3,2.0,1641.0,5500.0,1918,SINGLE_FAMILY,501000.0,https://www.zillow.com/homedetails/3631-Lyon-Ave-Oakland-CA-94601/24778994_zpid/
+House for sale,7626 Holly St,Oakland,CA,94621,"$449,000",3,1.5,1212.0,3327.0,1928,SINGLE_FAMILY,42880.0,https://www.zillow.com/homedetails/7626-Holly-St-Oakland-CA-94621/24791484_zpid/
+Home for sale,111 Barnard Ave SPC 19,San Jose,CA,95112,"$175,000",3,2.0,940.0,-1.0,2020,MANUFACTURED,,https://www.zillow.com/homedetails/111-Barnard-Ave-SPC-19-San-Jose-CA-95112/2081593916_zpid/
+House for sale,6600 Brookdale Dr,Carmel,CA,93923,"$995,000",4,3.0,2118.0,43560.0,1960,SINGLE_FAMILY,173818.0,https://www.zillow.com/homedetails/6600-Brookdale-Dr-Carmel-CA-93923/19344326_zpid/
+House for sale,21167 Old Ranch Ct,Salinas,CA,93908,"$695,000",3,3.0,1764.0,5061.0,1990,SINGLE_FAMILY,638573.0,https://www.zillow.com/homedetails/21167-Old-Ranch-Ct-Salinas-CA-93908/19366748_zpid/
+House for sale,786 Valley Green Dr,Brentwood,CA,94513,"$519,000",4,3.0,1655.0,7000.0,1985,SINGLE_FAMILY,255594.0,https://www.zillow.com/homedetails/786-Valley-Green-Dr-Brentwood-CA-94513/18282287_zpid/
+Coming soon,Lassen Ct,Antioch,CA,94509,"$430,000",3,2.0,1510.0,6969.0,1974,SINGLE_FAMILY,209737.0,https://www.zillow.com/homedetails/1805-Lassen-Ct-Antioch-CA-94509/18295770_zpid/
+House for sale,3788 Vista Dr,Soquel,CA,95073,"$800,000",4,2.0,1841.0,6011.0,1969,SINGLE_FAMILY,120626.0,https://www.zillow.com/homedetails/3788-Vista-Dr-Soquel-CA-95073/16163179_zpid/
+House for sale,713 Goldcoast Dr,Fairfield,CA,94533,"$399,000",3,2.0,1253.0,6969.0,1982,SINGLE_FAMILY,239176.0,https://www.zillow.com/homedetails/713-Goldcoast-Dr-Fairfield-CA-94533/15731156_zpid/
+House for sale,11191 Brittany Ln,Dublin,CA,94568,"$1,788,000",4,5.0,3644.0,19270.0,2004,SINGLE_FAMILY,1400000.0,https://www.zillow.com/homedetails/11191-Brittany-Ln-Dublin-CA-94568/68020940_zpid/
+House for sale,18455 Circle Dr,Los Gatos,CA,95033,"$715,000",2,2.0,1200.0,11151.0,1952,SINGLE_FAMILY,317936.0,https://www.zillow.com/homedetails/18455-Circle-Dr-Los-Gatos-CA-95033/16160657_zpid/

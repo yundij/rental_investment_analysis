@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Apartment for sale,6732 N Sydenham St,Philadelphia,PA,19126,"$179,900",4,2.0,1650.0,1489.0,1920,MULTI_FAMILY,142300.0,https://www.zillow.com/homedetails/6732-N-Sydenham-St-Philadelphia-PA-19126/10215815_zpid/
+House for sale,1006 W Chelten Ave,Philadelphia,PA,19126,"$264,900",3,2.0,1936.0,6416.0,1940,SINGLE_FAMILY,212500.0,https://www.zillow.com/homedetails/1006-W-Chelten-Ave-Philadelphia-PA-19126/80948815_zpid/
+For sale by owner,511 Cheltenham Ave,Cheltenham,PA,19126,"$99,000",5,2.0,1.0,4.0,-1,SINGLE_FAMILY,,https://www.zillow.com/homedetails/511-Cheltenham-Ave-Cheltenham-PA-19126/2080549046_zpid/
+Townhouse for sale,7263 Pittville Ave,Philadelphia,PA,19126,"$259,000",3,3.0,1216.0,1359.0,1925,TOWNHOUSE,123800.0,https://www.zillow.com/homedetails/7263-Pittville-Ave-Philadelphia-PA-19126/10216093_zpid/
+House for sale,6607 N 18th St,Philadelphia,PA,19126,"$179,999",3,2.0,1338.0,1428.0,1925,SINGLE_FAMILY,153000.0,https://www.zillow.com/homedetails/6607-N-18th-St-Philadelphia-PA-19126/10216306_zpid/
+Foreclosure,6558 N Bouvier St,Philadelphia,PA,19126,"$120,000",3,1.0,1250.0,1298.0,1925,TOWNHOUSE,121600.0,https://www.zillow.com/homedetails/6558-N-Bouvier-St-Philadelphia-PA-19126/10253815_zpid/
+Townhouse for sale,1802 Penfield St,Philadelphia,PA,19126,"$105,000",3,2.0,1170.0,871.0,1925,TOWNHOUSE,118200.0,https://www.zillow.com/homedetails/1802-Penfield-St-Philadelphia-PA-19126/10218819_zpid/
+Townhouse for sale,6514 N 18th St,Philadelphia,PA,19126,"$249,900",5,3.0,2500.0,1420.0,1965,TOWNHOUSE,127000.0,https://www.zillow.com/homedetails/6514-N-18th-St-Philadelphia-PA-19126/10254174_zpid/
+House for sale,6503 N 2nd St,Philadelphia,PA,19126,"$275,000",3,3.0,1368.0,2613.0,1965,SINGLE_FAMILY,184100.0,https://www.zillow.com/homedetails/6503-N-2nd-St-Philadelphia-PA-19126/10545085_zpid/
+Townhouse for sale,6631 N Gratz St,Philadelphia,PA,19126,"$239,900",5,2.0,2202.0,1472.0,1955,TOWNHOUSE,132200.0,https://www.zillow.com/homedetails/6631-N-Gratz-St-Philadelphia-PA-19126/10216455_zpid/
+Townhouse for sale,1514 Orland St,Philadelphia,PA,19126,"$109,900",3,2.0,1082.0,958.0,1925,TOWNHOUSE,109300.0,https://www.zillow.com/homedetails/1514-Orland-St-Philadelphia-PA-19126/10217551_zpid/
+Foreclosure,1304 68th Ave,Philadelphia,PA,19126,"$245,000",3,2.0,1260.0,2827.0,1950,SINGLE_FAMILY,192700.0,https://www.zillow.com/homedetails/1304-68th-Ave-Philadelphia-PA-19126/10548224_zpid/
+Foreclosure,7158 N 19th St,Philadelphia,PA,19126,"$112,000",3,1.0,1440.0,1616.0,1925,SINGLE_FAMILY,142300.0,https://www.zillow.com/homedetails/7158-N-19th-St-Philadelphia-PA-19126/10216662_zpid/
+New construction,6316 N 7th St,Philadelphia,PA,19126,"$539,999",4,4.0,2528.0,9191.0,2009,MANUFACTURED,326100.0,https://www.zillow.com/homedetails/6316-N-7th-St-Philadelphia-PA-19126/87766724_zpid/
+Townhouse for sale,1780 Plymouth St,Philadelphia,PA,19126,"$129,900",3,1.0,1170.0,1285.0,1925,TOWNHOUSE,122100.0,https://www.zillow.com/homedetails/1780-Plymouth-St-Philadelphia-PA-19126/10218195_zpid/
+Townhouse for sale,6536 N Gratz St,Philadelphia,PA,19126,"$159,900",3,2.0,1296.0,1603.0,1945,TOWNHOUSE,104500.0,https://www.zillow.com/homedetails/6536-N-Gratz-St-Philadelphia-PA-19126/10254303_zpid/
+Auction,6518 N 18th St,Philadelphia,PA,19126,,3,2.0,1825.0,1440.0,1925,SINGLE_FAMILY,152600.0,https://www.zillow.com/homedetails/6518-N-18th-St-Philadelphia-PA-19126/10254176_zpid/
+Townhouse for sale,1800 Dallas St,Philadelphia,PA,19126,"$157,000",3,1.0,1200.0,3001.0,1950,TOWNHOUSE,139600.0,https://www.zillow.com/homedetails/1800-Dallas-St-Philadelphia-PA-19126/10218005_zpid/
+Auction,7048 N Broad St,Philadelphia,PA,19126,,4,1.0,1900.0,2613.0,1965,CONDO,146800.0,https://www.zillow.com/homedetails/7048-N-Broad-St-Philadelphia-PA-19126/10215673_zpid/
+Townhouse for sale,6601 N Gratz St,Philadelphia,PA,19126,"$229,900",0,,1600.0,1472.0,1920,TOWNHOUSE,74000.0,https://www.zillow.com/homedetails/6601-N-Gratz-St-Philadelphia-PA-19126/10216441_zpid/
+Auction,1806 72nd Ave,Philadelphia,PA,19126,,3,1.0,1344.0,1742.0,1925,SINGLE_FAMILY,141200.0,https://www.zillow.com/homedetails/1806-72nd-Ave-Philadelphia-PA-19126/10218096_zpid/
+Townhouse for sale,6829 N Bouvier St,Philadelphia,PA,19126,"$199,900",3,1.0,2093.0,1372.0,1925,TOWNHOUSE,116600.0,https://www.zillow.com/homedetails/6829-N-Bouvier-St-Philadelphia-PA-19126/10590093_zpid/
+Apartment for sale,6908 N Broad St,Philadelphia,PA,19126,"$329,000",0,,2523.0,3497.0,1925,MULTI_FAMILY,,https://www.zillow.com/homedetails/6908-N-Broad-St-Philadelphia-PA-19126/2144020341_zpid/
+Auction,6649 Ogontz Ave,Philadelphia,PA,19126,,3,1.0,1406.0,1701.0,1925,SINGLE_FAMILY,125100.0,https://www.zillow.com/homedetails/6649-Ogontz-Ave-Philadelphia-PA-19126/10217468_zpid/
+Auction,7335 N 19th St,Philadelphia,PA,19126,,3,1.0,1344.0,1306.0,1925,SINGLE_FAMILY,135500.0,https://www.zillow.com/homedetails/7335-N-19th-St-Philadelphia-PA-19126/10216605_zpid/
+Lot / Land for sale,1310 W Cheltenham Ave,Philadelphia,PA,19126,"$99,900",,,,12584.0,-1,LOT,,https://www.zillow.com/homedetails/1310-W-Cheltenham-Ave-Philadelphia-PA-19126/2082590182_zpid/
+Lot / Land for sale,1308 W Cheltenham Ave,Philadelphia,PA,19126,"$23,900",,,,1920.0,-1,LOT,22300.0,https://www.zillow.com/homedetails/1308-W-Cheltenham-Ave-Philadelphia-PA-19126/126309024_zpid/
+Lot / Land for sale,1310-14 W Cheltenham Ave,Philadelphia,PA,19126,"$99,900",,,,12632.0,-1,LOT,93900.0,https://www.zillow.com/homedetails/1310-14-W-Cheltenham-Ave-Philadelphia-PA-19126/165407912_zpid/
+Lot / Land for sale,1306 W Cheltenham Ave,Philadelphia,PA,19126,"$23,900",,,,1920.0,-1,LOT,19700.0,https://www.zillow.com/homedetails/1306-W-Cheltenham-Ave-Philadelphia-PA-19126/126291504_zpid/
+Pre-foreclosure / Auction,1832 Ashley St,Philadelphia,PA,19126,,3,1.0,1442.0,1239.0,1925,SINGLE_FAMILY,136700.0,https://www.zillow.com/homedetails/1832-Ashley-St-Philadelphia-PA-19126/10218701_zpid/
+Pre-foreclosure / Auction,6523 N Park Ave,Philadelphia,PA,19126,,,,2484.0,3920.0,1935,APARTMENT,133500.0,https://www.zillow.com/homedetails/6523-N-Park-Ave-Philadelphia-PA-19126/165335715_zpid/
+Pre-foreclosure / Auction,6751 N 13th St APT 3C,Philadelphia,PA,19126,,,,608.0,-1.0,1920,CONDO,10500.0,https://www.zillow.com/homedetails/6751-N-13th-St-APT-3C-Philadelphia-PA-19126/53611118_zpid/
+Pre-foreclosure / Auction,6449 N 15th St,Philadelphia,PA,19126,,3,1.0,1832.0,1742.0,1915,TOWNHOUSE,132000.0,https://www.zillow.com/homedetails/6449-N-15th-St-Philadelphia-PA-19126/10252277_zpid/
+Pre-foreclosure / Auction,1803 73rd Ave,Philadelphia,PA,19126,,3,1.0,1296.0,1141.0,1925,SINGLE_FAMILY,122400.0,https://www.zillow.com/homedetails/1803-73rd-Ave-Philadelphia-PA-19126/10218613_zpid/
+Pre-foreclosure / Auction,7104 N 19th St,Philadelphia,PA,19126,,3,1.0,1480.0,1487.0,1925,SINGLE_FAMILY,141300.0,https://www.zillow.com/homedetails/7104-N-19th-St-Philadelphia-PA-19126/10216653_zpid/
+Pre-foreclosure / Auction,6557 N Bouvier St,Philadelphia,PA,19126,,3,1.1,1250.0,1298.0,1925,SINGLE_FAMILY,104900.0,https://www.zillow.com/homedetails/6557-N-Bouvier-St-Philadelphia-PA-19126/10253726_zpid/
+Pre-foreclosure / Auction,6529 N 18th St,Philadelphia,PA,19126,,3,3.0,1312.0,1424.0,1925,TOWNHOUSE,108800.0,https://www.zillow.com/homedetails/6529-N-18th-St-Philadelphia-PA-19126/10254102_zpid/
+Pre-foreclosure / Auction,7171 N 19th St,Philadelphia,PA,19126,,3,1.0,1414.0,1402.0,1925,SINGLE_FAMILY,139700.0,https://www.zillow.com/homedetails/7171-N-19th-St-Philadelphia-PA-19126/10216600_zpid/
+Pre-foreclosure / Auction,6549 N Gratz St,Philadelphia,PA,19126,,3,,1296.0,1440.0,1945,SINGLE_FAMILY,103200.0,https://www.zillow.com/homedetails/6549-N-Gratz-St-Philadelphia-PA-19126/10254249_zpid/
+Pre-foreclosure / Auction,1500 Kinsdale St,Philadelphia,PA,19126,,4,2.5,1488.0,871.0,1920,TOWNHOUSE,164100.0,https://www.zillow.com/homedetails/1500-Kinsdale-St-Philadelphia-PA-19126/10217592_zpid/

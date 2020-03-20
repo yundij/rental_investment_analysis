@@ -1,0 +1,24 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,227 Quarry St FLOOR 1,Philadelphia,PA,19106,"$1,200/mo",0,1.0,900.0,-1,-1.0,APARTMENT
+Apartment for rent,136 Race St # 4,Philadelphia,PA,19106,"$2,200/mo",2,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,126 N 3rd St APT 5,Philadelphia,PA,19106,"$2,950/mo",2,2.0,10285.0,1930,-1.0,APARTMENT
+Apartment for rent,324 Walnut St # 612,Philadelphia,PA,19106,"$1,845/mo",1,1.5,750.0,-1,-1.0,APARTMENT
+Apartment for rent,706 S Washington Sq # 3R,Philadelphia,PA,19106,"$2,495/mo",2,2.0,1200.0,-1,-1.0,APARTMENT
+Apartment for rent,Sansom St,Philadelphia,PA,19106,"$1,000/mo",0,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,300 Market St APT 301,Philadelphia,PA,19106,"$1,350/mo",0,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,70 N 2nd St,Philadelphia,PA,19106,"$1,800/mo",1,1.0,968.0,-1,-1.0,APARTMENT
+Apartment for rent,220 S 3rd St APT 104,Philadelphia,PA,19106,"$1,795/mo",1,1.0,18398.0,1910,-1.0,APARTMENT
+Apartment for rent,305 N 3rd St APT C2,Philadelphia,PA,19106,"$2,500/mo",2,1.0,1000.0,1900,-1.0,APARTMENT
+Apartment for rent,320-100 Walnut St # 402,Philadelphia,PA,19106,"$2,060/mo",1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,313 Spruce St # 3F,Philadelphia,PA,19106,"$2,250/mo",2,2.0,3765.0,1918,-1.0,APARTMENT
+Apartment for rent,303 N 3rd St APT B4,Philadelphia,PA,19106,"$2,500/mo",2,1.0,1193.0,1900,-1.0,APARTMENT
+Apartment for rent,540 Pine St # B,Philadelphia,PA,19106,"$4,300/mo",4,3.0,1440.0,-1,-1.0,APARTMENT
+Apartment for rent,15 S Bank St APT 401,Philadelphia,PA,19106,"$1,400/mo",1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,708 Chestnut St APT 205,Philadelphia,PA,19106,"$1,650/mo",1,1.0,650.0,-1,-1.0,APARTMENT
+Townhouse for rent,323 Race St APT T3,Phila,PA,19106,"$3,395/mo",2,2.0,2000.0,2003,-1.0,TOWNHOUSE
+Apartment for rent,107 Arch St,Philadelphia,PA,19106,"$1,695/mo",1,1.0,947.0,1900,-1.0,APARTMENT
+Condo for rent,604-36 S Washington Sq APT 1406,Philadelphia,PA,19106,"$1,475/mo",0,1.0,600.0,1963,600.0,CONDO
+Apartment for rent,616 Spruce St APT 2F,Philadelphia,PA,19106,"$1,795/mo",2,1.0,1300.0,1899,-1.0,APARTMENT
+Apartment for rent,124-100 N 4th St # 409,Philadelphia,PA,19106,"$1,620/mo",1,1.5,700.0,-1,-1.0,APARTMENT
+Apartment for rent,38 N Front St APT 2B,Philadelphia,PA,19106,"$1,950/mo",1,1.0,780.0,1830,-1.0,APARTMENT
+Apartment for rent,306 New St # 7,Philadelphia,PA,19106,"$1,400/mo",1,1.0,,-1,-1.0,APARTMENT

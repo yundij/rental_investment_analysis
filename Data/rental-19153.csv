@@ -1,0 +1,7 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Townhouse for rent,7432 Medrick Pl,Philadelphia,PA,19153,"$1,450/mo",3,2.0,860.0,1920,1797.0,TOWNHOUSE
+Townhouse for rent,7340 Garman St,Philadelphia,PA,19153,"$1,400/mo",3,1.0,1088.0,1925,1023.0,TOWNHOUSE
+Townhouse for rent,2702 Dothan Plz,Philadelphia,PA,19153,"$1,100/mo",2,1.0,1860.0,1965,1742.0,TOWNHOUSE
+Apartment for rent,7383 Theodore St # 4287474,Philadelphia,PA,19153,$200/mo,0,,,-1,-1.0,APARTMENT
+Apartment for rent,8400 Lindbergh Blvd,Philadelphia,PA,19153,$788+/mo,0,1.0,520.0,-1,-1.0,APARTMENT
+Townhouse for rent,2603 S 73rd St,Philadelphia,PA,19153,"$1,150/mo",3,2.0,1008.0,1920,1058.0,TOWNHOUSE

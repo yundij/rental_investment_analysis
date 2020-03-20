@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Apartment for sale,8811 Roosevelt Blvd,Philadelphia,PA,19152,"$159,900",3,2.0,1107.0,3916.0,1963,MULTI_FAMILY,180200.0,https://www.zillow.com/homedetails/8811-Roosevelt-Blvd-Philadelphia-PA-19152/10521358_zpid/
+House for sale,8815 Danbury St,Philadelphia,PA,19152,"$225,000",2,2.0,1640.0,6534.0,1956,SINGLE_FAMILY,177600.0,https://www.zillow.com/homedetails/8815-Danbury-St-Philadelphia-PA-19152/10522294_zpid/
+Apartment for sale,8528 Tolbut St,Philadelphia,PA,19152,"$270,000",4,3.0,1060.0,4778.0,1958,MULTI_FAMILY,169800.0,https://www.zillow.com/homedetails/8528-Tolbut-St-Philadelphia-PA-19152/10519658_zpid/
+Townhouse for sale,2801 Rhawn St,Philadelphia,PA,19152,"$274,900",3,3.0,1158.0,3101.0,1955,TOWNHOUSE,185700.0,https://www.zillow.com/homedetails/2801-Rhawn-St-Philadelphia-PA-19152/10568558_zpid/
+For sale by owner,2805 Sebring Rd,Philadelphia,PA,19152,"$219,000",3,2.0,1224.0,4101.0,1956,TOWNHOUSE,185400.0,https://www.zillow.com/homedetails/2805-Sebring-Rd-Philadelphia-PA-19152/10520435_zpid/
+Apartment for sale,1830 Arnold St,Philadelphia,PA,19152,"$279,000",3,3.0,1552.0,2635.0,1992,MULTI_FAMILY,194900.0,https://www.zillow.com/homedetails/1830-Arnold-St-Philadelphia-PA-19152/10517953_zpid/
+New construction,8015 Algon Ave,Philadelphia,PA,19152,"$479,000",4,5.0,3800.0,3855.0,2019,MULTI_FAMILY,,https://www.zillow.com/homedetails/8015-Algon-Ave-Philadelphia-PA-19152/2081918385_zpid/
+Apartment for sale,2325 Emerson St,Philadelphia,PA,19152,"$199,900",3,2.0,1025.0,3044.0,1960,MULTI_FAMILY,169900.0,https://www.zillow.com/homedetails/2325-Emerson-St-Philadelphia-PA-19152/10517423_zpid/
+House for sale,2605 Tolbut St,Philadelphia,PA,19152,"$330,000",5,3.0,2016.0,9583.0,1961,SINGLE_FAMILY,224000.0,https://www.zillow.com/homedetails/2605-Tolbut-St-Philadelphia-PA-19152/10520963_zpid/
+House for sale,1933 Stanwood St,Philadelphia,PA,19152,"$379,900",4,3.0,1683.0,5719.0,1953,SINGLE_FAMILY,231600.0,https://www.zillow.com/homedetails/1933-Stanwood-St-Philadelphia-PA-19152/10516994_zpid/
+Apartment for sale,2236 Napfle St,Philadelphia,PA,19152,"$269,900",3,3.0,1276.0,2308.0,2000,MULTI_FAMILY,251200.0,https://www.zillow.com/homedetails/2236-Napfle-St-Philadelphia-PA-19152/58545838_zpid/
+House for sale,2852 Sebring Rd,Philadelphia,PA,19152,"$274,900",3,2.0,1164.0,2670.0,1956,SINGLE_FAMILY,179300.0,https://www.zillow.com/homedetails/2852-Sebring-Rd-Philadelphia-PA-19152/10520432_zpid/
+Apartment for sale,1803 Mower St,Philadelphia,PA,19152,"$249,999",3,2.0,1005.0,3280.0,1956,MULTI_FAMILY,179100.0,https://www.zillow.com/homedetails/1803-Mower-St-Philadelphia-PA-19152/10518476_zpid/
+Apartment for sale,2624 Tremont St,Philadelphia,PA,19152,"$220,000",3,2.0,1066.0,3253.0,1962,MULTI_FAMILY,178600.0,https://www.zillow.com/homedetails/2624-Tremont-St-Philadelphia-PA-19152/10521216_zpid/
+Apartment for sale,8615 Agusta St,Philadelphia,PA,19152,"$220,000",3,2.0,1066.0,3049.0,1960,MULTI_FAMILY,185300.0,https://www.zillow.com/homedetails/8615-Agusta-St-Philadelphia-PA-19152/10519325_zpid/
+House for sale,2319 Stanwood St,Philadelphia,PA,19152,"$369,000",3,2.0,1600.0,6063.0,1960,SINGLE_FAMILY,239300.0,https://www.zillow.com/homedetails/2319-Stanwood-St-Philadelphia-PA-19152/80948078_zpid/
+House for sale,2304 Stanwood St,Philadelphia,PA,19152,"$380,000",3,2.0,1082.0,7013.0,1960,SINGLE_FAMILY,203600.0,https://www.zillow.com/homedetails/2304-Stanwood-St-Philadelphia-PA-19152/80944191_zpid/
+Apartment for sale,2713 Clayton St,Philadelphia,PA,19152,"$268,000",3,3.0,1370.0,2583.0,1956,MULTI_FAMILY,190500.0,https://www.zillow.com/homedetails/2713-Clayton-St-Philadelphia-PA-19152/10520894_zpid/
+For sale by owner,2680 Winchester Ave,Philadelphia,PA,19152,"$375,000",4,3.0,1712.0,6644.0,1960,SINGLE_FAMILY,211600.0,https://www.zillow.com/homedetails/2680-Winchester-Ave-Philadelphia-PA-19152/10520055_zpid/
+Apartment for sale,1819 Stanwood St,Philadelphia,PA,19152,"$240,000",3,1.0,1200.0,2556.0,1951,MULTI_FAMILY,180000.0,https://www.zillow.com/homedetails/1819-Stanwood-St-Philadelphia-PA-19152/10516974_zpid/
+House for sale,1830 Stanwood St,Philadelphia,PA,19152,"$220,000",3,2.0,1600.0,1600.0,1944,SINGLE_FAMILY,160400.0,https://www.zillow.com/homedetails/1830-Stanwood-St-Philadelphia-PA-19152/10517027_zpid/
+Apartment for sale,8828 Dewees St,Philadelphia,PA,19152,"$259,900",3,3.0,1368.0,3397.0,1968,MULTI_FAMILY,191000.0,https://www.zillow.com/homedetails/8828-Dewees-St-Philadelphia-PA-19152/10522209_zpid/
+House for sale,1916 Emerson St,Philadelphia,PA,19152,"$319,000",4,2.0,1836.0,2600.0,1950,SINGLE_FAMILY,209600.0,https://www.zillow.com/homedetails/1916-Emerson-St-Philadelphia-PA-19152/10517299_zpid/
+Apartment for sale,7703 Bradford St,Philadelphia,PA,19152,"$249,900",0,,1128.0,2957.0,1957,MULTI_FAMILY,179900.0,https://www.zillow.com/homedetails/7703-Bradford-St-Philadelphia-PA-19152/10514120_zpid/
+Auction,2305 Rhawn St,Philadelphia,PA,19152,,4,1.0,1600.0,2613.0,1950,SINGLE_FAMILY,181900.0,https://www.zillow.com/homedetails/2305-Rhawn-St-Philadelphia-PA-19152/10516753_zpid/
+House for sale,1512 Solly Ave,Philadelphia,PA,19152,"$299,500",4,3.0,1748.0,2692.0,1987,SINGLE_FAMILY,227600.0,https://www.zillow.com/homedetails/1512-Solly-Ave-Philadelphia-PA-19152/10517182_zpid/
+Apartment for sale,9125 Revere St,Philadelphia,PA,19152,"$274,900",3,3.0,1337.0,2252.0,1956,MULTI_FAMILY,185400.0,https://www.zillow.com/homedetails/9125-Revere-St-Philadelphia-PA-19152/10521900_zpid/
+Apartment for sale,1734 Kendrick St,Philadelphia,PA,19152,"$279,000",3,3.0,1254.0,2164.0,1959,MULTI_FAMILY,179400.0,https://www.zillow.com/homedetails/1734-Kendrick-St-Philadelphia-PA-19152/10518016_zpid/
+Apartment for sale,2849 Shipley Rd,Philadelphia,PA,19152,"$205,000",3,2.0,1224.0,2583.0,1956,MULTI_FAMILY,184900.0,https://www.zillow.com/homedetails/2849-Shipley-Rd-Philadelphia-PA-19152/10520374_zpid/
+Apartment for sale,2029 Shelmire Ave,Philadelphia,PA,19152,"$284,900",3,3.0,1296.0,3009.0,1951,MULTI_FAMILY,179600.0,https://www.zillow.com/homedetails/2029-Shelmire-Ave-Philadelphia-PA-19152/10514908_zpid/
+Apartment for sale,3121 Teesdale St,Philadelphia,PA,19152,"$299,900",3,2.0,1360.0,2452.0,1953,MULTI_FAMILY,226000.0,https://www.zillow.com/homedetails/3121-Teesdale-St-Philadelphia-PA-19152/10568095_zpid/
+Auction,8925 Leonard St,Philadelphia,PA,19152,,3,1.0,1060.0,6098.0,1954,SINGLE_FAMILY,181900.0,https://www.zillow.com/homedetails/8925-Leonard-St-Philadelphia-PA-19152/10521554_zpid/
+Apartment for sale,2664 Welsh Rd,Philadelphia,PA,19152,"$265,000",3,3.0,1368.0,3253.0,1956,MULTI_FAMILY,184800.0,https://www.zillow.com/homedetails/2664-Welsh-Rd-Philadelphia-PA-19152/10520211_zpid/
+Apartment for sale,7916 Calvert St,Philadelphia,PA,19152,"$285,000",3,3.0,1062.0,3040.0,1970,MULTI_FAMILY,196300.0,https://www.zillow.com/homedetails/7916-Calvert-St-Philadelphia-PA-19152/10567069_zpid/
+Auction,2804 Fuller St,Philadelphia,PA,19152,,3,2.0,1250.0,3049.0,1965,SINGLE_FAMILY,193300.0,https://www.zillow.com/homedetails/2804-Fuller-St-Philadelphia-PA-19152/10568595_zpid/
+For sale by owner,2722 Rhawn St,Philadelphia,PA,19152,"$899,000",4,5.0,3776.0,5830.0,1955,MULTI_FAMILY,323400.0,https://www.zillow.com/homedetails/2722-Rhawn-St-Philadelphia-PA-19152/10568544_zpid/
+Apartment for sale,7536 Battersby St,Philadelphia,PA,19152,"$312,000",3,3.0,1536.0,901.0,1952,MULTI_FAMILY,228500.0,https://www.zillow.com/homedetails/7536-Battersby-St-Philadelphia-PA-19152/10567834_zpid/
+Apartment for sale,1719 Kendrick St,Philadelphia,PA,19152,"$299,000",3,3.0,1354.0,2151.0,1959,MULTI_FAMILY,185000.0,https://www.zillow.com/homedetails/1719-Kendrick-St-Philadelphia-PA-19152/10518044_zpid/
+Apartment for sale,8948 Haven Pl,Philadelphia,PA,19152,"$279,000",3,2.0,1332.0,3092.0,1956,MULTI_FAMILY,191000.0,https://www.zillow.com/homedetails/8948-Haven-Pl-Philadelphia-PA-19152/10522186_zpid/
+Apartment for sale,2682 Welsh Rd,Philadelphia,PA,19152,"$499,999",3,2.0,1368.0,4848.0,1964,MULTI_FAMILY,249400.0,https://www.zillow.com/homedetails/2682-Welsh-Rd-Philadelphia-PA-19152/118347783_zpid/

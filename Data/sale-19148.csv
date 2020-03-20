@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,1731 S 12th St,Philadelphia,PA,19148,"$425,000",3,2.0,1344.0,1071.0,1925,TOWNHOUSE,282500.0,https://www.zillow.com/homedetails/1731-S-12th-St-Philadelphia-PA-19148/10397333_zpid/
+House for sale,1615 E Moyamensing Ave,Philadelphia,PA,19148,"$375,000",3,2.0,1390.0,871.0,1926,SINGLE_FAMILY,213500.0,https://www.zillow.com/homedetails/1615-E-Moyamensing-Ave-Philadelphia-PA-19148/10171547_zpid/
+New construction,2005 S 8th St,Philadelphia,PA,19148,"$499,900",4,3.0,2800.0,862.0,2020,SINGLE_FAMILY,27300.0,https://www.zillow.com/homedetails/2005-S-8th-St-Philadelphia-PA-19148/118356052_zpid/
+Townhouse for sale,614 Winton St,Philadelphia,PA,19148,"$229,999",2,2.0,900.0,670.0,1920,TOWNHOUSE,148500.0,https://www.zillow.com/homedetails/614-Winton-St-Philadelphia-PA-19148/10389357_zpid/
+Townhouse for sale,2316 S 10th St,Philadelphia,PA,19148,"$230,000",3,2.0,1500.0,1023.0,1925,TOWNHOUSE,193700.0,https://www.zillow.com/homedetails/2316-S-10th-St-Philadelphia-PA-19148/10392940_zpid/
+Townhouse for sale,1341 Mifflin St,Philadelphia,PA,19148,"$595,000",3,2.0,2096.0,901.0,1960,TOWNHOUSE,369800.0,https://www.zillow.com/homedetails/1341-Mifflin-St-Philadelphia-PA-19148/10397210_zpid/
+Townhouse for sale,1013 Jackson St,Philadelphia,PA,19148,"$420,000",4,4.0,2218.0,967.0,1925,TOWNHOUSE,284500.0,https://www.zillow.com/homedetails/1013-Jackson-St-Philadelphia-PA-19148/10393469_zpid/
+Townhouse for sale,1100 Moore St,Philadelphia,PA,19148,"$619,000",3,2.0,2320.0,1102.0,1985,TOWNHOUSE,354400.0,https://www.zillow.com/homedetails/1100-Moore-St-Philadelphia-PA-19148/10397049_zpid/
+Townhouse for sale,2430 S Sheridan St,Philadelphia,PA,19148,"$189,999",3,2.0,1280.0,683.0,1925,TOWNHOUSE,81300.0,https://www.zillow.com/homedetails/2430-S-Sheridan-St-Philadelphia-PA-19148/10389986_zpid/
+Townhouse for sale,2422 S Camac St,Philadelphia,PA,19148,"$199,900",2,1.0,940.0,679.0,1925,TOWNHOUSE,172600.0,https://www.zillow.com/homedetails/2422-S-Camac-St-Philadelphia-PA-19148/10395851_zpid/
+Townhouse for sale,2423 S Juniper St,Philadelphia,PA,19148,"$174,000",2,1.0,940.0,631.0,1925,TOWNHOUSE,168400.0,https://www.zillow.com/homedetails/2423-S-Juniper-St-Philadelphia-PA-19148/10396390_zpid/
+New construction,1916 S 6th St,Philadelphia,PA,19148,"$489,900",4,3.0,2900.0,871.0,2020,TOWNHOUSE,65300.0,https://www.zillow.com/homedetails/1916-S-6th-St-Philadelphia-PA-19148/118344698_zpid/
+Townhouse for sale,358 Gladstone St,Philadelphia,PA,19148,"$225,000",3,1.0,1016.0,670.0,1920,TOWNHOUSE,129200.0,https://www.zillow.com/homedetails/358-Gladstone-St-Philadelphia-PA-19148/10387787_zpid/
+Townhouse for sale,1925 S Jessup St,Philadelphia,PA,19148,"$350,000",2,2.0,1066.0,688.0,1925,TOWNHOUSE,292000.0,https://www.zillow.com/homedetails/1925-S-Jessup-St-Philadelphia-PA-19148/10394669_zpid/
+Apartment for sale,2328 S 8th St,Philadelphia,PA,19148,"$155,000",2,2.0,1428.0,945.0,1940,MULTI_FAMILY,285000.0,https://www.zillow.com/homedetails/2328-S-8th-St-Philadelphia-PA-19148/165553016_zpid/
+Apartment for sale,506 Emily St,Philadelphia,PA,19148,"$425,000",2,2.0,1232.0,1960.0,1940,MULTI_FAMILY,,https://www.zillow.com/homedetails/506-Emily-St-Philadelphia-PA-19148/2082663941_zpid/
+Townhouse for sale,1608 S Camac St,Philadelphia,PA,19148,"$499,900",2,2.0,1120.0,435.0,1920,TOWNHOUSE,255400.0,https://www.zillow.com/homedetails/1608-S-Camac-St-Philadelphia-PA-19148/122288028_zpid/
+Townhouse for sale,143 Morris St,Philadelphia,PA,19148,"$285,000",3,2.0,1260.0,579.0,1920,TOWNHOUSE,222100.0,https://www.zillow.com/homedetails/143-Morris-St-Philadelphia-PA-19148/10170955_zpid/
+Townhouse for sale,122 Watkins St,Philadelphia,PA,19148,"$315,000",2,2.0,900.0,871.0,1920,TOWNHOUSE,343400.0,https://www.zillow.com/homedetails/122-Watkins-St-Philadelphia-PA-19148/10171046_zpid/
+Townhouse for sale,1105 Mifflin St,Philadelphia,PA,19148,"$239,000",2,1.0,900.0,871.0,1925,TOWNHOUSE,240100.0,https://www.zillow.com/homedetails/1105-Mifflin-St-Philadelphia-PA-19148/10397175_zpid/
+Townhouse for sale,1725 E Moyamensing Ave,Philadelphia,PA,19148,"$264,500",3,1.0,1144.0,1459.0,1900,TOWNHOUSE,196700.0,https://www.zillow.com/homedetails/1725-E-Moyamensing-Ave-Philadelphia-PA-19148/10171557_zpid/
+Townhouse for sale,831 Mcclellan St,Philadelphia,PA,19148,"$235,000",3,2.0,756.0,701.0,1920,TOWNHOUSE,169700.0,https://www.zillow.com/homedetails/831-Mcclellan-St-Philadelphia-PA-19148/10175658_zpid/
+For sale by owner,940 Dudley St,Philadelphia,PA,19148,"$359,900",3,4.0,930.0,766.0,1960,SINGLE_FAMILY,167200.0,https://www.zillow.com/homedetails/940-Dudley-St-Philadelphia-PA-19148/10390986_zpid/
+Townhouse for sale,2737 S Beulah St,Philadelphia,PA,19148,"$299,900",2,2.0,960.0,1058.0,1960,TOWNHOUSE,176400.0,https://www.zillow.com/homedetails/2737-S-Beulah-St-Philadelphia-PA-19148/10398616_zpid/
+Townhouse for sale,327 W Ritner St,Philadelphia,PA,19148,"$279,999",3,2.0,1216.0,958.0,1920,TOWNHOUSE,144000.0,https://www.zillow.com/homedetails/327-W-Ritner-St-Philadelphia-PA-19148/10387647_zpid/
+Townhouse for sale,318 Durfor St,Philadelphia,PA,19148,"$247,000",3,2.0,1440.0,727.0,1937,TOWNHOUSE,151800.0,https://www.zillow.com/homedetails/318-Durfor-St-Philadelphia-PA-19148/10387477_zpid/
+Townhouse for sale,2429 S Iseminger St,Philadelphia,PA,19148,"$224,900",3,1.0,1048.0,871.0,1925,TOWNHOUSE,179700.0,https://www.zillow.com/homedetails/2429-S-Iseminger-St-Philadelphia-PA-19148/10395941_zpid/
+Lot / Land for sale,634 Sigel St,Philadelphia,PA,19148,"$100,000",0,,1008.0,871.0,-1,LOT,39500.0,https://www.zillow.com/homedetails/634-Sigel-St-Philadelphia-PA-19148/10174230_zpid/
+Townhouse for sale,1945 S 4th St,Philadelphia,PA,19148,"$195,000",3,1.0,1202.0,871.0,1920,TOWNHOUSE,104500.0,https://www.zillow.com/homedetails/1945-S-4th-St-Philadelphia-PA-19148/10388125_zpid/
+Townhouse for sale,1625 S Clarion St,Philadelphia,PA,19148,"$330,000",2,2.0,784.0,670.0,1920,TOWNHOUSE,215100.0,https://www.zillow.com/homedetails/1625-S-Clarion-St-Philadelphia-PA-19148/10397644_zpid/
+Townhouse for sale,306 Mifflin St,Philadelphia,PA,19148,"$289,000",3,2.0,1200.0,879.0,1916,TOWNHOUSE,186000.0,https://www.zillow.com/homedetails/306-Mifflin-St-Philadelphia-PA-19148/10386182_zpid/
+Townhouse for sale,2215 S Mildred St,Philadelphia,PA,19148,"$245,000",2,2.0,1080.0,666.0,1920,TOWNHOUSE,148000.0,https://www.zillow.com/homedetails/2215-S-Mildred-St-Philadelphia-PA-19148/10391657_zpid/
+Townhouse for sale,1006 Fernon St,Philadelphia,PA,19148,"$305,000",2,1.0,956.0,657.0,1920,TOWNHOUSE,254700.0,https://www.zillow.com/homedetails/1006-Fernon-St-Philadelphia-PA-19148/10175228_zpid/
+Townhouse for sale,1022 W Oregon Ave,Philadelphia,PA,19148,"$249,900",3,1.0,1256.0,1054.0,1935,TOWNHOUSE,216500.0,https://www.zillow.com/homedetails/1022-W-Oregon-Ave-Philadelphia-PA-19148/10397809_zpid/
+Townhouse for sale,2433 S 3rd St,Philadelphia,PA,19148,"$185,000",3,1.0,912.0,771.0,1920,TOWNHOUSE,204500.0,https://www.zillow.com/homedetails/2433-S-3rd-St-Philadelphia-PA-19148/10386031_zpid/
+Apartment for sale,2537 S 7th St,Philadelphia,PA,19148,"$220,000",0,,1100.0,853.0,1920,MULTI_FAMILY,103900.0,https://www.zillow.com/homedetails/2537-S-7th-St-Philadelphia-PA-19148/165265515_zpid/
+Apartment for sale,621 Mckean St,Philadelphia,PA,19148,"$200,000",4,2.0,1660.0,901.0,1920,MULTI_FAMILY,204600.0,https://www.zillow.com/homedetails/621-Mckean-St-Philadelphia-PA-19148/10389143_zpid/
+Townhouse for sale,1835 S Camac St,Philadelphia,PA,19148,"$249,900",3,1.0,840.0,871.0,1920,TOWNHOUSE,235600.0,https://www.zillow.com/homedetails/1835-S-Camac-St-Philadelphia-PA-19148/10397454_zpid/
+Townhouse for sale,1908 S 2nd St,Philadelphia,PA,19148,"$285,000",3,1.0,1290.0,1123.0,1925,TOWNHOUSE,182000.0,https://www.zillow.com/homedetails/1908-S-2nd-St-Philadelphia-PA-19148/10385533_zpid/
+Townhouse for sale,2438 S Alder St,Philadelphia,PA,19148,"$170,000",3,1.0,968.0,714.0,1925,TOWNHOUSE,141100.0,https://www.zillow.com/homedetails/2438-S-Alder-St-Philadelphia-PA-19148/10394138_zpid/

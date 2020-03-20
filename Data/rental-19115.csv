@@ -1,0 +1,13 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,2035 Grant Ave APT B,Philadelphia,PA,19115,"$1,130/mo",2,1.5,1050.0,-1,-1.0,APARTMENT
+House for rent,8841 Bradford St,Philadelphia,PA,19115,"$1,800/mo",3,2.0,1675.0,1968,4356.0,SINGLE_FAMILY
+Apartment for rent,9921 Bustleton Ave,Philadelphia,PA,19115,$950/mo,1,1.0,672.0,-1,-1.0,APARTMENT
+House for rent,1 Red Lion Rd,Philadelphia,PA,19115,"$1,050/mo",2,1.0,,-1,-1.0,SINGLE_FAMILY
+Townhouse for rent,1535 Stoney Ln # B,Philadelphia,PA,19115,"$1,600/mo",3,2.5,1718.0,1980,1718.0,TOWNHOUSE
+Townhouse for rent,9908 Bustleton Ave APT C19,Philadelphia,PA,19115,"$1,300/mo",2,2.0,1203.0,1980,1203.0,TOWNHOUSE
+Townhouse for rent,9802 Montour St,Philadelphia,PA,19115,"$3,750/mo",4,2.5,1201.0,1960,3219.0,TOWNHOUSE
+Apartment for rent,1106 Gregg St # 1,Philadelphia,PA,19115,$850/mo,1,1.0,750.0,-1,-1.0,APARTMENT
+Apartment for rent,2025 Beyer Ave # 1,Philadelphia,PA,19115,"$1,150/mo",2,1.0,,-1,-1.0,APARTMENT
+House for rent,1016 Bingham St,Philadelphia,PA,19115,"$3,950/mo",3,2.0,1008.0,1965,5662.0,SINGLE_FAMILY
+Apartment for rent,1819 Beyer Ave # A,Philadelphia,PA,19115,"$1,150/mo",2,1.0,943.0,1965,-1.0,APARTMENT
+House for rent,1145 Medway Rd,Philadelphia,PA,19115,"$3,950/mo",4,3.0,1128.0,1959,5739.0,SINGLE_FAMILY

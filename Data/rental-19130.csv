@@ -1,0 +1,23 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,2731 Brown St # 2F,Philadelphia,PA,19130,"$1,550/mo",2,1.0,700.0,-1,-1.0,APARTMENT
+Apartment for rent,2107 Green St APT 2F,Philadelphia,PA,19130,"$1,550/mo",1,1.0,600.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,1816 W Girard Ave FLOOR 2,Philadelphia,PA,19130,"$2,050/mo",2,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,2206 Fairmount Ave # 3,Philadelphia,PA,19130,"$1,800/mo",2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,2716 Parrish St # A,Philadelphia,PA,19130,"$2,000/mo",3,1.0,1318.0,-1,-1.0,TOWNHOUSE
+House for rent,Ogden St,Philadelphia,PA,19130,"$2,300/mo",3,1.5,1150.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,1427 Melon St,Philadelphia,PA,19130,"$1,725/mo",1,1.0,,2016,-1.0,APARTMENT
+Townhouse for rent,738 N Taylor St,Philadelphia,PA,19130,"$2,000/mo",2,1.0,900.0,1920,474.0,TOWNHOUSE
+Townhouse for rent,2234 Fairmount Ave # 2,Philadelphia,PA,19130,"$1,750/mo",2,1.0,1200.0,-1,-1.0,TOWNHOUSE
+Apartment for rent,839 Cameron St # 2,Philadelphia,PA,19130,"$1,895/mo",2,1.0,1000.0,-1,-1.0,APARTMENT
+Apartment for rent,2633 W Girard Ave # 3F,Philadelphia,PA,19130,"$1,450/mo",2,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,1624 Poplar St # 3,Philadelphia,PA,19130,"$1,825/mo",2,2.0,,2017,-1.0,APARTMENT
+Apartment for rent,1628 Mount Vernon St # 2R,Philadelphia,PA,19130,"$1,500/mo",2,1.0,850.0,1910,-1.0,APARTMENT
+Apartment for rent,1927 Spring Gdn # 4931046-19,Philadelphia,PA,19130,"$1,295/mo",1,1.0,400.0,-1,-1.0,APARTMENT
+Apartment for rent,919 N 18th St,Philadelphia,PA,19130,"$1,250/mo",2,1.0,1000.0,-1,-1.0,APARTMENT
+Apartment for rent,1724 Ridge Ave APT 3R,Philadelphia,PA,19130,"$1,500/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,2624 Poplar St # 2,Philadelphia,PA,19130,"$1,400/mo",2,1.0,,-1,-1.0,APARTMENT
+Condo for rent,2001 Hamilton St APT 1618,Philadelphia,PA,19130,"$2,000/mo",1,1.0,674.0,1970,-1.0,CONDO
+Condo for rent,833 N 15th St UNIT C,Philadelphia,PA,19130,"$2,350/mo",2,2.0,1445.0,2018,-1.0,CONDO
+Apartment for rent,2013 Mount Vernon St APT 4,Philadelphia,PA,19130,"$2,600/mo",2,2.0,1450.0,1920,-1.0,APARTMENT
+Townhouse for rent,Perot St,Philadelphia,PA,19130,"$2,400/mo",3,2.0,1250.0,-1,-1.0,TOWNHOUSE
+Townhouse for rent,740 N 20th St,Philadelphia,PA,19130,"$1,800/mo",3,1.0,1073.0,1985,1475.0,TOWNHOUSE

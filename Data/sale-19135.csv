@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+House for sale,7132 Hegerman St,Philadelphia,PA,19135,"$162,999",3,1.0,1350.0,1650.0,1955,SINGLE_FAMILY,113600.0,https://www.zillow.com/homedetails/7132-Hegerman-St-Philadelphia-PA-19135/10573752_zpid/
+Townhouse for sale,7236 Algard St,Philadelphia,PA,19135,"$145,000",3,2.0,1056.0,1306.0,1950,TOWNHOUSE,114100.0,https://www.zillow.com/homedetails/7236-Algard-St-Philadelphia-PA-19135/10420411_zpid/
+Townhouse for sale,4560 Unruh Ave,Philadelphia,PA,19135,"$159,900",3,1.0,1170.0,1197.0,1935,TOWNHOUSE,99600.0,https://www.zillow.com/homedetails/4560-Unruh-Ave-Philadelphia-PA-19135/10415957_zpid/
+Townhouse for sale,6125 Walker St,Philadelphia,PA,19135,"$215,000",3,3.0,1200.0,1350.0,1940,TOWNHOUSE,107000.0,https://www.zillow.com/homedetails/6125-Walker-St-Philadelphia-PA-19135/10511166_zpid/
+Townhouse for sale,4147 Greeby St,Philadelphia,PA,19135,"$119,900",3,1.0,960.0,975.0,1925,TOWNHOUSE,97500.0,https://www.zillow.com/homedetails/4147-Greeby-St-Philadelphia-PA-19135/10509571_zpid/
+Townhouse for sale,4529 Knorr St,Philadelphia,PA,19135,"$175,000",3,1.0,1144.0,818.0,1935,TOWNHOUSE,94500.0,https://www.zillow.com/homedetails/4529-Knorr-St-Philadelphia-PA-19135/10418265_zpid/
+Townhouse for sale,6343 Walker St,Philadelphia,PA,19135,"$169,999",3,1.0,990.0,1402.0,1950,TOWNHOUSE,105100.0,https://www.zillow.com/homedetails/6343-Walker-St-Philadelphia-PA-19135/10511228_zpid/
+House for sale,5901 Walker St,Philadelphia,PA,19135,"$330,000",4,4.0,1728.0,5000.0,1925,SINGLE_FAMILY,,https://www.zillow.com/homedetails/5901-Walker-St-Philadelphia-PA-19135/2080532539_zpid/
+Townhouse for sale,4248 Barnett St,Philadelphia,PA,19135,"$129,900",3,1.0,1120.0,1328.0,1940,TOWNHOUSE,109700.0,https://www.zillow.com/homedetails/4248-Barnett-St-Philadelphia-PA-19135/10509039_zpid/
+Townhouse for sale,6644 Montague St,Philadelphia,PA,19135,"$169,900",3,1.0,1088.0,1332.0,1950,TOWNHOUSE,114100.0,https://www.zillow.com/homedetails/6644-Montague-St-Philadelphia-PA-19135/10510891_zpid/
+Apartment for sale,6127 Cottage St,Philadelphia,PA,19135,"$214,900",3,2.0,1350.0,1934.0,1945,MULTI_FAMILY,131800.0,https://www.zillow.com/homedetails/6127-Cottage-St-Philadelphia-PA-19135/10511896_zpid/
+House for sale,4909 Magee Ave,Philadelphia,PA,19135,"$109,000",2,1.0,900.0,2639.0,1925,SINGLE_FAMILY,67500.0,https://www.zillow.com/homedetails/4909-Magee-Ave-Philadelphia-PA-19135/10415947_zpid/
+Apartment for sale,4324 Cottman Ave,Philadelphia,PA,19135,"$220,000",0,,1320.0,2278.0,1965,MULTI_FAMILY,,https://www.zillow.com/homedetails/4324-Cottman-Ave-Philadelphia-PA-19135/2080490705_zpid/
+Townhouse for sale,6263 Algard St,Philadelphia,PA,19135,"$174,900",3,1.0,1136.0,1306.0,1945,TOWNHOUSE,107000.0,https://www.zillow.com/homedetails/6263-Algard-St-Philadelphia-PA-19135/10511555_zpid/
+Apartment for sale,6741 Ditman St,Philadelphia,PA,19135,"$134,000",3,2.0,1240.0,1720.0,1935,MULTI_FAMILY,116500.0,https://www.zillow.com/homedetails/6741-Ditman-St-Philadelphia-PA-19135/10421071_zpid/
+Apartment for sale,5738 Vandike St,Philadelphia,PA,19135,"$86,250",3,2.0,1140.0,1463.0,1920,MULTI_FAMILY,93600.0,https://www.zillow.com/homedetails/5738-Vandike-St-Philadelphia-PA-19135/10417035_zpid/
+Townhouse for sale,6337 Walker St,Philadelphia,PA,19135,"$142,500",3,1.0,990.0,1398.0,1950,TOWNHOUSE,105100.0,https://www.zillow.com/homedetails/6337-Walker-St-Philadelphia-PA-19135/10511225_zpid/
+Townhouse for sale,7206 Marsden St,Philadelphia,PA,19135,"$154,900",3,1.0,1344.0,1433.0,1947,TOWNHOUSE,121100.0,https://www.zillow.com/homedetails/7206-Marsden-St-Philadelphia-PA-19135/10421251_zpid/
+Apartment for sale,7180 Walker St,Philadelphia,PA,19135,"$309,900",6,4.0,2280.0,2273.0,1950,MULTI_FAMILY,,https://www.zillow.com/homedetails/7180-Walker-St-Philadelphia-PA-19135/2120114570_zpid/
+Townhouse for sale,5826 Walker St,Philadelphia,PA,19135,"$139,900",3,1.0,1024.0,1280.0,1920,TOWNHOUSE,88500.0,https://www.zillow.com/homedetails/5826-Walker-St-Philadelphia-PA-19135/10560911_zpid/
+Apartment for sale,4608 Longshore Ave,Philadelphia,PA,19135,"$285,000",0,,1700.0,1851.0,1920,MULTI_FAMILY,116900.0,https://www.zillow.com/homedetails/4608-Longshore-Ave-Philadelphia-PA-19135/10418331_zpid/
+Townhouse for sale,6754 Hegerman St,Philadelphia,PA,19135,"$135,000",3,1.0,1200.0,975.0,1920,TOWNHOUSE,58500.0,https://www.zillow.com/homedetails/6754-Hegerman-St-Philadelphia-PA-19135/10421592_zpid/
+Apartment for sale,4424 Princeton Ave,Philadelphia,PA,19135,"$269,900",3,2.0,2139.0,1977.0,1950,MULTI_FAMILY,260900.0,https://www.zillow.com/homedetails/4424-Princeton-Ave-Philadelphia-PA-19135/10510231_zpid/
+House for sale,6110 6110-12 Keystone St,Philadelphia,PA,19135,"$215,000",3,1.0,1350.0,5000.0,1930,SINGLE_FAMILY,,https://www.zillow.com/homedetails/6110-6110-12-Keystone-St-Philadelphia-PA-19135/2080774616_zpid/
+Apartment for sale,4911 Rawle St,Philadelphia,PA,19135,"$159,900",4,2.0,900.0,1995.0,1925,MULTI_FAMILY,88100.0,https://www.zillow.com/homedetails/4911-Rawle-St-Philadelphia-PA-19135/10418202_zpid/
+Apartment for sale,6117 Marsden St,Philadelphia,PA,19135,"$229,900",4,3.0,2090.0,1598.0,1920,MULTI_FAMILY,98400.0,https://www.zillow.com/homedetails/6117-Marsden-St-Philadelphia-PA-19135/10416564_zpid/
+Townhouse for sale,4114 Robbins Ave,Philadelphia,PA,19135,"$204,900",3,1.0,1424.0,1332.0,1940,TOWNHOUSE,115400.0,https://www.zillow.com/homedetails/4114-Robbins-Ave-Philadelphia-PA-19135/10508792_zpid/
+Apartment for sale,4024 Unruh Ave,Philadelphia,PA,19135,"$325,000",5,3.0,1680.0,8437.0,1950,MULTI_FAMILY,177100.0,https://www.zillow.com/homedetails/4024-Unruh-Ave-Philadelphia-PA-19135/10509791_zpid/
+House for sale,7208 Edmund St,Philadelphia,PA,19135,"$239,900",3,2.0,1500.0,5401.0,1955,SINGLE_FAMILY,133700.0,https://www.zillow.com/homedetails/7208-Edmund-St-Philadelphia-PA-19135/126274205_zpid/
+Townhouse for sale,6641 Vandike St,Philadelphia,PA,19135,"$139,900",2,1.0,1024.0,1481.0,1935,TOWNHOUSE,79800.0,https://www.zillow.com/homedetails/6641-Vandike-St-Philadelphia-PA-19135/10417239_zpid/
+Townhouse for sale,6107 Hegerman St,Philadelphia,PA,19135,"$189,500",3,2.0,1140.0,1089.0,1930,TOWNHOUSE,83000.0,https://www.zillow.com/homedetails/6107-Hegerman-St-Philadelphia-PA-19135/10417415_zpid/
+For sale by owner,4030 Higbee St,Philadelphia,PA,19135,"$89,900",3,1.0,1079.0,1072.0,1940,TOWNHOUSE,93400.0,https://www.zillow.com/homedetails/4030-Higbee-St-Philadelphia-PA-19135/10559490_zpid/
+Townhouse for sale,6628 Ditman St,Philadelphia,PA,19135,"$159,999",3,1.0,1290.0,1306.0,1935,TOWNHOUSE,86100.0,https://www.zillow.com/homedetails/6628-Ditman-St-Philadelphia-PA-19135/10416262_zpid/
+Townhouse for sale,4110 Higbee St,Philadelphia,PA,19135,"$119,900",3,1.0,1110.0,1350.0,1940,TOWNHOUSE,97300.0,https://www.zillow.com/homedetails/4110-Higbee-St-Philadelphia-PA-19135/10559523_zpid/
+Townhouse for sale,4805 E Alcott St,Philadelphia,PA,19135,"$80,000",3,1.0,750.0,901.0,1950,TOWNHOUSE,64100.0,https://www.zillow.com/homedetails/4805-E-Alcott-St-Philadelphia-PA-19135/10415316_zpid/
+Foreclosure,4708 Higbee St,Philadelphia,PA,19135,"$137,950",3,1.0,1125.0,2500.0,1990,SINGLE_FAMILY,149800.0,https://www.zillow.com/homedetails/4708-Higbee-St-Philadelphia-PA-19135/10415612_zpid/
+Townhouse for sale,6121 Hegerman St,Philadelphia,PA,19135,"$110,000",3,1.0,924.0,1328.0,1930,TOWNHOUSE,75300.0,https://www.zillow.com/homedetails/6121-Hegerman-St-Philadelphia-PA-19135/10417422_zpid/
+Apartment for sale,4019 Unruh Ave,Philadelphia,PA,19135,"$239,900",4,1.0,2000.0,4591.0,1950,MULTI_FAMILY,164700.0,https://www.zillow.com/homedetails/4019-Unruh-Ave-Philadelphia-PA-19135/10509812_zpid/
+Townhouse for sale,(undisclosed Address),Philadelphia,PA,19135,"$124,900",3,1.0,1084.0,1285.0,1935,TOWNHOUSE,,https://www.zillow.com/homedetails/(undisclosed-Address)-Philadelphia-PA-19135/2080667616_zpid/
+Townhouse for sale,7116 Torresdale Ave,Philadelphia,PA,19135,"$195,900",3,2.0,1324.0,1572.0,1945,TOWNHOUSE,119400.0,https://www.zillow.com/homedetails/7116-Torresdale-Ave-Philadelphia-PA-19135/10421419_zpid/

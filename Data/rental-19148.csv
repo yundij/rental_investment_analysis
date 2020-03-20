@@ -1,0 +1,38 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,2604 S Jessup St,Philadelphia,PA,19148,"$1,500/mo",3,1.5,1050.0,1925,708.0,SINGLE_FAMILY
+Townhouse for rent,830 Cantrell St,Philadelphia,PA,19148,"$1,400/mo",2,1.5,1100.0,1920,435.0,TOWNHOUSE
+Townhouse for rent,927 Tree St,Philadelphia,PA,19148,"$1,800/mo",2,1.5,1462.0,1925,701.0,TOWNHOUSE
+House for rent,934 Mckean St,Philadelphia,PA,19148,"$1,000/mo",2,1.5,846.0,1925,615.0,SINGLE_FAMILY
+Apartment for rent,1909 S 5th St # 1,Philadelphia,PA,19148,$800/mo,1,1.0,600.0,-1,-1.0,APARTMENT
+Apartment for rent,1701 E Moyamensing Ave FLOOR 2,Philadelphia,PA,19148,$995/mo,1,1.0,,-1,-1.0,APARTMENT
+Condo for rent,910 Mckean St # 2,Philadelphia,PA,19148,"$1,650/mo",3,2.0,5376.0,2006,-1.0,CONDO
+House for rent,735 Hoffman St,Philadelphia,PA,19148,"$1,400/mo",2,1.0,1050.0,1925,775.0,SINGLE_FAMILY
+House for rent,209 Watkins St,Philadelphia,PA,19148,"$1,500/mo",2,1.0,1128.0,1920,816.0,SINGLE_FAMILY
+Apartment for rent,1846 S 12th St # 2,Philadelphia,PA,19148,"$1,200/mo",2,1.0,1100.0,-1,-1.0,APARTMENT
+Townhouse for rent,606 Dudley St,Philadelphia,PA,19148,"$2,100/mo",3,2.5,1260.0,1930,630.0,TOWNHOUSE
+Townhouse for rent,1724 S 5th St FLOOR 2,Philadelphia,PA,19148,$950/mo,2,1.0,850.0,-1,-1.0,TOWNHOUSE
+Apartment for rent,1815 S Broad St FLOOR 2,Philadelphia,PA,19148,"$1,270/mo",2,1.0,1000.0,-1,-1.0,MULTI_FAMILY
+House for rent,621 Morris St,Philadelphia,PA,19148,"$1,300/mo",3,2.0,1218.0,1915,901.0,SINGLE_FAMILY
+Townhouse for rent,2236 S Darien St,Philadelphia,PA,19148,"$1,000/mo",2,1.0,840.0,1928,700.0,TOWNHOUSE
+Apartment for rent,1831 S 5th St FLOOR 3,Philadelphia,PA,19148,"$1,250/mo",2,1.0,1000.0,-1,-1.0,APARTMENT
+Apartment for rent,1040 Johnston St FLOOR 2,Philadelphia,PA,19148,"$1,100/mo",1,1.0,,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,519 Tasker St FLOOR 2,Philadelphia,PA,19148,"$1,300/mo",2,1.0,900.0,1920,-1.0,TOWNHOUSE
+Townhouse for rent,S Franklin St,Philadelphia,PA,19148,"$1,100/mo",3,1.0,950.0,-1,-1.0,TOWNHOUSE
+Townhouse for rent,236 Moore St # B,Philadelphia,PA,19148,"$2,000/mo",3,2.5,2475.0,-1,-1.0,TOWNHOUSE
+Townhouse for rent,1641 S 5th St APT 3,Philadelphia,PA,19148,$800/mo,1,1.0,450.0,1925,-1.0,TOWNHOUSE
+Townhouse for rent,120 Daly St,Philadelphia,PA,19148,$950/mo,2,1.0,825.0,1933,871.0,TOWNHOUSE
+Apartment for rent,1937 S 13th St # 3,Philadelphia,PA,19148,"$1,600/mo",2,1.0,,-1,-1.0,APARTMENT
+House for rent,925 Hoffman St,Philadelphia,PA,19148,"$1,975/mo",2,1.5,1200.0,1940,688.0,SINGLE_FAMILY
+Apartment for rent,1915 S 12th St # 1,Philadelphia,PA,19148,"$1,400/mo",2,1.5,650.0,-1,-1.0,APARTMENT
+Apartment for rent,1815 S 10th St FLOOR 2,Philadelphia,PA,19148,"$1,150/mo",2,1.0,,-1,-1.0,APARTMENT
+House for rent,726 Hoffman St,Philadelphia,PA,19148,"$1,400/mo",3,1.0,1000.0,1920,652.0,SINGLE_FAMILY
+Apartment for rent,1909 S Broad St FLOOR 2,Philadelphia,PA,19148,"$1,275/mo",1,1.0,800.0,-1,-1.0,APARTMENT
+Condo for rent,1811 E Passyunk Ave FLOOR 2,Philadelphia,PA,19148,"$2,000/mo",2,1.0,1956.0,1906,-1.0,CONDO
+Townhouse for rent,438 Mercy St,Philadelphia,PA,19148,"$1,650/mo",3,1.5,1224.0,1920,657.0,TOWNHOUSE
+Apartment for rent,1619 E Moyamensing Ave UNIT 10,Philadelphia,PA,19148,"$1,475/mo",1,1.0,820.0,-1,-1.0,APARTMENT
+Apartment for rent,1842 E Passyunk Ave,Philadelphia,PA,19148,"$1,300/mo",1,1.0,800.0,1915,858.0,APARTMENT
+Apartment for rent,1838 S 5th St # 2,Philadelphia,PA,19148,"$1,100/mo",2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,1630 S 7th St,Philadelphia,PA,19148,"$1,450/mo",2,1.0,2012.0,1915,1008.0,TOWNHOUSE
+House for rent,2521 S Hancock St,Philadelphia,PA,19148,"$1,500/mo",3,1.0,1750.0,1982,1479.0,SINGLE_FAMILY
+House for rent,1024 Snyder Ave,Philadelphia,PA,19148,"$1,350/mo",3,1.0,1200.0,1925,826.0,SINGLE_FAMILY
+Townhouse for rent,356 Cantrell St,Philadelphia,PA,19148,"$1,399/mo",3,1.0,1100.0,1935,686.0,TOWNHOUSE

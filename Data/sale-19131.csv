@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Condo for sale,3900 Ford Rd APT 18C,Philadelphia,PA,19131,"$107,000",2,1.0,1206.0,1206.0,1960,CONDO,107400.0,https://www.zillow.com/homedetails/3900-Ford-Rd-APT-18C-Philadelphia-PA-19131/10607782_zpid/
+Foreclosure,5404 Wyndale Ave,Philadelphia,PA,19131,"$170,000",5,3.0,2240.0,3123.0,1925,MULTI_FAMILY,184300.0,https://www.zillow.com/homedetails/5404-Wyndale-Ave-Philadelphia-PA-19131/10488693_zpid/
+Townhouse for sale,5391 Hazelhurst St,Philadelphia,PA,19131,"$165,000",3,2.0,1311.0,1119.0,1925,TOWNHOUSE,103300.0,https://www.zillow.com/homedetails/5391-Hazelhurst-St-Philadelphia-PA-19131/10485251_zpid/
+Townhouse for sale,5502 Wyalusing Ave,Philadelphia,PA,19131,"$185,000",3,2.0,1540.0,1250.0,1925,TOWNHOUSE,51600.0,https://www.zillow.com/homedetails/5502-Wyalusing-Ave-Philadelphia-PA-19131/10189640_zpid/
+Townhouse for sale,650 N Sickels St,Philadelphia,PA,19131,"$69,900",2,1.0,728.0,614.0,1925,TOWNHOUSE,33100.0,https://www.zillow.com/homedetails/650-N-Sickels-St-Philadelphia-PA-19131/10190262_zpid/
+Condo for sale,2814 Belmont Ave,Philadelphia,PA,19131,"$250,000",3,3.0,1401.0,2278.0,1920,CONDO,166200.0,https://www.zillow.com/homedetails/2814-Belmont-Ave-Philadelphia-PA-19131/10486346_zpid/
+Townhouse for sale,5333 Turner St,Philadelphia,PA,19131,"$79,900",2,2.0,1380.0,897.0,1925,TOWNHOUSE,55000.0,https://www.zillow.com/homedetails/5333-Turner-St-Philadelphia-PA-19131/10485120_zpid/
+House for sale,2276 N 51st St,Philadelphia,PA,19131,"$599,900",6,4.0,2720.0,7222.0,1925,SINGLE_FAMILY,,https://www.zillow.com/homedetails/2276-N-51st-St-Philadelphia-PA-19131/2081901306_zpid/
+House for sale,5313 Wynnefield Ave,Philadelphia,PA,19131,"$614,000",8,6.0,6328.0,13564.0,1925,SINGLE_FAMILY,188600.0,https://www.zillow.com/homedetails/5313-Wynnefield-Ave-Philadelphia-PA-19131/10486050_zpid/
+Auction,5718 Woodbine Ave,Philadelphia,PA,19131,,4,2.0,1805.0,3049.0,1925,SINGLE_FAMILY,173200.0,https://www.zillow.com/homedetails/5718-Woodbine-Ave-Philadelphia-PA-19131/10489137_zpid/
+House for sale,2229 Georges Ln,Philadelphia,PA,19131,"$579,900",5,5.0,3826.0,14000.0,1925,SINGLE_FAMILY,,https://www.zillow.com/homedetails/2229-Georges-Ln-Philadelphia-PA-19131/2081710217_zpid/
+Townhouse for sale,5536 Master St,Philadelphia,PA,19131,"$199,000",4,2.0,1622.0,1254.0,1925,TOWNHOUSE,70100.0,https://www.zillow.com/homedetails/5536-Master-St-Philadelphia-PA-19131/10190737_zpid/
+Townhouse for sale,5741 Dunlap St,Philadelphia,PA,19131,"$195,000",3,1.0,1260.0,1363.0,1925,TOWNHOUSE,73000.0,https://www.zillow.com/homedetails/5741-Dunlap-St-Philadelphia-PA-19131/10195180_zpid/
+Townhouse for sale,5444 Media St,Philadelphia,PA,19131,"$133,500",4,1.0,1635.0,1311.0,1925,TOWNHOUSE,70700.0,https://www.zillow.com/homedetails/5444-Media-St-Philadelphia-PA-19131/10190857_zpid/
+Condo for sale,3600 Conshohocken Ave APT 515,Philadelphia,PA,19131,"$99,900",1,1.0,940.0,940.0,1970,CONDO,66200.0,https://www.zillow.com/homedetails/3600-Conshohocken-Ave-APT-515-Philadelphia-PA-19131/10607948_zpid/
+Townhouse for sale,5424 Sharswood St,Philadelphia,PA,19131,"$69,000",3,1.0,868.0,701.0,1920,TOWNHOUSE,16500.0,https://www.zillow.com/homedetails/5424-Sharswood-St-Philadelphia-PA-19131/10190821_zpid/
+House for sale,5970 Woodbine Ave,Philadelphia,PA,19131,"$188,000",3,3.0,1472.0,4335.0,1925,SINGLE_FAMILY,183300.0,https://www.zillow.com/homedetails/5970-Woodbine-Ave-Philadelphia-PA-19131/10489178_zpid/
+House for sale,2319 N 51st St,Philadelphia,PA,19131,"$599,900",5,4.0,3265.0,9600.0,1925,SINGLE_FAMILY,164700.0,https://www.zillow.com/homedetails/2319-N-51st-St-Philadelphia-PA-19131/10486779_zpid/
+Townhouse for sale,5772 Hunter St,Philadelphia,PA,19131,"$149,900",3,1.0,960.0,1280.0,1920,TOWNHOUSE,62400.0,https://www.zillow.com/homedetails/5772-Hunter-St-Philadelphia-PA-19131/10194790_zpid/
+Townhouse for sale,5528 Lancaster Ave,Philadelphia,PA,19131,"$80,000",3,1.0,840.0,1485.0,1925,TOWNHOUSE,23900.0,https://www.zillow.com/homedetails/5528-Lancaster-Ave-Philadelphia-PA-19131/10191112_zpid/
+House for sale,5350 Gainor Rd,Philadelphia,PA,19131,"$365,000",5,4.0,4024.0,2613.0,1925,SINGLE_FAMILY,194500.0,https://www.zillow.com/homedetails/5350-Gainor-Rd-Philadelphia-PA-19131/10485975_zpid/
+House for sale,5048 Nevada St,Philadelphia,PA,19131,"$384,900",8,5.0,2640.0,6882.0,1925,SINGLE_FAMILY,283900.0,https://www.zillow.com/homedetails/5048-Nevada-St-Philadelphia-PA-19131/10589968_zpid/
+Townhouse for sale,5601 Lansdowne Ave,Philadelphia,PA,19131,"$174,900",4,2.0,2016.0,1576.0,1920,TOWNHOUSE,70600.0,https://www.zillow.com/homedetails/5601-Lansdowne-Ave-Philadelphia-PA-19131/10194687_zpid/
+Condo for sale,3900 Ford Rd APT 16D,Philadelphia,PA,19131,"$100,000",2,2.0,1526.0,1526.0,1960,CONDO,142500.0,https://www.zillow.com/homedetails/3900-Ford-Rd-APT-16D-Philadelphia-PA-19131/10607749_zpid/
+New construction,5305 Gainor Rd,Philadelphia,PA,19131,"$649,999",7,5.0,4600.0,8712.0,-1,SINGLE_FAMILY,,https://www.zillow.com/homedetails/5305-Gainor-Rd-Philadelphia-PA-19131/2082306042_zpid/
+Townhouse for sale,5442 Lebanon Ave,Philadelphia,PA,19131,"$197,900",3,2.0,1400.0,1807.0,1925,TOWNHOUSE,109000.0,https://www.zillow.com/homedetails/5442-Lebanon-Ave-Philadelphia-PA-19131/10488232_zpid/
+Townhouse for sale,1925 N 52nd St,Philadelphia,PA,19131,"$229,999",3,3.0,1424.0,1071.0,1925,TOWNHOUSE,105700.0,https://www.zillow.com/homedetails/1925-N-52nd-St-Philadelphia-PA-19131/10486849_zpid/
+House for sale,1530 N Conestoga St,Philadelphia,PA,19131,"$115,000",3,2.0,1078.0,1267.0,1925,SINGLE_FAMILY,43100.0,https://www.zillow.com/homedetails/1530-N-Conestoga-St-Philadelphia-PA-19131/10191228_zpid/
+Condo for sale,3900 Ford Rd APT 3P,Philadelphia,PA,19131,"$149,500",2,2.0,1526.0,1526.0,1960,CONDO,142500.0,https://www.zillow.com/homedetails/3900-Ford-Rd-APT-3P-Philadelphia-PA-19131/10607553_zpid/
+Condo for sale,3900 Ford Rd APT 19S,Philadelphia,PA,19131,"$129,900",2,2.0,1230.0,1230.0,1960,CONDO,109700.0,https://www.zillow.com/homedetails/3900-Ford-Rd-APT-19S-Philadelphia-PA-19131/10607813_zpid/
+Townhouse for sale,5627 Wyalusing Ave,Philadelphia,PA,19131,"$218,000",5,3.0,2040.0,1459.0,1925,TOWNHOUSE,84500.0,https://www.zillow.com/homedetails/5627-Wyalusing-Ave-Philadelphia-PA-19131/118342861_zpid/
+Condo for sale,3600 Conshohocken Ave APT 404,Philadelphia,PA,19131,"$125,000",2,1.0,1200.0,1200.0,1970,CONDO,85100.0,https://www.zillow.com/homedetails/3600-Conshohocken-Ave-APT-404-Philadelphia-PA-19131/10607920_zpid/
+Condo for sale,3900 Ford Rd APT 17P,Philadelphia,PA,19131,"$129,900",2,2.0,1526.0,1526.0,1960,CONDO,142500.0,https://www.zillow.com/homedetails/3900-Ford-Rd-APT-17P-Philadelphia-PA-19131/10607776_zpid/
+Townhouse for sale,5315 Euclid St,Philadelphia,PA,19131,"$179,900",3,2.0,1225.0,1176.0,1925,TOWNHOUSE,68900.0,https://www.zillow.com/homedetails/5315-Euclid-St-Philadelphia-PA-19131/10485378_zpid/
+Townhouse for sale,1724 Georges Ln,Philadelphia,PA,19131,"$110,000",3,2.0,1200.0,1289.0,1925,TOWNHOUSE,69900.0,https://www.zillow.com/homedetails/1724-Georges-Ln-Philadelphia-PA-19131/10487295_zpid/
+For sale by owner,5629 Lansdowne Ave,Philadelphia,PA,19131,"$105,000",4,1.0,1254.0,1454.0,1920,TOWNHOUSE,72700.0,https://www.zillow.com/homedetails/5629-Lansdowne-Ave-Philadelphia-PA-19131/10194701_zpid/
+Townhouse for sale,5405 Westminster Ave,Philadelphia,PA,19131,"$149,900",3,2.0,1140.0,1681.0,1925,TOWNHOUSE,45600.0,https://www.zillow.com/homedetails/5405-Westminster-Ave-Philadelphia-PA-19131/10189612_zpid/
+Townhouse for sale,5861 Malvern Ave,Philadelphia,PA,19131,"$215,000",3,2.0,1672.0,1298.0,1925,TOWNHOUSE,88500.0,https://www.zillow.com/homedetails/5861-Malvern-Ave-Philadelphia-PA-19131/10488681_zpid/
+Townhouse for sale,5301 Euclid St,Philadelphia,PA,19131,"$119,900",3,2.0,1440.0,1568.0,1925,TOWNHOUSE,28800.0,https://www.zillow.com/homedetails/5301-Euclid-St-Philadelphia-PA-19131/10485371_zpid/
+Apartment for sale,5416 W Jefferson St,Philadelphia,PA,19131,"$249,000",7,3.0,1862.0,2879.0,1925,MULTI_FAMILY,50200.0,https://www.zillow.com/homedetails/5416-W-Jefferson-St-Philadelphia-PA-19131/165089399_zpid/

@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,6642 Chew Ave,Philadelphia,PA,19119,"$180,000",3,2.0,1108.0,1450.0,1925,TOWNHOUSE,99400.0,https://www.zillow.com/homedetails/6642-Chew-Ave-Philadelphia-PA-19119/10281073_zpid/
+House for sale,7220 Sherman St,Philadelphia,PA,19119,"$1,675,000",6,5.0,6311.0,30056.0,1925,SINGLE_FAMILY,,https://www.zillow.com/homedetails/7220-Sherman-St-Philadelphia-PA-19119/2082852113_zpid/
+House for sale,6703 Wissahickon Ave,Philadelphia,PA,19119,"$374,900",4,3.0,2288.0,9317.0,1925,SINGLE_FAMILY,387600.0,https://www.zillow.com/homedetails/6703-Wissahickon-Ave-Philadelphia-PA-19119/10285510_zpid/
+House for sale,714 Saint Georges Rd,Philadelphia,PA,19119,"$1,549,000",5,6.0,5528.0,47288.0,1925,SINGLE_FAMILY,881800.0,https://www.zillow.com/homedetails/714-Saint-Georges-Rd-Philadelphia-PA-19119/10214482_zpid/
+Condo for sale,7302 Cresheim Rd # D-2,Philadelphia,PA,19119,"$165,000",2,2.0,1029.0,-1.0,1965,CONDO,,https://www.zillow.com/homedetails/7302-Cresheim-Rd-D-2-Philadelphia-PA-19119/2080462950_zpid/
+House for sale,40 W Phil Ellena St,Philadelphia,PA,19119,"$409,900",5,4.0,2400.0,7405.0,1925,SINGLE_FAMILY,350400.0,https://www.zillow.com/homedetails/40-W-Phil-Ellena-St-Philadelphia-PA-19119/10284089_zpid/
+Townhouse for sale,327 E Hortter St,Philadelphia,PA,19119,"$249,000",4,2.0,1660.0,1851.0,1925,TOWNHOUSE,167500.0,https://www.zillow.com/homedetails/327-E-Hortter-St-Philadelphia-PA-19119/10280506_zpid/
+House for sale,620 E Sedgwick St,Philadelphia,PA,19119,"$435,000",3,4.0,2180.0,15681.0,1925,SINGLE_FAMILY,390900.0,https://www.zillow.com/homedetails/620-E-Sedgwick-St-Philadelphia-PA-19119/10282667_zpid/
+House for sale,708 W Mount Airy Ave,Philadelphia,PA,19119,"$1,395,000",5,6.0,5630.0,36154.0,1929,SINGLE_FAMILY,1132800.0,https://www.zillow.com/homedetails/708-W-Mount-Airy-Ave-Philadelphia-PA-19119/10213987_zpid/
+Coming soon,W Mount Airy Ave,Philadelphia,PA,19119,"$335,000",3,1.0,1138.0,1738.0,1920,SINGLE_FAMILY,233900.0,https://www.zillow.com/homedetails/36-W-Mount-Airy-Ave-Philadelphia-PA-19119/10213894_zpid/
+Townhouse for sale,225 E Meehan Ave,Philadelphia,PA,19119,"$194,900",3,2.0,1422.0,975.0,1925,TOWNHOUSE,146400.0,https://www.zillow.com/homedetails/225-E-Meehan-Ave-Philadelphia-PA-19119/10282378_zpid/
+Townhouse for sale,135 W Weaver St,Philadelphia,PA,19119,"$267,000",3,3.0,2012.0,953.0,1920,TOWNHOUSE,,https://www.zillow.com/homedetails/135-W-Weaver-St-Philadelphia-PA-19119/2080542460_zpid/
+House for sale,6820 Quincy St,Philadelphia,PA,19119,"$549,500",6,4.0,5013.0,12135.0,1893,SINGLE_FAMILY,499700.0,https://www.zillow.com/homedetails/6820-Quincy-St-Philadelphia-PA-19119/10285106_zpid/
+House for sale,6837 Gorsten St,Philadelphia,PA,19119,"$374,990",5,2.0,2640.0,5401.0,1925,SINGLE_FAMILY,316800.0,https://www.zillow.com/homedetails/6837-Gorsten-St-Philadelphia-PA-19119/10283512_zpid/
+Townhouse for sale,138 E Pleasant St,Philadelphia,PA,19119,"$189,900",3,2.0,1290.0,1019.0,1925,TOWNHOUSE,100600.0,https://www.zillow.com/homedetails/138-E-Pleasant-St-Philadelphia-PA-19119/10282112_zpid/
+Apartment for sale,500 Arbutus St,Philadelphia,PA,19119,"$429,000",4,3.0,2000.0,4512.0,1925,MULTI_FAMILY,344400.0,https://www.zillow.com/homedetails/500-Arbutus-St-Philadelphia-PA-19119/10284128_zpid/
+New construction,7001 Crittenden St,Philadelphia,PA,19119,"$699,500",5,3.0,3396.0,7405.0,2020,SINGLE_FAMILY,,https://www.zillow.com/homedetails/7001-Crittenden-St-Philadelphia-PA-19119/2083837342_zpid/
+Townhouse for sale,447 E Sharpnack St,Philadelphia,PA,19119,"$209,900",3,3.0,1850.0,1180.0,1925,TOWNHOUSE,112300.0,https://www.zillow.com/homedetails/447-E-Sharpnack-St-Philadelphia-PA-19119/10280053_zpid/
+Townhouse for sale,345 E Upsal St,Philadelphia,PA,19119,"$80,000",3,1.0,956.0,2783.0,1925,TOWNHOUSE,102400.0,https://www.zillow.com/homedetails/345-E-Upsal-St-Philadelphia-PA-19119/10279801_zpid/
+House for sale,7131 Mount Airy Ter,Philadelphia,PA,19119,"$710,000",4,3.0,4200.0,11325.0,1970,SINGLE_FAMILY,425000.0,https://www.zillow.com/homedetails/7131-Mount-Airy-Ter-Philadelphia-PA-19119/80950272_zpid/
+Apartment for sale,7205 Boyer St,Philadelphia,PA,19119,"$418,500",6,3.0,2068.0,2835.0,1889,MULTI_FAMILY,294100.0,https://www.zillow.com/homedetails/7205-Boyer-St-Philadelphia-PA-19119/10212939_zpid/
+Foreclosure,7328 Devon St,Philadelphia,PA,19119,"$259,900",3,3.0,1629.0,2648.0,1987,TOWNHOUSE,293200.0,https://www.zillow.com/homedetails/7328-Devon-St-Philadelphia-PA-19119/10213008_zpid/
+Townhouse for sale,(undisclosed Address),Philadelphia,PA,19119,"$139,900",3,1.0,1278.0,1507.0,1950,TOWNHOUSE,,https://www.zillow.com/homedetails/(undisclosed-Address)-Philadelphia-PA-19119/2080466326_zpid/
+Townhouse for sale,340 E Phil Ellena St,Philadelphia,PA,19119,"$255,000",3,1.0,1400.0,1851.0,1925,TOWNHOUSE,126000.0,https://www.zillow.com/homedetails/340-E-Phil-Ellena-St-Philadelphia-PA-19119/10280631_zpid/
+Townhouse for sale,404 E Upsal St,Philadelphia,PA,19119,"$183,900",3,2.0,1050.0,1346.0,1925,TOWNHOUSE,76100.0,https://www.zillow.com/homedetails/404-E-Upsal-St-Philadelphia-PA-19119/10279697_zpid/
+New construction,7003 Crittenden St,Philadelphia,PA,19119,"$750,000",5,3.0,3396.0,7405.0,2020,SINGLE_FAMILY,,https://www.zillow.com/homedetails/7003-Crittenden-St-Philadelphia-PA-19119/2082188686_zpid/
+Apartment for sale,141 W Sharpnack St,Philadelphia,PA,19119,"$314,900",6,3.0,2688.0,2426.0,1920,MULTI_FAMILY,241900.0,https://www.zillow.com/homedetails/141-W-Sharpnack-St-Philadelphia-PA-19119/165171278_zpid/
+New construction,109 W Cliveden St,Philadelphia,PA,19119,"$799,000",3,4.0,,6098.0,2020,SINGLE_FAMILY,,https://www.zillow.com/homedetails/109-W-Cliveden-St-Philadelphia-PA-19119/2080918162_zpid/
+Coming soon,W Gorgas Ln,Philadelphia,PA,19119,"$420,000",4,3.0,2208.0,2138.0,1915,SINGLE_FAMILY,395900.0,https://www.zillow.com/homedetails/134-W-Gorgas-Ln-Philadelphia-PA-19119/10284470_zpid/
+Townhouse for sale,6427 Chew Ave,Philadelphia,PA,19119,"$185,000",3,1.0,1528.0,1354.0,1925,TOWNHOUSE,160500.0,https://www.zillow.com/homedetails/6427-Chew-Ave-Philadelphia-PA-19119/10281137_zpid/
+Lot / Land for sale,714 W Allens Ln,Philadelphia,PA,19119,"$350,000",6,,6311.0,21780.0,1925,LOT,1021200.0,https://www.zillow.com/homedetails/714-W-Allens-Ln-Philadelphia-PA-19119/80944371_zpid/
+Lot / Land for sale,6630 Mccallum St,Philadelphia,PA,19119,"$325,000",,,6319.0,20547.0,1925,LOT,328700.0,https://www.zillow.com/homedetails/6630-Mccallum-St-Philadelphia-PA-19119/165521924_zpid/
+Apartment for sale,1209 Yerkes St,Philadelphia,PA,19119,"$240,000",3,3.0,1486.0,2757.0,1950,MULTI_FAMILY,161400.0,https://www.zillow.com/homedetails/1209-Yerkes-St-Philadelphia-PA-19119/10279596_zpid/
+Townhouse for sale,339 E Vernon Rd,Philadelphia,PA,19119,"$229,000",3,1.0,1520.0,1550.0,1925,TOWNHOUSE,136800.0,https://www.zillow.com/homedetails/339-E-Vernon-Rd-Philadelphia-PA-19119/10281848_zpid/
+Townhouse for sale,7510 Boyer St,Philadelphia,PA,19119,"$314,998",3,1.0,1504.0,1311.0,1927,TOWNHOUSE,227900.0,https://www.zillow.com/homedetails/7510-Boyer-St-Philadelphia-PA-19119/10212925_zpid/
+Apartment for sale,518 Burnham Rd,Philadelphia,PA,19119,"$650,000",4,4.0,2000.0,2888.0,1925,MULTI_FAMILY,75100.0,https://www.zillow.com/homedetails/518-Burnham-Rd-Philadelphia-PA-19119/10284068_zpid/
+New construction,6823 Ardleigh St,Philadelphia,PA,19119,"$649,900",4,4.0,,-1.0,2020,SINGLE_FAMILY,,https://www.zillow.com/homedetails/6823-Ardleigh-St-Philadelphia-PA-19119/2081342988_zpid/
+New construction,7048 Germantown Ave # 10,Philadelphia,PA,19119,"$385,000",4,3.0,1500.0,65340.0,2018,TOWNHOUSE,,https://www.zillow.com/homedetails/7048-Germantown-Ave-10-Philadelphia-PA-19119/2097971491_zpid/
+Foreclosure,6942 Cresheim Rd,Philadelphia,PA,19119,"$279,900",4,1.0,2068.0,3961.0,1927,MULTI_FAMILY,291400.0,https://www.zillow.com/homedetails/6942-Cresheim-Rd-Philadelphia-PA-19119/10285040_zpid/
+Condo for sale,341 E Sharpnack St,Philadelphia,PA,19119,"$175,000",4,2.0,1252.0,1437.0,1925,CONDO,120800.0,https://www.zillow.com/homedetails/341-E-Sharpnack-St-Philadelphia-PA-19119/10280017_zpid/

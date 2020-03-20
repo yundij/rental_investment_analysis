@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,2040 Lardner St,Philadelphia,PA,19149,"$124,900",3,2.0,1176.0,2526.0,1950,TOWNHOUSE,133200.0,https://www.zillow.com/homedetails/2040-Lardner-St-Philadelphia-PA-19149/10554308_zpid/
+Townhouse for sale,6123 Belden St,Philadelphia,PA,19149,"$160,000",3,1.0,1168.0,1589.0,1920,TOWNHOUSE,109400.0,https://www.zillow.com/homedetails/6123-Belden-St-Philadelphia-PA-19149/10492538_zpid/
+Townhouse for sale,2100 Robbins Ave,Philadelphia,PA,19149,"$183,900",3,2.0,1208.0,2613.0,1950,TOWNHOUSE,129200.0,https://www.zillow.com/homedetails/2100-Robbins-Ave-Philadelphia-PA-19149/10555359_zpid/
+Townhouse for sale,5930 Frontenac St,Philadelphia,PA,19149,"$173,000",3,3.0,1348.0,1406.0,1925,TOWNHOUSE,113100.0,https://www.zillow.com/homedetails/5930-Frontenac-St-Philadelphia-PA-19149/10492119_zpid/
+Townhouse for sale,1452 Higbee St,Philadelphia,PA,19149,"$139,900",3,1.0,1126.0,1163.0,1950,TOWNHOUSE,101000.0,https://www.zillow.com/homedetails/1452-Higbee-St-Philadelphia-PA-19149/10496841_zpid/
+Townhouse for sale,1431 Benner St,Philadelphia,PA,19149,"$140,000",3,2.0,1166.0,1311.0,1950,TOWNHOUSE,105500.0,https://www.zillow.com/homedetails/1431-Benner-St-Philadelphia-PA-19149/10496923_zpid/
+Townhouse for sale,3134 Barnett St,Philadelphia,PA,19149,"$165,000",3,2.0,960.0,1014.0,1940,TOWNHOUSE,113500.0,https://www.zillow.com/homedetails/3134-Barnett-St-Philadelphia-PA-19149/10503595_zpid/
+Townhouse for sale,3232 Friendship St,Philadelphia,PA,19149,"$219,999",3,1.0,1104.0,1707.0,1950,TOWNHOUSE,146600.0,https://www.zillow.com/homedetails/3232-Friendship-St-Philadelphia-PA-19149/10507299_zpid/
+Foreclosure,3245 Unruh Ave,Philadelphia,PA,19149,"$50,000",3,,1414.0,1759.0,1937,LOT,156500.0,https://www.zillow.com/homedetails/3245-Unruh-Ave-Philadelphia-PA-19149/10504997_zpid/
+House for sale,7128 Horrocks St,Philadelphia,PA,19149,"$200,000",3,2.0,1396.0,1306.0,1950,SINGLE_FAMILY,130700.0,https://www.zillow.com/homedetails/7128-Horrocks-St-Philadelphia-PA-19149/10501995_zpid/
+Townhouse for sale,3030 Robbins Ave,Philadelphia,PA,19149,"$159,900",4,2.0,1068.0,1049.0,1935,TOWNHOUSE,123800.0,https://www.zillow.com/homedetails/3030-Robbins-Ave-Philadelphia-PA-19149/10503521_zpid/
+For sale by owner,2937 Mckinley St,Philadelphia,PA,19149,"$159,000",3,1.0,1278.0,991.0,1940,TOWNHOUSE,115400.0,https://www.zillow.com/homedetails/2937-Mckinley-St-Philadelphia-PA-19149/10555257_zpid/
+Townhouse for sale,2153 Fanshawe St,Philadelphia,PA,19149,"$168,000",3,2.0,1278.0,1825.0,1950,TOWNHOUSE,141300.0,https://www.zillow.com/homedetails/2153-Fanshawe-St-Philadelphia-PA-19149/10497891_zpid/
+Townhouse for sale,3325 Glenview St,Philadelphia,PA,19149,"$244,990",4,2.0,1430.0,1716.0,1950,TOWNHOUSE,164500.0,https://www.zillow.com/homedetails/3325-Glenview-St-Philadelphia-PA-19149/10505851_zpid/
+Townhouse for sale,2252 Saint Vincent St,Philadelphia,PA,19149,"$185,000",3,2.0,1170.0,1711.0,1950,TOWNHOUSE,143600.0,https://www.zillow.com/homedetails/2252-Saint-Vincent-St-Philadelphia-PA-19149/10500427_zpid/
+Townhouse for sale,5930 Elmhurst St,Philadelphia,PA,19149,"$155,000",4,2.0,1188.0,2609.0,1955,TOWNHOUSE,102500.0,https://www.zillow.com/homedetails/5930-Elmhurst-St-Philadelphia-PA-19149/10355509_zpid/
+Townhouse for sale,2805 Magee Ave,Philadelphia,PA,19149,"$225,000",3,2.0,1120.0,1550.0,1950,TOWNHOUSE,146600.0,https://www.zillow.com/homedetails/2805-Magee-Ave-Philadelphia-PA-19149/10504360_zpid/
+Townhouse for sale,7255 Brous Ave,Philadelphia,PA,19149,"$269,900",3,3.0,1052.0,1672.0,1954,TOWNHOUSE,135000.0,https://www.zillow.com/homedetails/7255-Brous-Ave-Philadelphia-PA-19149/10567494_zpid/
+Townhouse for sale,3312 Cottman Ave,Philadelphia,PA,19149,"$215,000",3,2.0,1548.0,1581.0,1945,TOWNHOUSE,158600.0,https://www.zillow.com/homedetails/3312-Cottman-Ave-Philadelphia-PA-19149/10508217_zpid/
+Townhouse for sale,2007 Devereaux Ave,Philadelphia,PA,19149,"$189,999",4,2.0,1314.0,1772.0,1950,TOWNHOUSE,128200.0,https://www.zillow.com/homedetails/2007-Devereaux-Ave-Philadelphia-PA-19149/10554982_zpid/
+Townhouse for sale,7253 Eastwood St,Philadelphia,PA,19149,"$179,900",2,1.0,914.0,1298.0,1950,TOWNHOUSE,110500.0,https://www.zillow.com/homedetails/7253-Eastwood-St-Philadelphia-PA-19149/10502657_zpid/
+Townhouse for sale,2737 Elbridge St,Philadelphia,PA,19149,"$179,000",3,2.0,1200.0,2029.0,1950,TOWNHOUSE,127900.0,https://www.zillow.com/homedetails/2737-Elbridge-St-Philadelphia-PA-19149/10555588_zpid/
+Townhouse for sale,3142 Brighton St,Philadelphia,PA,19149,"$229,500",3,2.0,1566.0,1742.0,1950,TOWNHOUSE,157600.0,https://www.zillow.com/homedetails/3142-Brighton-St-Philadelphia-PA-19149/10506755_zpid/
+Townhouse for sale,6013 Castor Ave,Philadelphia,PA,19149,"$189,900",3,2.0,1368.0,2456.0,1945,TOWNHOUSE,112100.0,https://www.zillow.com/homedetails/6013-Castor-Ave-Philadelphia-PA-19149/10497973_zpid/
+For sale by owner,1441 Stevens St,Philadelphia,PA,19149,"$100,000",3,1.0,970.0,1028.0,1950,SINGLE_FAMILY,85800.0,https://www.zillow.com/homedetails/1441-Stevens-St-Philadelphia-PA-19149/10497155_zpid/
+Apartment for sale,6706 Rowland Ave,Philadelphia,PA,19149,"$234,900",0,,1254.0,2003.0,1945,MULTI_FAMILY,,https://www.zillow.com/homedetails/6706-Rowland-Ave-Philadelphia-PA-19149/2132450970_zpid/
+For sale by owner,1411 Hellerman St,Philadelphia,PA,19149,"$279,000",4,2.0,1620.0,3105.0,1950,MULTI_FAMILY,,https://www.zillow.com/homedetails/1411-Hellerman-St-Philadelphia-PA-19149/2094623752_zpid/
+Apartment for sale,3138 Tyson Ave,Philadelphia,PA,19149,"$339,888",0,,1872.0,2304.0,1950,MULTI_FAMILY,,https://www.zillow.com/homedetails/3138-Tyson-Ave-Philadelphia-PA-19149/2080775171_zpid/
+Townhouse for sale,6237 Castor Ave,Philadelphia,PA,19149,"$185,000",3,2.0,1472.0,1620.0,1950,TOWNHOUSE,125200.0,https://www.zillow.com/homedetails/6237-Castor-Ave-Philadelphia-PA-19149/10498017_zpid/
+Townhouse for sale,3416 Tyson Ave,Philadelphia,PA,19149,"$224,900",3,1.0,1440.0,1637.0,1940,TOWNHOUSE,158300.0,https://www.zillow.com/homedetails/3416-Tyson-Ave-Philadelphia-PA-19149/10506588_zpid/
+Townhouse for sale,3305 Longshore Ave,Philadelphia,PA,19149,"$249,900",3,2.0,1451.0,1616.0,1950,TOWNHOUSE,164500.0,https://www.zillow.com/homedetails/3305-Longshore-Ave-Philadelphia-PA-19149/10506161_zpid/
+Townhouse for sale,2934 Knorr St,Philadelphia,PA,19149,"$245,000",3,2.0,1168.0,2008.0,1950,TOWNHOUSE,148300.0,https://www.zillow.com/homedetails/2934-Knorr-St-Philadelphia-PA-19149/10505301_zpid/
+Townhouse for sale,7219 Rutland St,Philadelphia,PA,19149,"$165,900",3,1.0,1200.0,1062.0,1940,TOWNHOUSE,122300.0,https://www.zillow.com/homedetails/7219-Rutland-St-Philadelphia-PA-19149/10500698_zpid/
+Townhouse for sale,7049 Kindred St,Philadelphia,PA,19149,"$199,500",3,3.0,1170.0,1149.0,1950,TOWNHOUSE,127400.0,https://www.zillow.com/homedetails/7049-Kindred-St-Philadelphia-PA-19149/10501565_zpid/
+Apartment for sale,6919 Rutland St,Philadelphia,PA,19149,"$195,000",3,2.0,1408.0,2291.0,1950,MULTI_FAMILY,162800.0,https://www.zillow.com/homedetails/6919-Rutland-St-Philadelphia-PA-19149/80953207_zpid/
+Townhouse for sale,6328 Mershon St,Philadelphia,PA,19149,"$155,000",3,1.0,1072.0,1102.0,1950,TOWNHOUSE,111800.0,https://www.zillow.com/homedetails/6328-Mershon-St-Philadelphia-PA-19149/10557822_zpid/
+Townhouse for sale,1263 Alcott St,Philadelphia,PA,19149,"$91,500",3,1.0,1088.0,1049.0,1950,TOWNHOUSE,82100.0,https://www.zillow.com/homedetails/1263-Alcott-St-Philadelphia-PA-19149/10356662_zpid/
+Townhouse for sale,3451 Saint Vincent St,Philadelphia,PA,19149,"$239,900",3,2.0,1480.0,1598.0,1945,TOWNHOUSE,146400.0,https://www.zillow.com/homedetails/3451-Saint-Vincent-St-Philadelphia-PA-19149/10507699_zpid/
+Townhouse for sale,3331 Englewood St,Philadelphia,PA,19149,"$239,900",3,2.0,1600.0,1507.0,1950,TOWNHOUSE,164600.0,https://www.zillow.com/homedetails/3331-Englewood-St-Philadelphia-PA-19149/10508103_zpid/
+Townhouse for sale,2822 Tyson Ave,Philadelphia,PA,19149,"$229,000",3,2.0,1204.0,1581.0,1950,TOWNHOUSE,150400.0,https://www.zillow.com/homedetails/2822-Tyson-Ave-Philadelphia-PA-19149/10506520_zpid/

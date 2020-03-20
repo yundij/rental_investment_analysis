@@ -1,0 +1,40 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,3001 Mckinley St,Philadelphia,PA,19149,$900/mo,2,1.0,900.0,1940,1126.0,APARTMENT
+House for rent,6733 Horrocks St,Philadelphia,PA,19149,"$1,250/mo",3,1.0,1068.0,1950,1337.0,SINGLE_FAMILY
+Townhouse for rent,6931 Oakland St,Philadelphia,PA,19149,$950/mo,2,1.0,940.0,1950,-1.0,TOWNHOUSE
+Townhouse for rent,1465 Mckinley St FLOOR 1,Philadelphia,PA,19149,$850/mo,2,1.0,1000.0,1900,-1.0,TOWNHOUSE
+Apartment for rent,Oakland St,Philadelphia,PA,19149,"$1,000/mo",2,1.0,900.0,-1,-1.0,APARTMENT
+Apartment for rent,Cottman Ave,Philadelphia,PA,19149,$900/mo,1,1.0,690.0,-1,-1.0,APARTMENT
+Apartment for rent,Cottman Ave,Philadelphia,PA,19149,$850/mo,1,1.0,670.0,-1,-1.0,APARTMENT
+Apartment for rent,3202 Tyson Ave,Philadelphia,PA,19149,"$1,000/mo",2,2.0,1872.0,-1,2178.0,APARTMENT
+Townhouse for rent,3469 Friendship St,Philadelphia,PA,19149,"$1,350/mo",3,1.0,1474.0,1950,1498.0,TOWNHOUSE
+Townhouse for rent,3029 Knorr St,Philadelphia,PA,19149,"$1,350/mo",3,2.0,1462.0,1950,1764.0,TOWNHOUSE
+House for rent,7145 Saul St,Philadelphia,PA,19149,"$1,250/mo",3,1.0,1100.0,1950,1285.0,SINGLE_FAMILY
+Apartment for rent,7238 Battersby St FLOOR 1,Philadelphia,PA,19149,$925/mo,2,1.0,,-1,-1.0,MULTI_FAMILY
+House for rent,28XX Hellerman St,Philadelphia,PA,19149,"$1,250/mo",3,1.5,1132.0,-1,-1.0,SINGLE_FAMILY
+Townhouse for rent,1574 Devereaux Ave,Philadelphia,PA,19149,"$1,250/mo",3,1.0,1300.0,1950,1365.0,TOWNHOUSE
+Townhouse for rent,5813 Bustleton Ave,Philadelphia,PA,19149,$795/mo,2,1.0,654.0,1947,1306.0,TOWNHOUSE
+Apartment for rent,2030 Mckinley St,Philadelphia,PA,19149,$795/mo,1,1.0,600.0,1951,3049.0,APARTMENT
+Townhouse for rent,6244 Everett St,Philadelphia,PA,19149,"$3,550/mo",3,1.0,1120.0,-1,-1.0,TOWNHOUSE
+Townhouse for rent,Eastwood St,Philadelphia,PA,19149,"$1,000/mo",0,1.0,1000.0,-1,-1.0,TOWNHOUSE
+Townhouse for rent,7128 Rutland St,Philadelphia,PA,19149,"$1,500/mo",3,1.0,1272.0,1950,1411.0,TOWNHOUSE
+Townhouse for rent,2949 Glenview St,Philadelphia,PA,19149,"$1,300/mo",3,1.5,1205.0,1950,1951.0,TOWNHOUSE
+Apartment for rent,1500 Devereaux Ave # 1,Philadelphia,PA,19149,$825/mo,1,1.0,700.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,7067 Castor Ave # 2,Philadelphia,PA,19149,"$1,100/mo",2,1.0,1400.0,-1,-1.0,APARTMENT
+House for rent,2128 Tyson Ave,Philadelphia,PA,19149,"$1,250/mo",3,1.0,1174.0,1950,1609.0,SINGLE_FAMILY
+House for rent,6315 Sylvester St,Philadelphia,PA,19149,"$1,300/mo",3,1.0,1152.0,1950,1266.0,SINGLE_FAMILY
+Apartment for rent,6807 Castor Ave # STORE,Philadelphia,PA,19149,"$1,600/mo",0,1.0,600.0,-1,-1.0,APARTMENT
+Townhouse for rent,3215 Longshore Ave,Philadelphia,PA,19149,"$1,350/mo",3,1.0,1440.0,1950,1629.0,TOWNHOUSE
+House for rent,2830 Disston St,Philadelphia,PA,19149,"$1,300/mo",3,1.5,1164.0,1925,1475.0,SINGLE_FAMILY
+Apartment for rent,3130 Tyson Ave # 2,Philadelphia,PA,19149,"$1,300/mo",2,1.0,900.0,1967,-1.0,MULTI_FAMILY
+Apartment for rent,6224 Everett Ave # 2,Philadelphia,PA,19149,$900/mo,2,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,3128 Tyson Ave,Philadelphia,PA,19149,$675/mo,0,1.0,1872.0,1950,2269.0,APARTMENT
+Apartment for rent,Mckinley St,Philadelphia,PA,19149,$850/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,6705 Oakland St # 1,Philadelphia,PA,19149,"$1,000/mo",2,1.0,1000.0,1960,-1.0,MULTI_FAMILY
+House for rent,6215 Revere St,Philadelphia,PA,19149,"$1,050/mo",3,1.0,1152.0,1950,1371.0,SINGLE_FAMILY
+House for rent,3004 Unruh Ave,Philadelphia,PA,19149,"$1,400/mo",3,2.0,1488.0,1950,1759.0,SINGLE_FAMILY
+Apartment for rent,3114 Knorr St # 5188672623,Philadelphia,PA,19149,"$1,300/mo",3,2.0,1450.0,-1,-1.0,APARTMENT
+Apartment for rent,2201 Disston St # 1,Philadelphia,PA,19149,$925/mo,2,1.0,750.0,-1,-1.0,APARTMENT
+Townhouse for rent,1234 Alcott St,Philadelphia,PA,19149,"$1,250/mo",3,1.0,1088.0,1950,1097.0,TOWNHOUSE
+Townhouse for rent,7028 Castor Ave # 2,Philadelphia,PA,19149,"$1,100/mo",2,1.0,,-1,-1.0,TOWNHOUSE
+House for rent,6812 Sylvester St,Philadelphia,PA,19149,"$1,250/mo",3,1.0,1100.0,1950,1264.0,SINGLE_FAMILY

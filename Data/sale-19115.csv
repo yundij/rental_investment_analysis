@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+House for sale,619 Sharon Ln,Philadelphia,PA,19115,"$372,900",4,3.0,1700.0,10890.0,1965,SINGLE_FAMILY,289200.0,https://www.zillow.com/homedetails/619-Sharon-Ln-Philadelphia-PA-19115/80942396_zpid/
+House for sale,729 Alburger Ave,Philadelphia,PA,19115,"$299,000",3,2.0,1567.0,5998.0,1960,SINGLE_FAMILY,251400.0,https://www.zillow.com/homedetails/729-Alburger-Ave-Philadelphia-PA-19115/10565852_zpid/
+Apartment for sale,9825 Cowden St,Philadelphia,PA,19115,"$259,900",3,3.0,1720.0,2800.0,1965,MULTI_FAMILY,210000.0,https://www.zillow.com/homedetails/9825-Cowden-St-Philadelphia-PA-19115/10529119_zpid/
+Townhouse for sale,9112 Springview Rd,Philadelphia,PA,19115,"$265,000",3,3.0,1800.0,5828.0,1999,TOWNHOUSE,245200.0,https://www.zillow.com/homedetails/9112-Springview-Rd-Philadelphia-PA-19115/10566383_zpid/
+For sale by owner,1255 Serota Pl,Philadelphia,PA,19115,"$649,900",5,4.0,3000.0,5700.0,1990,SINGLE_FAMILY,395000.0,https://www.zillow.com/homedetails/1255-Serota-Pl-Philadelphia-PA-19115/10527108_zpid/
+House for sale,12 Covered Bridge Path,Philadelphia,PA,19115,"$479,000",4,3.0,3000.0,4970.0,1988,SINGLE_FAMILY,335000.0,https://www.zillow.com/homedetails/12-Covered-Bridge-Path-Philadelphia-PA-19115/10528102_zpid/
+House for sale,8895 Alton St,Philadelphia,PA,19115,"$389,900",4,3.0,2100.0,6791.0,1965,SINGLE_FAMILY,296000.0,https://www.zillow.com/homedetails/8895-Alton-St-Philadelphia-PA-19115/80949062_zpid/
+House for sale,9714 Bridle Rd,Philadelphia,PA,19115,"$524,899",4,3.0,3510.0,6298.0,2007,SINGLE_FAMILY,450000.0,https://www.zillow.com/homedetails/9714-Bridle-Rd-Philadelphia-PA-19115/87762236_zpid/
+House for sale,9546 Wick Rd,Philadelphia,PA,19115,"$374,900",3,3.0,1644.0,9374.0,1957,SINGLE_FAMILY,280000.0,https://www.zillow.com/homedetails/9546-Wick-Rd-Philadelphia-PA-19115/80948645_zpid/
+House for sale,1078 Welsh Rd,Philadelphia,PA,19115,"$399,900",4,3.0,2222.0,57865.0,1951,SINGLE_FAMILY,368100.0,https://www.zillow.com/homedetails/1078-Welsh-Rd-Philadelphia-PA-19115/10565023_zpid/
+Townhouse for sale,9946 Woodfern Rd,Philadelphia,PA,19115,"$315,000",3,2.0,1557.0,4382.0,1957,TOWNHOUSE,202000.0,https://www.zillow.com/homedetails/9946-Woodfern-Rd-Philadelphia-PA-19115/10527886_zpid/
+House for sale,2229 Fulmer St,Philadelphia,PA,19115,"$245,000",3,2.0,1392.0,8903.0,1956,SINGLE_FAMILY,230000.0,https://www.zillow.com/homedetails/2229-Fulmer-St-Philadelphia-PA-19115/10526600_zpid/
+House for sale,9816 Woodfern Rd,Philadelphia,PA,19115,"$249,900",3,1.0,1566.0,6969.0,1955,SINGLE_FAMILY,253200.0,https://www.zillow.com/homedetails/9816-Woodfern-Rd-Philadelphia-PA-19115/10527877_zpid/
+House for sale,810 Cates Way,Philadelphia,PA,19115,"$559,000",4,3.0,3212.0,10537.0,2010,SINGLE_FAMILY,517400.0,https://www.zillow.com/homedetails/810-Cates-Way-Philadelphia-PA-19115/103776770_zpid/
+For sale by owner,9523 Northeast Ave,Philadelphia,PA,19115,"$349,000",7,5.0,1333.0,8712.0,1912,SINGLE_FAMILY,240000.0,https://www.zillow.com/homedetails/9523-Northeast-Ave-Philadelphia-PA-19115/10528172_zpid/
+House for sale,8803 Winchester Ave,Philadelphia,PA,19115,"$269,000",3,1.0,1060.0,3920.0,1966,SINGLE_FAMILY,195600.0,https://www.zillow.com/homedetails/8803-Winchester-Ave-Philadelphia-PA-19115/10519793_zpid/
+House for sale,9225 Pine Rd,Philadelphia,PA,19115,"$419,500",4,3.0,1825.0,7714.0,1965,SINGLE_FAMILY,313400.0,https://www.zillow.com/homedetails/9225-Pine-Rd-Philadelphia-PA-19115/80950909_zpid/
+House for sale,9985 Haldeman Ave,Philadelphia,PA,19115,"$224,900",2,1.0,768.0,5501.0,1953,SINGLE_FAMILY,158000.0,https://www.zillow.com/homedetails/9985-Haldeman-Ave-Philadelphia-PA-19115/10528277_zpid/
+House for sale,1256 Serota Pl,Philadelphia,PA,19115,"$419,000",3,3.0,3000.0,5710.0,1999,SINGLE_FAMILY,395000.0,https://www.zillow.com/homedetails/1256-Serota-Pl-Philadelphia-PA-19115/10527079_zpid/
+Apartment for sale,9949 Sandy Rd,Philadelphia,PA,19115,"$298,900",3,3.0,1498.0,3001.0,1952,MULTI_FAMILY,190000.0,https://www.zillow.com/homedetails/9949-Sandy-Rd-Philadelphia-PA-19115/10528538_zpid/
+House for sale,9224 Burbank Rd,Philadelphia,PA,19115,"$439,000",3,3.0,1945.0,9165.0,1965,SINGLE_FAMILY,309800.0,https://www.zillow.com/homedetails/9224-Burbank-Rd-Philadelphia-PA-19115/10566159_zpid/
+Auction,1958 Goodnaw St,Philadelphia,PA,19115,,5,2.0,2081.0,3049.0,1960,APARTMENT,,https://www.zillow.com/homedetails/1958-Goodnaw-St-Philadelphia-PA-19115/2093636947_zpid/
+Apartment for sale,8810 Roosevelt Blvd,Philadelphia,PA,19115,"$249,900",3,2.0,1086.0,5667.0,1956,MULTI_FAMILY,183300.0,https://www.zillow.com/homedetails/8810-Roosevelt-Blvd-Philadelphia-PA-19115/10520019_zpid/
+Condo for sale,1630 Welsh Rd UNIT B13,Philadelphia,PA,19115,"$214,999",2,2.0,1344.0,-1.0,2007,CONDO,,https://www.zillow.com/homedetails/1630-Welsh-Rd-UNIT-B13-Philadelphia-PA-19115/2083217542_zpid/
+House for sale,2038 Grant Ave,Philadelphia,PA,19115,"$300,000",3,1.0,1850.0,4138.0,1953,SINGLE_FAMILY,182900.0,https://www.zillow.com/homedetails/2038-Grant-Ave-Philadelphia-PA-19115/10518912_zpid/
+Condo for sale,1630 Welsh Rd UNIT G58,Philadelphia,PA,19115,"$233,800",3,3.0,1752.0,-1.0,2007,CONDO,,https://www.zillow.com/homedetails/1630-Welsh-Rd-UNIT-G58-Philadelphia-PA-19115/2081556418_zpid/
+Condo for sale,8940 Krewstown Rd APT 317,Philadelphia,PA,19115,"$159,900",2,2.0,1234.0,435.0,1974,CONDO,,https://www.zillow.com/homedetails/8940-Krewstown-Rd-APT-317-Philadelphia-PA-19115/2113956766_zpid/
+Condo for sale,9921 Bustleton Ave APT G1,Philadelphia,PA,19115,"$130,900",2,1.0,634.0,634.0,1979,CONDO,71300.0,https://www.zillow.com/homedetails/9921-Bustleton-Ave-APT-G1-Philadelphia-PA-19115/10610019_zpid/
+Condo for sale,8960 Krewstown Rd # 304,Philadelphia,PA,19115,"$134,900",1,2.0,1185.0,1185.0,1974,CONDO,100000.0,https://www.zillow.com/homedetails/8960-Krewstown-Rd-304-Philadelphia-PA-19115/10611425_zpid/
+Condo for sale,1630 1630-90 Welsh Rd # 48F,Philadelphia,PA,19115,"$238,800",2,3.0,1752.0,-1.0,2007,CONDO,,https://www.zillow.com/homedetails/1630-1630-90-Welsh-Rd-48F-Philadelphia-PA-19115/2081386819_zpid/
+Lot / Land for sale,1075 Welsh Rd,Philadelphia,PA,19115,"$210,000",,,,11099.0,-1,LOT,82500.0,https://www.zillow.com/homedetails/1075-Welsh-Rd-Philadelphia-PA-19115/118346806_zpid/
+Condo for sale,1630 Welsh Rd UNIT B16,Philadelphia,PA,19115,"$299,833",2,3.0,1752.0,-1.0,2007,CONDO,,https://www.zillow.com/homedetails/1630-Welsh-Rd-UNIT-B16-Philadelphia-PA-19115/2097506592_zpid/
+Auction,9831 Hoff St,Philadelphia,PA,19115,,,,1920.0,3240.0,1960,SINGLE_FAMILY,220000.0,https://www.zillow.com/homedetails/9831-Hoff-St-Philadelphia-PA-19115/10528755_zpid/
+For sale by owner,1209-17 Norwalk Rd # 19,Philadelphia,PA,19115,"$249,900",2,2.0,1300.0,1300.0,1994,CONDO,124200.0,https://www.zillow.com/homedetails/1209-17-Norwalk-Rd-19-Philadelphia-PA-19115/10611145_zpid/
+Condo for sale,9921 Bustleton Ave APT A2,Philadelphia,PA,19115,"$130,900",2,1.0,834.0,827.0,1979,CONDO,81200.0,https://www.zillow.com/homedetails/9921-Bustleton-Ave-APT-A2-Philadelphia-PA-19115/10609954_zpid/
+Auction,2216 Bowler St,Philadelphia,PA,19115,,,,1210.0,3064.0,1957,SINGLE_FAMILY,199700.0,https://www.zillow.com/homedetails/2216-Bowler-St-Philadelphia-PA-19115/10526753_zpid/
+Pre-foreclosure / Auction,8836 Roosevelt Blvd,Philadelphia,PA,19115,,,,1086.0,4177.0,1956,SINGLE_FAMILY,180800.0,https://www.zillow.com/homedetails/8836-Roosevelt-Blvd-Philadelphia-PA-19115/10520031_zpid/
+Pre-foreclosure / Auction,9164 Old Newtown Rd,Philadelphia,PA,19115,,4,3.0,2300.0,5580.0,2007,SINGLE_FAMILY,332400.0,https://www.zillow.com/homedetails/9164-Old-Newtown-Rd-Philadelphia-PA-19115/80945101_zpid/
+Pre-foreclosure / Auction,9315 Spicebush Ln,Philadelphia,PA,19115,,,,1871.0,7700.0,1965,SINGLE_FAMILY,314500.0,https://www.zillow.com/homedetails/9315-Spicebush-Ln-Philadelphia-PA-19115/80947122_zpid/
+Pre-foreclosure / Auction,8802-04 Verree Rd,Philadelphia,PA,19115,,,,,33000.0,-1,SINGLE_FAMILY,150000.0,https://www.zillow.com/homedetails/8802-04-Verree-Rd-Philadelphia-PA-19115/118344628_zpid/

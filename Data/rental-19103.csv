@@ -1,0 +1,13 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Condo for rent,250 S 17th St APT 801,Philadelphia,PA,19103,"$3,000/mo",1,1.0,900.0,1910,-1.0,CONDO
+Apartment for rent,200-50 N 16th St PENTHOUSE 9,Philadelphia,PA,19103,"$5,110/mo",2,2.0,1500.0,-1,-1.0,APARTMENT
+Apartment for rent,2209 Walnut St APT 2R,Philadelphia,PA,19103,"$1,395/mo",0,1.0,550.0,-1,-1.0,APARTMENT
+Apartment for rent,Chestnut St,Philadelphia,PA,19103,"$1,450/mo",1,1.0,500.0,-1,-1.0,APARTMENT
+Apartment for rent,1925 Spruce St APT 3F,Philadelphia,PA,19103,"$1,995/mo",1,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,1700 Pine St APT 2R,Philadelphia,PA,19103,"$1,300/mo",1,1.0,750.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,234 S 20th St APT 3,Philadelphia,PA,19103,"$3,295/mo",3,2.0,1650.0,-1,-1.0,APARTMENT
+House for rent,Pine St,Philadelphia,PA,19103,"$3,500/mo",3,2.5,1662.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,2417 Spruce St APT 3R,Philadelphia,PA,19103,"$1,525/mo",1,1.0,600.0,2007,-1.0,APARTMENT
+Townhouse for rent,2204 Manning St,Philadelphia,PA,19103,"$3,300/mo",2,1.0,1100.0,1850,594.0,TOWNHOUSE
+Apartment for rent,2131 Walnut St # 101,Philadelphia,PA,19103,"$1,600/mo",1,1.0,767.0,-1,-1.0,APARTMENT
+Apartment for rent,2102 Walnut St # 8M,Philadelphia,PA,19103,"$1,020/mo",0,1.0,150.0,-1,-1.0,APARTMENT

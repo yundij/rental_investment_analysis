@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Condo for sale,3 N Columbus Blvd APT TD441,Philadelphia,PA,19106,"$304,900",2,2.0,1300.0,-1.0,1982,CONDO,275000.0,https://www.zillow.com/homedetails/3-N-Columbus-Blvd-APT-TD441-Philadelphia-PA-19106/10601526_zpid/
+Condo for sale,38 N Front St # 4B,Philadelphia,PA,19106,"$299,900",1,1.0,745.0,871.0,2007,CONDO,,https://www.zillow.com/homedetails/38-N-Front-St-4B-Philadelphia-PA-19106/2144208953_zpid/
+Condo for sale,312 Market St # C,Philadelphia,PA,19106,"$389,900",2,2.0,1412.0,1412.0,2005,CONDO,279200.0,https://www.zillow.com/homedetails/312-Market-St-C-Philadelphia-PA-19106/67365139_zpid/
+Townhouse for sale,319 Pine St,Philadelphia,PA,19106,"$1,950,000",4,6.0,3886.0,1742.0,1827,TOWNHOUSE,1483600.0,https://www.zillow.com/homedetails/319-Pine-St-Philadelphia-PA-19106/67362558_zpid/
+House for sale,500 Walnut St UNIT 1400,Philadelphia,PA,19106,"$6,500,000",3,4.0,4300.0,-1.0,2017,SINGLE_FAMILY,,https://www.zillow.com/homedetails/500-Walnut-St-UNIT-1400-Philadelphia-PA-19106/2082487373_zpid/
+Condo for sale,122 New St APT 3C,Philadelphia,PA,19106,"$549,000",2,2.0,1219.0,-1.0,2006,CONDO,,https://www.zillow.com/homedetails/122-New-St-APT-3C-Philadelphia-PA-19106/2146693689_zpid/
+Condo for sale,121 Walnut St # 404,Philadelphia,PA,19106,"$650,000",2,2.0,1940.0,-1.0,1900,CONDO,,https://www.zillow.com/homedetails/121-Walnut-St-404-Philadelphia-PA-19106/2082693931_zpid/
+Townhouse for sale,309 S 3rd St,Philadelphia,PA,19106,"$3,999,000",5,6.0,7929.0,3380.0,1844,TOWNHOUSE,3235000.0,https://www.zillow.com/homedetails/309-S-3rd-St-Philadelphia-PA-19106/10195890_zpid/
+Townhouse for sale,266 Saint Josephs Way,Philadelphia,PA,19106,"$779,000",1,2.0,1628.0,1028.0,1967,TOWNHOUSE,687000.0,https://www.zillow.com/homedetails/266-Saint-Josephs-Way-Philadelphia-PA-19106/10195954_zpid/
+Townhouse for sale,528 Spruce St,Philadelphia,PA,19106,"$1,850,000",4,5.0,3843.0,1986.0,1850,TOWNHOUSE,1606100.0,https://www.zillow.com/homedetails/528-Spruce-St-Philadelphia-PA-19106/126258707_zpid/
+Townhouse for sale,424 Pine St,Philadelphia,PA,19106,"$1,995,000",4,6.0,4900.0,2613.0,1796,TOWNHOUSE,2047900.0,https://www.zillow.com/homedetails/424-Pine-St-Philadelphia-PA-19106/10196433_zpid/
+Townhouse for sale,624 Pine St,Philadelphia,PA,19106,"$1,050,000",4,3.0,2740.0,871.0,1975,TOWNHOUSE,1183600.0,https://www.zillow.com/homedetails/624-Pine-St-Philadelphia-PA-19106/10196460_zpid/
+Townhouse for sale,606 Spruce St,Philadelphia,PA,19106,"$1,450,000",4,3.0,3402.0,1742.0,1850,TOWNHOUSE,1469600.0,https://www.zillow.com/homedetails/606-Spruce-St-Philadelphia-PA-19106/10196232_zpid/
+Condo for sale,112 N 2nd St APT 5H1,Philadelphia,PA,19106,"$499,000",2,2.0,1460.0,1459.0,2006,CONDO,440000.0,https://www.zillow.com/homedetails/112-N-2nd-St-APT-5H1-Philadelphia-PA-19106/67365345_zpid/
+House for sale,736 Manning St,Philadelphia,PA,19106,"$690,000",4,2.0,1620.0,435.0,1900,SINGLE_FAMILY,529700.0,https://www.zillow.com/homedetails/736-Manning-St-Philadelphia-PA-19106/10197720_zpid/
+Townhouse for sale,118 Spruce St,Philadelphia,PA,19106,"$1,225,000",4,3.0,2919.0,1132560.0,1971,TOWNHOUSE,1016000.0,https://www.zillow.com/homedetails/118-Spruce-St-Philadelphia-PA-19106/10600694_zpid/
+Townhouse for sale,308 S Philip St,Philadelphia,PA,19106,"$865,000",4,2.0,1701.0,757.0,1815,TOWNHOUSE,702500.0,https://www.zillow.com/homedetails/308-S-Philip-St-Philadelphia-PA-19106/10195861_zpid/
+New construction,115 Arch St # 201,Philadelphia,PA,19106,"$2,250,000",4,5.0,3631.0,-1.0,1900,CONDO,,https://www.zillow.com/homedetails/115-Arch-St-201-Philadelphia-PA-19106/2081843451_zpid/
+Townhouse for sale,104-6 Delancey St,Philadelphia,PA,19106,"$1,995,000",5,6.0,4952.0,2613.0,1766,TOWNHOUSE,1446900.0,https://www.zillow.com/homedetails/104-6-Delancey-St-Philadelphia-PA-19106/10196313_zpid/
+New construction,115 Arch St FL 4,Philadelphia,PA,19106,"$3,400,000",5,6.0,4828.0,-1.0,1900,CONDO,,https://www.zillow.com/homedetails/115-Arch-St-FL-4-Philadelphia-PA-19106/2082886888_zpid/
+For sale by owner,3 N Christopher Columbus Blvd APT 246,Philadelphia,PA,19106,"$260,000",1,2.0,800.0,-1.0,-1,CONDO,,https://www.zillow.com/homedetails/3-N-Christopher-Columbus-Blvd-APT-246-Philadelphia-PA-19106/2081452721_zpid/
+Condo for sale,301 Race St APT 509,Philadelphia,PA,19106,"$225,000",1,1.0,715.0,715.0,1900,CONDO,215700.0,https://www.zillow.com/homedetails/301-Race-St-APT-509-Philadelphia-PA-19106/10601073_zpid/
+Condo for sale,501 Vine St # 3,Philadelphia,PA,19106,"$395,000",1,1.0,989.0,-1.0,2015,CONDO,,https://www.zillow.com/homedetails/501-Vine-St-3-Philadelphia-PA-19106/2103901688_zpid/
+Townhouse for sale,7 N Columbus Blvd APT 214,Philadelphia,PA,19106,"$559,900",3,4.0,2229.0,2229.0,1982,TOWNHOUSE,324400.0,https://www.zillow.com/homedetails/7-N-Columbus-Blvd-APT-214-Philadelphia-PA-19106/10601325_zpid/
+Condo for sale,109-11 Church St # 3,Philadelphia,PA,19106,"$345,000",1,1.0,1000.0,-1.0,1900,CONDO,,https://www.zillow.com/homedetails/109-11-Church-St-3-Philadelphia-PA-19106/2080547095_zpid/
+Townhouse for sale,4 S Strawberry St,Philadelphia,PA,19106,"$664,900",4,2.0,1736.0,435.0,1919,TOWNHOUSE,433200.0,https://www.zillow.com/homedetails/4-S-Strawberry-St-Philadelphia-PA-19106/67363724_zpid/
+Condo for sale,113 N Bread St APT 3F3,Philadelphia,PA,19106,"$385,000",2,2.0,984.0,-1.0,2006,CONDO,325500.0,https://www.zillow.com/homedetails/113-N-Bread-St-APT-3F3-Philadelphia-PA-19106/67365267_zpid/
+Condo for sale,20 S Letitia St # 4C,Philadelphia,PA,19106,"$849,900",2,3.0,2196.0,-1.0,1900,CONDO,669000.0,https://www.zillow.com/homedetails/20-S-Letitia-St-4C-Philadelphia-PA-19106/124248199_zpid/
+Condo for sale,227 S 6th St APT 1C,Philadelphia,PA,19106,"$3,500,000",2,3.0,2767.0,-1.0,-1,CONDO,,https://www.zillow.com/homedetails/227-S-6th-St-APT-1C-Philadelphia-PA-19106/2084138429_zpid/
+Condo for sale,210 Locust St # 23EW,Philadelphia,PA,19106,"$199,900",0,1.0,522.0,522.0,1963,CONDO,183600.0,https://www.zillow.com/homedetails/210-Locust-St-23EW-Philadelphia-PA-19106/10599513_zpid/
+New construction,19 S Letitia St # 9,Philadelphia,PA,19106,"$2,300,000",5,6.0,5200.0,1311.0,2019,TOWNHOUSE,,https://www.zillow.com/homedetails/19-S-Letitia-St-9-Philadelphia-PA-19106/2082811969_zpid/
+Townhouse for sale,254 S 3rd St,Philadelphia,PA,19106,"$2,000,000",3,5.0,3940.0,2474.0,1970,TOWNHOUSE,1194500.0,https://www.zillow.com/homedetails/254-S-3rd-St-Philadelphia-PA-19106/10195914_zpid/
+Condo for sale,305 N 3rd St APT C3,Philadelphia,PA,19106,"$339,000",2,1.0,948.0,871.0,1900,CONDO,240000.0,https://www.zillow.com/homedetails/305-N-3rd-St-APT-C3-Philadelphia-PA-19106/71246558_zpid/
+Condo for sale,317 Vine St # 201,Philadelphia,PA,19106,"$949,500",2,2.0,1900.0,-1.0,2006,CONDO,,https://www.zillow.com/homedetails/317-Vine-St-201-Philadelphia-PA-19106/2080512290_zpid/
+New construction,142 S Front St,Philadelphia,PA,19106,"$1,500,000",4,5.0,3640.0,1067.0,2018,TOWNHOUSE,2022200.0,https://www.zillow.com/homedetails/142-S-Front-St-Philadelphia-PA-19106/165607615_zpid/
+Condo for sale,112 N 2nd St APT 5H3,Philadelphia,PA,19106,"$445,000",2,2.0,1280.0,-1.0,2006,CONDO,399000.0,https://www.zillow.com/homedetails/112-N-2nd-St-APT-5H3-Philadelphia-PA-19106/67365361_zpid/
+Townhouse for sale,151-59 N 2nd St # 5,Philadelphia,PA,19106,"$739,900",3,4.0,2434.0,435.0,2016,TOWNHOUSE,,https://www.zillow.com/homedetails/151-59-N-2nd-St-5-Philadelphia-PA-19106/2081068791_zpid/
+New construction,138R S Front St # 8,Philadelphia,PA,19106,"$2,199,000",5,6.0,5006.0,1197.0,2018,TOWNHOUSE,,https://www.zillow.com/homedetails/138R-S-Front-St-8-Philadelphia-PA-19106/2091170367_zpid/
+Townhouse for sale,139 Elfreths Aly,Philadelphia,PA,19106,"$1,950,000",2,1.0,912.0,435.0,1703,TOWNHOUSE,353200.0,https://www.zillow.com/homedetails/139-Elfreths-Aly-Philadelphia-PA-19106/10196729_zpid/
+Condo for sale,36 S Strawberry St APT 27,Philadelphia,PA,19106,"$285,000",1,1.0,700.0,-1.0,1900,CONDO,231000.0,https://www.zillow.com/homedetails/36-S-Strawberry-St-APT-27-Philadelphia-PA-19106/63498850_zpid/

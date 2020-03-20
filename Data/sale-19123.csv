@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,204 W Laurel St UNIT 1,Philadelphia,PA,19123,"$1,400,000",4,4.0,4000.0,1010.0,2015,TOWNHOUSE,,https://www.zillow.com/homedetails/204-W-Laurel-St-UNIT-1-Philadelphia-PA-19123/2080493368_zpid/
+Townhouse for sale,1111 N Lee St,Philadelphia,PA,19123,"$314,000",2,2.0,1008.0,387.0,1920,TOWNHOUSE,318500.0,https://www.zillow.com/homedetails/1111-N-Lee-St-Philadelphia-PA-19123/10198509_zpid/
+Condo for sale,723 Melon Ter APT F,Philadelphia,PA,19123,"$189,000",2,1.0,825.0,-1.0,1980,CONDO,94800.0,https://www.zillow.com/homedetails/723-Melon-Ter-APT-F-Philadelphia-PA-19123/71249830_zpid/
+New construction,107 Olive St,Philadelphia,PA,19123,"$729,900",3,4.0,2800.0,892.0,2019,TOWNHOUSE,117900.0,https://www.zillow.com/homedetails/107-Olive-St-Philadelphia-PA-19123/165607666_zpid/
+New construction,402 N Front St # 1,Philadelphia,PA,19123,"$470,000",3,5.0,2045.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/402-N-Front-St-1-Philadelphia-PA-19123/2085515241_zpid/
+Townhouse for sale,506 Poplar St,Philadelphia,PA,19123,"$309,900",3,2.0,1547.0,1546.0,1971,TOWNHOUSE,374200.0,https://www.zillow.com/homedetails/506-Poplar-St-Philadelphia-PA-19123/10198264_zpid/
+Townhouse for sale,1131 N Hancock St,Philadelphia,PA,19123,"$390,000",3,3.0,1150.0,766.0,1920,TOWNHOUSE,347400.0,https://www.zillow.com/homedetails/1131-N-Hancock-St-Philadelphia-PA-19123/10198575_zpid/
+Condo for sale,201 Green St APT 3C,Philadelphia,PA,19123,"$275,000",1,1.0,730.0,435.0,1900,CONDO,244000.0,https://www.zillow.com/homedetails/201-Green-St-APT-3C-Philadelphia-PA-19123/87766833_zpid/
+Condo for sale,511 N Broad St APT 502,Philadelphia,PA,19123,"$184,900",1,1.0,737.0,734.0,1900,CONDO,,https://www.zillow.com/homedetails/511-N-Broad-St-APT-502-Philadelphia-PA-19123/2081003367_zpid/
+Condo for sale,1027 N 4th St UNIT T,Philadelphia,PA,19123,"$350,000",2,2.0,967.0,-1.0,1900,CONDO,,https://www.zillow.com/homedetails/1027-N-4th-St-UNIT-T-Philadelphia-PA-19123/2080568908_zpid/
+Townhouse for sale,1012 N Bodine St # J,Philadelphia,PA,19123,"$600,000",3,3.0,2400.0,871.0,2010,TOWNHOUSE,647700.0,https://www.zillow.com/homedetails/1012-N-Bodine-St-J-Philadelphia-PA-19123/103777828_zpid/
+Condo for sale,314 Brown St APT 204,Philadelphia,PA,19123,"$365,000",1,2.0,1018.0,-1.0,1960,CONDO,,https://www.zillow.com/homedetails/314-Brown-St-APT-204-Philadelphia-PA-19123/2093649905_zpid/
+Condo for sale,511 N Broad St APT 902,Philadelphia,PA,19123,"$182,400",1,1.0,737.0,-1.0,1900,CONDO,,https://www.zillow.com/homedetails/511-N-Broad-St-APT-902-Philadelphia-PA-19123/2102166339_zpid/
+Townhouse for sale,430 Poplar St # B,Philadelphia,PA,19123,"$424,900",3,3.0,1440.0,1119.0,1920,TOWNHOUSE,364800.0,https://www.zillow.com/homedetails/430-Poplar-St-B-Philadelphia-PA-19123/10198255_zpid/
+Condo for sale,1006 N 5th St # 3,Philadelphia,PA,19123,"$174,900",0,1.0,455.0,-1.0,2007,CONDO,157300.0,https://www.zillow.com/homedetails/1006-N-5th-St-3-Philadelphia-PA-19123/165465289_zpid/
+For sale by owner,1128 N Galloway St,Philadelphia,PA,19123,"$500,000",4,3.0,1750.0,541.0,2012,TOWNHOUSE,498100.0,https://www.zillow.com/homedetails/1128-N-Galloway-St-Philadelphia-PA-19123/116086682_zpid/
+Townhouse for sale,39 W Wildey St,Philadelphia,PA,19123,"$199,000",2,1.0,1533.0,601.0,1920,TOWNHOUSE,326500.0,https://www.zillow.com/homedetails/39-W-Wildey-St-Philadelphia-PA-19123/10199152_zpid/
+Townhouse for sale,310 W Wildey St,Philadelphia,PA,19123,"$230,000",2,1.0,866.0,392.0,1960,TOWNHOUSE,223300.0,https://www.zillow.com/homedetails/310-W-Wildey-St-Philadelphia-PA-19123/246161098_zpid/
+Condo for sale,451 N 12th St # B,Philadelphia,PA,19123,"$265,000",2,2.0,798.0,-1.0,2006,CONDO,161300.0,https://www.zillow.com/homedetails/451-N-12th-St-B-Philadelphia-PA-19123/71249312_zpid/
+Townhouse for sale,707 N 3rd St # A,Philadelphia,PA,19123,"$389,000",3,2.0,1167.0,435.0,1920,TOWNHOUSE,239000.0,https://www.zillow.com/homedetails/707-N-3rd-St-A-Philadelphia-PA-19123/10198005_zpid/
+Auction,1032 N Orianna St,Philadelphia,PA,19123,,4,1.0,2043.0,1216.0,1998,CONDO,448900.0,https://www.zillow.com/homedetails/1032-N-Orianna-St-Philadelphia-PA-19123/53608307_zpid/
+Townhouse for sale,1030 N 4th St,Philadelphia,PA,19123,"$439,000",3,3.0,1914.0,1067.0,1920,TOWNHOUSE,444500.0,https://www.zillow.com/homedetails/1030-N-4th-St-Philadelphia-PA-19123/63497316_zpid/
+Townhouse for sale,609 N 3rd St,Philadelphia,PA,19123,"$999,999",3,4.0,2550.0,-1.0,2016,TOWNHOUSE,799000.0,https://www.zillow.com/homedetails/609-N-3rd-St-Philadelphia-PA-19123/165607654_zpid/
+New construction,1115 N American St # 2,Philadelphia,PA,19123,"$295,000",1,1.0,979.0,-1.0,-1,CONDO,,https://www.zillow.com/homedetails/1115-N-American-St-2-Philadelphia-PA-19123/2083067692_zpid/
+Townhouse for sale,602 N 5th St UNIT 9,Philadelphia,PA,19123,"$799,900",4,3.0,3432.0,-1.0,2019,TOWNHOUSE,,https://www.zillow.com/homedetails/602-N-5th-St-UNIT-9-Philadelphia-PA-19123/2085055962_zpid/
+Condo for sale,511 N Broad St # 605,Philadelphia,PA,19123,"$209,000",1,1.0,689.0,435.0,1900,CONDO,,https://www.zillow.com/homedetails/511-N-Broad-St-605-Philadelphia-PA-19123/2129301537_zpid/
+Townhouse for sale,972 972 1/2 N Randolph St,Philadelphia,PA,19123,"$295,000",3,2.0,1023.0,609.0,1913,TOWNHOUSE,,https://www.zillow.com/homedetails/972-972-1-2-N-Randolph-St-Philadelphia-PA-19123/2084137374_zpid/
+House for sale,1105 Mount Vernon St # A,Philadelphia,PA,19123,"$419,900",2,2.0,1623.0,1511.0,2014,SINGLE_FAMILY,,https://www.zillow.com/homedetails/1105-Mount-Vernon-St-A-Philadelphia-PA-19123/2104366421_zpid/
+Townhouse for sale,624 N 3rd St,Philadelphia,PA,19123,"$949,000",3,3.0,3420.0,1306.0,2006,TOWNHOUSE,714000.0,https://www.zillow.com/homedetails/624-N-3rd-St-Philadelphia-PA-19123/71245803_zpid/
+Townhouse for sale,419 Brown St,Philadelphia,PA,19123,"$380,000",3,1.0,1215.0,871.0,1995,TOWNHOUSE,351100.0,https://www.zillow.com/homedetails/419-Brown-St-Philadelphia-PA-19123/53608253_zpid/
+Foreclosure,919 N Front St APT B,Philadelphia,PA,19123,"$600,000",3,3.0,2491.0,1441.0,2005,TOWNHOUSE,606500.0,https://www.zillow.com/homedetails/919-N-Front-St-APT-B-Philadelphia-PA-19123/67364389_zpid/
+Townhouse for sale,1022 N Leithgow St,Philadelphia,PA,19123,"$675,000",3,3.0,2208.0,871.0,2016,TOWNHOUSE,611900.0,https://www.zillow.com/homedetails/1022-N-Leithgow-St-Philadelphia-PA-19123/118368931_zpid/
+Condo for sale,233 Poplar St APT 4,Philadelphia,PA,19123,"$424,900",2,2.0,951.0,8086.0,2015,CONDO,344900.0,https://www.zillow.com/homedetails/233-Poplar-St-APT-4-Philadelphia-PA-19123/165610721_zpid/
+Townhouse for sale,314 W Wildey St,Philadelphia,PA,19123,"$230,000",2,1.0,921.0,426.0,1960,TOWNHOUSE,219000.0,https://www.zillow.com/homedetails/314-W-Wildey-St-Philadelphia-PA-19123/246161097_zpid/
+New construction,90 E Laurel St # A,Philadelphia,PA,19123,"$499,999",3,3.0,1278.0,-1.0,2020,CONDO,,https://www.zillow.com/homedetails/90-E-Laurel-St-A-Philadelphia-PA-19123/2081189875_zpid/
+Condo for sale,1116 Buttonwood St # C,Philadelphia,PA,19123,"$385,000",3,4.0,1779.0,-1.0,2006,CONDO,300000.0,https://www.zillow.com/homedetails/1116-Buttonwood-St-C-Philadelphia-PA-19123/71249333_zpid/
+Condo for sale,1238 Callowhill St SUITE 404,Philadelphia,PA,19123,"$289,000",1,1.0,1146.0,8712.0,1900,CONDO,239100.0,https://www.zillow.com/homedetails/1238-Callowhill-St-SUITE-404-Philadelphia-PA-19123/10599954_zpid/
+Condo for sale,732 N Ter APT A,Philadelphia,PA,19123,"$99,000",0,1.0,374.0,871.0,1900,CONDO,71300.0,https://www.zillow.com/homedetails/732-N-Ter-APT-A-Philadelphia-PA-19123/71249849_zpid/
+Townhouse for sale,1126 Mount Vernon St,Philadelphia,PA,19123,"$499,000",3,3.0,2584.0,1280.0,1915,TOWNHOUSE,387600.0,https://www.zillow.com/homedetails/1126-Mount-Vernon-St-Philadelphia-PA-19123/10241028_zpid/
+Townhouse for sale,985 N 6th St,Philadelphia,PA,19123,"$724,900",3,3.0,2860.0,871.0,2009,TOWNHOUSE,600400.0,https://www.zillow.com/homedetails/985-N-6th-St-Philadelphia-PA-19123/90196428_zpid/

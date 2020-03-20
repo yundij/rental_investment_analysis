@@ -1,0 +1,14 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,811 N 39th St,Philadelphia,PA,19104,"$1,300/mo",3,1.0,1500.0,1925,1226.0,SINGLE_FAMILY
+Apartment for rent,3607 Spring Garden St # 4,Philadelphia,PA,19104,"$2,070/mo",3,3.0,800.0,-1,-1.0,APARTMENT
+Condo for rent,3214 Powelton Ave # B,Philadelphia,PA,19104,"$3,300/mo",4,2.0,,1915,-1.0,CONDO
+Condo for rent,308 N 32nd St # 3,Philadelphia,PA,19104,"$1,350/mo",2,1.0,,1930,-1.0,CONDO
+Condo for rent,3218 Pearl St APT A,Philadelphia,PA,19104,"$2,600/mo",3,2.5,,1915,-1.0,CONDO
+Condo for rent,3216 Pearl St # A,Philadelphia,PA,19104,"$2,600/mo",3,2.5,945.0,1915,-1.0,CONDO
+Apartment for rent,517 S 41st St # 1R,Philadelphia,PA,19104,$980/mo,0,1.0,450.0,-1,-1.0,APARTMENT
+Apartment for rent,S 43rd St,Philadelphia,PA,19104,$830/mo,0,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,221 S 44th St,Philadelphia,PA,19104,$905/mo,1,1.0,,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,219 Buckingham Pl # 3,Philadelphia,PA,19104,"$1,045/mo",1,1.0,,-1,-1.0,TOWNHOUSE
+Condo for rent,3724 Baring St APT 3,Philadelphia,PA,19104,"$1,915/mo",2,1.5,,1930,-1.0,CONDO
+Apartment for rent,4237 Baltimore Ave REAR 2R,Philadelphia,PA,19104,$850/mo,0,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,533 N Budd St # 3B,Philadelphia,PA,19104,$950/mo,0,1.0,,-1,-1.0,APARTMENT

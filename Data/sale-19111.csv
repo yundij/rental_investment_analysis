@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+For sale by owner,7249 Dungan Rd,Philadelphia,PA,19111,"$199,999",3,2.0,1376.0,3588.0,1944,SINGLE_FAMILY,160200.0,https://www.zillow.com/homedetails/7249-Dungan-Rd-Philadelphia-PA-19111/10496610_zpid/
+Townhouse for sale,1246 Levick St,Philadelphia,PA,19111,"$179,900",3,2.0,1408.0,1742.0,1947,TOWNHOUSE,119200.0,https://www.zillow.com/homedetails/1246-Levick-St-Philadelphia-PA-19111/10490505_zpid/
+Townhouse for sale,833 Kerper St,Philadelphia,PA,19111,"$249,900",4,2.0,1550.0,3097.0,1950,TOWNHOUSE,170200.0,https://www.zillow.com/homedetails/833-Kerper-St-Philadelphia-PA-19111/10493747_zpid/
+House for sale,1103 Magee Ave,Philadelphia,PA,19111,"$207,000",3,2.0,1320.0,2578.0,1950,SINGLE_FAMILY,147900.0,https://www.zillow.com/homedetails/1103-Magee-Ave-Philadelphia-PA-19111/10492947_zpid/
+Townhouse for sale,1318 Hale St,Philadelphia,PA,19111,"$189,900",3,2.0,1122.0,1141.0,1965,TOWNHOUSE,107900.0,https://www.zillow.com/homedetails/1318-Hale-St-Philadelphia-PA-19111/10490172_zpid/
+House for sale,801 Hartel Ave,Philadelphia,PA,19111,"$399,900",6,4.0,2395.0,5436.0,1954,SINGLE_FAMILY,,https://www.zillow.com/homedetails/801-Hartel-Ave-Philadelphia-PA-19111/2082122161_zpid/
+House for sale,204 Loney St,Philadelphia,PA,19111,"$374,900",5,3.0,3420.0,7405.0,1953,SINGLE_FAMILY,263500.0,https://www.zillow.com/homedetails/204-Loney-St-Philadelphia-PA-19111/10563563_zpid/
+Townhouse for sale,6307 Elmhurst St,Philadelphia,PA,19111,"$149,000",3,2.0,1278.0,1306.0,1951,TOWNHOUSE,113100.0,https://www.zillow.com/homedetails/6307-Elmhurst-St-Philadelphia-PA-19111/10491731_zpid/
+Apartment for sale,829 Tyson Ave,Philadelphia,PA,19111,"$250,000",3,3.0,1604.0,2683.0,1950,MULTI_FAMILY,165100.0,https://www.zillow.com/homedetails/829-Tyson-Ave-Philadelphia-PA-19111/10494944_zpid/
+House for sale,1428 Wellington St,Philadelphia,PA,19111,"$297,000",3,2.0,1120.0,5222.0,1940,SINGLE_FAMILY,152700.0,https://www.zillow.com/homedetails/1428-Wellington-St-Philadelphia-PA-19111/103776345_zpid/
+Townhouse for sale,6328 Lawndale Ave,Philadelphia,PA,19111,"$125,000",3,2.0,1032.0,1372.0,1925,TOWNHOUSE,100600.0,https://www.zillow.com/homedetails/6328-Lawndale-Ave-Philadelphia-PA-19111/10360749_zpid/
+Apartment for sale,402 Magee Ave,Philadelphia,PA,19111,"$190,000",4,1.0,1470.0,2500.0,1925,MULTI_FAMILY,149400.0,https://www.zillow.com/homedetails/402-Magee-Ave-Philadelphia-PA-19111/10359535_zpid/
+House for sale,828 Solly Ave,Philadelphia,PA,19111,"$220,000",3,3.0,1124.0,3685.0,1965,SINGLE_FAMILY,188500.0,https://www.zillow.com/homedetails/828-Solly-Ave-Philadelphia-PA-19111/10564199_zpid/
+Apartment for sale,543 Glenview St,Philadelphia,PA,19111,"$279,900",0,,1706.0,2783.0,1968,MULTI_FAMILY,176000.0,https://www.zillow.com/homedetails/543-Glenview-St-Philadelphia-PA-19111/10359943_zpid/
+Townhouse for sale,6137 Argyle St,Philadelphia,PA,19111,"$185,000",3,1.0,1260.0,1023.0,1950,TOWNHOUSE,104100.0,https://www.zillow.com/homedetails/6137-Argyle-St-Philadelphia-PA-19111/10358209_zpid/
+Apartment for sale,534 Solly Ave,Philadelphia,PA,19111,"$180,000",5,2.0,1912.0,4094.0,1965,MULTI_FAMILY,214700.0,https://www.zillow.com/homedetails/534-Solly-Ave-Philadelphia-PA-19111/10564171_zpid/
+House for sale,6914 Shelbourne St,Philadelphia,PA,19111,"$275,000",3,2.0,1036.0,9365.0,1950,SINGLE_FAMILY,162900.0,https://www.zillow.com/homedetails/6914-Shelbourne-St-Philadelphia-PA-19111/80953454_zpid/
+Apartment for sale,7634 Burholme Ave,Philadelphia,PA,19111,"$248,800",3,2.0,1056.0,2774.0,1957,MULTI_FAMILY,181500.0,https://www.zillow.com/homedetails/7634-Burholme-Ave-Philadelphia-PA-19111/10561898_zpid/
+For sale by owner,1057 Levick St,Philadelphia,PA,19111,"$179,900",3,2.0,1278.0,1971.0,1949,SINGLE_FAMILY,123000.0,https://www.zillow.com/homedetails/1057-Levick-St-Philadelphia-PA-19111/10490559_zpid/
+Apartment for sale,1242 Stanwood St,Philadelphia,PA,19111,"$244,900",3,3.0,1452.0,2818.0,1967,MULTI_FAMILY,201800.0,https://www.zillow.com/homedetails/1242-Stanwood-St-Philadelphia-PA-19111/10563978_zpid/
+Foreclosure,360 Longshore Ave,Philadelphia,PA,19111,"$200,000",4,3.0,1664.0,4072.0,1925,SINGLE_FAMILY,183700.0,https://www.zillow.com/homedetails/360-Longshore-Ave-Philadelphia-PA-19111/10359944_zpid/
+Apartment for sale,7811 Verree Rd # B,Philadelphia,PA,19111,"$269,000",3,3.0,1716.0,2857.0,1925,MULTI_FAMILY,170300.0,https://www.zillow.com/homedetails/7811-Verree-Rd-B-Philadelphia-PA-19111/10562726_zpid/
+House for sale,1301 Longshore Ave,Philadelphia,PA,19111,"$264,900",4,2.0,1500.0,5279.0,1950,SINGLE_FAMILY,194400.0,https://www.zillow.com/homedetails/1301-Longshore-Ave-Philadelphia-PA-19111/10494532_zpid/
+Apartment for sale,528 Rhawn St,Philadelphia,PA,19111,"$235,000",3,1.0,1472.0,2639.0,1948,MULTI_FAMILY,198600.0,https://www.zillow.com/homedetails/528-Rhawn-St-Philadelphia-PA-19111/10563790_zpid/
+House for sale,1421 Wellington St,Philadelphia,PA,19111,"$224,808",3,2.0,1260.0,5279.0,1940,SINGLE_FAMILY,158400.0,https://www.zillow.com/homedetails/1421-Wellington-St-Philadelphia-PA-19111/10496031_zpid/
+Apartment for sale,7368 Shelbourne St,Philadelphia,PA,19111,"$269,900",3,2.0,1020.0,3005.0,1955,MULTI_FAMILY,174000.0,https://www.zillow.com/homedetails/7368-Shelbourne-St-Philadelphia-PA-19111/10562418_zpid/
+For sale by owner,1344 Wells St,Philadelphia,PA,19111,"$158,200",3,1.0,1213.0,1170.0,1947,TOWNHOUSE,112400.0,https://www.zillow.com/homedetails/1344-Wells-St-Philadelphia-PA-19111/10493073_zpid/
+For sale by owner,551-53 Hellerman St,Philadelphia,PA,19111,"$299,999",5,4.0,2836.0,5000.0,1945,MULTI_FAMILY,189400.0,https://www.zillow.com/homedetails/551-53-Hellerman-St-Philadelphia-PA-19111/165240266_zpid/
+House for sale,1222 Friendship St,Philadelphia,PA,19111,"$158,000",2,1.0,870.0,3236.0,1950,SINGLE_FAMILY,141100.0,https://www.zillow.com/homedetails/1222-Friendship-St-Philadelphia-PA-19111/10495576_zpid/
+Townhouse for sale,1248 Passmore St,Philadelphia,PA,19111,"$184,500",3,1.0,1080.0,1149.0,1949,TOWNHOUSE,103100.0,https://www.zillow.com/homedetails/1248-Passmore-St-Philadelphia-PA-19111/10490817_zpid/
+Apartment for sale,1110 Ripley St,Philadelphia,PA,19111,"$254,900",3,2.0,1040.0,4142.0,1956,MULTI_FAMILY,193600.0,https://www.zillow.com/homedetails/1110-Ripley-St-Philadelphia-PA-19111/10563693_zpid/
+Townhouse for sale,1163 Hellerman St,Philadelphia,PA,19111,"$183,000",3,2.0,1260.0,1934.0,1947,TOWNHOUSE,119600.0,https://www.zillow.com/homedetails/1163-Hellerman-St-Philadelphia-PA-19111/10491035_zpid/
+For sale by owner,815 Hartel Ave,Philadelphia,PA,19111,"$314,000",3,2.0,1800.0,5445.0,1993,SINGLE_FAMILY,243000.0,https://www.zillow.com/homedetails/815-Hartel-Ave-Philadelphia-PA-19111/10563162_zpid/
+House for sale,709 Chandler St,Philadelphia,PA,19111,"$250,000",2,2.0,1362.0,2600.0,1948,SINGLE_FAMILY,226900.0,https://www.zillow.com/homedetails/709-Chandler-St-Philadelphia-PA-19111/80946900_zpid/
+House for sale,918 Rhawn St,Philadelphia,PA,19111,"$299,500",3,2.0,2160.0,6547.0,1953,SINGLE_FAMILY,262800.0,https://www.zillow.com/homedetails/918-Rhawn-St-Philadelphia-PA-19111/10563803_zpid/
+Townhouse for sale,312 Devereaux Ave,Philadelphia,PA,19111,"$130,000",3,2.0,1060.0,1441.0,1950,TOWNHOUSE,100300.0,https://www.zillow.com/homedetails/312-Devereaux-Ave-Philadelphia-PA-19111/10357574_zpid/
+Townhouse for sale,6228 Hasbrook Ave,Philadelphia,PA,19111,"$159,999",3,1.0,1188.0,1285.0,1950,TOWNHOUSE,109300.0,https://www.zillow.com/homedetails/6228-Hasbrook-Ave-Philadelphia-PA-19111/10360231_zpid/
+House for sale,7831 Frontenac St,Philadelphia,PA,19111,"$320,000",4,2.0,2220.0,5549.0,1950,SINGLE_FAMILY,220000.0,https://www.zillow.com/homedetails/7831-Frontenac-St-Philadelphia-PA-19111/165374451_zpid/
+Townhouse for sale,300 Devereaux Ave,Philadelphia,PA,19111,"$185,900",3,1.0,1120.0,2857.0,1950,TOWNHOUSE,110300.0,https://www.zillow.com/homedetails/300-Devereaux-Ave-Philadelphia-PA-19111/10357568_zpid/
+Townhouse for sale,1730 Vista St,Philadelphia,PA,19111,"$334,900",0,,1760.0,5118.0,1962,TOWNHOUSE,,https://www.zillow.com/homedetails/1730-Vista-St-Philadelphia-PA-19111/2081084966_zpid/

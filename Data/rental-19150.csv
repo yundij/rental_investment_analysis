@@ -1,0 +1,18 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,7529 Forrest Ave APT 3,Philadelphia,PA,19150,$925/mo,1,1.0,1815.0,1925,-1.0,MULTI_FAMILY
+House for rent,7821 Forrest Ave,Philadelphia,PA,19150,"$1,225/mo",3,1.0,1088.0,1950,1989.0,SINGLE_FAMILY
+Apartment for rent,1200 E Upsal St APT 2,Philadelphia,PA,19150,$800/mo,1,1.0,750.0,-1,-1.0,APARTMENT
+Condo for rent,7972 Gilbert St FLOOR 2,Philadelphia,PA,19150,"$1,250/mo",2,1.0,1400.0,1950,-1.0,CONDO
+Townhouse for rent,7972 Gilbert St FLOOR 1,Philadelphia,PA,19150,"$1,195/mo",2,1.0,1400.0,1950,-1.0,TOWNHOUSE
+Apartment for rent,7972 Thouron Ave FLOOR 2,Philadelphia,PA,19150,$975/mo,2,1.0,700.0,-1,-1.0,APARTMENT
+House for rent,1614 E Mount Pleasant Ave,Philadelphia,PA,19150,"$1,800/mo",3,4.0,1922.0,1951,4791.0,SINGLE_FAMILY
+House for rent,7706 Temple Rd,Philadelphia,PA,19150,"$1,425/mo",4,2.0,1038.0,1950,938.0,SINGLE_FAMILY
+Apartment for rent,1336 E Mount Pleasant Ave # 2,Philadelphia,PA,19150,"$1,150/mo",2,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,1441 E Mount Pleasant Ave # 1,Philadelphia,PA,19150,"$1,150/mo",2,1.0,700.0,-1,-1.0,APARTMENT
+Apartment for rent,8038 Lowber Ave,Philadelphia,PA,19150,"$1,050/mo",0,,1952.0,1950,-1.0,MULTI_FAMILY
+Apartment for rent,7704 Michener Ave # 2,Philadelphia,PA,19150,$900/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,1337 E Sedgwick St # 2,Philadelphia,PA,19150,"$1,025/mo",2,1.0,800.0,-1,-1.0,APARTMENT
+Townhouse for rent,1150 E Vernon Rd,Philadelphia,PA,19150,"$1,500/mo",3,2.0,1176.0,1950,1742.0,TOWNHOUSE
+Apartment for rent,8217 Thouron Ave # 2,Philadelphia,PA,19150,$975/mo,2,1.0,750.0,-1,-1.0,APARTMENT
+Apartment for rent,1533 E Mount Airy Ave,Philadelphia,PA,19150,"$1,195+/mo",2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,8430 Fayette St,Philadelphia,PA,19150,"$1,375/mo",3,1.0,1139.0,1950,1602.0,TOWNHOUSE

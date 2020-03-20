@@ -1,0 +1,21 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,5001 Grant Ave,Philadelphia,PA,19114,"$2,200/mo",4,2.0,3200.0,-1,-1.0,SINGLE_FAMILY
+Townhouse for rent,3277 Morrell Ave # 1,Philadelphia,PA,19114,"$1,100/mo",2,1.0,800.0,1965,-1.0,TOWNHOUSE
+Apartment for rent,9438 Lansford St FL 2,Philadelphia,PA,19114,"$1,100/mo",2,1.0,900.0,1964,-1.0,APARTMENT
+House for rent,3801 Arendell Ave,Philadelphia,PA,19114,"$1,850/mo",3,1.5,1060.0,1957,5439.0,SINGLE_FAMILY
+Townhouse for rent,4953 Fitler St FLOOR 2,Philadelphia,PA,19114,"$1,050/mo",2,1.0,1978.0,1935,-1.0,TOWNHOUSE
+House for rent,10215 Calera Rd,Philadelphia,PA,19114,"$1,700/mo",3,1.5,1518.0,1962,1860.0,SINGLE_FAMILY
+Apartment for rent,9309 Ashton Rd APT A11,Philadelphia,PA,19114,$800/mo,1,1.0,600.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,2844 Woodbridge Rd # 2,Philadelphia,PA,19114,"$1,200/mo",2,1.0,920.0,1964,-1.0,MULTI_FAMILY
+House for rent,3615 Red Lion Rd,Philadelphia,PA,19114,"$1,050/mo",2,1.0,1840.0,1970,3489.0,SINGLE_FAMILY
+Apartment for rent,9945 Lorry Pl # 2,Philadelphia,PA,19114,"$1,050/mo",2,1.0,950.0,-1,-1.0,APARTMENT
+Apartment for rent,9864 Frankford Ave # 2,Philadelphia,PA,19114,"$1,300/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,3407 Morrell Ave # 2,Philadelphia,PA,19114,"$1,100/mo",2,1.0,,-1,-1.0,APARTMENT
+House for rent,9914 S Canterbury Rd,Philadelphia,PA,19114,"$1,700/mo",3,3.0,1462.0,1983,5575.0,SINGLE_FAMILY
+Apartment for rent,2803 Norcross Ln # 2,Philadelphia,PA,19114,"$1,100/mo",2,1.0,924.0,1978,-1.0,APARTMENT
+Apartment for rent,9574 State Rd # 39B,Philadelphia,PA,19114,"$3,550/mo",3,2.0,1056.0,1986,1306.0,APARTMENT
+Apartment for rent,4421 Pearson Ave,Philadelphia,PA,19114,$965/mo,1,1.0,600.0,-1,-1.0,APARTMENT
+Apartment for rent,3625 Red Lion Rd # 2,Philadelphia,PA,19114,$975/mo,2,1.0,1800.0,1978,-1.0,APARTMENT
+Apartment for rent,9355 State Rd,Philadelphia,PA,19114,"$1,182+/mo",1,1.0,816.0,-1,-1.0,APARTMENT
+Apartment for rent,9647 James St,Philadelphia,PA,19114,"$1,550/mo",3,1.0,2400.0,1950,2900.0,MULTI_FAMILY
+Townhouse for rent,2757 Willits Rd,Philadelphia,PA,19114,"$4,350/mo",4,3.0,1879.0,2004,3920.0,TOWNHOUSE

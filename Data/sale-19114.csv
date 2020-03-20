@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,3342 Fordham Rd,Philadelphia,PA,19114,"$220,000",3,2.0,1164.0,2683.0,1955,TOWNHOUSE,157200.0,https://www.zillow.com/homedetails/3342-Fordham-Rd-Philadelphia-PA-19114/10523709_zpid/
+Apartment for sale,3440 Aubrey Ave,Philadelphia,PA,19114,"$224,900",3,2.0,1224.0,3388.0,1960,MULTI_FAMILY,182200.0,https://www.zillow.com/homedetails/3440-Aubrey-Ave-Philadelphia-PA-19114/10524393_zpid/
+Townhouse for sale,10203 N Canterbury Rd,Philadelphia,PA,19114,"$249,000",3,3.0,1586.0,2178.0,1988,TOWNHOUSE,201900.0,https://www.zillow.com/homedetails/10203-N-Canterbury-Rd-Philadelphia-PA-19114/10577131_zpid/
+Apartment for sale,4418 Arendell Ave,Philadelphia,PA,19114,"$255,000",3,2.0,1054.0,2487.0,1970,MULTI_FAMILY,196600.0,https://www.zillow.com/homedetails/4418-Arendell-Ave-Philadelphia-PA-19114/10574984_zpid/
+Townhouse for sale,3611 Morrell Cir,Philadelphia,PA,19114,"$224,900",3,2.0,1260.0,1803.0,1961,TOWNHOUSE,180100.0,https://www.zillow.com/homedetails/3611-Morrell-Cir-Philadelphia-PA-19114/10578054_zpid/
+House for sale,9348 Annapolis Rd,Philadelphia,PA,19114,"$245,000",4,2.0,1880.0,8999.0,1953,SINGLE_FAMILY,215500.0,https://www.zillow.com/homedetails/9348-Annapolis-Rd-Philadelphia-PA-19114/10525581_zpid/
+For sale by owner,3524 President St,Philadelphia,PA,19114,"$179,500",3,2.0,1440.0,2700.0,1960,SINGLE_FAMILY,195000.0,https://www.zillow.com/homedetails/3524-President-St-Philadelphia-PA-19114/10577604_zpid/
+Townhouse for sale,3671 N Hereford Ln,Philadelphia,PA,19114,"$234,900",4,2.0,2100.0,2064.0,1964,TOWNHOUSE,184800.0,https://www.zillow.com/homedetails/3671-N-Hereford-Ln-Philadelphia-PA-19114/10579145_zpid/
+House for sale,9555 Tulip St,Philadelphia,PA,19114,"$497,000",4,3.0,2800.0,5000.0,2009,SINGLE_FAMILY,422300.0,https://www.zillow.com/homedetails/9555-Tulip-St-Philadelphia-PA-19114/102673495_zpid/
+House for sale,9509-11 Frankford Ave,Philadelphia,PA,19114,"$225,000",3,1.0,1619.0,9583.0,1925,SINGLE_FAMILY,263400.0,https://www.zillow.com/homedetails/9509-11-Frankford-Ave-Philadelphia-PA-19114/10575373_zpid/
+House for sale,3208 Holyoke Rd,Philadelphia,PA,19114,"$275,000",3,2.0,2080.0,4007.0,1950,SINGLE_FAMILY,213900.0,https://www.zillow.com/homedetails/3208-Holyoke-Rd-Philadelphia-PA-19114/10523767_zpid/
+For sale by owner,52104 Delaire Landing Rd # 104,Philadelphia,PA,19114,"$255,000",2,1.0,992.0,992.0,1972,CONDO,122000.0,https://www.zillow.com/homedetails/52104-Delaire-Landing-Rd-104-Philadelphia-PA-19114/10612157_zpid/
+For sale by owner,3951 Constance Rd,Philadelphia,PA,19114,"$229,900",3,3.0,1386.0,2324.0,1978,TOWNHOUSE,194300.0,https://www.zillow.com/homedetails/3951-Constance-Rd-Philadelphia-PA-19114/10579479_zpid/
+House for sale,4604 Aubrey Ave,Philadelphia,PA,19114,"$360,000",3,2.0,2413.0,9260.0,1955,SINGLE_FAMILY,269900.0,https://www.zillow.com/homedetails/4604-Aubrey-Ave-Philadelphia-PA-19114/10575146_zpid/
+House for sale,4427 Arendell Ave,Philadelphia,PA,19114,"$333,900",4,3.0,1750.0,6250.0,1960,SINGLE_FAMILY,254200.0,https://www.zillow.com/homedetails/4427-Arendell-Ave-Philadelphia-PA-19114/80942594_zpid/
+Apartment for sale,9892 Frankford Ave,Philadelphia,PA,19114,"$285,000",0,,2024.0,2308.0,1976,MULTI_FAMILY,,https://www.zillow.com/homedetails/9892-Frankford-Ave-Philadelphia-PA-19114/2131003672_zpid/
+Auction,9534 James St # A,Philadelphia,PA,19114,,2,2.5,1056.0,-1.0,1988,CONDO,144200.0,https://www.zillow.com/homedetails/9534-James-St-A-Philadelphia-PA-19114/10612678_zpid/
+Townhouse for sale,10101 N Canterbury Rd,Philadelphia,PA,19114,"$285,000",3,3.0,1596.0,4356.0,1964,TOWNHOUSE,206700.0,https://www.zillow.com/homedetails/10101-N-Canterbury-Rd-Philadelphia-PA-19114/10577122_zpid/
+House for sale,3654 Glenn St,Philadelphia,PA,19114,"$414,900",3,3.0,2105.0,5998.0,1999,SINGLE_FAMILY,321100.0,https://www.zillow.com/homedetails/3654-Glenn-St-Philadelphia-PA-19114/53609854_zpid/
+House for sale,9503 Convent Ave,Philadelphia,PA,19114,"$279,900",3,2.0,1575.0,7348.0,1950,SINGLE_FAMILY,219600.0,https://www.zillow.com/homedetails/9503-Convent-Ave-Philadelphia-PA-19114/10525315_zpid/
+Condo for sale,55303 Delaire Landing Rd # 303,Philadelphia,PA,19114,"$164,900",2,1.0,992.0,992.0,1972,CONDO,122000.0,https://www.zillow.com/homedetails/55303-Delaire-Landing-Rd-303-Philadelphia-PA-19114/10612200_zpid/
+House for sale,9509 Frankford Ave,Philadelphia,PA,19114,"$225,000",3,1.0,1619.0,9374.0,1925,SINGLE_FAMILY,,https://www.zillow.com/homedetails/9509-Frankford-Ave-Philadelphia-PA-19114/2080746387_zpid/
+Condo for sale,56 Bonnie Gellman Ct # C56,Philadelphia,PA,19114,"$189,999",2,2.0,1176.0,-1.0,1999,CONDO,,https://www.zillow.com/homedetails/56-Bonnie-Gellman-Ct-C56-Philadelphia-PA-19114/2080599885_zpid/
+House for sale,9226 Horatio Rd,Philadelphia,PA,19114,"$235,000",3,1.0,1127.0,4791.0,1949,SINGLE_FAMILY,181600.0,https://www.zillow.com/homedetails/9226-Horatio-Rd-Philadelphia-PA-19114/10525443_zpid/
+New construction,2742 Willits Rd,Philadelphia,PA,19136,"$499,900",5,4.0,3335.0,6438.0,2019,SINGLE_FAMILY,,https://www.zillow.com/homedetails/2742-Willits-Rd-Philadelphia-PA-19136/2084440687_zpid/
+Condo for sale,63101 63101 # 101,Philadelphia,PA,19114,"$132,000",1,1.0,806.0,-1.0,1985,CONDO,,https://www.zillow.com/homedetails/63101-63101-101-Philadelphia-PA-19114/2081148230_zpid/
+New construction,9306 Vandike St,Philadelphia,PA,19114,"$449,000",4,4.0,3250.0,3750.0,2019,SINGLE_FAMILY,,https://www.zillow.com/homedetails/9306-Vandike-St-Philadelphia-PA-19114/2082760247_zpid/
+House for sale,4619 Aubrey Ave,Philadelphia,PA,19114,"$340,000",3,2.0,1947.0,9252.0,1942,SINGLE_FAMILY,282400.0,https://www.zillow.com/homedetails/4619-Aubrey-Ave-Philadelphia-PA-19114/10575185_zpid/
+Townhouse for sale,5029 S Convent Ln APT F,Philadelphia,PA,19114,"$179,900",2,2.0,1498.0,-1.0,1972,TOWNHOUSE,,https://www.zillow.com/homedetails/5029-S-Convent-Ln-APT-F-Philadelphia-PA-19114/2082087598_zpid/
+House for sale,9310 Edmund St,Philadelphia,PA,19114,"$350,000",3,3.0,1817.0,3249.0,1990,SINGLE_FAMILY,287700.0,https://www.zillow.com/homedetails/9310-Edmund-St-Philadelphia-PA-19114/10576461_zpid/
+New construction,9237 Cambridge St,Philadelphia,PA,19114,"$435,000",3,3.0,2533.0,2500.0,2016,SINGLE_FAMILY,23600.0,https://www.zillow.com/homedetails/9237-Cambridge-St-Philadelphia-PA-19114/118347324_zpid/
+For sale by owner,9928 S Canterbury Rd,Philadelphia,PA,19114,"$299,998",3,3.0,1462.0,3105.0,1983,SINGLE_FAMILY,222800.0,https://www.zillow.com/homedetails/9928-S-Canterbury-Rd-Philadelphia-PA-19114/10577034_zpid/
+New construction,9411 Frankford Ave,Philadelphia,PA,19114,"$469,900",4,4.0,3250.0,7300.0,-1,SINGLE_FAMILY,81100.0,https://www.zillow.com/homedetails/9411-Frankford-Ave-Philadelphia-PA-19114/118343157_zpid/
+Townhouse for sale,3815 Red Lion Rd,Philadelphia,PA,19114,"$240,000",3,3.0,1570.0,3850.0,1973,TOWNHOUSE,228500.0,https://www.zillow.com/homedetails/3815-Red-Lion-Rd-Philadelphia-PA-19114/10582131_zpid/
+Condo for sale,77 Bonnie Gellman Ct # D77,Philadelphia,PA,19114,"$199,999",2,2.0,1135.0,-1.0,1999,CONDO,,https://www.zillow.com/homedetails/77-Bonnie-Gellman-Ct-D77-Philadelphia-PA-19114/2080778080_zpid/
+New construction,3742 President St,Philadelphia,PA,19114,"$490,000",4,3.0,3325.0,6599.0,2019,SINGLE_FAMILY,,https://www.zillow.com/homedetails/3742-President-St-Philadelphia-PA-19114/2081963188_zpid/
+Townhouse for sale,3337 Red Lion Rd,Philadelphia,PA,19114,"$245,000",3,2.0,1490.0,2191.0,1987,TOWNHOUSE,173000.0,https://www.zillow.com/homedetails/3337-Red-Lion-Rd-Philadelphia-PA-19114/10582102_zpid/
+Townhouse for sale,3205 Saxon Pl,Philadelphia,PA,19114,"$254,000",3,3.0,1540.0,2178.0,1965,TOWNHOUSE,200500.0,https://www.zillow.com/homedetails/3205-Saxon-Pl-Philadelphia-PA-19114/10577730_zpid/
+Townhouse for sale,3524 Nottingham Ln,Philadelphia,PA,19114,"$229,900",3,3.0,1260.0,2160.0,1964,TOWNHOUSE,185900.0,https://www.zillow.com/homedetails/3524-Nottingham-Ln-Philadelphia-PA-19114/10578938_zpid/
+Townhouse for sale,3645 Morrell Cir,Philadelphia,PA,19114,"$234,900",3,2.0,1560.0,1799.0,1961,TOWNHOUSE,180100.0,https://www.zillow.com/homedetails/3645-Morrell-Cir-Philadelphia-PA-19114/10578071_zpid/

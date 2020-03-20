@@ -1,0 +1,36 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+House for sale,28 W Abington Ave,Philadelphia,PA,19118,"$349,900",3,2.0,1064.0,1306.0,1925,SINGLE_FAMILY,225700.0,https://www.zillow.com/homedetails/28-W-Abington-Ave-Philadelphia-PA-19118/10214757_zpid/
+House for sale,8909 Crefeld St,Philadelphia,PA,19118,"$2,050,000",7,7.0,6256.0,47916.0,1928,SINGLE_FAMILY,1500000.0,https://www.zillow.com/homedetails/8909-Crefeld-St-Philadelphia-PA-19118/10215397_zpid/
+House for sale,20 E Bells Mill Rd,Philadelphia,PA,19118,"$750,000",6,4.0,3849.0,11761.0,1925,SINGLE_FAMILY,755400.0,https://www.zillow.com/homedetails/20-E-Bells-Mill-Rd-Philadelphia-PA-19118/10212825_zpid/
+House for sale,13 W Mermaid Ln,Philadelphia,PA,19118,"$380,000",3,3.0,2266.0,14374.0,1992,SINGLE_FAMILY,412900.0,https://www.zillow.com/homedetails/13-W-Mermaid-Ln-Philadelphia-PA-19118/10214531_zpid/
+House for sale,8840 Towanda St,Philadelphia,PA,19118,"$4,400,000",5,4.0,7443.0,190357.0,1925,SINGLE_FAMILY,2100000.0,https://www.zillow.com/homedetails/8840-Towanda-St-Philadelphia-PA-19118/80954168_zpid/
+House for sale,8500 Seminole St,Philadelphia,PA,19118,"$2,350,000",6,9.0,7920.0,85843.0,1925,SINGLE_FAMILY,1354400.0,https://www.zillow.com/homedetails/8500-Seminole-St-Philadelphia-PA-19118/53608404_zpid/
+House for sale,9401 Meadowbrook Ave,Philadelphia,PA,19118,"$2,395,000",4,6.0,4500.0,43560.0,1933,SINGLE_FAMILY,,https://www.zillow.com/homedetails/9401-Meadowbrook-Ave-Philadelphia-PA-19118/2080824157_zpid/
+House for sale,7646 Ardleigh St,Philadelphia,PA,19118,"$525,000",4,3.0,2075.0,6764.0,1925,SINGLE_FAMILY,552700.0,https://www.zillow.com/homedetails/7646-Ardleigh-St-Philadelphia-PA-19118/10213162_zpid/
+House for sale,7716 Navajo St,Philadelphia,PA,19118,"$2,495,000",4,6.0,6440.0,30927.0,1925,SINGLE_FAMILY,1189000.0,https://www.zillow.com/homedetails/7716-Navajo-St-Philadelphia-PA-19118/80944955_zpid/
+New construction,6 W Sunset Ave,Philadelphia,PA,19118,"$2,100,000",6,6.0,6700.0,18565.0,2020,SINGLE_FAMILY,464000.0,https://www.zillow.com/homedetails/6-W-Sunset-Ave-Philadelphia-PA-19118/10215167_zpid/
+House for sale,437 W Chestnut Hill Ave,Philadelphia,PA,19118,"$2,990,000",7,9.0,11100.0,124999.0,1906,SINGLE_FAMILY,2775000.0,https://www.zillow.com/homedetails/437-W-Chestnut-Hill-Ave-Philadelphia-PA-19118/10215138_zpid/
+Apartment for sale,7821 Germantown Ave,Philadelphia,PA,19118,"$515,000",4,4.0,2160.0,2435.0,1925,MULTI_FAMILY,399000.0,https://www.zillow.com/homedetails/7821-Germantown-Ave-Philadelphia-PA-19118/10212891_zpid/
+House for sale,416 W Moreland Ave,Philadelphia,PA,19118,"$2,300,000",7,6.0,9415.0,68824.0,1917,SINGLE_FAMILY,1496400.0,https://www.zillow.com/homedetails/416-W-Moreland-Ave-Philadelphia-PA-19118/10214592_zpid/
+House for sale,8315 Seminole St,Philadelphia,PA,19118,"$2,295,000",6,5.0,5064.0,20908.0,1925,SINGLE_FAMILY,947000.0,https://www.zillow.com/homedetails/8315-Seminole-St-Philadelphia-PA-19118/10215482_zpid/
+House for sale,4 E Chestnut Hill Ave,Philadelphia,PA,19118,"$1,495,000",3,4.0,3050.0,-1.0,2019,SINGLE_FAMILY,,https://www.zillow.com/homedetails/4-E-Chestnut-Hill-Ave-Philadelphia-PA-19118/2083364758_zpid/
+House for sale,8715 Germantown Ave,Philadelphia,PA,19118,"$1,695,000",4,5.0,,-1.0,2019,SINGLE_FAMILY,,https://www.zillow.com/homedetails/8715-Germantown-Ave-Philadelphia-PA-19118/2081740604_zpid/
+House for sale,7705 Cherokee St,Philadelphia,PA,19118,"$550,000",4,3.0,2256.0,13503.0,1950,SINGLE_FAMILY,654700.0,https://www.zillow.com/homedetails/7705-Cherokee-St-Philadelphia-PA-19118/10215617_zpid/
+House for sale,101 Summit St,Philadelphia,PA,19118,"$525,000",4,3.0,1872.0,10454.0,1925,SINGLE_FAMILY,505100.0,https://www.zillow.com/homedetails/101-Summit-St-Philadelphia-PA-19118/10212792_zpid/
+Apartment for sale,53 Woodale Ave,Philadelphia,PA,19118,"$359,000",3,1.0,1148.0,2495.0,1955,MULTI_FAMILY,289800.0,https://www.zillow.com/homedetails/53-Woodale-Ave-Philadelphia-PA-19118/10212494_zpid/
+House for sale,30 W Chestnut Hill Ave,Philadelphia,PA,19118,"$1,895,000",5,5.0,3138.0,16117.0,1925,SINGLE_FAMILY,717000.0,https://www.zillow.com/homedetails/30-W-Chestnut-Hill-Ave-Philadelphia-PA-19118/10215109_zpid/
+House for sale,7710 Ardleigh St,Philadelphia,PA,19118,"$299,999",3,1.0,1024.0,1306.0,1925,SINGLE_FAMILY,230100.0,https://www.zillow.com/homedetails/7710-Ardleigh-St-Philadelphia-PA-19118/10213169_zpid/
+Coming soon,Winston Rd,Philadelphia,PA,19118,"$364,900",3,2.0,1178.0,1742.0,1955,TOWNHOUSE,281200.0,https://www.zillow.com/homedetails/8059-Winston-Rd-Philadelphia-PA-19118/10213494_zpid/
+House for sale,8305 Crittenden St,Philadelphia,PA,19118,"$532,000",4,3.0,2319.0,14374.0,1960,SINGLE_FAMILY,525900.0,https://www.zillow.com/homedetails/8305-Crittenden-St-Philadelphia-PA-19118/80949414_zpid/
+Apartment for sale,7648-50 Ardleigh St,Philadelphia,PA,19118,"$395,000",0,,2110.0,2456.0,1925,MULTI_FAMILY,395600.0,https://www.zillow.com/homedetails/7648-50-Ardleigh-St-Philadelphia-PA-19118/10213163_zpid/
+New construction,8101 Crittenden St,Philadelphia,PA,19118,"$1,650,000",5,7.0,2660.0,18730.0,2019,SINGLE_FAMILY,628700.0,https://www.zillow.com/homedetails/8101-Crittenden-St-Philadelphia-PA-19118/10213378_zpid/
+New construction,8105 Crittenden St,Philadelphia,PA,19118,"$1,795,000",5,7.0,,18730.0,2019,SINGLE_FAMILY,,https://www.zillow.com/homedetails/8105-Crittenden-St-Philadelphia-PA-19118/2083486223_zpid/
+Auction,131 W Northwestern Ave,Philadelphia,PA,19118,,3,,1215.0,29620.0,1971,SINGLE_FAMILY,159670.0,https://www.zillow.com/homedetails/131-W-Northwestern-Ave-Philadelphia-PA-19118/10014264_zpid/
+New construction,1 W Hartwell Ln # 5A,Philadelphia,PA,19118,"$2,995,000",3,5.0,3006.0,-1.0,2015,CONDO,,https://www.zillow.com/homedetails/1-W-Hartwell-Ln-5A-Philadelphia-PA-19118/2095075690_zpid/
+New construction,8103 Crittenden St,Philadelphia,PA,19118,"$1,750,000",5,7.0,,18730.0,2019,SINGLE_FAMILY,,https://www.zillow.com/homedetails/8103-Crittenden-St-Philadelphia-PA-19118/2083486222_zpid/
+House for sale,8324 Ardleigh St,Philadelphia,PA,19118,"$400,000",3,2.0,1504.0,3049.0,1960,SINGLE_FAMILY,352100.0,https://www.zillow.com/homedetails/8324-Ardleigh-St-Philadelphia-PA-19118/10213216_zpid/
+Apartment for sale,8111 Germantown Ave,Philadelphia,PA,19118,"$949,000",0,,2134.0,3441.0,1925,MULTI_FAMILY,395700.0,https://www.zillow.com/homedetails/8111-Germantown-Ave-Philadelphia-PA-19118/10596911_zpid/
+New construction,1 W Hartwell Ln # 4C,Philadelphia,PA,19118,"$945,000",1,2.0,1395.0,-1.0,2018,CONDO,,https://www.zillow.com/homedetails/1-W-Hartwell-Ln-4C-Philadelphia-PA-19118/2087244300_zpid/
+New construction,1 W Hartwell Ln # 2D,Philadelphia,PA,19118,"$1,325,000",2,3.0,2162.0,-1.0,2017,CONDO,,https://www.zillow.com/homedetails/1-W-Hartwell-Ln-2D-Philadelphia-PA-19118/2101289562_zpid/
+New construction,1 W Hartwell Ln # 2C,Philadelphia,PA,19118,"$895,000",1,2.0,1355.0,-1.0,2017,CONDO,,https://www.zillow.com/homedetails/1-W-Hartwell-Ln-2C-Philadelphia-PA-19118/2092694556_zpid/
+Pre-foreclosure / Auction,7601 Crittenden St APT G3,Philadelphia,PA,19118,,,,1566.0,-1.0,1970,CONDO,176900.0,https://www.zillow.com/homedetails/7601-Crittenden-St-APT-G3-Philadelphia-PA-19118/10606015_zpid/

@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+New construction,2843 Belgrade St # G,Philadelphia,PA,19134,"$499,000",3,3.0,3186.0,2178.0,2020,TOWNHOUSE,,https://www.zillow.com/homedetails/2843-Belgrade-St-G-Philadelphia-PA-19134/2080457586_zpid/
+Townhouse for sale,2548 E Ontario St,Philadelphia,PA,19134,"$324,900",3,2.0,1090.0,871.0,1925,TOWNHOUSE,127900.0,https://www.zillow.com/homedetails/2548-E-Ontario-St-Philadelphia-PA-19134/10442659_zpid/
+Townhouse for sale,3310 Edgemont St,Philadelphia,PA,19134,"$220,000",3,2.0,1233.0,1210.0,1925,TOWNHOUSE,137300.0,https://www.zillow.com/homedetails/3310-Edgemont-St-Philadelphia-PA-19134/10443617_zpid/
+Townhouse for sale,421 E Clearfield St,Philadelphia,PA,19134,"$39,900",3,1.0,1280.0,927.0,1920,TOWNHOUSE,29500.0,https://www.zillow.com/homedetails/421-E-Clearfield-St-Philadelphia-PA-19134/10204086_zpid/
+Townhouse for sale,3138 Arbor St,Philadelphia,PA,19134,"$39,900",3,1.0,840.0,622.0,1920,TOWNHOUSE,8100.0,https://www.zillow.com/homedetails/3138-Arbor-St-Philadelphia-PA-19134/10205370_zpid/
+Townhouse for sale,636 E Ontario St,Philadelphia,PA,19134,"$47,900",3,1.0,960.0,862.0,1925,TOWNHOUSE,32900.0,https://www.zillow.com/homedetails/636-E-Ontario-St-Philadelphia-PA-19134/10334489_zpid/
+Townhouse for sale,630 E Ontario St,Philadelphia,PA,19134,"$41,900",3,1.0,960.0,862.0,1925,TOWNHOUSE,27100.0,https://www.zillow.com/homedetails/630-E-Ontario-St-Philadelphia-PA-19134/10334486_zpid/
+Townhouse for sale,662 E Clementine St,Philadelphia,PA,19134,"$39,900",3,1.0,1008.0,714.0,1920,TOWNHOUSE,33300.0,https://www.zillow.com/homedetails/662-E-Clementine-St-Philadelphia-PA-19134/10333213_zpid/
+Townhouse for sale,2140 E Birch St,Philadelphia,PA,19134,"$40,000",2,1.0,840.0,670.0,1920,TOWNHOUSE,28400.0,https://www.zillow.com/homedetails/2140-E-Birch-St-Philadelphia-PA-19134/10299335_zpid/
+Townhouse for sale,3356 Jasper St,Philadelphia,PA,19134,"$29,900",3,1.0,941.0,958.0,1920,TOWNHOUSE,50400.0,https://www.zillow.com/homedetails/3356-Jasper-St-Philadelphia-PA-19134/10448099_zpid/
+Townhouse for sale,2427 E Ann St,Philadelphia,PA,19134,"$209,000",2,2.0,800.0,609.0,1920,TOWNHOUSE,102200.0,https://www.zillow.com/homedetails/2427-E-Ann-St-Philadelphia-PA-19134/10294875_zpid/
+Townhouse for sale,3120 Miller St,Philadelphia,PA,19134,"$179,900",3,1.0,910.0,858.0,1920,TOWNHOUSE,105300.0,https://www.zillow.com/homedetails/3120-Miller-St-Philadelphia-PA-19134/10297172_zpid/
+Townhouse for sale,3179 Belgrade St,Philadelphia,PA,19134,"$267,500",3,2.0,1260.0,1128.0,1920,TOWNHOUSE,132600.0,https://www.zillow.com/homedetails/3179-Belgrade-St-Philadelphia-PA-19134/10296958_zpid/
+Townhouse for sale,2771 Helen St,Philadelphia,PA,19134,"$69,900",2,1.0,712.0,557.0,1910,TOWNHOUSE,16400.0,https://www.zillow.com/homedetails/2771-Helen-St-Philadelphia-PA-19134/10301925_zpid/
+Townhouse for sale,2002 Castor Ave,Philadelphia,PA,19134,"$155,000",3,2.0,1306.0,975.0,1925,TOWNHOUSE,60000.0,https://www.zillow.com/homedetails/2002-Castor-Ave-Philadelphia-PA-19134/10446856_zpid/
+Townhouse for sale,2960 Ella St,Philadelphia,PA,19134,"$33,900",1,1.0,1120.0,953.0,1935,TOWNHOUSE,27900.0,https://www.zillow.com/homedetails/2960-Ella-St-Philadelphia-PA-19134/10204793_zpid/
+Townhouse for sale,619 E Thayer St,Philadelphia,PA,19134,"$129,900",2,2.0,784.0,635.0,1920,TOWNHOUSE,37400.0,https://www.zillow.com/homedetails/619-E-Thayer-St-Philadelphia-PA-19134/10334403_zpid/
+Townhouse for sale,852 E Hilton St,Philadelphia,PA,19134,"$100,000",3,1.0,1140.0,871.0,1920,TOWNHOUSE,35300.0,https://www.zillow.com/homedetails/852-E-Hilton-St-Philadelphia-PA-19134/10333589_zpid/
+Townhouse for sale,2634 E Westmoreland St,Philadelphia,PA,19134,"$199,900",3,1.0,892.0,919.0,1920,TOWNHOUSE,118500.0,https://www.zillow.com/homedetails/2634-E-Westmoreland-St-Philadelphia-PA-19134/10442622_zpid/
+House for sale,2541 E Westmoreland St,Philadelphia,PA,19134,"$329,800",3,2.0,1420.0,1154.0,1920,SINGLE_FAMILY,135000.0,https://www.zillow.com/homedetails/2541-E-Westmoreland-St-Philadelphia-PA-19134/10442636_zpid/
+For sale by owner,2009 E Orleans St # 2,Philadelphia,PA,19134,"$86,000",2,2.0,1378.0,-1.0,1920,MULTI_FAMILY,,https://www.zillow.com/homedetails/2009-E-Orleans-St-2-Philadelphia-PA-19134/2101341075_zpid/
+Townhouse for sale,1864 E Clementine St,Philadelphia,PA,19134,"$134,900",3,1.0,1076.0,840.0,1920,TOWNHOUSE,61700.0,https://www.zillow.com/homedetails/1864-E-Clementine-St-Philadelphia-PA-19134/10300118_zpid/
+Townhouse for sale,3266 Almond St,Philadelphia,PA,19134,"$189,900",2,1.0,974.0,866.0,1920,TOWNHOUSE,120500.0,https://www.zillow.com/homedetails/3266-Almond-St-Philadelphia-PA-19134/10444174_zpid/
+Townhouse for sale,935 E Schiller St,Philadelphia,PA,19134,"$119,000",3,1.0,1176.0,975.0,1934,TOWNHOUSE,47800.0,https://www.zillow.com/homedetails/935-E-Schiller-St-Philadelphia-PA-19134/10334824_zpid/
+Townhouse for sale,3429 Crystal St,Philadelphia,PA,19134,"$36,900",2,1.0,728.0,601.0,1920,TOWNHOUSE,37200.0,https://www.zillow.com/homedetails/3429-Crystal-St-Philadelphia-PA-19134/10335295_zpid/
+Apartment for sale,3230 Frankford Ave,Philadelphia,PA,19134,"$155,000",0,,1596.0,1803.0,1920,MULTI_FAMILY,75000.0,https://www.zillow.com/homedetails/3230-Frankford-Ave-Philadelphia-PA-19134/165315587_zpid/
+Townhouse for sale,857 E Hilton St,Philadelphia,PA,19134,"$125,000",3,1.0,1140.0,871.0,1920,TOWNHOUSE,35300.0,https://www.zillow.com/homedetails/857-E-Hilton-St-Philadelphia-PA-19134/10333662_zpid/
+Townhouse for sale,2982 Almond St,Philadelphia,PA,19134,"$189,000",3,1.0,1076.0,962.0,1925,TOWNHOUSE,126200.0,https://www.zillow.com/homedetails/2982-Almond-St-Philadelphia-PA-19134/10296603_zpid/
+Townhouse for sale,2517 E Ann St,Philadelphia,PA,19134,"$110,000",2,1.0,690.0,871.0,1920,TOWNHOUSE,105600.0,https://www.zillow.com/homedetails/2517-E-Ann-St-Philadelphia-PA-19134/10294892_zpid/
+Townhouse for sale,612 E Wishart St,Philadelphia,PA,19134,"$55,000",3,1.0,1064.0,701.0,1920,TOWNHOUSE,12700.0,https://www.zillow.com/homedetails/612-E-Wishart-St-Philadelphia-PA-19134/10333320_zpid/
+Apartment for sale,3040 Tilton St,Philadelphia,PA,19134,"$129,999",2,1.0,700.0,609.0,1920,MULTI_FAMILY,110900.0,https://www.zillow.com/homedetails/3040-Tilton-St-Philadelphia-PA-19134/10295830_zpid/
+Townhouse for sale,3171 Tilton St,Philadelphia,PA,19134,"$189,900",2,1.0,885.0,596.0,1920,TOWNHOUSE,116100.0,https://www.zillow.com/homedetails/3171-Tilton-St-Philadelphia-PA-19134/10295798_zpid/
+New construction,2859 Amber St,Philadelphia,PA,19134,"$290,000",3,3.0,,588.0,2020,TOWNHOUSE,7700.0,https://www.zillow.com/homedetails/2859-Amber-St-Philadelphia-PA-19134/118338418_zpid/
+Townhouse for sale,2727 Salmon St,Philadelphia,PA,19134,"$299,900",3,2.0,1700.0,1197.0,1916,TOWNHOUSE,156600.0,https://www.zillow.com/homedetails/2727-Salmon-St-Philadelphia-PA-19134/10324923_zpid/
+Townhouse for sale,606 E Lippincott St,Philadelphia,PA,19134,"$85,000",3,1.0,1064.0,871.0,1920,TOWNHOUSE,35300.0,https://www.zillow.com/homedetails/606-E-Lippincott-St-Philadelphia-PA-19134/10333250_zpid/
+Townhouse for sale,2609 E Ontario St,Philadelphia,PA,19134,"$249,900",3,2.0,1258.0,1097.0,1920,TOWNHOUSE,135300.0,https://www.zillow.com/homedetails/2609-E-Ontario-St-Philadelphia-PA-19134/10442730_zpid/
+Apartment for sale,3649 Emerald St,Philadelphia,PA,19134,"$136,900",3,1.0,1128.0,1019.0,1925,MULTI_FAMILY,58700.0,https://www.zillow.com/homedetails/3649-Emerald-St-Philadelphia-PA-19134/10447719_zpid/
+Townhouse for sale,2570 E Ann St,Philadelphia,PA,19134,"$219,000",3,1.0,864.0,888.0,1920,TOWNHOUSE,121800.0,https://www.zillow.com/homedetails/2570-E-Ann-St-Philadelphia-PA-19134/10294800_zpid/
+Townhouse for sale,812 E Hilton St,Philadelphia,PA,19134,"$69,000",3,1.0,1140.0,714.0,1920,TOWNHOUSE,12700.0,https://www.zillow.com/homedetails/812-E-Hilton-St-Philadelphia-PA-19134/10333569_zpid/
+Townhouse for sale,2322 E Cambria St,Philadelphia,PA,19134,"$254,900",3,2.0,1650.0,949.0,1920,TOWNHOUSE,86500.0,https://www.zillow.com/homedetails/2322-E-Cambria-St-Philadelphia-PA-19134/10298903_zpid/

@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,7218 Forrest Ave,Philadelphia,PA,19138,"$90,000",3,2.0,1412.0,1537.0,1950,TOWNHOUSE,125900.0,https://www.zillow.com/homedetails/7218-Forrest-Ave-Philadelphia-PA-19138/10469232_zpid/
+House for sale,6000 Chew Ave,Philadelphia,PA,19138,"$449,000",5,4.0,3440.0,18665.0,1920,SINGLE_FAMILY,275000.0,https://www.zillow.com/homedetails/6000-Chew-Ave-Philadelphia-PA-19138/10538744_zpid/
+House for sale,1238 E Stafford St,Philadelphia,PA,19138,"$100,000",3,1.0,950.0,962.0,1905,SINGLE_FAMILY,62300.0,https://www.zillow.com/homedetails/1238-E-Stafford-St-Philadelphia-PA-19138/10535190_zpid/
+House for sale,5905 Devon Pl,Philadelphia,PA,19138,"$319,000",4,3.0,1890.0,5248.0,1945,SINGLE_FAMILY,178300.0,https://www.zillow.com/homedetails/5905-Devon-Pl-Philadelphia-PA-19138/10538841_zpid/
+Townhouse for sale,7507 Tulpehocken St,Philadelphia,PA,19138,"$264,900",4,3.0,1810.0,1511.0,1934,TOWNHOUSE,170200.0,https://www.zillow.com/homedetails/7507-Tulpehocken-St-Philadelphia-PA-19138/10472485_zpid/
+Townhouse for sale,7208 Cornelius St,Philadelphia,PA,19138,"$119,900",3,2.0,1166.0,1698.0,1925,TOWNHOUSE,121600.0,https://www.zillow.com/homedetails/7208-Cornelius-St-Philadelphia-PA-19138/10222303_zpid/
+Townhouse for sale,2046 Church Ln,Philadelphia,PA,19138,"$45,900",3,1.0,1118.0,1633.0,1920,TOWNHOUSE,96800.0,https://www.zillow.com/homedetails/2046-Church-Ln-Philadelphia-PA-19138/10250994_zpid/
+House for sale,6844 Ogontz Ave,Philadelphia,PA,19138,"$299,999",4,3.0,1760.0,5384.0,1925,SINGLE_FAMILY,101800.0,https://www.zillow.com/homedetails/6844-Ogontz-Ave-Philadelphia-PA-19138/10219243_zpid/
+House for sale,1241 E Stafford St,Philadelphia,PA,19138,"$100,000",3,1.0,950.0,901.0,1905,SINGLE_FAMILY,64600.0,https://www.zillow.com/homedetails/1241-E-Stafford-St-Philadelphia-PA-19138/10535324_zpid/
+For sale by owner,6331 N Norwood St,Philadelphia,PA,19138,"$75,000",3,1.0,1138.0,1154.0,1918,TOWNHOUSE,45600.0,https://www.zillow.com/homedetails/6331-N-Norwood-St-Philadelphia-PA-19138/10255647_zpid/
+Townhouse for sale,7216 N 20th St,Philadelphia,PA,19138,"$165,000",3,2.0,1312.0,1842.0,1925,TOWNHOUSE,140300.0,https://www.zillow.com/homedetails/7216-N-20th-St-Philadelphia-PA-19138/10217063_zpid/
+Townhouse for sale,2120 Homer St,Philadelphia,PA,19138,"$220,000",4,3.0,1176.0,1319.0,1925,TOWNHOUSE,121000.0,https://www.zillow.com/homedetails/2120-Homer-St-Philadelphia-PA-19138/10220386_zpid/
+Townhouse for sale,957 E Price St,Philadelphia,PA,19138,"$210,000",4,2.0,1080.0,1655.0,1900,TOWNHOUSE,79000.0,https://www.zillow.com/homedetails/957-E-Price-St-Philadelphia-PA-19138/10535597_zpid/
+Townhouse for sale,1659 Middleton St,Philadelphia,PA,19138,"$250,000",4,3.0,1314.0,1720.0,1925,TOWNHOUSE,137700.0,https://www.zillow.com/homedetails/1659-Middleton-St-Philadelphia-PA-19138/10220295_zpid/
+Townhouse for sale,6936 Forrest Ave,Philadelphia,PA,19138,"$209,000",3,2.0,1146.0,1498.0,1925,TOWNHOUSE,116500.0,https://www.zillow.com/homedetails/6936-Forrest-Ave-Philadelphia-PA-19138/10223491_zpid/
+Townhouse for sale,1351 E Price St,Philadelphia,PA,19138,"$184,000",5,2.0,1450.0,1132.0,1940,TOWNHOUSE,8800.0,https://www.zillow.com/homedetails/1351-E-Price-St-Philadelphia-PA-19138/118346922_zpid/
+Apartment for sale,1510 E Johnson St,Philadelphia,PA,19138,"$295,000",3,3.0,1734.0,2243.0,1945,MULTI_FAMILY,160700.0,https://www.zillow.com/homedetails/1510-E-Johnson-St-Philadelphia-PA-19138/10221721_zpid/
+Apartment for sale,923 E Rittenhouse St,Philadelphia,PA,19138,"$155,000",3,1.0,1751.0,2631.0,1915,MULTI_FAMILY,126000.0,https://www.zillow.com/homedetails/923-E-Rittenhouse-St-Philadelphia-PA-19138/10535944_zpid/
+Townhouse for sale,6212 Clearview St,Philadelphia,PA,19138,"$189,900",3,2.0,1396.0,906.0,1925,TOWNHOUSE,80900.0,https://www.zillow.com/homedetails/6212-Clearview-St-Philadelphia-PA-19138/10538777_zpid/
+Townhouse for sale,7314 N 20th St,Philadelphia,PA,19138,"$139,900",3,1.0,1338.0,1807.0,1925,TOWNHOUSE,140700.0,https://www.zillow.com/homedetails/7314-N-20th-St-Philadelphia-PA-19138/10217093_zpid/
+Townhouse for sale,7009 Cedar Park Ave,Philadelphia,PA,19138,"$165,000",3,1.0,1208.0,1598.0,1925,TOWNHOUSE,120100.0,https://www.zillow.com/homedetails/7009-Cedar-Park-Ave-Philadelphia-PA-19138/10223408_zpid/
+Townhouse for sale,6728 N Woodstock St,Philadelphia,PA,19138,"$134,900",3,1.0,1136.0,1089.0,1925,TOWNHOUSE,110400.0,https://www.zillow.com/homedetails/6728-N-Woodstock-St-Philadelphia-PA-19138/10219903_zpid/
+Apartment for sale,951 E Johnson St,Philadelphia,PA,19138,"$225,000",3,3.0,1114.0,5854.0,1955,MULTI_FAMILY,155900.0,https://www.zillow.com/homedetails/951-E-Johnson-St-Philadelphia-PA-19138/10279116_zpid/
+House for sale,1210 E Duval St,Philadelphia,PA,19138,"$299,900",2,1.0,1253.0,9583.0,1925,SINGLE_FAMILY,172000.0,https://www.zillow.com/homedetails/1210-E-Duval-St-Philadelphia-PA-19138/10279068_zpid/
+For sale by owner,5741 N 21st St,Philadelphia,PA,19138,"$122,900",4,2.0,1084.0,871.0,1925,TOWNHOUSE,85300.0,https://www.zillow.com/homedetails/5741-N-21st-St-Philadelphia-PA-19138/10255368_zpid/
+Townhouse for sale,1832 E Tulpehocken St,Philadelphia,PA,19138,"$269,900",4,4.0,2256.0,1646.0,1925,TOWNHOUSE,141700.0,https://www.zillow.com/homedetails/1832-E-Tulpehocken-St-Philadelphia-PA-19138/10220945_zpid/
+Townhouse for sale,1508 Mohican St,Philadelphia,PA,19138,"$229,900",3,2.0,1250.0,1441.0,1925,TOWNHOUSE,145600.0,https://www.zillow.com/homedetails/1508-Mohican-St-Philadelphia-PA-19138/10221151_zpid/
+Townhouse for sale,6602 Hollis St,Philadelphia,PA,19138,"$183,999",3,3.0,1188.0,1485.0,1920,TOWNHOUSE,165900.0,https://www.zillow.com/homedetails/6602-Hollis-St-Philadelphia-PA-19138/10222383_zpid/
+Townhouse for sale,6930 Forrest Ave,Philadelphia,PA,19138,"$214,900",3,2.0,1500.0,1498.0,1925,TOWNHOUSE,116500.0,https://www.zillow.com/homedetails/6930-Forrest-Ave-Philadelphia-PA-19138/10223488_zpid/
+Townhouse for sale,5626 Sprague St,Philadelphia,PA,19138,"$159,900",3,2.0,1115.0,871.0,1925,TOWNHOUSE,51100.0,https://www.zillow.com/homedetails/5626-Sprague-St-Philadelphia-PA-19138/10231324_zpid/
+Townhouse for sale,1538 Mohican St,Philadelphia,PA,19138,"$199,000",3,1.0,1242.0,1433.0,1925,TOWNHOUSE,122700.0,https://www.zillow.com/homedetails/1538-Mohican-St-Philadelphia-PA-19138/10221166_zpid/
+Townhouse for sale,7265 Walnut Ln,Philadelphia,PA,19138,"$189,888",3,2.0,1030.0,1881.0,1925,TOWNHOUSE,109100.0,https://www.zillow.com/homedetails/7265-Walnut-Ln-Philadelphia-PA-19138/10217373_zpid/
+Foreclosure,2159 Homer St,Philadelphia,PA,19138,"$100,000",3,1.0,1188.0,1568.0,1925,TOWNHOUSE,121300.0,https://www.zillow.com/homedetails/2159-Homer-St-Philadelphia-PA-19138/10220324_zpid/
+Townhouse for sale,6816 Wyncote Ave,Philadelphia,PA,19138,"$95,000",3,1.0,1044.0,810.0,1925,TOWNHOUSE,97000.0,https://www.zillow.com/homedetails/6816-Wyncote-Ave-Philadelphia-PA-19138/10220014_zpid/
+Townhouse for sale,5806 N 20th St,Philadelphia,PA,19138,"$142,250",4,2.0,1270.0,1141.0,1925,TOWNHOUSE,94200.0,https://www.zillow.com/homedetails/5806-N-20th-St-Philadelphia-PA-19138/10254910_zpid/
+Townhouse for sale,1806 Nolan St,Philadelphia,PA,19138,"$215,000",3,2.0,1457.0,1799.0,1925,TOWNHOUSE,188500.0,https://www.zillow.com/homedetails/1806-Nolan-St-Philadelphia-PA-19138/10221079_zpid/
+Apartment for sale,1937 Georgian Rd,Philadelphia,PA,19138,"$195,000",0,,1664.0,1742.0,1920,MULTI_FAMILY,141200.0,https://www.zillow.com/homedetails/1937-Georgian-Rd-Philadelphia-PA-19138/165113858_zpid/
+House for sale,5813 Wister St,Philadelphia,PA,19138,"$99,900",4,2.0,2800.0,1498.0,1925,SINGLE_FAMILY,28800.0,https://www.zillow.com/homedetails/5813-Wister-St-Philadelphia-PA-19138/10256060_zpid/
+Townhouse for sale,6431 N Lambert St,Philadelphia,PA,19138,"$154,900",3,1.0,1110.0,1197.0,1925,TOWNHOUSE,87700.0,https://www.zillow.com/homedetails/6431-N-Lambert-St-Philadelphia-PA-19138/10255238_zpid/
+Townhouse for sale,6052 N 21st St,Philadelphia,PA,19138,"$70,000",3,1.0,1056.0,1376.0,1925,TOWNHOUSE,84200.0,https://www.zillow.com/homedetails/6052-N-21st-St-Philadelphia-PA-19138/10255521_zpid/

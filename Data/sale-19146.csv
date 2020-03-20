@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Condo for sale,1124 S 20th St # B,Philadelphia,PA,19146,"$230,000",3,2.0,1512.0,-1.0,2020,CONDO,,https://www.zillow.com/homedetails/1124-S-20th-St-B-Philadelphia-PA-19146/2080550332_zpid/
+Townhouse for sale,2014 Pemberton St,Philadelphia,PA,19146,"$449,000",2,2.0,896.0,801.0,1925,TOWNHOUSE,310300.0,https://www.zillow.com/homedetails/2014-Pemberton-St-Philadelphia-PA-19146/10318710_zpid/
+Townhouse for sale,1639 Fitzwater St,Philadelphia,PA,19146,"$750,000",3,3.0,2160.0,1006.0,1920,TOWNHOUSE,561800.0,https://www.zillow.com/homedetails/1639-Fitzwater-St-Philadelphia-PA-19146/10318745_zpid/
+Townhouse for sale,1813 Dickinson St,Philadelphia,PA,19146,"$229,000",3,2.0,1200.0,1041.0,1925,TOWNHOUSE,113200.0,https://www.zillow.com/homedetails/1813-Dickinson-St-Philadelphia-PA-19146/10365280_zpid/
+Townhouse for sale,743 S Cleveland St,Philadelphia,PA,19146,"$400,000",2,1.0,896.0,696.0,1915,TOWNHOUSE,264500.0,https://www.zillow.com/homedetails/743-S-Cleveland-St-Philadelphia-PA-19146/10319910_zpid/
+Townhouse for sale,1515 S Ringgold St,Philadelphia,PA,19146,"$245,000",3,2.0,2096.0,701.0,1920,TOWNHOUSE,66200.0,https://www.zillow.com/homedetails/1515-S-Ringgold-St-Philadelphia-PA-19146/10368265_zpid/
+Townhouse for sale,1234 S Bonsall St,Philadelphia,PA,19146,"$335,000",2,2.0,1255.0,805.0,1925,TOWNHOUSE,94600.0,https://www.zillow.com/homedetails/1234-S-Bonsall-St-Philadelphia-PA-19146/10363221_zpid/
+Townhouse for sale,1519 S Stillman St,Philadelphia,PA,19146,"$150,000",3,1.0,756.0,614.0,1920,TOWNHOUSE,54500.0,https://www.zillow.com/homedetails/1519-S-Stillman-St-Philadelphia-PA-19146/10368584_zpid/
+Townhouse for sale,2238 Greenwich St,Philadelphia,PA,19146,"$289,900",3,2.0,1120.0,683.0,1923,TOWNHOUSE,245000.0,https://www.zillow.com/homedetails/2238-Greenwich-St-Philadelphia-PA-19146/10367446_zpid/
+Townhouse for sale,2621 Oakford St,Philadelphia,PA,19146,"$325,000",3,2.0,1048.0,910.0,1920,TOWNHOUSE,68200.0,https://www.zillow.com/homedetails/2621-Oakford-St-Philadelphia-PA-19146/10363668_zpid/
+Condo for sale,1909 Christian St # A,Philadelphia,PA,19146,"$250,000",2,1.0,516.0,-1.0,1900,CONDO,151400.0,https://www.zillow.com/homedetails/1909-Christian-St-A-Philadelphia-PA-19146/87764023_zpid/
+Townhouse for sale,1321 S 16th St,Philadelphia,PA,19146,"$520,000",3,3.0,2450.0,792.0,2015,TOWNHOUSE,49100.0,https://www.zillow.com/homedetails/1321-S-16th-St-Philadelphia-PA-19146/118347187_zpid/
+Condo for sale,753 S 17th St # C,Philadelphia,PA,19146,"$349,900",2,1.0,1191.0,1408.0,2011,CONDO,314200.0,https://www.zillow.com/homedetails/753-S-17th-St-C-Philadelphia-PA-19146/10319747_zpid/
+Townhouse for sale,1637 Webster St,Philadelphia,PA,19146,"$364,500",2,1.0,1296.0,640.0,1920,TOWNHOUSE,337200.0,https://www.zillow.com/homedetails/1637-Webster-St-Philadelphia-PA-19146/10319021_zpid/
+Townhouse for sale,1608 Addison St,Philadelphia,PA,19146,"$525,000",2,2.0,1056.0,509.0,1914,TOWNHOUSE,542700.0,https://www.zillow.com/homedetails/1608-Addison-St-Philadelphia-PA-19146/10210526_zpid/
+Townhouse for sale,2534 Graduate Sq,Philadelphia,PA,19146,"$785,000",3,4.0,2809.0,-1.0,2018,TOWNHOUSE,,https://www.zillow.com/homedetails/2534-Graduate-Sq-Philadelphia-PA-19146/2088903086_zpid/
+House for sale,2408-46 Ellsworth St,Philadelphia,PA,19146,"$3,750,000",0,1.0,56778.0,39565.0,1930,SINGLE_FAMILY,,https://www.zillow.com/homedetails/2408-46-Ellsworth-St-Philadelphia-PA-19146/2080449460_zpid/
+Condo for sale,1124 S 20th St # A,Philadelphia,PA,19146,"$230,000",2,2.0,1325.0,-1.0,2020,CONDO,,https://www.zillow.com/homedetails/1124-S-20th-St-A-Philadelphia-PA-19146/2080554636_zpid/
+New construction,2218 Earp St,Philadelphia,PA,19146,"$450,000",4,3.0,2100.0,701.0,2020,TOWNHOUSE,106600.0,https://www.zillow.com/homedetails/2218-Earp-St-Philadelphia-PA-19146/10362968_zpid/
+Townhouse for sale,2317 Lombard St,Philadelphia,PA,19146,"$1,029,900",3,3.0,1956.0,1119.0,1882,TOWNHOUSE,800000.0,https://www.zillow.com/homedetails/2317-Lombard-St-Philadelphia-PA-19146/10210633_zpid/
+Townhouse for sale,1914 Naudain St,Philadelphia,PA,19146,"$550,000",3,2.0,1128.0,561.0,1911,TOWNHOUSE,527000.0,https://www.zillow.com/homedetails/1914-Naudain-St-Philadelphia-PA-19146/10321899_zpid/
+Townhouse for sale,1634 Reed St,Philadelphia,PA,19146,"$340,000",2,2.0,1232.0,927.0,1925,TOWNHOUSE,291000.0,https://www.zillow.com/homedetails/1634-Reed-St-Philadelphia-PA-19146/10591667_zpid/
+Townhouse for sale,1147 S Mole St,Philadelphia,PA,19146,"$219,900",2,1.0,784.0,518.0,1920,TOWNHOUSE,223900.0,https://www.zillow.com/homedetails/1147-S-Mole-St-Philadelphia-PA-19146/10371352_zpid/
+Townhouse for sale,1631 South St # 2,Philadelphia,PA,19146,"$615,000",3,3.0,1574.0,945.0,2006,TOWNHOUSE,534800.0,https://www.zillow.com/homedetails/1631-South-St-2-Philadelphia-PA-19146/71245580_zpid/
+Townhouse for sale,1032 S Bouvier St,Philadelphia,PA,19146,"$334,900",2,2.0,1092.0,640.0,1925,TOWNHOUSE,306300.0,https://www.zillow.com/homedetails/1032-S-Bouvier-St-Philadelphia-PA-19146/10319828_zpid/
+New construction,730 S Hicks St,Philadelphia,PA,19146,"$1,295,000",3,4.0,3000.0,871.0,2020,SINGLE_FAMILY,230400.0,https://www.zillow.com/homedetails/730-S-Hicks-St-Philadelphia-PA-19146/165534223_zpid/
+Condo for sale,2053 Christian St # B,Philadelphia,PA,19146,"$265,000",1,1.0,792.0,-1.0,1900,CONDO,237300.0,https://www.zillow.com/homedetails/2053-Christian-St-B-Philadelphia-PA-19146/71250341_zpid/
+Townhouse for sale,1328 S Cleveland St,Philadelphia,PA,19146,"$444,999",3,2.0,1800.0,649.0,1925,TOWNHOUSE,49800.0,https://www.zillow.com/homedetails/1328-S-Cleveland-St-Philadelphia-PA-19146/10362085_zpid/
+Townhouse for sale,1809 Lombard St,Philadelphia,PA,19146,"$2,200,000",4,5.0,4100.0,1245.0,2013,TOWNHOUSE,1371400.0,https://www.zillow.com/homedetails/1809-Lombard-St-Philadelphia-PA-19146/122060043_zpid/
+Townhouse for sale,2536 Christian St,Philadelphia,PA,19146,"$595,000",3,4.0,2150.0,980.0,2008,TOWNHOUSE,430400.0,https://www.zillow.com/homedetails/2536-Christian-St-Philadelphia-PA-19146/90197789_zpid/
+Townhouse for sale,2123 Naudain St,Philadelphia,PA,19146,"$394,000",2,1.0,810.0,418.0,1925,TOWNHOUSE,364500.0,https://www.zillow.com/homedetails/2123-Naudain-St-Philadelphia-PA-19146/10321792_zpid/
+Condo for sale,2017 Christian St # B,Philadelphia,PA,19146,"$229,900",2,1.0,660.0,1306.0,1900,CONDO,196900.0,https://www.zillow.com/homedetails/2017-Christian-St-B-Philadelphia-PA-19146/71250458_zpid/
+Townhouse for sale,1324 S Mole St,Philadelphia,PA,19146,"$299,900",3,2.0,1056.0,653.0,1925,TOWNHOUSE,261400.0,https://www.zillow.com/homedetails/1324-S-Mole-St-Philadelphia-PA-19146/10371463_zpid/
+Townhouse for sale,506 S 22nd St,Philadelphia,PA,19146,"$750,000",3,2.0,1506.0,871.0,1915,TOWNHOUSE,514700.0,https://www.zillow.com/homedetails/506-S-22nd-St-Philadelphia-PA-19146/10322147_zpid/
+Townhouse for sale,1429 S Bouvier St,Philadelphia,PA,19146,"$345,000",3,2.0,1564.0,670.0,2016,TOWNHOUSE,275800.0,https://www.zillow.com/homedetails/1429-S-Bouvier-St-Philadelphia-PA-19146/118348553_zpid/
+Townhouse for sale,2905 Gerritt St,Philadelphia,PA,19146,"$255,000",2,2.0,984.0,631.0,1920,TOWNHOUSE,78100.0,https://www.zillow.com/homedetails/2905-Gerritt-St-Philadelphia-PA-19146/10368765_zpid/
+Coming soon,Naudain St,Philadelphia,PA,19146,"$485,000",2,1.0,960.0,479.0,1925,TOWNHOUSE,438700.0,https://www.zillow.com/homedetails/2118-Naudain-St-Philadelphia-PA-19146/10321941_zpid/
+Townhouse for sale,1837 Reed St,Philadelphia,PA,19146,"$539,000",3,3.0,2350.0,849.0,2013,TOWNHOUSE,385000.0,https://www.zillow.com/homedetails/1837-Reed-St-Philadelphia-PA-19146/117924348_zpid/
+Townhouse for sale,2118 Ellsworth St,Philadelphia,PA,19146,"$579,000",3,3.0,2077.0,871.0,2009,TOWNHOUSE,413800.0,https://www.zillow.com/homedetails/2118-Ellsworth-St-Philadelphia-PA-19146/90197456_zpid/
+Townhouse for sale,2613 Bainbridge St,Philadelphia,PA,19146,"$450,000",3,1.0,1656.0,797.0,1920,TOWNHOUSE,348000.0,https://www.zillow.com/homedetails/2613-Bainbridge-St-Philadelphia-PA-19146/10320266_zpid/

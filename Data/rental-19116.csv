@@ -1,0 +1,15 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,10039 Bridle Rd FLOOR 2,Philadelphia,PA,19116,"$1,075/mo",2,1.0,800.0,1966,-1.0,MULTI_FAMILY
+Apartment for rent,10849 Lockart Rd # B,Philadelphia,PA,19116,"$1,250/mo",2,1.0,950.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,274 Nandina Plz # 2,Philadelphia,PA,19116,$875/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,493 Avon St # 1,Philadelphia,PA,19116,"$1,250/mo",2,1.0,820.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,10782 Jeanes St FLOOR 1,Philadelphia,PA,19116,"$1,200/mo",2,1.0,1000.0,-1,-1.0,MULTI_FAMILY
+House for rent,1880 Foster St,Philadelphia,PA,19116,"$1,750/mo",3,2.5,1632.0,1961,2920.0,SINGLE_FAMILY
+Apartment for rent,10037 Bridle Rd,Philadelphia,PA,19116,"$1,200/mo",2,1.0,1445.0,1966,3484.0,APARTMENT
+Condo for rent,13675 Philmont Ave UNIT 30,Philadelphia,PA,19116,"$2,000/mo",2,2.5,1952.0,2006,-1.0,CONDO
+Condo for rent,301 Byberry Rd APT H2,Philadelphia,PA,19116,"$1,350/mo",2,2.0,1074.0,1989,1350.0,CONDO
+Apartment for rent,605 Hazell Ln # 2,Philadelphia,PA,19116,"$1,350/mo",2,2.0,950.0,-1,-1.0,APARTMENT
+Apartment for rent,10806 Gifford Ave # 1,Philadelphia,PA,19116,"$1,150/mo",2,1.0,940.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,211 Erica Pl # 1,Philadelphia,PA,19116,"$1,250/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,820 Avon Rd # 2,Philadelphia,PA,19116,"$4,250/mo",4,2.0,,-1,-1.0,APARTMENT
+House for rent,11611 Heather St,Philadelphia,PA,19116,"$1,800/mo",3,1.0,1105.0,1958,7396.0,SINGLE_FAMILY

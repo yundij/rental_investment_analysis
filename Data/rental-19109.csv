@@ -1,0 +1,6 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Off market,123-51 S Broad St # 2,Philadelphia,PA,19109,,,,760200.0,1927,57500.0,SINGLE_FAMILY
+Off market,123 S Broad St # 4,Philadelphia,PA,19109,,0,,310659.0,1927,57500.0,SINGLE_FAMILY
+Off market,123 S Broad St # 2,Philadelphia,PA,19109,,0,,310659.0,1927,57500.0,SINGLE_FAMILY
+Off market,123 S Broad St STE 2080,Philadelphia,PA,19109,,,,,-1,-1.0,SINGLE_FAMILY
+Off market,123 S Broad St FLOOR 3,Philadelphia,PA,19109,,0,,310659.0,1927,57500.0,SINGLE_FAMILY

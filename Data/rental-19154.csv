@@ -1,0 +1,12 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,3346 Gurley Rd,Philadelphia,PA,19154,"$1,475/mo",3,1.0,1360.0,1962,2178.0,SINGLE_FAMILY
+Apartment for rent,Genesee Dr,Philadelphia,PA,19154,"$1,200/mo",2,1.0,900.0,-1,-1.0,APARTMENT
+Apartment for rent,12524 Knights Rd FLOOR 2,Philadelphia,PA,19154,"$1,000/mo",2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,12146 Medford Rd,Philadelphia,PA,19154,"$1,900/mo",3,2.5,1360.0,1974,2500.0,TOWNHOUSE
+Townhouse for rent,3670 Academy Rd,Philadelphia,PA,19154,"$1,600/mo",3,1.5,1098.0,1963,1742.0,TOWNHOUSE
+Townhouse for rent,11859 Academy Rd # 59A,Philadelphia,PA,19154,"$1,500/mo",3,2.5,1326.0,-1,-1.0,TOWNHOUSE
+House for rent,Tyrone Rd,Philadelphia,PA,19154,"$1,500/mo",3,1.0,1360.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,Woodhaven Rd,Philadelphia,PA,19154,"$1,350/mo",2,1.5,1133.0,-1,-1.0,APARTMENT
+Apartment for rent,11709 Telfair Rd # 2,Philadelphia,PA,19154,"$1,100/mo",2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,3203 Fairdale Rd,Philadelphia,PA,19154,"$1,350/mo",3,1.0,1800.0,1972,1742.0,TOWNHOUSE
+Apartment for rent,3707 Ronnald Dr APT A,Philadelphia,PA,19154,"$1,200/mo",2,1.0,850.0,-1,-1.0,APARTMENT

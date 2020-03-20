@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+For sale by owner,17 S Farragut St,Philadelphia,PA,19139,"$140,000",4,2.0,1231.0,1200.0,1965,SINGLE_FAMILY,97100.0,https://www.zillow.com/homedetails/17-S-Farragut-St-Philadelphia-PA-19139/10540312_zpid/
+House for sale,264 S Cecil St,Philadelphia,PA,19139,"$200,000",3,2.0,1170.0,901.0,1925,SINGLE_FAMILY,17400.0,https://www.zillow.com/homedetails/264-S-Cecil-St-Philadelphia-PA-19139/10544603_zpid/
+Townhouse for sale,244 S 61st St,Philadelphia,PA,19139,"$89,900",3,2.0,1242.0,1232.0,1925,TOWNHOUSE,65800.0,https://www.zillow.com/homedetails/244-S-61st-St-Philadelphia-PA-19139/10184272_zpid/
+Townhouse for sale,57 N Dearborn St,Philadelphia,PA,19139,"$49,900",3,1.0,900.0,666.0,1925,TOWNHOUSE,8500.0,https://www.zillow.com/homedetails/57-N-Dearborn-St-Philadelphia-PA-19139/10438153_zpid/
+Townhouse for sale,4826 Aspen St,Philadelphia,PA,19139,"$139,000",3,1.0,1280.0,1202.0,1925,TOWNHOUSE,51200.0,https://www.zillow.com/homedetails/4826-Aspen-St-Philadelphia-PA-19139/10439356_zpid/
+Townhouse for sale,48 N Hirst St,Philadelphia,PA,19139,"$93,000",3,2.0,1072.0,910.0,1925,TOWNHOUSE,53200.0,https://www.zillow.com/homedetails/48-N-Hirst-St-Philadelphia-PA-19139/10342683_zpid/
+Townhouse for sale,5830 Filbert St,Philadelphia,PA,19139,"$189,000",3,2.0,1248.0,1123.0,1925,TOWNHOUSE,66000.0,https://www.zillow.com/homedetails/5830-Filbert-St-Philadelphia-PA-19139/10191735_zpid/
+Townhouse for sale,5514 Race St,Philadelphia,PA,19139,"$140,000",2,1.0,950.0,1041.0,1925,TOWNHOUSE,42700.0,https://www.zillow.com/homedetails/5514-Race-St-Philadelphia-PA-19139/10189333_zpid/
+Townhouse for sale,51 N Dearborn St,Philadelphia,PA,19139,"$49,900",3,1.0,900.0,666.0,1925,TOWNHOUSE,19900.0,https://www.zillow.com/homedetails/51-N-Dearborn-St-Philadelphia-PA-19139/10438150_zpid/
+For sale by owner,47 N Redfield St,Philadelphia,PA,19139,"$59,000",3,1.0,1110.0,871.0,1917,SINGLE_FAMILY,58700.0,https://www.zillow.com/homedetails/47-N-Redfield-St-Philadelphia-PA-19139/10192429_zpid/
+Townhouse for sale,211 N Gross St,Philadelphia,PA,19139,"$130,000",3,2.0,1168.0,1528.0,1925,TOWNHOUSE,88100.0,https://www.zillow.com/homedetails/211-N-Gross-St-Philadelphia-PA-19139/10345980_zpid/
+Apartment for sale,339 N 61st St,Philadelphia,PA,19139,"$79,900",3,1.0,1164.0,1995.0,1925,MULTI_FAMILY,75900.0,https://www.zillow.com/homedetails/339-N-61st-St-Philadelphia-PA-19139/10341909_zpid/
+Apartment for sale,5039 Spruce St,Philadelphia,PA,19139,"$300,000",6,3.0,3480.0,1999.0,1925,MULTI_FAMILY,254000.0,https://www.zillow.com/homedetails/5039-Spruce-St-Philadelphia-PA-19139/10541020_zpid/
+House for sale,5126 Spruce St,Philadelphia,PA,19139,"$229,000",5,3.0,1984.0,1742.0,1925,SINGLE_FAMILY,277700.0,https://www.zillow.com/homedetails/5126-Spruce-St-Philadelphia-PA-19139/10541039_zpid/
+New construction,4729 Walnut St # C,Philadelphia,PA,19139,"$399,900",3,3.0,1580.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/4729-Walnut-St-C-Philadelphia-PA-19139/2080762491_zpid/
+Townhouse for sale,32 N 56th St,Philadelphia,PA,19139,"$100,000",4,3.0,1313.0,1298.0,1925,TOWNHOUSE,62200.0,https://www.zillow.com/homedetails/32-N-56th-St-Philadelphia-PA-19139/10192036_zpid/
+Apartment for sale,5944 Race St,Philadelphia,PA,19139,"$99,000",3,2.0,1296.0,1411.0,1920,MULTI_FAMILY,38800.0,https://www.zillow.com/homedetails/5944-Race-St-Philadelphia-PA-19139/124249016_zpid/
+Townhouse for sale,277 S Ithan St,Philadelphia,PA,19139,"$230,000",3,4.0,1320.0,1041.0,1925,TOWNHOUSE,66000.0,https://www.zillow.com/homedetails/277-S-Ithan-St-Philadelphia-PA-19139/10544169_zpid/
+Townhouse for sale,463 N 51st St,Philadelphia,PA,19139,"$134,500",3,1.0,1080.0,805.0,1925,TOWNHOUSE,43200.0,https://www.zillow.com/homedetails/463-N-51st-St-Philadelphia-PA-19139/10440059_zpid/
+Townhouse for sale,5322 Locust St,Philadelphia,PA,19139,"$185,000",3,1.0,1280.0,1433.0,1925,TOWNHOUSE,71600.0,https://www.zillow.com/homedetails/5322-Locust-St-Philadelphia-PA-19139/123974861_zpid/
+Townhouse for sale,5608 Appletree St,Philadelphia,PA,19139,"$35,000",2,1.0,797.0,666.0,1925,TOWNHOUSE,8700.0,https://www.zillow.com/homedetails/5608-Appletree-St-Philadelphia-PA-19139/10191890_zpid/
+House for sale,124 S 57th St,Philadelphia,PA,19139,"$75,000",4,2.0,1080.0,1080.0,1925,SINGLE_FAMILY,60400.0,https://www.zillow.com/homedetails/124-S-57th-St-Philadelphia-PA-19139/10544357_zpid/
+Townhouse for sale,121 S 58th St,Philadelphia,PA,19139,"$200,000",4,2.0,1576.0,1241.0,1925,TOWNHOUSE,78800.0,https://www.zillow.com/homedetails/121-S-58th-St-Philadelphia-PA-19139/10544628_zpid/
+Townhouse for sale,44 N Hirst St,Philadelphia,PA,19139,"$115,000",3,3.0,922.0,910.0,1925,TOWNHOUSE,12600.0,https://www.zillow.com/homedetails/44-N-Hirst-St-Philadelphia-PA-19139/10342682_zpid/
+Townhouse for sale,6160 Sansom St,Philadelphia,PA,19139,"$209,999",3,2.0,1130.0,1616.0,1925,TOWNHOUSE,61000.0,https://www.zillow.com/homedetails/6160-Sansom-St-Philadelphia-PA-19139/10183405_zpid/
+Apartment for sale,5139 Locust St,Philadelphia,PA,19139,"$359,999",5,3.0,1650.0,1799.0,1925,MULTI_FAMILY,136900.0,https://www.zillow.com/homedetails/5139-Locust-St-Philadelphia-PA-19139/10540847_zpid/
+Townhouse for sale,106 N 60th St,Philadelphia,PA,19139,"$154,900",3,2.0,1098.0,871.0,1920,TOWNHOUSE,37900.0,https://www.zillow.com/homedetails/106-N-60th-St-Philadelphia-PA-19139/165540698_zpid/
+Townhouse for sale,5630 Appletree St,Philadelphia,PA,19139,"$75,000",2,1.0,876.0,666.0,1925,TOWNHOUSE,43800.0,https://www.zillow.com/homedetails/5630-Appletree-St-Philadelphia-PA-19139/10191899_zpid/
+Townhouse for sale,5941 Irving St,Philadelphia,PA,19139,"$130,000",3,2.0,934.0,871.0,1925,TOWNHOUSE,33800.0,https://www.zillow.com/homedetails/5941-Irving-St-Philadelphia-PA-19139/10183778_zpid/
+Townhouse for sale,137 N 51st St,Philadelphia,PA,19139,"$75,000",3,1.0,1314.0,823.0,1925,TOWNHOUSE,48600.0,https://www.zillow.com/homedetails/137-N-51st-St-Philadelphia-PA-19139/10438280_zpid/
+Townhouse for sale,223 S Millick St,Philadelphia,PA,19139,"$172,500",3,2.0,1440.0,871.0,1925,TOWNHOUSE,35200.0,https://www.zillow.com/homedetails/223-S-Millick-St-Philadelphia-PA-19139/10184174_zpid/
+Townhouse for sale,347 N Horton St,Philadelphia,PA,19139,"$154,900",3,2.0,1290.0,1049.0,1925,TOWNHOUSE,73400.0,https://www.zillow.com/homedetails/347-N-Horton-St-Philadelphia-PA-19139/10342401_zpid/
+Townhouse for sale,228 S 56th St,Philadelphia,PA,19139,"$227,900",3,3.0,1320.0,1237.0,1925,TOWNHOUSE,66000.0,https://www.zillow.com/homedetails/228-S-56th-St-Philadelphia-PA-19139/10544088_zpid/
+Townhouse for sale,40 N Salford St,Philadelphia,PA,19139,"$49,900",3,1.0,1188.0,1080.0,1920,TOWNHOUSE,62800.0,https://www.zillow.com/homedetails/40-N-Salford-St-Philadelphia-PA-19139/10192514_zpid/
+Apartment for sale,142 S 53rd St,Philadelphia,PA,19139,"$263,000",3,3.0,2400.0,1045.0,1925,MULTI_FAMILY,75000.0,https://www.zillow.com/homedetails/142-S-53rd-St-Philadelphia-PA-19139/10542257_zpid/
+Apartment for sale,6220 Vine St,Philadelphia,PA,19139,"$392,000",0,,2685.0,2474.0,1929,MULTI_FAMILY,,https://www.zillow.com/homedetails/6220-Vine-St-Philadelphia-PA-19139/2080534995_zpid/
+Townhouse for sale,332 N Felton St,Philadelphia,PA,19139,"$90,000",3,1.0,1320.0,1520.0,1925,TOWNHOUSE,77800.0,https://www.zillow.com/homedetails/332-N-Felton-St-Philadelphia-PA-19139/10342850_zpid/
+Townhouse for sale,55 N Lindenwood St,Philadelphia,PA,19139,"$133,000",2,1.0,996.0,797.0,1925,TOWNHOUSE,20700.0,https://www.zillow.com/homedetails/55-N-Lindenwood-St-Philadelphia-PA-19139/10438673_zpid/
+Apartment for sale,5120 Arch St,Philadelphia,PA,19139,"$140,000",5,,2000.0,1306.0,1925,MULTI_FAMILY,,https://www.zillow.com/homedetails/5120-Arch-St-Philadelphia-PA-19139/2084024470_zpid/
+Townhouse for sale,58 N 61st St,Philadelphia,PA,19139,"$189,000",3,2.0,1114.0,958.0,1925,TOWNHOUSE,70000.0,https://www.zillow.com/homedetails/58-N-61st-St-Philadelphia-PA-19139/10341948_zpid/

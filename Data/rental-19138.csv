@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,6422 N Woodstock St,Philadelphia,PA,19138,"$1,350/mo",3,1.5,1212.0,1925,1230.0,SINGLE_FAMILY
+Townhouse for rent,6033 N Norwood St,Philadelphia,PA,19138,"$1,100/mo",3,1.0,1017.0,1920,1274.0,TOWNHOUSE
+House for rent,918 E Stafford St,Philadelphia,PA,19138,"$1,150/mo",3,2.0,1200.0,1935,1306.0,SINGLE_FAMILY
+Apartment for rent,859 Church Ln,Philadelphia,PA,19138,$950/mo,2,1.0,870.0,1925,10890.0,MULTI_FAMILY
+House for rent,1666 E Walnut Ln,Philadelphia,PA,19138,"$1,400/mo",3,1.5,1164.0,1925,1538.0,SINGLE_FAMILY
+Townhouse for rent,7058 Forrest Ave,Philadelphia,PA,19138,$850/mo,2,1.0,800.0,1920,1443.0,TOWNHOUSE
+House for rent,7174 N Uber St,Philadelphia,PA,19138,"$1,600/mo",3,1.5,1194.0,1925,1629.0,SINGLE_FAMILY
+Townhouse for rent,1529 Wynsam St # 1,Philadelphia,PA,19138,"$1,500/mo",5,2.5,1166.0,-1,-1.0,TOWNHOUSE
+Condo for rent,7553 Mayland St,Philadelphia,PA,19138,"$1,500/mo",3,1.0,1500.0,1929,2228.0,CONDO
+House for rent,5950 Kemble Ave,Philadelphia,PA,19138,"$1,200/mo",3,1.5,1100.0,1925,1050.0,SINGLE_FAMILY
+House for rent,6522 Wister St,Philadelphia,PA,19138,"$1,600/mo",3,2.0,1500.0,1950,1346.0,SINGLE_FAMILY
+Townhouse for rent,1934 Dallas Rd,Philadelphia,PA,19138,"$3,450/mo",3,1.0,1344.0,-1,-1.0,TOWNHOUSE
+Condo for rent,5749 E Wister St,Philadelphia,PA,19138,$875/mo,2,1.0,1596.0,1915,-1.0,CONDO
+Townhouse for rent,5951 E Wister St,Philadelphia,PA,19138,"$1,000/mo",3,1.0,984.0,1915,-1.0,TOWNHOUSE
+Townhouse for rent,2029 W Nedro Ave,Philadelphia,PA,19138,"$1,200/mo",3,1.0,1140.0,1925,1018.0,TOWNHOUSE
+Townhouse for rent,2035 W Nedro Ave # 2033,Philadelphia,PA,19138,"$1,300/mo",3,2.0,1160.0,-1,-1.0,TOWNHOUSE
+Townhouse for rent,5733 N 20th St,Philadelphia,PA,19138,"$1,600/mo",4,1.0,1218.0,1940,1968.0,TOWNHOUSE
+Townhouse for rent,6262 N Beechwood St,Philadelphia,PA,19138,"$1,300/mo",3,1.0,1503.0,1920,1238.0,TOWNHOUSE
+Townhouse for rent,7401 Andrews Ave # 1,Philadelphia,PA,19138,"$1,150/mo",2,1.0,1558.0,1940,-1.0,TOWNHOUSE
+Townhouse for rent,5728 N 20th St,Philadelphia,PA,19138,"$2,000/mo",4,3.0,1120.0,1940,1064.0,TOWNHOUSE
+House for rent,6020 N 21st St,Philadelphia,PA,19138,"$1,175/mo",3,1.5,1084.0,1925,1376.0,SINGLE_FAMILY
+Townhouse for rent,5803 Brush Rd,Philadelphia,PA,19138,"$1,200/mo",3,2.0,1126.0,1915,1406.0,TOWNHOUSE
+Townhouse for rent,7433 Andrews Ave,Philadelphia,PA,19138,"$1,500/mo",3,1.0,1500.0,1940,1306.0,TOWNHOUSE
+House for rent,5623 Boyer St,Philadelphia,PA,19138,"$1,300/mo",3,1.0,1426.0,1925,1399.0,SINGLE_FAMILY
+Apartment for rent,1630 E Walnut Ln,Philadelphia,PA,19138,"$1,200/mo",2,1.0,1660.0,1925,2722.0,APARTMENT
+House for rent,5515 Jane St,Philadelphia,PA,19138,"$1,200/mo",3,1.0,978.0,1900,848.0,SINGLE_FAMILY
+Apartment for rent,1319 E Johnson St # 2,Philadelphia,PA,19138,$950/mo,2,1.0,750.0,-1,-1.0,APARTMENT
+Condo for rent,7095 Forrest Ave APT 7,Philadelphia,PA,19138,$670/mo,1,1.0,4713.0,1925,-1.0,CONDO
+House for rent,6126 N Lambert St,Philadelphia,PA,19138,$995/mo,2,1.0,750.0,1925,1000.0,SINGLE_FAMILY
+House for rent,5506 Blakemore St,Philadelphia,PA,19138,"$1,195/mo",3,1.0,1010.0,1925,774.0,SINGLE_FAMILY
+House for rent,6509 Wister St,Philadelphia,PA,19138,"$1,195/mo",3,1.0,1162.0,1950,1033.0,SINGLE_FAMILY
+Townhouse for rent,6102 N Norwood St,Philadelphia,PA,19138,"$1,200/mo",2,1.0,888.0,1925,1267.0,TOWNHOUSE
+Townhouse for rent,6634 N Opal St,Philadelphia,PA,19138,"$1,250/mo",3,1.0,1152.0,1920,1222.0,TOWNHOUSE
+House for rent,1164 E Price St,Philadelphia,PA,19138,"$1,275/mo",3,1.5,1300.0,1915,1384.0,SINGLE_FAMILY
+Townhouse for rent,5731 N Woodstock St,Philadelphia,PA,19138,"$1,500/mo",3,2.0,960.0,1932,1000.0,TOWNHOUSE
+House for rent,2147 Medary Ave,Philadelphia,PA,19138,"$1,350/mo",4,2.0,1036.0,1925,4000.0,SINGLE_FAMILY
+House for rent,6060 N Beechwood St,Philadelphia,PA,19138,"$1,150/mo",3,1.0,1042.0,1925,1305.0,SINGLE_FAMILY
+Townhouse for rent,5700 N Woodstock St,Philadelphia,PA,19138,"$2,625/mo",5,2.5,1800.0,1925,1536.0,TOWNHOUSE
+House for rent,5734 N 20th St,Philadelphia,PA,19138,"$1,200/mo",3,1.5,1200.0,1915,1119.0,SINGLE_FAMILY
+House for rent,6238 N Norwood St,Philadelphia,PA,19138,$875/mo,2,1.0,835.0,1925,1405.0,SINGLE_FAMILY

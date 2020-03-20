@@ -1,0 +1,39 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,5700 N 3rd St FLOOR 2,Philadelphia,PA,19120,$895/mo,2,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,4835 N 6th St # 101,Philadelphia,PA,19120,$800/mo,2,1.0,,-1,-1.0,APARTMENT
+Condo for rent,231 W Tabor Rd,Philadelphia,PA,19120,$800/mo,1,1.0,1712.0,1900,2739.0,CONDO
+House for rent,5816 Newtown Ave,Philadelphia,PA,19120,"$1,125/mo",3,1.0,1138.0,1950,3169.0,SINGLE_FAMILY
+Apartment for rent,4835 N 6th St,Philadelphia,PA,19120,$800/mo,2,1.0,,-1,-1.0,MULTI_FAMILY
+House for rent,4916 N 4th St,Philadelphia,PA,19120,"$1,100/mo",3,1.0,1200.0,1930,1571.0,SINGLE_FAMILY
+Apartment for rent,314 W Grange Ave FLOOR 1,Philadelphia,PA,19120,$775/mo,1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,211 E Eleanor St,Philadelphia,PA,19120,"$1,200/mo",3,1.5,1288.0,1942,1980.0,TOWNHOUSE
+Townhouse for rent,5221 Tabor Rd,Philadelphia,PA,19120,"$1,250/mo",3,1.0,1520.0,1925,1440.0,TOWNHOUSE
+Townhouse for rent,5158 D St # 2F,Philadelphia,PA,19120,$975/mo,2,1.0,800.0,-1,-1.0,TOWNHOUSE
+House for rent,606 E Cheltenham Ave,Philadelphia,PA,19120,"$1,200/mo",3,1.5,1180.0,1920,1278.0,SINGLE_FAMILY
+House for rent,230 W Grange Ave,Philadelphia,PA,19120,"$1,100/mo",3,1.0,1050.0,1944,762.0,SINGLE_FAMILY
+Townhouse for rent,Adams Ave,Philadelphia,PA,19120,"$1,400/mo",3,1.0,1196.0,-1,-1.0,TOWNHOUSE
+Apartment for rent,305 W Spencer St FLOOR 2,Philadelphia,PA,19120,$800/mo,1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,275 W Wellens Ave,Philadelphia,PA,19120,"$1,200/mo",3,1.0,1008.0,1930,901.0,TOWNHOUSE
+Apartment for rent,140 W Spencer St,Philadelphia,PA,19120,$800/mo,1,1.0,1140.0,1935,-1.0,APARTMENT
+House for rent,213 E Albanus St,Philadelphia,PA,19120,"$1,195/mo",3,1.0,1126.0,1940,1135.0,SINGLE_FAMILY
+House for rent,714 W Wellens Ave,Philadelphia,PA,19120,"$1,200/mo",3,1.0,1260.0,1940,1125.0,SINGLE_FAMILY
+Apartment for rent,312 Fern St # 1,Philadelphia,PA,19120,$750/mo,0,1.0,,-1,-1.0,APARTMENT
+House for rent,542 E Cheltenham Ave,Philadelphia,PA,19120,"$1,085/mo",3,1.0,1104.0,1925,1124.0,SINGLE_FAMILY
+Townhouse for rent,595 E Cheltenham Ave,Philadelphia,PA,19120,"$1,200/mo",3,1.5,1108.0,1931,1088.0,TOWNHOUSE
+Townhouse for rent,113 E 64th Ave,Philadelphia,PA,19120,"$1,300/mo",3,1.5,1184.0,1957,1768.0,TOWNHOUSE
+Apartment for rent,517 E Tabor Rd # 2,Philadelphia,PA,19120,$850/mo,1,1.0,675.0,1960,-1.0,APARTMENT
+Apartment for rent,551 Rosalie St # 2,Philadelphia,PA,19120,$850/mo,1,1.0,800.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,Walnut Park Dr,Philadelphia,PA,19120,$770/mo,1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,5050 Rorer St # 1,Philadelphia,PA,19120,"$1,050/mo",2,1.0,1848.0,1940,-1.0,TOWNHOUSE
+Apartment for rent,510 W Tabor Rd # A,Philadelphia,PA,19120,$895/mo,2,1.0,,-1,-1.0,MULTI_FAMILY
+House for rent,4928 N Franklin St,Philadelphia,PA,19120,"$1,075/mo",3,1.0,1088.0,1911,871.0,SINGLE_FAMILY
+House for rent,4843 N 5th St,Philadelphia,PA,19120,"$1,800/mo",5,2.0,1500.0,1970,1.0,SINGLE_FAMILY
+Apartment for rent,536 E Olney Ave # 1,Philadelphia,PA,19120,"$1,325/mo",0,1.0,900.0,-1,-1.0,APARTMENT
+House for rent,442 W Wellens Ave,Philadelphia,PA,19120,"$1,195/mo",3,1.0,1092.0,1900,903.0,SINGLE_FAMILY
+Townhouse for rent,430 W Chew Ave,Philadelphia,PA,19120,$900/mo,2,1.0,1944.0,1940,1179.0,TOWNHOUSE
+Apartment for rent,Reach St,Philadelphia,PA,19120,$850/mo,1,1.0,714.0,1941,-1.0,APARTMENT
+Condo for rent,228 W Roosevelt Blvd # 2,Philadelphia,PA,19120,$850/mo,1,1.0,3450.0,1935,-1.0,CONDO
+Condo for rent,259 W Ruscomb St # 2,Philadelphia,PA,19120,$750/mo,1,1.0,1362.0,1930,-1.0,CONDO
+Condo for rent,5526 N Mascher St # 2,Philadelphia,PA,19120,$750/mo,1,1.0,1692.0,1940,-1.0,CONDO
+Townhouse for rent,5944 Palmetto St,Philadelphia,PA,19120,"$1,200/mo",3,1.0,1064.0,1925,958.0,TOWNHOUSE
+Apartment for rent,5800 Rising Sun Ave,Philadelphia,PA,19120,$950/mo,2,1.0,800.0,-1,-1.0,APARTMENT

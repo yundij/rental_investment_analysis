@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Foreclosure,3235 W Penn St,Philadelphia,PA,19129,"$374,000",5,5.0,2307.0,5876.0,1929,SINGLE_FAMILY,424900.0,https://www.zillow.com/homedetails/3235-W-Penn-St-Philadelphia-PA-19129/10383208_zpid/
+Townhouse for sale,3452 W Queen Ln,Philadelphia,PA,19129,"$280,000",2,3.0,960.0,1119.0,1941,TOWNHOUSE,250000.0,https://www.zillow.com/homedetails/3452-W-Queen-Ln-Philadelphia-PA-19129/10382298_zpid/
+Townhouse for sale,3353 Ainslie St,Philadelphia,PA,19129,"$179,000",3,1.0,1056.0,1385.0,1945,TOWNHOUSE,191600.0,https://www.zillow.com/homedetails/3353-Ainslie-St-Philadelphia-PA-19129/10382067_zpid/
+Townhouse for sale,3464 W Penn St,Philadelphia,PA,19129,"$319,900",2,2.0,1120.0,958.0,1943,TOWNHOUSE,238500.0,https://www.zillow.com/homedetails/3464-W-Penn-St-Philadelphia-PA-19129/10383181_zpid/
+Townhouse for sale,3725 Stanton St,Philadelphia,PA,19129,"$274,900",4,2.0,1792.0,1328.0,1920,TOWNHOUSE,221300.0,https://www.zillow.com/homedetails/3725-Stanton-St-Philadelphia-PA-19129/10383547_zpid/
+New construction,3415 Ainslie St,Philadelphia,PA,19129,"$549,000",3,4.0,2312.0,2178.0,2020,TOWNHOUSE,25500.0,https://www.zillow.com/homedetails/3415-Ainslie-St-Philadelphia-PA-19129/118371306_zpid/
+House for sale,3330 Midvale Ave,Philadelphia,PA,19129,"$320,000",3,1.0,1184.0,3484.0,1945,SINGLE_FAMILY,265200.0,https://www.zillow.com/homedetails/3330-Midvale-Ave-Philadelphia-PA-19129/10383316_zpid/
+House for sale,3598 Indian Queen Ln,Philadelphia,PA,19129,"$220,000",4,1.0,1776.0,4791.0,1939,SINGLE_FAMILY,275200.0,https://www.zillow.com/homedetails/3598-Indian-Queen-Ln-Philadelphia-PA-19129/10381661_zpid/
+Apartment for sale,3466 Division St,Philadelphia,PA,19129,"$199,000",3,2.0,1080.0,1319.0,1939,MULTI_FAMILY,230000.0,https://www.zillow.com/homedetails/3466-Division-St-Philadelphia-PA-19129/10381891_zpid/
+Condo for sale,4000 Gypsy Ln UNIT 714,Philadelphia,PA,19129,"$135,000",1,1.0,858.0,-1.0,1970,CONDO,,https://www.zillow.com/homedetails/4000-Gypsy-Ln-UNIT-714-Philadelphia-PA-19129/2111871098_zpid/
+Townhouse for sale,3713 Stanton St,Philadelphia,PA,19129,"$239,900",4,1.0,1443.0,2949.0,1939,TOWNHOUSE,,https://www.zillow.com/homedetails/3713-Stanton-St-Philadelphia-PA-19129/2081886871_zpid/
+Apartment for sale,3579 Indian Queen Ln,Philadelphia,PA,19129,"$475,000",0,,1869.0,3049.0,1939,MULTI_FAMILY,187900.0,https://www.zillow.com/homedetails/3579-Indian-Queen-Ln-Philadelphia-PA-19129/10381745_zpid/
+Condo for sale,4000 Gypsy Ln UNIT 738,Philadelphia,PA,19129,"$165,000",2,2.0,1054.0,-1.0,1970,CONDO,,https://www.zillow.com/homedetails/4000-Gypsy-Ln-UNIT-738-Philadelphia-PA-19129/2122605478_zpid/
+Condo for sale,4000 Gypsy Ln UNIT 621,Philadelphia,PA,19129,"$134,000",1,1.0,788.0,-1.0,1970,CONDO,,https://www.zillow.com/homedetails/4000-Gypsy-Ln-UNIT-621-Philadelphia-PA-19129/2094456203_zpid/
+Condo for sale,4000 Gypsy Ln UNIT 735,Philadelphia,PA,19129,"$185,000",2,2.0,1128.0,-1.0,1970,CONDO,,https://www.zillow.com/homedetails/4000-Gypsy-Ln-UNIT-735-Philadelphia-PA-19129/2080795104_zpid/
+Townhouse for sale,4430 Driftwood Dr # 76,Philadelphia,PA,19129,"$339,000",2,3.0,1857.0,-1.0,2010,TOWNHOUSE,281200.0,https://www.zillow.com/homedetails/4430-Driftwood-Dr-76-Philadelphia-PA-19129/103775756_zpid/
+Condo for sale,4000 Gypsy Ln UNIT 737,Philadelphia,PA,19129,"$182,500",2,2.0,1128.0,-1.0,1970,CONDO,,https://www.zillow.com/homedetails/4000-Gypsy-Ln-UNIT-737-Philadelphia-PA-19129/2081277345_zpid/
+Townhouse for sale,3236 W Hilton St,Philadelphia,PA,19129,"$135,000",3,1.0,1180.0,914.0,1940,TOWNHOUSE,54200.0,https://www.zillow.com/homedetails/3236-W-Hilton-St-Philadelphia-PA-19129/10381341_zpid/
+Lot / Land for sale,3707 3707-9 Calumet St,Philadelphia,PA,19129,"$225,000",,,,2234.0,-1,LOT,,https://www.zillow.com/homedetails/3707-3707-9-Calumet-St-Philadelphia-PA-19129/2084139942_zpid/
+Lot / Land for sale,2639 Roberts Ave,Philadelphia,PA,19129,"$55,000",0,,868.0,853.0,2016,LOT,27700.0,https://www.zillow.com/homedetails/2639-Roberts-Ave-Philadelphia-PA-19129/10381423_zpid/
+Pre-foreclosure / Auction,4000 Gypsy Ln # 550E2,Philadelphia,PA,19129,,,,1124.0,1124.0,1970,CONDO,126400.0,https://www.zillow.com/homedetails/4000-Gypsy-Ln-550E2-Philadelphia-PA-19129/10606324_zpid/
+Pre-foreclosure / Auction,3405 W Penn St,Philadelphia,PA,19129,,2,,1216.0,960.0,1943,SINGLE_FAMILY,221300.0,https://www.zillow.com/homedetails/3405-W-Penn-St-Philadelphia-PA-19129/10383232_zpid/
+Pre-foreclosure / Auction,4000 Gypsy Ln UNIT 703G1,Philadelphia,PA,19129,,,,788.0,788.0,1970,CONDO,99200.0,https://www.zillow.com/homedetails/4000-Gypsy-Ln-UNIT-703G1-Philadelphia-PA-19129/10606373_zpid/
+Pre-foreclosure / Auction,3242 N Marston St,Philadelphia,PA,19129,,3,1.0,1220.0,1102.0,1925,TOWNHOUSE,43500.0,https://www.zillow.com/homedetails/3242-N-Marston-St-Philadelphia-PA-19129/10380218_zpid/
+Pre-foreclosure / Auction,2633 W Westmoreland St,Philadelphia,PA,19129,,3,1.0,1024.0,992.0,1945,SINGLE_FAMILY,46900.0,https://www.zillow.com/homedetails/2633-W-Westmoreland-St-Philadelphia-PA-19129/10381130_zpid/
+Pre-foreclosure / Auction,2615 Roberts Ave,Philadelphia,PA,19129,,3,1.0,960.0,854.0,1947,SINGLE_FAMILY,42100.0,https://www.zillow.com/homedetails/2615-Roberts-Ave-Philadelphia-PA-19129/10381413_zpid/
+Pre-foreclosure / Auction,4115-19 Gypsy Ln,Philadelphia,PA,19129,,4,,1200.0,47044.0,1955,SINGLE_FAMILY,400500.0,https://www.zillow.com/homedetails/4115-19-Gypsy-Ln-Philadelphia-PA-19129/10275090_zpid/
+Pre-foreclosure / Auction,3219 N 27th St,Philadelphia,PA,19129,,3,1.0,1168.0,1076.0,1940,SINGLE_FAMILY,27100.0,https://www.zillow.com/homedetails/3219-N-27th-St-Philadelphia-PA-19129/10379928_zpid/
+Pre-foreclosure / Auction,3239 N 27th St,Philadelphia,PA,19129,,3,1.0,1168.0,1076.0,1940,SINGLE_FAMILY,45100.0,https://www.zillow.com/homedetails/3239-N-27th-St-Philadelphia-PA-19129/10379938_zpid/
+Pre-foreclosure / Auction,2657 Roberts Ave,Philadelphia,PA,19129,,,,868.0,854.0,-1,SINGLE_FAMILY,30100.0,https://www.zillow.com/homedetails/2657-Roberts-Ave-Philadelphia-PA-19129/118354338_zpid/
+Pre-foreclosure / Auction,3221 N 29th St,Philadelphia,PA,19129,,3,,1600.0,1140.0,1940,SINGLE_FAMILY,38300.0,https://www.zillow.com/homedetails/3221-N-29th-St-Philadelphia-PA-19129/10380572_zpid/
+Pre-foreclosure / Auction,2608 Deacon St,Philadelphia,PA,19129,,3,1.0,672.0,700.0,1935,SINGLE_FAMILY,22700.0,https://www.zillow.com/homedetails/2608-Deacon-St-Philadelphia-PA-19129/10381448_zpid/
+Pre-foreclosure / Auction,2610 Deacon St,Philadelphia,PA,19129,,3,1.0,672.0,700.0,1935,SINGLE_FAMILY,22700.0,https://www.zillow.com/homedetails/2610-Deacon-St-Philadelphia-PA-19129/10381449_zpid/
+Pre-foreclosure / Auction,2671 Deacon St,Philadelphia,PA,19129,,,,672.0,701.0,2017,LOT,22700.0,https://www.zillow.com/homedetails/2671-Deacon-St-Philadelphia-PA-19129/118336561_zpid/
+Pre-foreclosure / Auction,2628 Deacon St,Philadelphia,PA,19129,,3,1.0,916.0,700.0,1935,SINGLE_FAMILY,22700.0,https://www.zillow.com/homedetails/2628-Deacon-St-Philadelphia-PA-19129/10381457_zpid/
+Pre-foreclosure / Auction,4407 Driftwood Dr # 94,Philadelphia,PA,19129,,2,3.0,1827.0,-1.0,2012,CONDO,280400.0,https://www.zillow.com/homedetails/4407-Driftwood-Dr-94-Philadelphia-PA-19129/116222467_zpid/
+Pre-foreclosure / Auction,2666 Deacon St,Philadelphia,PA,19129,,3,1.0,804.0,700.0,1935,SINGLE_FAMILY,22700.0,https://www.zillow.com/homedetails/2666-Deacon-St-Philadelphia-PA-19129/10381474_zpid/
+Pre-foreclosure / Auction,2675 Deacon St,Philadelphia,PA,19129,,,,672.0,700.0,-1,SINGLE_FAMILY,22700.0,https://www.zillow.com/homedetails/2675-Deacon-St-Philadelphia-PA-19129/118370975_zpid/
+Pre-foreclosure / Auction,2670 Deacon St,Philadelphia,PA,19129,,3,1.0,672.0,700.0,1935,SINGLE_FAMILY,22700.0,https://www.zillow.com/homedetails/2670-Deacon-St-Philadelphia-PA-19129/10381476_zpid/
+Pre-foreclosure / Auction,3214 N 26th St,Philadelphia,PA,19129,,3,1.0,1114.0,922.0,1940,SINGLE_FAMILY,45600.0,https://www.zillow.com/homedetails/3214-N-26th-St-Philadelphia-PA-19129/10379478_zpid/

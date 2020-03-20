@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,1609 Fillmore St,Philadelphia,PA,19124,"$88,000",3,1.0,1137.0,866.0,1935,TOWNHOUSE,46400.0,https://www.zillow.com/homedetails/1609-Fillmore-St-Philadelphia-PA-19124/10286945_zpid/
+Townhouse for sale,3835 Lawndale St,Philadelphia,PA,19124,"$157,900",3,2.0,1200.0,975.0,1925,TOWNHOUSE,112000.0,https://www.zillow.com/homedetails/3835-Lawndale-St-Philadelphia-PA-19124/10338600_zpid/
+House for sale,1201 Fillmore St,Philadelphia,PA,19124,"$175,750",6,3.0,2880.0,3484.0,1945,SINGLE_FAMILY,,https://www.zillow.com/homedetails/1201-Fillmore-St-Philadelphia-PA-19124/2083234236_zpid/
+Townhouse for sale,4040 Castor Ave,Philadelphia,PA,19124,"$139,900",3,2.0,1350.0,1306.0,1925,TOWNHOUSE,87900.0,https://www.zillow.com/homedetails/4040-Castor-Ave-Philadelphia-PA-19124/10340589_zpid/
+Townhouse for sale,4219 Claridge St,Philadelphia,PA,19124,"$114,900",3,1.0,1136.0,1742.0,1925,TOWNHOUSE,109900.0,https://www.zillow.com/homedetails/4219-Claridge-St-Philadelphia-PA-19124/10339417_zpid/
+Apartment for sale,4713 Ramona Ave,Philadelphia,PA,19124,"$229,900",4,1.0,1760.0,5501.0,1935,MULTI_FAMILY,170600.0,https://www.zillow.com/homedetails/4713-Ramona-Ave-Philadelphia-PA-19124/10289798_zpid/
+Townhouse for sale,1737 Fillmore St,Philadelphia,PA,19124,"$35,000",3,1.0,896.0,1119.0,1920,TOWNHOUSE,41400.0,https://www.zillow.com/homedetails/1737-Fillmore-St-Philadelphia-PA-19124/10286979_zpid/
+Townhouse for sale,4215 Lawndale St,Philadelphia,PA,19124,"$219,900",4,2.0,1080.0,2469.0,1925,TOWNHOUSE,119600.0,https://www.zillow.com/homedetails/4215-Lawndale-St-Philadelphia-PA-19124/10338674_zpid/
+Townhouse for sale,1623 E Hunting Park Ave,Philadelphia,PA,19124,"$109,900",3,1.0,1050.0,1224.0,1925,TOWNHOUSE,80500.0,https://www.zillow.com/homedetails/1623-E-Hunting-Park-Ave-Philadelphia-PA-19124/10337237_zpid/
+Townhouse for sale,1363 Pratt St,Philadelphia,PA,19124,"$179,900",3,2.0,1236.0,1097.0,1925,TOWNHOUSE,114800.0,https://www.zillow.com/homedetails/1363-Pratt-St-Philadelphia-PA-19124/10553100_zpid/
+Townhouse for sale,1924 Briggs St,Philadelphia,PA,19124,"$47,900",2,1.0,840.0,801.0,1940,TOWNHOUSE,36300.0,https://www.zillow.com/homedetails/1924-Briggs-St-Philadelphia-PA-19124/10286008_zpid/
+Townhouse for sale,908 Bridge St,Philadelphia,PA,19124,"$97,000",3,2.0,1140.0,871.0,1925,TOWNHOUSE,80000.0,https://www.zillow.com/homedetails/908-Bridge-St-Philadelphia-PA-19124/10353501_zpid/
+Townhouse for sale,5439 Charles St,Philadelphia,PA,19124,"$149,900",3,1.0,1056.0,1128.0,1942,TOWNHOUSE,99300.0,https://www.zillow.com/homedetails/5439-Charles-St-Philadelphia-PA-19124/10560309_zpid/
+Townhouse for sale,5324 Lesher St,Philadelphia,PA,19124,"$54,000",3,1.0,1030.0,818.0,1945,TOWNHOUSE,60400.0,https://www.zillow.com/homedetails/5324-Lesher-St-Philadelphia-PA-19124/10559702_zpid/
+For sale by owner,1921 Briggs St,Philadelphia,PA,19124,"$50,000",2,1.0,896.0,1014.0,1940,SINGLE_FAMILY,39400.0,https://www.zillow.com/homedetails/1921-Briggs-St-Philadelphia-PA-19124/10286021_zpid/
+Apartment for sale,1618 Wakeling St,Philadelphia,PA,19124,"$69,000",0,,1808.0,2003.0,1925,MULTI_FAMILY,76700.0,https://www.zillow.com/homedetails/1618-Wakeling-St-Philadelphia-PA-19124/165174241_zpid/
+Townhouse for sale,4622 Oakland St,Philadelphia,PA,19124,"$170,000",3,2.0,1387.0,1716.0,1945,TOWNHOUSE,110800.0,https://www.zillow.com/homedetails/4622-Oakland-St-Philadelphia-PA-19124/10291512_zpid/
+Foreclosure,1240 Harrison St,Philadelphia,PA,19124,"$119,900",4,1.0,1467.0,1690.0,1940,SINGLE_FAMILY,114400.0,https://www.zillow.com/homedetails/1240-Harrison-St-Philadelphia-PA-19124/10290728_zpid/
+Apartment for sale,1329 Unity St,Philadelphia,PA,19124,"$160,000",4,2.0,1204.0,2988.0,1935,MULTI_FAMILY,62900.0,https://www.zillow.com/homedetails/1329-Unity-St-Philadelphia-PA-19124/10290114_zpid/
+Townhouse for sale,4668 Duffield St,Philadelphia,PA,19124,"$70,000",4,2.0,1080.0,7318.0,1925,TOWNHOUSE,,https://www.zillow.com/homedetails/4668-Duffield-St-Philadelphia-PA-19124/2084136895_zpid/
+Auction,4814 Roosevelt Blvd,Philadelphia,PA,19124,,4,2.0,1848.0,2613.0,1925,TOWNHOUSE,105500.0,https://www.zillow.com/homedetails/4814-Roosevelt-Blvd-Philadelphia-PA-19124/165233712_zpid/
+Townhouse for sale,5102 Marlow St,Philadelphia,PA,19124,"$74,900",3,1.0,960.0,810.0,1925,TOWNHOUSE,58300.0,https://www.zillow.com/homedetails/5102-Marlow-St-Philadelphia-PA-19124/10560028_zpid/
+House for sale,4220 Elsinore St,Philadelphia,PA,19124,"$135,000",2,1.0,1190.0,1306.0,1925,SINGLE_FAMILY,93600.0,https://www.zillow.com/homedetails/4220-Elsinore-St-Philadelphia-PA-19124/10338108_zpid/
+Townhouse for sale,1656 Bridge St,Philadelphia,PA,19124,"$120,000",3,1.0,1209.0,1598.0,1925,TOWNHOUSE,67500.0,https://www.zillow.com/homedetails/1656-Bridge-St-Philadelphia-PA-19124/10558609_zpid/
+Townhouse for sale,1511 Adams Ave,Philadelphia,PA,19124,"$55,000",2,1.0,840.0,723.0,1940,TOWNHOUSE,42800.0,https://www.zillow.com/homedetails/1511-Adams-Ave-Philadelphia-PA-19124/10285915_zpid/
+Apartment for sale,942 Pratt St,Philadelphia,PA,19124,"$220,000",0,,1400.0,2352.0,1950,MULTI_FAMILY,,https://www.zillow.com/homedetails/942-Pratt-St-Philadelphia-PA-19124/2086753265_zpid/
+Apartment for sale,5010 Saul St,Philadelphia,PA,19124,"$159,000",0,,1802.0,1742.0,1940,MULTI_FAMILY,122200.0,https://www.zillow.com/homedetails/5010-Saul-St-Philadelphia-PA-19124/10556695_zpid/
+Townhouse for sale,5168 Whitaker Ave,Philadelphia,PA,19124,"$194,900",3,2.0,1393.0,1585.0,1940,TOWNHOUSE,88300.0,https://www.zillow.com/homedetails/5168-Whitaker-Ave-Philadelphia-PA-19124/10289368_zpid/
+Townhouse for sale,5439 Akron St,Philadelphia,PA,19124,"$164,999",3,1.0,2172.0,1197.0,1930,TOWNHOUSE,121900.0,https://www.zillow.com/homedetails/5439-Akron-St-Philadelphia-PA-19124/10556660_zpid/
+Townhouse for sale,5267 Burton St,Philadelphia,PA,19124,"$145,000",3,1.0,1040.0,1149.0,1920,TOWNHOUSE,73100.0,https://www.zillow.com/homedetails/5267-Burton-St-Philadelphia-PA-19124/10561497_zpid/
+Apartment for sale,1659 Wakeling St,Philadelphia,PA,19124,"$239,900",3,2.0,1696.0,2103.0,1945,MULTI_FAMILY,94400.0,https://www.zillow.com/homedetails/1659-Wakeling-St-Philadelphia-PA-19124/10557982_zpid/
+Apartment for sale,1025 Harrison St,Philadelphia,PA,19124,"$169,000",4,2.0,2640.0,2539.0,1940,MULTI_FAMILY,193200.0,https://www.zillow.com/homedetails/1025-Harrison-St-Philadelphia-PA-19124/10290777_zpid/
+Townhouse for sale,5352 Jackson St,Philadelphia,PA,19124,"$145,000",3,2.0,1120.0,1311.0,1945,TOWNHOUSE,77200.0,https://www.zillow.com/homedetails/5352-Jackson-St-Philadelphia-PA-19124/10561200_zpid/
+Townhouse for sale,5557 Torresdale Ave,Philadelphia,PA,19124,"$149,000",3,1.0,1080.0,1106.0,1930,TOWNHOUSE,81700.0,https://www.zillow.com/homedetails/5557-Torresdale-Ave-Philadelphia-PA-19124/10416910_zpid/
+House for sale,1124 Fillmore St,Philadelphia,PA,19124,"$174,999",5,3.0,2112.0,2112.0,1945,SINGLE_FAMILY,139400.0,https://www.zillow.com/homedetails/1124-Fillmore-St-Philadelphia-PA-19124/10290558_zpid/
+Townhouse for sale,893 Brill St,Philadelphia,PA,19124,"$124,900",4,2.0,1034.0,1067.0,1940,TOWNHOUSE,74700.0,https://www.zillow.com/homedetails/893-Brill-St-Philadelphia-PA-19124/10353858_zpid/
+Townhouse for sale,4221 Castor Ave,Philadelphia,PA,19124,"$129,900",3,1.0,1380.0,927.0,1925,TOWNHOUSE,48900.0,https://www.zillow.com/homedetails/4221-Castor-Ave-Philadelphia-PA-19124/10340654_zpid/
+Auction,949 Foulkrod St,Philadelphia,PA,19124,,5,3.0,2608.0,4791.0,2012,SINGLE_FAMILY,281100.0,https://www.zillow.com/homedetails/949-Foulkrod-St-Philadelphia-PA-19124/10289051_zpid/
+House for sale,5021 Griscom St,Philadelphia,PA,19124,"$184,900",8,3.0,1950.0,1999.0,1940,SINGLE_FAMILY,132000.0,https://www.zillow.com/homedetails/5021-Griscom-St-Philadelphia-PA-19124/10590500_zpid/
+Townhouse for sale,1731 Plum St,Philadelphia,PA,19124,"$127,900",3,2.0,1360.0,1546.0,1975,TOWNHOUSE,59900.0,https://www.zillow.com/homedetails/1731-Plum-St-Philadelphia-PA-19124/10286535_zpid/

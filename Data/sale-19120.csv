@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,6304 Crescentville Rd,Philadelphia,PA,19120,"$135,000",3,2.0,1296.0,1799.0,1956,TOWNHOUSE,146800.0,https://www.zillow.com/homedetails/6304-Crescentville-Rd-Philadelphia-PA-19120/10544731_zpid/
+House for sale,145 E Rockland St,Philadelphia,PA,19120,"$179,900",4,2.0,1620.0,1228.0,1940,SINGLE_FAMILY,79400.0,https://www.zillow.com/homedetails/145-E-Rockland-St-Philadelphia-PA-19120/118370517_zpid/
+House for sale,5752 N 7th St,Philadelphia,PA,19120,"$145,000",3,1.0,1164.0,1441.0,1925,SINGLE_FAMILY,94500.0,https://www.zillow.com/homedetails/5752-N-7th-St-Philadelphia-PA-19120/10550457_zpid/
+Townhouse for sale,271 W Sheldon St,Philadelphia,PA,19120,"$44,900",3,1.0,1120.0,910.0,1930,TOWNHOUSE,68100.0,https://www.zillow.com/homedetails/271-W-Sheldon-St-Philadelphia-PA-19120/10428487_zpid/
+Foreclosure,314 E Sanger St,Philadelphia,PA,19120,"$123,000",3,1.0,1620.0,2931.0,1925,MULTI_FAMILY,137800.0,https://www.zillow.com/homedetails/314-E-Sanger-St-Philadelphia-PA-19120/10353888_zpid/
+Townhouse for sale,234 W Duncannon Ave,Philadelphia,PA,19120,"$179,900",3,2.0,1344.0,1306.0,1930,TOWNHOUSE,77700.0,https://www.zillow.com/homedetails/234-W-Duncannon-Ave-Philadelphia-PA-19120/10428592_zpid/
+Townhouse for sale,5112 N 3rd St,Philadelphia,PA,19120,"$69,900",3,1.0,1100.0,1764.0,1900,TOWNHOUSE,72900.0,https://www.zillow.com/homedetails/5112-N-3rd-St-Philadelphia-PA-19120/10430192_zpid/
+Foreclosure,329 E Cheltenham Ave,Philadelphia,PA,19120,"$134,900",4,2.0,2016.0,6250.0,1925,SINGLE_FAMILY,116500.0,https://www.zillow.com/homedetails/329-E-Cheltenham-Ave-Philadelphia-PA-19120/118344916_zpid/
+Townhouse for sale,5134 N Fairhill St,Philadelphia,PA,19120,"$170,000",3,1.0,1200.0,1411.0,1935,TOWNHOUSE,81100.0,https://www.zillow.com/homedetails/5134-N-Fairhill-St-Philadelphia-PA-19120/10466587_zpid/
+Townhouse for sale,5934 N Leithgow St,Philadelphia,PA,19120,"$84,800",3,2.0,1024.0,988.0,1953,TOWNHOUSE,94400.0,https://www.zillow.com/homedetails/5934-N-Leithgow-St-Philadelphia-PA-19120/10551460_zpid/
+Foreclosure,222 W Roosevelt Blvd,Philadelphia,PA,19120,"$79,900",4,2.0,1458.0,2269.0,1935,MULTI_FAMILY,88600.0,https://www.zillow.com/homedetails/222-W-Roosevelt-Blvd-Philadelphia-PA-19120/10427616_zpid/
+Townhouse for sale,188 Roselyn St,Philadelphia,PA,19120,"$138,822",3,2.0,1140.0,1028.0,1928,TOWNHOUSE,86900.0,https://www.zillow.com/homedetails/188-Roselyn-St-Philadelphia-PA-19120/10549934_zpid/
+Townhouse for sale,121 E Walnut Park Dr,Philadelphia,PA,19120,"$180,000",3,3.0,1152.0,2465.0,1955,TOWNHOUSE,142500.0,https://www.zillow.com/homedetails/121-E-Walnut-Park-Dr-Philadelphia-PA-19120/10547841_zpid/
+Townhouse for sale,271 W Spencer Ave,Philadelphia,PA,19120,"$185,500",4,3.0,1518.0,1158.0,1935,TOWNHOUSE,111000.0,https://www.zillow.com/homedetails/271-W-Spencer-Ave-Philadelphia-PA-19120/165406049_zpid/
+Townhouse for sale,4728 C St,Philadelphia,PA,19120,"$150,000",3,1.0,1200.0,1145.0,1942,TOWNHOUSE,75600.0,https://www.zillow.com/homedetails/4728-C-St-Philadelphia-PA-19120/10424390_zpid/
+For sale by owner,225 E Loudon St,Philadelphia,PA,19120,"$160,000",4,3.0,1216.0,2016.0,1940,SINGLE_FAMILY,75000.0,https://www.zillow.com/homedetails/225-E-Loudon-St-Philadelphia-PA-19120/10422412_zpid/
+Townhouse for sale,128 E Fisher Ave,Philadelphia,PA,19120,"$129,900",4,1.0,1816.0,2278.0,1940,TOWNHOUSE,112400.0,https://www.zillow.com/homedetails/128-E-Fisher-Ave-Philadelphia-PA-19120/118352429_zpid/
+Townhouse for sale,5841 N Marshall St,Philadelphia,PA,19120,"$129,900",3,1.0,1092.0,1237.0,1945,TOWNHOUSE,91800.0,https://www.zillow.com/homedetails/5841-N-Marshall-St-Philadelphia-PA-19120/10550751_zpid/
+Apartment for sale,5240 N Front St,Philadelphia,PA,19120,"$215,000",4,2.0,1388.0,2073.0,1940,MULTI_FAMILY,99900.0,https://www.zillow.com/homedetails/5240-N-Front-St-Philadelphia-PA-19120/10429346_zpid/
+Townhouse for sale,225 W Godfrey Ave,Philadelphia,PA,19120,"$109,900",3,1.0,1334.0,1049.0,1953,TOWNHOUSE,110300.0,https://www.zillow.com/homedetails/225-W-Godfrey-Ave-Philadelphia-PA-19120/10547085_zpid/
+Townhouse for sale,151 E Albanus St,Philadelphia,PA,19120,"$89,000",3,1.0,1432.0,1049.0,1935,TOWNHOUSE,35500.0,https://www.zillow.com/homedetails/151-E-Albanus-St-Philadelphia-PA-19120/10422892_zpid/
+Townhouse for sale,642 Anchor St,Philadelphia,PA,19120,"$100,000",3,1.0,1080.0,1263.0,1950,TOWNHOUSE,87000.0,https://www.zillow.com/homedetails/642-Anchor-St-Philadelphia-PA-19120/10354604_zpid/
+Townhouse for sale,574 Rosalie St,Philadelphia,PA,19120,"$145,000",4,2.0,1234.0,1036.0,1925,TOWNHOUSE,87400.0,https://www.zillow.com/homedetails/574-Rosalie-St-Philadelphia-PA-19120/10356054_zpid/
+Townhouse for sale,602 E Olney Ave,Philadelphia,PA,19120,"$179,000",3,1.0,1088.0,2639.0,1930,TOWNHOUSE,97800.0,https://www.zillow.com/homedetails/602-E-Olney-Ave-Philadelphia-PA-19120/10423645_zpid/
+Apartment for sale,5509 N Marshall St,Philadelphia,PA,19120,"$139,999",3,2.0,1440.0,1790.0,1945,MULTI_FAMILY,107000.0,https://www.zillow.com/homedetails/5509-N-Marshall-St-Philadelphia-PA-19120/10550690_zpid/
+Townhouse for sale,302 W Tabor Rd,Philadelphia,PA,19120,"$144,900",4,2.0,1700.0,3044.0,1900,TOWNHOUSE,109100.0,https://www.zillow.com/homedetails/302-W-Tabor-Rd-Philadelphia-PA-19120/10429129_zpid/
+Apartment for sale,581 Geneva Ave,Philadelphia,PA,19120,"$165,000",0,,2344.0,949.0,1942,MULTI_FAMILY,125500.0,https://www.zillow.com/homedetails/581-Geneva-Ave-Philadelphia-PA-19120/10423423_zpid/
+Townhouse for sale,443 W Roosevelt Blvd,Philadelphia,PA,19120,"$141,000",3,1.0,1500.0,853.0,1930,TOWNHOUSE,73300.0,https://www.zillow.com/homedetails/443-W-Roosevelt-Blvd-Philadelphia-PA-19120/10427695_zpid/
+Foreclosure,4814 Gransback St,Philadelphia,PA,19120,"$60,000",3,1.0,1200.0,1154.0,1940,TOWNHOUSE,82400.0,https://www.zillow.com/homedetails/4814-Gransback-St-Philadelphia-PA-19120/10425666_zpid/
+Townhouse for sale,5750 N 5th St,Philadelphia,PA,19120,"$179,999",3,3.0,1324.0,1785.0,1945,TOWNHOUSE,103700.0,https://www.zillow.com/homedetails/5750-N-5th-St-Philadelphia-PA-19120/244629522_zpid/
+Apartment for sale,130 W Gale St,Philadelphia,PA,19120,"$166,000",4,2.0,1200.0,1799.0,1920,MULTI_FAMILY,92100.0,https://www.zillow.com/homedetails/130-W-Gale-St-Philadelphia-PA-19120/10429221_zpid/
+Townhouse for sale,419 W Fisher Ave,Philadelphia,PA,19120,"$104,900",3,1.0,1517.0,1123.0,1930,TOWNHOUSE,69700.0,https://www.zillow.com/homedetails/419-W-Fisher-Ave-Philadelphia-PA-19120/10428921_zpid/
+Townhouse for sale,263 Widener St,Philadelphia,PA,19120,"$138,999",3,1.0,1110.0,1032.0,1938,TOWNHOUSE,91300.0,https://www.zillow.com/homedetails/263-Widener-St-Philadelphia-PA-19120/10549416_zpid/
+Townhouse for sale,272 Rubicam St,Philadelphia,PA,19120,"$82,500",3,1.0,1120.0,910.0,1930,TOWNHOUSE,67900.0,https://www.zillow.com/homedetails/272-Rubicam-St-Philadelphia-PA-19120/10428528_zpid/
+Townhouse for sale,217 W Sulis St,Philadelphia,PA,19120,"$89,900",3,1.0,1120.0,975.0,1930,TOWNHOUSE,68500.0,https://www.zillow.com/homedetails/217-W-Sulis-St-Philadelphia-PA-19120/10427799_zpid/
+Townhouse for sale,552 W Duncannon Ave,Philadelphia,PA,19120,"$180,000",3,1.0,1312.0,1141.0,1935,TOWNHOUSE,20600.0,https://www.zillow.com/homedetails/552-W-Duncannon-Ave-Philadelphia-PA-19120/10466075_zpid/
+Apartment for sale,213 E Mentor St,Philadelphia,PA,19120,"$94,900",2,2.0,1110.0,653.0,1940,MULTI_FAMILY,42500.0,https://www.zillow.com/homedetails/213-E-Mentor-St-Philadelphia-PA-19120/10422324_zpid/
+Townhouse for sale,4939 Rosehill St,Philadelphia,PA,19120,"$84,900",3,1.0,1072.0,1171.0,1940,TOWNHOUSE,75300.0,https://www.zillow.com/homedetails/4939-Rosehill-St-Philadelphia-PA-19120/10424345_zpid/
+Townhouse for sale,111 Roselyn St,Philadelphia,PA,19120,"$160,000",3,1.0,1140.0,980.0,1928,TOWNHOUSE,53000.0,https://www.zillow.com/homedetails/111-Roselyn-St-Philadelphia-PA-19120/10550067_zpid/
+Apartment for sale,119 E Loudon St,Philadelphia,PA,19120,"$189,000",4,1.0,1815.0,4051.0,1940,MULTI_FAMILY,102300.0,https://www.zillow.com/homedetails/119-E-Loudon-St-Philadelphia-PA-19120/10422393_zpid/

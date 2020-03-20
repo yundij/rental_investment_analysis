@@ -1,0 +1,37 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,546 N 63rd St # B,Philadelphia,PA,19151,"$1,250/mo",1,1.0,,2018,-1.0,MULTI_FAMILY
+Townhouse for rent,1361 Kimberly Dr,Philadelphia,PA,19151,"$1,300/mo",3,1.0,1120.0,1949,1742.0,TOWNHOUSE
+Apartment for rent,6117 W Jefferson St # A,Philadelphia,PA,19151,$850/mo,2,1.0,1740.0,-1,-1.0,APARTMENT
+House for rent,1433 N 59th St,Philadelphia,PA,19151,"$1,000/mo",3,1.5,1152.0,1955,871.0,SINGLE_FAMILY
+Apartment for rent,848 N 63rd St FLOOR 3,Philadelphia,PA,19151,"$1,250/mo",2,1.0,1000.0,-1,-1.0,APARTMENT
+Townhouse for rent,1558 N Felton St,Philadelphia,PA,19151,"$1,625/mo",3,2.0,1668.0,1925,1350.0,TOWNHOUSE
+Apartment for rent,737 N 63rd St 4-APT 4,Philadelphia,PA,19151,$950/mo,2,1.0,990.0,-1,-1.0,APARTMENT
+Townhouse for rent,6126 Callowhill St,Philadelphia,PA,19151,"$1,800/mo",5,3.0,2025.0,1915,1306.0,TOWNHOUSE
+Apartment for rent,618 N 64th St,Philadelphia,PA,19151,"$1,700/mo",4,3.0,2574.0,1925,2500.0,MULTI_FAMILY
+Townhouse for rent,7310 Ruskin Rd,Philadelphia,PA,19151,$995/mo,2,1.0,,-1,-1.0,TOWNHOUSE
+Apartment for rent,6135 W Oxford St FLOOR 2,Philadelphia,PA,19151,$900/mo,2,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,6118 Nassau Rd,Philadelphia,PA,19151,$895/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,W Jefferson St,Philadelphia,PA,19151,"$1,150/mo",3,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,6039 Lansdowne Ave APT 1,Philadelphia,PA,19151,$800/mo,1,1.0,650.0,1900,-1.0,APARTMENT
+House for rent,6501 Sherwood Rd,Philadelphia,PA,19151,$600/mo,0,1.0,350.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,6647 Haverford Ave # 2,Philadelphia,PA,19151,$800/mo,1,1.0,,-1,-1.0,APARTMENT
+House for rent,Leeds St,Philadelphia,PA,19151,"$1,090/mo",3,1.0,1218.0,1910,-1.0,SINGLE_FAMILY
+Apartment for rent,559 N 63rd St APT 1,Phila,PA,19151,$850/mo,1,1.0,1000.0,-1,-1.0,APARTMENT
+Apartment for rent,703 N 63rd St # 2,Philadelphia,PA,19151,"$1,200/mo",2,1.0,850.0,1915,-1.0,MULTI_FAMILY
+Apartment for rent,7400 Ruskin Road St,Philadelphia,PA,19151,"$1,300/mo",1,1.0,830.0,-1,-1.0,APARTMENT
+Apartment for rent,412 N 64th St,Philadelphia,PA,19151,$680/mo,1,1.0,500.0,1930,3049.0,APARTMENT
+Apartment for rent,1025 N 68th St # 2,Philadelphia,PA,19151,"$1,150/mo",2,1.0,800.0,1955,-1.0,MULTI_FAMILY
+Apartment for rent,851 Wynnewood Rd # 1F,Philadelphia,PA,19151,$890/mo,1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,1421 N Felton St,Philadelphia,PA,19151,"$1,100/mo",3,1.0,1080.0,1925,810.0,TOWNHOUSE
+House for rent,N 61st St,Philadelphia,PA,19151,"$1,100/mo",3,1.5,1276.0,-1,-1.0,SINGLE_FAMILY
+Townhouse for rent,7567 Brookhaven Rd,Philadelphia,PA,19151,"$1,700/mo",3,3.5,1444.0,1949,2178.0,TOWNHOUSE
+Apartment for rent,7355 Ruskin Rd # 2,Philadelphia,PA,19151,$995/mo,2,1.0,1774.0,1950,-1.0,MULTI_FAMILY
+House for rent,1019 N 63rd St,Philadelphia,PA,19151,"$1,350/mo",2,1.0,1000.0,1925,-1.0,SINGLE_FAMILY
+House for rent,1434 N Felton St,Philadelphia,PA,19151,"$1,000/mo",3,1.0,1080.0,1931,871.0,SINGLE_FAMILY
+Apartment for rent,N 60th St,Philadelphia,PA,19151,$650/mo,0,1.0,530.0,-1,-1.0,APARTMENT
+Apartment for rent,7237 Haverford Ave # 2,Philadelphia,PA,19151,"$1,050/mo",2,1.0,870.0,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,929 Edgemore Rd,Philadelphia,PA,19151,"$3,350/mo",3,1.0,800.0,1925,1350.0,TOWNHOUSE
+House for rent,906 N 63rd St,Philadelphia,PA,19151,"$5,250/mo",7,3.0,2774.0,1925,15139.0,SINGLE_FAMILY
+Apartment for rent,6351 Lancaster Ave # 201,Philadelphia,PA,19151,"$1,645/mo",3,1.0,1000.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,821 Wynnewood Rd # 2,Philadelphia,PA,19151,"$1,000/mo",2,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,819 N 64th St # 1,Philadelphia,PA,19151,$975/mo,3,1.5,1500.0,-1,-1.0,APARTMENT

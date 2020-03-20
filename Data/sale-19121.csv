@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+New construction,2434 W Thompson St # 1,Philadelphia,PA,19121,"$300,000",3,3.0,1528.0,-1.0,1915,CONDO,,https://www.zillow.com/homedetails/2434-W-Thompson-St-1-Philadelphia-PA-19121/2080720393_zpid/
+Townhouse for sale,1411 N Dover St,Philadelphia,PA,19121,"$285,900",2,2.0,840.0,701.0,1920,TOWNHOUSE,71000.0,https://www.zillow.com/homedetails/1411-N-Dover-St-Philadelphia-PA-19121/10317130_zpid/
+Townhouse for sale,1527 N Bailey St,Philadelphia,PA,19121,"$979,900",3,3.0,10044.0,4926.0,1925,TOWNHOUSE,,https://www.zillow.com/homedetails/1527-N-Bailey-St-Philadelphia-PA-19121/2083250034_zpid/
+For sale by owner,1924 N 22nd St,Philadelphia,PA,19121,"$39,000",5,2.0,2568.0,1564.0,1915,TOWNHOUSE,33200.0,https://www.zillow.com/homedetails/1924-N-22nd-St-Philadelphia-PA-19121/10329114_zpid/
+Townhouse for sale,2528 W Montgomery Ave,Philadelphia,PA,19121,"$124,990",5,2.0,1680.0,927.0,1915,TOWNHOUSE,21200.0,https://www.zillow.com/homedetails/2528-W-Montgomery-Ave-Philadelphia-PA-19121/10594181_zpid/
+Townhouse for sale,1744 N 26th St,Philadelphia,PA,19121,"$184,900",5,1.0,1575.0,945.0,1940,TOWNHOUSE,136100.0,https://www.zillow.com/homedetails/1744-N-26th-St-Philadelphia-PA-19121/10332453_zpid/
+New construction,2812 Cecil B Moore Ave # 1,Philadelphia,PA,19121,"$269,000",3,3.0,1350.0,-1.0,2020,CONDO,,https://www.zillow.com/homedetails/2812-Cecil-B-Moore-Ave-1-Philadelphia-PA-19121/2080748747_zpid/
+Townhouse for sale,2615 W Montgomery Ave,Philadelphia,PA,19121,"$257,000",4,4.0,2025.0,731.0,1915,TOWNHOUSE,63000.0,https://www.zillow.com/homedetails/2615-W-Montgomery-Ave-Philadelphia-PA-19121/80953309_zpid/
+New construction,1526 W Stiles St # A,Philadelphia,PA,19121,"$239,900",2,2.0,1200.0,958.0,2019,TOWNHOUSE,,https://www.zillow.com/homedetails/1526-W-Stiles-St-A-Philadelphia-PA-19121/2083012994_zpid/
+For sale by owner,1346 N 29th St,Philadelphia,PA,19121,"$204,000",5,2.0,1536.0,1023.0,1915,TOWNHOUSE,147900.0,https://www.zillow.com/homedetails/1346-N-29th-St-Philadelphia-PA-19121/10317796_zpid/
+Lot / Land for sale,2118 W Oxford St,Philadelphia,PA,19121,"$125,000",,,1525.0,840.0,-1,LOT,4000.0,https://www.zillow.com/homedetails/2118-W-Oxford-St-Philadelphia-PA-19121/118348093_zpid/
+Townhouse for sale,1806 N Gratz St,Philadelphia,PA,19121,"$175,000",4,3.0,1506.0,810.0,1915,TOWNHOUSE,306700.0,https://www.zillow.com/homedetails/1806-N-Gratz-St-Philadelphia-PA-19121/10328646_zpid/
+Townhouse for sale,1317 N Hollywood St,Philadelphia,PA,19121,"$290,000",3,2.0,1014.0,749.0,1925,TOWNHOUSE,54100.0,https://www.zillow.com/homedetails/1317-N-Hollywood-St-Philadelphia-PA-19121/10317870_zpid/
+Townhouse for sale,1249 N Newkirk St,Philadelphia,PA,19121,"$150,000",2,1.0,700.0,644.0,1920,TOWNHOUSE,106600.0,https://www.zillow.com/homedetails/1249-N-Newkirk-St-Philadelphia-PA-19121/10316968_zpid/
+Townhouse for sale,1834 Ingersoll St,Philadelphia,PA,19121,"$375,000",3,3.0,1700.0,897.0,1920,TOWNHOUSE,112100.0,https://www.zillow.com/homedetails/1834-Ingersoll-St-Philadelphia-PA-19121/10455920_zpid/
+For sale by owner,1711 N Willington St,Philadelphia,PA,19121,"$349,900",6,3.0,2750.0,1116.0,1915,SINGLE_FAMILY,185400.0,https://www.zillow.com/homedetails/1711-N-Willington-St-Philadelphia-PA-19121/10456075_zpid/
+Townhouse for sale,1863 N Taylor St,Philadelphia,PA,19121,"$55,000",3,1.0,942.0,653.0,1915,TOWNHOUSE,25500.0,https://www.zillow.com/homedetails/1863-N-Taylor-St-Philadelphia-PA-19121/10329523_zpid/
+Townhouse for sale,2512 Ingersoll St,Philadelphia,PA,19121,"$234,900",2,2.0,848.0,435.0,1925,TOWNHOUSE,69600.0,https://www.zillow.com/homedetails/2512-Ingersoll-St-Philadelphia-PA-19121/10315422_zpid/
+Townhouse for sale,1714 N Stillman St,Philadelphia,PA,19121,"$117,000",2,1.0,1500.0,196.0,1920,TOWNHOUSE,33300.0,https://www.zillow.com/homedetails/1714-N-Stillman-St-Philadelphia-PA-19121/10332333_zpid/
+Townhouse for sale,2528 Nicholas St,Philadelphia,PA,19121,"$219,900",3,3.0,1056.0,840.0,1915,TOWNHOUSE,13900.0,https://www.zillow.com/homedetails/2528-Nicholas-St-Philadelphia-PA-19121/10332021_zpid/
+Auction,1948 N Hollywood St,Philadelphia,PA,19121,"$63,000",3,2.0,1020.0,871.0,1915,SINGLE_FAMILY,50700.0,https://www.zillow.com/homedetails/1948-N-Hollywood-St-Philadelphia-PA-19121/10331333_zpid/
+House for sale,1553 N Marston St,Philadelphia,PA,19121,"$250,000",3,3.0,4420.0,2800.0,1960,SINGLE_FAMILY,,https://www.zillow.com/homedetails/1553-N-Marston-St-Philadelphia-PA-19121/2082546328_zpid/
+New construction,1220 N Taney St # 1,Philadelphia,PA,19121,"$295,000",2,2.0,1000.0,-1.0,2019,TOWNHOUSE,,https://www.zillow.com/homedetails/1220-N-Taney-St-1-Philadelphia-PA-19121/2081457496_zpid/
+For sale by owner,2742 W Glenwood Ave,Philadelphia,PA,19121,"$116,000",5,2.0,1440.0,1440.0,1935,SINGLE_FAMILY,51700.0,https://www.zillow.com/homedetails/2742-W-Glenwood-Ave-Philadelphia-PA-19121/10330244_zpid/
+Townhouse for sale,2540 W Montgomery Ave,Philadelphia,PA,19121,"$89,900",3,2.0,1250.0,958.0,1915,TOWNHOUSE,49000.0,https://www.zillow.com/homedetails/2540-W-Montgomery-Ave-Philadelphia-PA-19121/10332253_zpid/
+Townhouse for sale,2445 Harlan St,Philadelphia,PA,19121,"$224,900",2,2.0,1020.0,601.0,1925,TOWNHOUSE,70300.0,https://www.zillow.com/homedetails/2445-Harlan-St-Philadelphia-PA-19121/10315617_zpid/
+Townhouse for sale,1850 N Van Pelt St,Philadelphia,PA,19121,"$84,900",5,2.0,2384.0,1237.0,1915,TOWNHOUSE,47100.0,https://www.zillow.com/homedetails/1850-N-Van-Pelt-St-Philadelphia-PA-19121/10329070_zpid/
+Townhouse for sale,2118 N Natrona St,Philadelphia,PA,19121,"$234,900",3,2.0,1230.0,871.0,1915,TOWNHOUSE,34800.0,https://www.zillow.com/homedetails/2118-N-Natrona-St-Philadelphia-PA-19121/10331822_zpid/
+Townhouse for sale,2543 Nicholas St,Philadelphia,PA,19121,"$209,900",2,3.0,996.0,757.0,1915,TOWNHOUSE,24900.0,https://www.zillow.com/homedetails/2543-Nicholas-St-Philadelphia-PA-19121/10332066_zpid/
+House for sale,1950 N 31st St,Philadelphia,PA,19121,"$249,900",3,2.0,1420.0,3049.0,2011,SINGLE_FAMILY,126700.0,https://www.zillow.com/homedetails/1950-N-31st-St-Philadelphia-PA-19121/118349517_zpid/
+New construction,1524 S 25th St,Philadelphia,PA,19145,"$445,000",4,3.0,5200.0,-1.0,2020,TOWNHOUSE,,https://www.zillow.com/homedetails/1524-S-25th-St-Philadelphia-PA-19145/2080624280_zpid/
+Townhouse for sale,1427 N 29th St,Philadelphia,PA,19121,"$349,900",3,2.0,1328.0,871.0,1920,TOWNHOUSE,100000.0,https://www.zillow.com/homedetails/1427-N-29th-St-Philadelphia-PA-19121/10317298_zpid/
+House for sale,2154 N Van Pelt St,Philadelphia,PA,19121,"$160,000",4,2.0,1412.0,1306.0,1915,SINGLE_FAMILY,78100.0,https://www.zillow.com/homedetails/2154-N-Van-Pelt-St-Philadelphia-PA-19121/10329091_zpid/
+Apartment for sale,1616 N 26th St,Philadelphia,PA,19121,"$269,900",3,2.0,922.0,1180.0,1915,MULTI_FAMILY,43200.0,https://www.zillow.com/homedetails/1616-N-26th-St-Philadelphia-PA-19121/10332435_zpid/
+New construction,1243 N Myrtlewood St,Philadelphia,PA,19121,"$449,900",3,2.0,1825.0,701.0,1920,SINGLE_FAMILY,80800.0,https://www.zillow.com/homedetails/1243-N-Myrtlewood-St-Philadelphia-PA-19121/10317991_zpid/
+Townhouse for sale,1636 N Newkirk St,Philadelphia,PA,19121,"$235,000",3,2.0,1050.0,792.0,1915,TOWNHOUSE,99100.0,https://www.zillow.com/homedetails/1636-N-Newkirk-St-Philadelphia-PA-19121/10332764_zpid/
+Townhouse for sale,1542 Fontain St,Philadelphia,PA,19121,"$160,000",3,1.0,1160.0,810.0,1915,TOWNHOUSE,170000.0,https://www.zillow.com/homedetails/1542-Fontain-St-Philadelphia-PA-19121/10327876_zpid/
+House for sale,1741 N Croskey St,Philadelphia,PA,19121,"$55,000",3,1.0,830.0,774.0,1920,SINGLE_FAMILY,55700.0,https://www.zillow.com/homedetails/1741-N-Croskey-St-Philadelphia-PA-19121/10456520_zpid/
+Townhouse for sale,3037 Baltz St,Philadelphia,PA,19121,"$409,999",3,3.0,1800.0,675.0,1920,TOWNHOUSE,28000.0,https://www.zillow.com/homedetails/3037-Baltz-St-Philadelphia-PA-19121/10317608_zpid/
+Townhouse for sale,2615 W Seybert St,Philadelphia,PA,19121,"$349,900",2,3.0,1450.0,766.0,1925,TOWNHOUSE,72500.0,https://www.zillow.com/homedetails/2615-W-Seybert-St-Philadelphia-PA-19121/10315396_zpid/

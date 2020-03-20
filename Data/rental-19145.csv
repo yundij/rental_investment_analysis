@@ -1,0 +1,35 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,2111 S 20th St # A,Philadelphia,PA,19145,"$1,450/mo",2,1.0,1200.0,2019,-1.0,MULTI_FAMILY
+House for rent,2132 S Opal St,Philadelphia,PA,19145,"$1,200/mo",3,1.0,1082.0,1925,670.0,SINGLE_FAMILY
+Townhouse for rent,2210 Mifflin St,Philadelphia,PA,19145,"$1,450/mo",3,1.0,1200.0,1920,919.0,TOWNHOUSE
+Townhouse for rent,1717 Moore St,Philadelphia,PA,19145,"$1,795/mo",3,1.0,1380.0,1965,871.0,TOWNHOUSE
+Townhouse for rent,2113 Watkins St,Philadelphia,PA,19145,"$1,600/mo",2,1.0,1092.0,1925,749.0,TOWNHOUSE
+Apartment for rent,1421 W Ritner St FLOOR 1,Philadelphia,PA,19145,$700/mo,0,1.0,350.0,-1,-1.0,APARTMENT
+Apartment for rent,2118 S 16th St FLOOR 1,Philadelphia,PA,19145,"$1,200/mo",1,1.0,,-1,-1.0,APARTMENT
+House for rent,2013 S Garnet St,Philadelphia,PA,19145,"$1,250/mo",3,1.0,956.0,1920,680.0,SINGLE_FAMILY
+House for rent,1708 Pierce St,Philadelphia,PA,19145,"$1,400/mo",2,1.5,900.0,1925,665.0,SINGLE_FAMILY
+Townhouse for rent,2137 S Lambert St,Philadelphia,PA,19145,"$1,500/mo",3,1.0,1100.0,1952,871.0,TOWNHOUSE
+Townhouse for rent,1927 Sigel St,Philadelphia,PA,19145,"$1,600/mo",2,1.5,1000.0,1920,657.0,TOWNHOUSE
+House for rent,1614 S Taney St,Philadelphia,PA,19145,"$1,200/mo",3,1.0,1100.0,1925,871.0,SINGLE_FAMILY
+Apartment for rent,1800 S Broad St APT A,Philadelphia,PA,19145,"$2,000/mo",2,1.0,1000.0,-1,-1.0,APARTMENT
+Townhouse for rent,1609 S 17th St,Philadelphia,PA,19145,"$2,600/mo",4,4.0,2100.0,1919,1306.0,TOWNHOUSE
+House for rent,1945 S Beechwood St,Philadelphia,PA,19145,"$1,100/mo",3,1.0,1020.0,1920,740.0,SINGLE_FAMILY
+Apartment for rent,2115 S 20th St # 2,Philadelphia,PA,19145,$810/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,2308 S 15th St # B,Philadelphia,PA,19145,"$1,300/mo",2,1.0,803.0,-1,-1.0,APARTMENT
+House for rent,2110 Verona Dr,Philadelphia,PA,19145,"$2,850/mo",3,2.5,1705.0,2007,-1.0,SINGLE_FAMILY
+Townhouse for rent,2814 Winton St,Philadelphia,PA,19145,"$1,100/mo",3,1.0,896.0,1920,871.0,TOWNHOUSE
+House for rent,1921 Pierce St,Philadelphia,PA,19145,"$1,650/mo",3,1.5,1050.0,1925,658.0,SINGLE_FAMILY
+Apartment for rent,1627 S 22nd St # 3,Philadelphia,PA,19145,"$1,200/mo",2,1.0,850.0,-1,-1.0,APARTMENT
+Apartment for rent,1514 Tasker St FLOOR 3,Philadelphia,PA,19145,"$1,150/mo",2,1.0,,-1,-1.0,APARTMENT
+Condo for rent,2508 S Broad St APT 1,Philadelphia,PA,19145,$850/mo,0,1.0,2628.0,1920,-1.0,CONDO
+Apartment for rent,1506 Moore St # 1F,Philadelphia,PA,19145,$950/mo,1,1.0,550.0,-1,-1.0,APARTMENT
+Townhouse for rent,2139 Mountain St,Philadelphia,PA,19145,"$1,150/mo",2,1.0,920.0,1956,871.0,TOWNHOUSE
+House for rent,1634 S 24th St,Philadelphia,PA,19145,"$1,095/mo",3,1.0,1100.0,1925,1040.0,SINGLE_FAMILY
+Townhouse for rent,2436 S Chadwick St,Philadelphia,PA,19145,"$1,500/mo",3,1.0,1020.0,1920,871.0,TOWNHOUSE
+Apartment for rent,1412 Jackson St # 2F,Philadelphia,PA,19145,$895/mo,2,1.0,850.0,-1,-1.0,APARTMENT
+Apartment for rent,1936 S 23rd St FLOOR 2,Philadelphia,PA,19145,"$1,000/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,1727 Mckean St # 1,Philadelphia,PA,19145,"$1,350/mo",0,1.5,900.0,-1,-1.0,APARTMENT
+House for rent,1616 S 24th St,Philadelphia,PA,19145,"$1,800/mo",3,2.0,1620.0,1925,1041.0,SINGLE_FAMILY
+Apartment for rent,2230 S 15th St # 2F,Philadelphia,PA,19145,$995/mo,1,1.0,225.0,-1,-1.0,APARTMENT
+Apartment for rent,2120 S 15th St FLOOR 1,Philadelphia,PA,19145,"$1,500/mo",1,1.0,550.0,-1,-1.0,APARTMENT
+Apartment for rent,1522 Mifflin St FLOOR 2,Philadelphia,PA,19145,"$1,000/mo",2,1.0,1000.0,-1,-1.0,APARTMENT

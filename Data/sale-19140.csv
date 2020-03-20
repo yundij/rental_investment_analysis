@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,3246 N Marshall St,Philadelphia,PA,19140,"$119,990",2,2.0,1210.0,588.0,1925,TOWNHOUSE,40300.0,https://www.zillow.com/homedetails/3246-N-Marshall-St-Philadelphia-PA-19140/10375578_zpid/
+Apartment for sale,4125 N 8th St,Philadelphia,PA,19140,"$49,900",0,,1230.0,871.0,1945,MULTI_FAMILY,67800.0,https://www.zillow.com/homedetails/4125-N-8th-St-Philadelphia-PA-19140/10437239_zpid/
+Apartment for sale,3432 N 18th St,Philadelphia,PA,19140,"$60,000",4,3.0,2200.0,2313.0,1940,MULTI_FAMILY,,https://www.zillow.com/homedetails/3432-N-18th-St-Philadelphia-PA-19140/2084162593_zpid/
+For sale by owner,4687 N 16th St,Philadelphia,PA,19140,"$120,000",4,2.0,1148.0,1335.0,1940,TOWNHOUSE,57900.0,https://www.zillow.com/homedetails/4687-N-16th-St-Philadelphia-PA-19140/10237591_zpid/
+Townhouse for sale,2047 Bellevue St,Philadelphia,PA,19140,"$144,998",3,2.0,1400.0,1376.0,1933,TOWNHOUSE,29900.0,https://www.zillow.com/homedetails/2047-Bellevue-St-Philadelphia-PA-19140/10226924_zpid/
+Townhouse for sale,4321 N 16th St,Philadelphia,PA,19140,"$99,900",3,1.0,1004.0,1742.0,1930,TOWNHOUSE,27000.0,https://www.zillow.com/homedetails/4321-N-16th-St-Philadelphia-PA-19140/10237532_zpid/
+Townhouse for sale,3318 N Fairhill St,Philadelphia,PA,19140,"$40,000",3,1.0,1098.0,945.0,1920,TOWNHOUSE,47600.0,https://www.zillow.com/homedetails/3318-N-Fairhill-St-Philadelphia-PA-19140/10265037_zpid/
+For sale by owner,3548 N 11th St,Philadelphia,PA,19140,"$50,000",4,1.0,1696.0,1376.0,1920,TOWNHOUSE,59500.0,https://www.zillow.com/homedetails/3548-N-11th-St-Philadelphia-PA-19140/10432626_zpid/
+Foreclosure,2038 W Tioga St,Philadelphia,PA,19140,"$19,900",7,,2808.0,2988.0,1955,LOT,58300.0,https://www.zillow.com/homedetails/2038-W-Tioga-St-Philadelphia-PA-19140/118351589_zpid/
+Townhouse for sale,3849 N Delhi St,Philadelphia,PA,19140,"$106,900",3,1.0,1120.0,718.0,1942,TOWNHOUSE,48900.0,https://www.zillow.com/homedetails/3849-N-Delhi-St-Philadelphia-PA-19140/10434123_zpid/
+Townhouse for sale,3462 N Bodine St,Philadelphia,PA,19140,"$30,000",2,1.0,756.0,709.0,1920,TOWNHOUSE,38500.0,https://www.zillow.com/homedetails/3462-N-Bodine-St-Philadelphia-PA-19140/10264415_zpid/
+For sale by owner,3527 N Warnock St,Philadelphia,PA,19140,"$28,000",3,1.0,896.0,784.0,1935,TOWNHOUSE,11400.0,https://www.zillow.com/homedetails/3527-N-Warnock-St-Philadelphia-PA-19140/10432518_zpid/
+Townhouse for sale,3413 N Bouvier St,Philadelphia,PA,19140,"$23,000",3,1.0,924.0,845.0,1939,TOWNHOUSE,21100.0,https://www.zillow.com/homedetails/3413-N-Bouvier-St-Philadelphia-PA-19140/10227770_zpid/
+For sale by owner,3455 N Hope St,Philadelphia,PA,19140,"$50,000",3,1.0,1088.0,800.0,-1,SINGLE_FAMILY,10400.0,https://www.zillow.com/homedetails/3455-N-Hope-St-Philadelphia-PA-19140/118339688_zpid/
+Townhouse for sale,3517 N 18th St,Philadelphia,PA,19140,"$149,900",8,6.0,2410.0,1576.0,1936,TOWNHOUSE,100600.0,https://www.zillow.com/homedetails/3517-N-18th-St-Philadelphia-PA-19140/10227849_zpid/
+Townhouse for sale,4013 N 8th St,Philadelphia,PA,19140,"$75,000",4,2.0,1260.0,1110.0,1920,TOWNHOUSE,66700.0,https://www.zillow.com/homedetails/4013-N-8th-St-Philadelphia-PA-19140/10435347_zpid/
+Apartment for sale,2014 Rowan St,Philadelphia,PA,19140,"$49,000",3,1.0,1008.0,1028.0,1930,MULTI_FAMILY,41100.0,https://www.zillow.com/homedetails/2014-Rowan-St-Philadelphia-PA-19140/10236417_zpid/
+Townhouse for sale,167 Tiber St,Philadelphia,PA,19140,"$49,900",3,1.0,966.0,797.0,1930,TOWNHOUSE,59900.0,https://www.zillow.com/homedetails/167-Tiber-St-Philadelphia-PA-19140/10427367_zpid/
+Apartment for sale,3843 N Bouvier St,Philadelphia,PA,19140,"$62,900",3,1.0,1318.0,1241.0,1940,MULTI_FAMILY,48700.0,https://www.zillow.com/homedetails/3843-N-Bouvier-St-Philadelphia-PA-19140/10235494_zpid/
+Townhouse for sale,1625 W Juniata St,Philadelphia,PA,19140,"$35,000",2,1.0,750.0,784.0,1930,TOWNHOUSE,17500.0,https://www.zillow.com/homedetails/1625-W-Juniata-St-Philadelphia-PA-19140/10238728_zpid/
+Townhouse for sale,4512 N Smedley St,Philadelphia,PA,19140,"$125,000",3,2.0,1338.0,1315.0,1940,TOWNHOUSE,52900.0,https://www.zillow.com/homedetails/4512-N-Smedley-St-Philadelphia-PA-19140/122288364_zpid/
+Townhouse for sale,1638 W Venango St,Philadelphia,PA,19140,"$150,000",4,3.0,1566.0,3659.0,1982,TOWNHOUSE,,https://www.zillow.com/homedetails/1638-W-Venango-St-Philadelphia-PA-19140/2080981853_zpid/
+For sale by owner,3247 N Carlisle St,Philadelphia,PA,19140,"$249,000",4,2.0,1302.0,1210.0,1939,TOWNHOUSE,106700.0,https://www.zillow.com/homedetails/3247-N-Carlisle-St-Philadelphia-PA-19140/10227386_zpid/
+For sale by owner,4363 Wayne Ave,Philadelphia,PA,19140,"$70,000",3,1.0,962.0,937.0,1930,TOWNHOUSE,40200.0,https://www.zillow.com/homedetails/4363-Wayne-Ave-Philadelphia-PA-19140/10236627_zpid/
+Townhouse for sale,4331 N Orianna St,Philadelphia,PA,19140,"$50,000",2,1.0,960.0,688.0,1935,TOWNHOUSE,49800.0,https://www.zillow.com/homedetails/4331-N-Orianna-St-Philadelphia-PA-19140/10207056_zpid/
+Townhouse for sale,3322 N Smedley St,Philadelphia,PA,19140,"$54,900",3,1.0,1560.0,962.0,1930,TOWNHOUSE,26500.0,https://www.zillow.com/homedetails/3322-N-Smedley-St-Philadelphia-PA-19140/10227671_zpid/
+Foreclosure,1127 W Wingohocking St,Philadelphia,PA,19140,"$89,900",0,,1740.0,2552.0,1935,MULTI_FAMILY,107000.0,https://www.zillow.com/homedetails/1127-W-Wingohocking-St-Philadelphia-PA-19140/10463108_zpid/
+Townhouse for sale,3243 N Carlisle St,Philadelphia,PA,19140,"$98,900",4,2.0,1302.0,1210.0,1939,TOWNHOUSE,43100.0,https://www.zillow.com/homedetails/3243-N-Carlisle-St-Philadelphia-PA-19140/10227384_zpid/
+Townhouse for sale,3422 N Hope St,Philadelphia,PA,19140,"$55,000",3,1.0,1088.0,801.0,1945,TOWNHOUSE,49300.0,https://www.zillow.com/homedetails/3422-N-Hope-St-Philadelphia-PA-19140/10206307_zpid/
+For sale by owner,3415 N 10th St,Philadelphia,PA,19140,"$55,000",3,1.0,1024.0,725.0,1965,SINGLE_FAMILY,43600.0,https://www.zillow.com/homedetails/3415-N-10th-St-Philadelphia-PA-19140/10431356_zpid/
+Apartment for sale,3414 N 21st St,Philadelphia,PA,19140,"$79,900",4,2.0,2391.0,1537.0,1939,MULTI_FAMILY,46400.0,https://www.zillow.com/homedetails/3414-N-21st-St-Philadelphia-PA-19140/103777841_zpid/
+Townhouse for sale,2042 Bellevue St,Philadelphia,PA,19140,"$21,900",3,1.0,840.0,1467.0,1933,TOWNHOUSE,14800.0,https://www.zillow.com/homedetails/2042-Bellevue-St-Philadelphia-PA-19140/10226901_zpid/
+Townhouse for sale,1319 Blavis St,Philadelphia,PA,19140,"$65,000",3,1.0,1380.0,1306.0,1935,TOWNHOUSE,41800.0,https://www.zillow.com/homedetails/1319-Blavis-St-Philadelphia-PA-19140/10463053_zpid/
+Townhouse for sale,4637 N Camac St,Philadelphia,PA,19140,"$110,000",3,2.0,1202.0,1210.0,1940,TOWNHOUSE,71100.0,https://www.zillow.com/homedetails/4637-N-Camac-St-Philadelphia-PA-19140/10465492_zpid/
+Townhouse for sale,4430 N 16th St,Philadelphia,PA,19140,"$129,800",3,2.0,1656.0,975.0,1940,TOWNHOUSE,54100.0,https://www.zillow.com/homedetails/4430-N-16th-St-Philadelphia-PA-19140/10237617_zpid/
+Townhouse for sale,3738 N Bouvier St,Philadelphia,PA,19140,"$149,900",5,3.0,1788.0,1180.0,1915,TOWNHOUSE,62700.0,https://www.zillow.com/homedetails/3738-N-Bouvier-St-Philadelphia-PA-19140/10235524_zpid/
+Townhouse for sale,3216 N Hope St,Philadelphia,PA,19140,"$125,000",3,2.0,1036.0,614.0,1930,TOWNHOUSE,24700.0,https://www.zillow.com/homedetails/3216-N-Hope-St-Philadelphia-PA-19140/10206249_zpid/
+Townhouse for sale,1138 W Tioga St,Philadelphia,PA,19140,"$55,000",3,1.0,1530.0,1323.0,1945,TOWNHOUSE,56400.0,https://www.zillow.com/homedetails/1138-W-Tioga-St-Philadelphia-PA-19140/103776326_zpid/
+Apartment for sale,3249 N Park Ave,Philadelphia,PA,19140,"$74,900",0,,1428.0,1498.0,1940,MULTI_FAMILY,59800.0,https://www.zillow.com/homedetails/3249-N-Park-Ave-Philadelphia-PA-19140/10431645_zpid/
+Townhouse for sale,4228 N Hicks St,Philadelphia,PA,19140,"$45,000",3,1.0,1012.0,871.0,1930,TOWNHOUSE,39800.0,https://www.zillow.com/homedetails/4228-N-Hicks-St-Philadelphia-PA-19140/10237302_zpid/

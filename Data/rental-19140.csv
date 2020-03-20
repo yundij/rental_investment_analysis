@@ -1,0 +1,37 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Townhouse for rent,4604 N Palethorp St,Philadelphia,PA,19140,$950/mo,2,1.0,966.0,1931,871.0,TOWNHOUSE
+Apartment for rent,3715 N 17th St,Philadelphia,PA,19140,$800/mo,2,2.5,,-1,-1.0,APARTMENT
+Townhouse for rent,3522 N 7th St,Philadelphia,PA,19140,"$1,275/mo",4,2.0,,-1,-1.0,TOWNHOUSE
+House for rent,4517 N 19th St,Philadelphia,PA,19140,"$1,150/mo",5,2.0,1440.0,1920,1266.0,SINGLE_FAMILY
+Apartment for rent,1822 W Erie Ave # 7646116,Philadelphia,PA,19140,$625/mo,0,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,3552 N 18th St # 3F,Philadelphia,PA,19140,$700/mo,1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,3306 N 13th St # 2,Philadelphia,PA,19140,$999/mo,2,1.0,900.0,-1,-1.0,APARTMENT
+Townhouse for rent,4465 N Orianna St,Philadelphia,PA,19140,$950/mo,3,1.5,1022.0,1945,871.0,TOWNHOUSE
+Apartment for rent,1617 W Westmoreland St FLOOR 3,Philadelphia,PA,19140,$899/mo,2,1.0,900.0,-1,-1.0,APARTMENT
+Apartment for rent,1321 W Butler St FLOOR 1,Philadelphia,PA,19140,$825/mo,2,1.0,850.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,1702 W Wingohocking St,Philadelphia,PA,19140,$650/mo,0,1.0,1680.0,1940,1400.0,APARTMENT
+Apartment for rent,1341 W Pike St FLOOR 3,Philadelphia,PA,19140,$800/mo,2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,3815 N Smedley St,Philadelphia,PA,19140,"$1,250/mo",4,1.5,1553.0,1940,1240.0,TOWNHOUSE
+House for rent,4025 N Darien St,Philadelphia,PA,19140,$995/mo,3,1.0,1080.0,1930,608.0,SINGLE_FAMILY
+House for rent,3912 Pulaski Ave,Philadelphia,PA,19140,"$1,195/mo",3,1.0,1230.0,1930,991.0,SINGLE_FAMILY
+House for rent,1663 Staub St,Philadelphia,PA,19140,$950/mo,3,1.0,1303.0,1950,1303.0,SINGLE_FAMILY
+Condo for rent,4632 Old York Rd FLOOR 1,Philadelphia,PA,19140,"$1,295/mo",3,1.0,2680.0,1925,-1.0,CONDO
+Apartment for rent,3521 N 19th St,Philadelphia,PA,19140,"$1,250/mo",3,1.0,2406.0,1949,2169.0,MULTI_FAMILY
+Apartment for rent,3531 N 19th St # BASEMENT,Philadelphia,PA,19140,$850/mo,1,1.0,,-1,-1.0,APARTMENT
+House for rent,4559 N Mole St,Philadelphia,PA,19140,"$1,350/mo",3,1.0,932.0,1940,683.0,SINGLE_FAMILY
+House for rent,3939 N 7th St,Philadelphia,PA,19140,"$1,200/mo",3,1.0,1200.0,1922,1306.0,SINGLE_FAMILY
+Apartment for rent,3258 N Carlisle St # 1,Philadelphia,PA,19140,$950/mo,2,1.0,800.0,1939,-1.0,APARTMENT
+Townhouse for rent,3516 N Smedley St,Phila,PA,19140,"$1,100/mo",2,1.0,1050.0,1930,-1.0,TOWNHOUSE
+Apartment for rent,1805 W Venango St # 3F,Philadelphia,PA,19140,$800/mo,1,1.0,,-1,-1.0,MULTI_FAMILY
+House for rent,3622 N Gratz St,Philadelphia,PA,19140,"$1,400/mo",3,1.5,1350.0,1930,1200.0,SINGLE_FAMILY
+Townhouse for rent,3400 N 10th St,Philadelphia,PA,19140,$800/mo,3,1.0,2500.0,1965,1519.0,TOWNHOUSE
+House for rent,1018 W Ontario St,Philadelphia,PA,19140,"$1,100/mo",3,1.0,1496.0,1940,1025.0,SINGLE_FAMILY
+Apartment for rent,1618 W Westmoreland St # 3,Philadelphia,PA,19140,"$1,050/mo",2,1.0,2520.0,1925,-1.0,APARTMENT
+Townhouse for rent,1211 W Hilton St # 1,Philadelphia,PA,19140,"$1,099/mo",2,1.0,1726.0,1940,-1.0,TOWNHOUSE
+House for rent,3624 N 16th St,Philadelphia,PA,19140,$925/mo,4,1.0,1558.0,1945,1780.0,SINGLE_FAMILY
+House for rent,1920 Brunner St,Philadelphia,PA,19140,$800/mo,3,1.0,848.0,1930,816.0,SINGLE_FAMILY
+Apartment for rent,1728 W Tioga St APT D,Philadelphia,PA,19140,"$1,000/mo",3,1.0,1250.0,-1,-1.0,APARTMENT
+House for rent,4339 Germantown Ave,Philadelphia,PA,19140,"$1,500/mo",4,2.0,,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,3311 N Park Ave,Philadelphia,PA,19140,$700/mo,0,1.0,550.0,-1,-1.0,APARTMENT
+House for rent,167 W Luray St,Philadelphia,PA,19140,$950/mo,2,1.0,966.0,1930,798.0,SINGLE_FAMILY
+Condo for rent,3645 N 19th St,Philadelphia,PA,19140,$875/mo,2,1.0,1836.0,1930,1511.0,CONDO

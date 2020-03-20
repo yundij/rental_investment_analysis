@@ -1,0 +1,16 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Townhouse for rent,1410 67th Ave,Philadelphia,PA,19126,$875/mo,2,1.0,1680.0,1925,3108.0,TOWNHOUSE
+Apartment for rent,822 66th Ave,Philadelphia,PA,19126,$950+/mo,3,1.0,1000.0,-1,-1.0,APARTMENT
+Apartment for rent,6930 N Broad St,Philadelphia,PA,19126,$925/mo,1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,68th Ave,Philadelphia,PA,19126,"$1,200/mo",2,1.0,1000.0,-1,-1.0,APARTMENT
+Apartment for rent,7011 N 15th St # 2A2,Philadelphia,PA,19126,$950/mo,2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,6516 N Park Ave FLOOR 2,Philadelphia,PA,19126,"$1,250/mo",2,1.0,2234.0,1935,-1.0,TOWNHOUSE
+House for rent,6723 N Lawrence St,Philadelphia,PA,19126,"$1,300/mo",3,1.5,1200.0,1965,1306.0,SINGLE_FAMILY
+Apartment for rent,68th Ave,Philadelphia,PA,19126,$950/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,6833 N Broad St FLOOR 2,Philadelphia,PA,19126,$950/mo,2,1.0,,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,1422 67th Ave,Philadelphia,PA,19126,$850/mo,2,1.0,700.0,1925,1299.0,TOWNHOUSE
+Apartment for rent,1035 W Chelten Ave,Philadelphia,PA,19126,"$1,325/mo",1,1.0,1200.0,1683,17798.0,APARTMENT
+Townhouse for rent,900 Asbury Ter # 1,Philadelphia,PA,19126,"$1,400/mo",3,1.0,1218.0,1925,-1.0,TOWNHOUSE
+Apartment for rent,1304 Oak Lane Ave APT 3E,Philadelphia,PA,19126,$875/mo,1,1.0,700.0,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,1700 68th Ave # 2,Philadelphia,PA,19126,$900/mo,2,1.0,1832.0,1920,-1.0,TOWNHOUSE
+Apartment for rent,6628 N 8th St,Philadelphia,PA,19126,$825+/mo,1,1.0,625.0,-1,-1.0,APARTMENT

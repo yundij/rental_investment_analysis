@@ -1,0 +1,21 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,1249 N 58th St,Philadelphia,PA,19131,"$1,150/mo",4,2.0,1492.0,1921,1346.0,SINGLE_FAMILY
+Townhouse for rent,509 N Paxon St,Philadelphia,PA,19131,"$1,075/mo",3,1.0,940.0,1925,871.0,TOWNHOUSE
+House for rent,633 N 54th St,Philadelphia,PA,19131,"$1,300/mo",3,1.5,1092.0,1925,1006.0,SINGLE_FAMILY
+Apartment for rent,5050 Wynnefield Ave APT 210,Philadelphia,PA,19131,"$1,085/mo",2,1.0,725.0,-1,-1.0,MULTI_FAMILY
+House for rent,5132 Master St,Philadelphia,PA,19131,"$1,495/mo",4,1.5,1170.0,1925,2042.0,SINGLE_FAMILY
+Apartment for rent,4938 Lancaster Ave FLOOR 1,Philadelphia,PA,19131,"$1,500/mo",3,1.0,1380.0,1925,-1.0,APARTMENT
+Apartment for rent,5321 W Girard Ave # 1-A,Philadelphia,PA,19131,$660/mo,0,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,5445 W Berks St # A,Philadelphia,PA,19131,"$1,150/mo",2,1.0,1000.0,1920,-1.0,APARTMENT
+Apartment for rent,2116 N Wanamaker St,Philadelphia,PA,19131,$800/mo,1,1.0,1386.0,1920,1293.0,APARTMENT
+House for rent,2260 N 53rd St,Philadelphia,PA,19131,"$3,295/mo",6,3.0,3400.0,-1,-1.0,SINGLE_FAMILY
+House for rent,2213 N 52nd St,Philadelphia,PA,19131,"$3,495/mo",7,4.0,3400.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,5802 Lansdowne Ave FLOOR 2,Philadelphia,PA,19131,$850/mo,2,1.0,950.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,Wyalusing Ave,Philadelphia,PA,19131,$725/mo,0,1.0,340.0,-1,-1.0,APARTMENT
+House for rent,5813 Master St,Philadelphia,PA,19131,"$1,250/mo",3,1.0,1260.0,1920,1130.0,SINGLE_FAMILY
+Townhouse for rent,5624 Lebanon Ave # 1,Philadelphia,PA,19131,"$1,200/mo",2,1.5,650.0,1920,-1.0,TOWNHOUSE
+Condo for rent,5200 W Montgomery Ave APT 17B,Philadelphia,PA,19131,$995/mo,2,1.0,1960.0,1925,2178.0,CONDO
+House for rent,5515 Master St,Philadelphia,PA,19131,"$1,195/mo",3,1.0,1306.0,1925,871.0,SINGLE_FAMILY
+House for rent,1529 N Frazier St,Philadelphia,PA,19131,"$1,100/mo",3,1.0,956.0,1920,871.0,SINGLE_FAMILY
+House for rent,3700 W Country Club Rd,Philadelphia,PA,19131,"$2,350/mo",4,3.5,1757.0,1959,3049.0,SINGLE_FAMILY
+Townhouse for rent,5851 Woodcrest Ave,Philadelphia,PA,19131,"$1,950/mo",4,1.5,1124.0,1925,1551.0,TOWNHOUSE

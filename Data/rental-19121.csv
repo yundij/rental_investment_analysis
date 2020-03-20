@@ -1,0 +1,22 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,1228-32 W College Ave # 4,Philadelphia,PA,19121,"$1,700/mo",2,1.0,1400.0,-1,-1.0,MULTI_FAMILY
+Condo for rent,1510 W Montgomery Ave # HOUSE,Philadelphia,PA,19121,"$3,000/mo",5,3.0,2058.0,-1,-1.0,CONDO
+Apartment for rent,1625 Page St # 3BRHOUSE,Philadelphia,PA,19121,"$1,500/mo",3,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,1547 N Bouvier St # 6BRHOUSE,Philadelphia,PA,19121,"$2,800/mo",6,2.5,,-1,-1.0,APARTMENT
+Apartment for rent,1233 N 16th St APT A,Philadelphia,PA,19121,"$1,250/mo",2,1.0,1000.0,-1,-1.0,APARTMENT
+House for rent,2033 N Woodstock St,Philadelphia,PA,19121,"$1,200/mo",4,3.0,1515.0,1916,871.0,SINGLE_FAMILY
+Apartment for rent,1525 N 17th St APT 1,Philadelphia,PA,19121,"$1,800/mo",3,2.0,1164.0,2010,-1.0,APARTMENT
+Townhouse for rent,2012 N Cleveland St,Philadelphia,PA,19121,"$2,000/mo",4,2.5,1000.0,1919,631.0,TOWNHOUSE
+Apartment for rent,N 33rd St,Philadelphia,PA,19121,"$2,250/mo",3,2.0,1500.0,-1,-1.0,APARTMENT
+House for rent,1337 N 29th St,Philadelphia,PA,19121,"$1,650/mo",3,1.0,1264.0,1915,871.0,SINGLE_FAMILY
+House for rent,1933 N Uber St,Philadelphia,PA,19121,"$1,395/mo",3,1.0,1112.0,1915,1089.0,SINGLE_FAMILY
+Apartment for rent,1839 N 22nd St # 3,Philadelphia,PA,19121,"$1,000/mo",1,1.0,980.0,-1,-1.0,APARTMENT
+Apartment for rent,2007 N 17th St # 1,Philadelphia,PA,19121,"$1,250/mo",2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,2225 N College Ave,Philadelphia,PA,19121,"$1,700/mo",3,1.5,1620.0,1925,871.0,TOWNHOUSE
+Apartment for rent,1928 W Diamond St # 2,Philadelphia,PA,19121,"$1,400/mo",3,2.0,1200.0,-1,-1.0,MULTI_FAMILY
+House for rent,1631 W Stiles St,Philadelphia,PA,19121,"$2,000/mo",4,2.5,2000.0,2007,1056.0,SINGLE_FAMILY
+Condo for rent,2810 W Oxford St # 2,Philadelphia,PA,19121,$850/mo,2,1.0,2253.0,1915,-1.0,CONDO
+Apartment for rent,1922 W Berks St # A,Philadelphia,PA,19121,"$1,800/mo",4,2.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,1929 N 33rd St # A,Philadelphia,PA,19121,"$1,980/mo",3,2.0,1800.0,-1,-1.0,APARTMENT
+Apartment for rent,3019 W Master St,Philadelphia,PA,19121,"$2,200/mo",2,2.0,1097.0,-1,-1.0,APARTMENT
+Townhouse for rent,1330 N 27th St,Philadelphia,PA,19121,"$1,400/mo",2,1.0,720.0,1925,618.0,TOWNHOUSE

@@ -1,0 +1,36 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,709 S American St FLOOR 2,Philadelphia,PA,19147,"$1,550/mo",2,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,620 S Hancock St FLOOR 2,Philadelphia,PA,19147,"$1,575/mo",1,1.0,,-1,-1.0,APARTMENT
+House for rent,Addison St,Philadelphia,PA,19147,"$2,850/mo",2,1.0,740.0,-1,-1.0,SINGLE_FAMILY
+House for rent,224 Bainbridge St,Philadelphia,PA,19147,"$3,500/mo",3,1.5,1140.0,1781,435.0,SINGLE_FAMILY
+Townhouse for rent,1202 Gerritt St,Philadelphia,PA,19147,"$2,335/mo",2,2.0,1082.0,1920,793.0,TOWNHOUSE
+Townhouse for rent,514 Wilder St,Philadelphia,PA,19147,"$2,000/mo",3,1.5,1370.0,1920,879.0,TOWNHOUSE
+Apartment for rent,1009 S 11th St # 2,Philadelphia,PA,19147,"$1,450/mo",1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,701 S 7th St # 2,Philadelphia,PA,19147,"$2,330/mo",1,1.5,950.0,2007,1742.0,APARTMENT
+Apartment for rent,1316 South St # C,Philadelphia,PA,19147,"$1,700/mo",1,1.0,800.0,-1,-1.0,APARTMENT
+Apartment for rent,1203 S 4th St,Philadelphia,PA,19147,"$1,800/mo",3,2.0,1776.0,1915,912.0,APARTMENT
+Apartment for rent,1029 Kimball St # 1,Philadelphia,PA,19147,"$1,595/mo",3,1.0,900.0,-1,-1.0,APARTMENT
+Apartment for rent,309 South St # 2,Philadelphia,PA,19147,"$1,350/mo",2,1.0,700.0,-1,-1.0,APARTMENT
+Apartment for rent,338 Lombard St UNIT 215,Philadelphia,PA,19147,"$1,400/mo",1,1.0,450.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,829-831 S 4th St FLOOR 2,Philadelphia,PA,19147,"$2,200/mo",2,1.0,850.0,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,1507 S 9th St,Philadelphia,PA,19147,"$1,600/mo",4,2.0,1420.0,1925,896.0,TOWNHOUSE
+Apartment for rent,618 S 2nd St FLOOR 2,Philadelphia,PA,19147,"$1,800/mo",2,1.0,700.0,-1,-1.0,APARTMENT
+Apartment for rent,1222 Christian St FLOOR 2,Philadelphia,PA,19147,"$1,500/mo",2,1.0,,1915,-1.0,APARTMENT
+House for rent,1222 Wilder St,Philadelphia,PA,19147,"$1,860/mo",2,1.0,992.0,1920,635.0,SINGLE_FAMILY
+Apartment for rent,508 S 5th St # 3,Philadelphia,PA,19147,"$1,375/mo",2,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,608 S 4th St FLOOR 3,Philadelphia,PA,19147,"$1,200/mo",1,1.0,400.0,-1,-1.0,APARTMENT
+Townhouse for rent,1115 S 7th St,Philadelphia,PA,19147,"$1,800/mo",2,1.5,1056.0,1918,845.0,TOWNHOUSE
+Townhouse for rent,827 Sears St,Philadelphia,PA,19147,"$1,800/mo",3,1.0,1104.0,1915,775.0,TOWNHOUSE
+Apartment for rent,829 S 4th St FLOOR 2,Philadelphia,PA,19147,"$2,200/mo",2,1.0,875.0,1915,-1.0,APARTMENT
+Townhouse for rent,507 S 5th St,Philadelphia,PA,19147,"$3,600/mo",4,2.5,2000.0,1978,967.0,TOWNHOUSE
+Apartment for rent,620 S 2nd St # 3F,Philadelphia,PA,19147,"$1,294/mo",2,1.0,700.0,-1,-1.0,APARTMENT
+Townhouse for rent,1031 S 6th St FLOOR 2,Philadelphia,PA,19147,"$1,350/mo",1,1.0,900.0,1915,-1.0,TOWNHOUSE
+Apartment for rent,604 S 2nd St # 3,Philadelphia,PA,19147,"$1,775/mo",1,1.0,760.0,-1,-1.0,APARTMENT
+Townhouse for rent,320 Federal St,Philadelphia,PA,19147,"$2,600/mo",4,3.0,2300.0,1915,1306.0,TOWNHOUSE
+Apartment for rent,931 Carpenter St,Philadelphia,PA,19147,"$2,100/mo",2,2.0,1400.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,1221 Ellsworth St # 2,Philadelphia,PA,19147,"$1,250/mo",2,1.0,1000.0,-1,-1.0,APARTMENT
+Apartment for rent,1303 S Broad St # 1R,Philadelphia,PA,19147,"$1,700/mo",2,2.0,,2006,-1.0,APARTMENT
+Townhouse for rent,310 Wharton St,Philadelphia,PA,19147,"$2,200/mo",3,3.0,1928.0,1915,871.0,TOWNHOUSE
+House for rent,407 Greenwich St,Philadelphia,PA,19147,"$1,600/mo",2,1.0,960.0,1943,672.0,SINGLE_FAMILY
+Apartment for rent,1003 Christian St APT 2,Philadelphia,PA,19147,"$1,150/mo",1,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,824 Fitzwater St APT 3,Philadelphia,PA,19147,"$1,595/mo",2,1.0,1200.0,-1,-1.0,APARTMENT

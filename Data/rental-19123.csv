@@ -1,0 +1,22 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Apartment for rent,725 N 5th St # 2F,Philadelphia,PA,19123,"$1,500/mo",1,1.0,550.0,-1,-1.0,APARTMENT
+Apartment for rent,614 N 2nd St APT 3,Philadelphia,PA,19123,"$2,200/mo",2,2.0,1300.0,-1,-1.0,APARTMENT
+Townhouse for rent,1231 Buttonwood St,Philadelphia,PA,19123,"$2,200/mo",3,2.0,2160.0,1925,944.0,TOWNHOUSE
+Apartment for rent,988 N 2nd St,Philadelphia,PA,19123,"$1,500/mo",0,1.0,850.0,1920,1175.0,APARTMENT
+Condo for rent,976 N Marshall St APT 3,Philadelphia,PA,19123,"$2,550/mo",3,3.0,1563.0,2016,-1.0,CONDO
+Apartment for rent,612 N 2nd St # 4F,Philadelphia,PA,19123,"$2,500/mo",1,1.0,1000.0,-1,-1.0,APARTMENT
+Townhouse for rent,627 N 2nd St # 2B,Philadelphia,PA,19123,"$1,350/mo",2,1.0,,2020,-1.0,TOWNHOUSE
+Townhouse for rent,613 N 4th St FLOOR 1,Philadelphia,PA,19123,"$1,500/mo",1,1.0,800.0,-1,-1.0,TOWNHOUSE
+House for rent,433 W Girard Ave,Philadelphia,PA,19123,"$1,800/mo",2,2.0,2000.0,1915,1355.0,SINGLE_FAMILY
+Apartment for rent,937 N 4th St,Philadelphia,PA,19123,"$1,799/mo",2,1.0,2124.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,622 N 2nd St UNIT 307,Philadelphia,PA,19123,"$1,950/mo",2,2.0,880.0,-1,-1.0,APARTMENT
+Apartment for rent,301 Spring Garden St FLOOR 4A,Philadelphia,PA,19123,"$2,350/mo",3,1.5,1200.0,-1,-1.0,APARTMENT
+Apartment for rent,421 Fairmount Ave # 3,Philadelphia,PA,19123,"$1,800/mo",3,1.0,1800.0,1840,-1.0,MULTI_FAMILY
+Townhouse for rent,705 N 3rd St,Philadelphia,PA,19123,"$2,300/mo",2,2.0,1250.0,-1,-1.0,TOWNHOUSE
+Apartment for rent,1043 Spring Garden St # 3R,Philadelphia,PA,19123,"$1,350/mo",2,2.0,,-1,-1.0,APARTMENT
+Condo for rent,618 N 11th St # B,Philadelphia,PA,19123,"$2,500/mo",3,3.0,1458.0,2015,-1.0,CONDO
+Apartment for rent,1006 N Hope St,Philadelphia,PA,19123,"$1,850/mo",2,1.5,1100.0,1917,435.0,APARTMENT
+Apartment for rent,1206 Ogden St,Philadelphia,PA,19123,"$2,000/mo",3,1.5,1260.0,1996,2726.0,MULTI_FAMILY
+Townhouse for rent,959 N Darien St,Philadelphia,PA,19123,"$1,650/mo",2,2.0,1226.0,1990,-1.0,TOWNHOUSE
+House for rent,525 Brown St,Philadelphia,PA,19123,"$2,695/mo",3,2.0,1300.0,1966,3973.0,SINGLE_FAMILY
+Apartment for rent,810 N Hancock St APT 2,Philadelphia,PA,19123,"$1,900/mo",1,1.0,1003.0,1999,788.0,MULTI_FAMILY

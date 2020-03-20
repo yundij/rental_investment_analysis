@@ -1,0 +1,37 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Townhouse for rent,3418 Tudor St,Philadelphia,PA,19136,"$1,600/mo",4,2.0,1600.0,1945,1742.0,TOWNHOUSE
+Apartment for rent,8532 Marsden St,Philadelphia,PA,19136,"$1,045/mo",2,1.0,710.0,-1,-1.0,APARTMENT
+Townhouse for rent,4231 Aldine St,Philadelphia,PA,19136,"$1,250/mo",3,1.5,1204.0,1950,1189.0,TOWNHOUSE
+Apartment for rent,8642 Jackson St # 1,Philadelphia,PA,19136,$925/mo,2,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,8012 Craig St,Philadelphia,PA,19136,"$1,300/mo",2,1.5,1998.0,1970,4481.0,TOWNHOUSE
+Apartment for rent,8834 Cottage St FLOOR 1,Philadelphia,PA,19136,$959/mo,2,1.0,750.0,1960,-1.0,APARTMENT
+Apartment for rent,Keystone St,Philadelphia,PA,19136,"$1,650/mo",2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,Keystone St,Philadelphia,PA,19136,"$1,200/mo",1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,Keystone St,Philadelphia,PA,19136,"$1,095/mo",0,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,7301 Keystone St,Philadelphia,PA,19136,"$1,200/mo",1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,8834 Cottage St # 8834,Philadelphia,PA,19136,$959/mo,2,1.0,,-1,-1.0,APARTMENT
+House for rent,4771 Loring St,Philadelphia,PA,19136,"$1,195/mo",3,1.0,1260.0,1953,902.0,SINGLE_FAMILY
+Townhouse for rent,4542 Vista St,Philadelphia,PA,19136,"$1,200/mo",3,1.0,1144.0,1950,980.0,TOWNHOUSE
+Townhouse for rent,4229 Marple St,Philadelphia,PA,19136,"$1,400/mo",3,1.0,1046.0,1950,980.0,TOWNHOUSE
+House for rent,3411 Tudor St,Philadelphia,PA,19136,"$1,100/mo",3,1.0,1600.0,1945,1616.0,SINGLE_FAMILY
+Townhouse for rent,3539 Sheffield St,Philadelphia,PA,19136,"$1,350/mo",3,1.0,1432.0,1953,-1.0,TOWNHOUSE
+House for rent,3539 Sheffield Ave,Philadelphia,PA,19136,"$1,350/mo",3,1.5,1432.0,1953,1600.0,SINGLE_FAMILY
+Apartment for rent,3339 Vista St # 1,Philadelphia,PA,19136,$895/mo,1,1.0,860.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,Willits Rd,Philadelphia,PA,19136,$995/mo,2,1.0,1100.0,-1,-1.0,APARTMENT
+Apartment for rent,Sheffield St,Philadelphia,PA,19136,$900/mo,1,1.0,,-1,-1.0,APARTMENT
+House for rent,4231 Mill St,Philadelphia,PA,19136,"$1,150/mo",3,1.0,1050.0,1945,1284.0,SINGLE_FAMILY
+Townhouse for rent,Torresdale Ave,Philadelphia,PA,19136,"$1,300/mo",3,2.0,1600.0,-1,-1.0,TOWNHOUSE
+Apartment for rent,3301 Shelmire Ave APT 1,Philadelphia,PA,19136,$850/mo,1,1.0,,-1,-1.0,APARTMENT
+House for rent,3443 Ryan Ave,Philadelphia,PA,19136,"$1,350/mo",3,1.0,1472.0,1953,1607.0,SINGLE_FAMILY
+Townhouse for rent,4219 Oakmont St,Philadelphia,PA,19136,"$1,300/mo",3,2.0,1254.0,1945,1289.0,TOWNHOUSE
+Apartment for rent,33XX Chippendale Ave # 3,Philadelphia,PA,19136,$800/mo,1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,4756 Sheffield Ave,Philadelphia,PA,19136,"$1,350/mo",3,1.5,1280.0,1953,1132.0,TOWNHOUSE
+Townhouse for rent,3606 Hartel Ave,Philadelphia,PA,19136,"$1,400/mo",3,1.5,1328.0,1940,2197.0,TOWNHOUSE
+Apartment for rent,4426 Solly Ave # 1,Philadelphia,PA,19136,"$1,300/mo",2,1.0,860.0,-1,-1.0,APARTMENT
+Apartment for rent,3253 Guilford St,Philadelphia,PA,19136,$995/mo,2,1.0,1850.0,1949,-1.0,MULTI_FAMILY
+House for rent,3438 Sheffield Ave,Philadelphia,PA,19136,"$1,200/mo",3,1.0,1372.0,1955,1860.0,SINGLE_FAMILY
+Apartment for rent,9115 Academy Rd,Philadelphia,PA,19136,"$1,045/mo",1,1.0,700.0,1962,-1.0,APARTMENT
+Apartment for rent,8381 Frankford Ave,Philadelphia,PA,19136,$865/mo,1,1.0,600.0,1930,-1.0,APARTMENT
+Townhouse for rent,3512 Oakmont St,Philadelphia,PA,19136,"$1,420/mo",4,2.0,2092.0,1925,1742.0,TOWNHOUSE
+Apartment for rent,9115 Academy Rd,Philadelphia,PA,19136,$865/mo,0,1.0,515.0,-1,-1.0,APARTMENT
+House for rent,4510 Vista St,Philadelphia,PA,19136,"$1,300/mo",3,1.0,1200.0,1965,977.0,SINGLE_FAMILY

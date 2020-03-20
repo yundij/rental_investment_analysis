@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+House for sale,13030 Proctor Rd,Philadelphia,PA,19116,"$435,000",4,3.0,5616.0,15786.0,1965,SINGLE_FAMILY,378000.0,https://www.zillow.com/homedetails/13030-Proctor-Rd-Philadelphia-PA-19116/10534051_zpid/
+Apartment for sale,608 Maple Ave,Philadelphia,PA,19116,"$275,000",3,3.0,1280.0,5244.0,1928,MULTI_FAMILY,192000.0,https://www.zillow.com/homedetails/608-Maple-Ave-Philadelphia-PA-19116/10533242_zpid/
+Apartment for sale,10240 Selmer Pl,Philadelphia,PA,19116,"$289,900",3,3.0,1354.0,2326.0,1965,MULTI_FAMILY,191600.0,https://www.zillow.com/homedetails/10240-Selmer-Pl-Philadelphia-PA-19116/10532292_zpid/
+House for sale,13046 Trina Dr,Philadelphia,PA,19116,"$599,999",5,5.0,3864.0,3920.0,2005,SINGLE_FAMILY,357500.0,https://www.zillow.com/homedetails/13046-Trina-Dr-Philadelphia-PA-19116/67363532_zpid/
+House for sale,1837 Tomlinson Rd,Philadelphia,PA,19116,"$235,000",3,2.0,1230.0,3419.0,1960,SINGLE_FAMILY,200100.0,https://www.zillow.com/homedetails/1837-Tomlinson-Rd-Philadelphia-PA-19116/10530456_zpid/
+House for sale,2672 Honeysuckle Ln,Philadelphia,PA,19116,"$425,000",4,2.0,2355.0,7723.0,2009,SINGLE_FAMILY,410000.0,https://www.zillow.com/homedetails/2672-Honeysuckle-Ln-Philadelphia-PA-19116/90197523_zpid/
+House for sale,14030 Trevose Rd,Philadelphia,PA,19116,"$575,000",5,5.0,3600.0,26210.0,1914,SINGLE_FAMILY,333100.0,https://www.zillow.com/homedetails/14030-Trevose-Rd-Philadelphia-PA-19116/10534022_zpid/
+House for sale,1050 Byberry Rd,Philadelphia,PA,19116,"$365,000",4,3.0,2496.0,22799.0,1928,SINGLE_FAMILY,298800.0,https://www.zillow.com/homedetails/1050-Byberry-Rd-Philadelphia-PA-19116/10531607_zpid/
+House for sale,15102 Dahlia Dr,Philadelphia,PA,19116,"$423,900",3,2.0,1720.0,5662.0,2015,SINGLE_FAMILY,390000.0,https://www.zillow.com/homedetails/15102-Dahlia-Dr-Philadelphia-PA-19116/118335400_zpid/
+House for sale,731 Gorman St,Philadelphia,PA,19116,"$259,999",3,3.0,1310.0,2408.0,1967,SINGLE_FAMILY,192300.0,https://www.zillow.com/homedetails/731-Gorman-St-Philadelphia-PA-19116/10529355_zpid/
+Townhouse for sale,405 Regina St,Philadelphia,PA,19116,"$255,000",3,3.0,1200.0,3876.0,1969,TOWNHOUSE,202000.0,https://www.zillow.com/homedetails/405-Regina-St-Philadelphia-PA-19116/10531301_zpid/
+Apartment for sale,15006 Theresa Dr,Philadelphia,PA,19116,"$319,900",5,3.0,1650.0,4734.0,1977,MULTI_FAMILY,213300.0,https://www.zillow.com/homedetails/15006-Theresa-Dr-Philadelphia-PA-19116/10534425_zpid/
+House for sale,660 Hendrix St,Philadelphia,PA,19116,"$287,500",3,2.0,1105.0,7000.0,1959,SINGLE_FAMILY,205500.0,https://www.zillow.com/homedetails/660-Hendrix-St-Philadelphia-PA-19116/10531446_zpid/
+Apartment for sale,15018 Liberty Ln,Philadelphia,PA,19116,"$289,999",3,3.0,1650.0,2495.0,1980,MULTI_FAMILY,225400.0,https://www.zillow.com/homedetails/15018-Liberty-Ln-Philadelphia-PA-19116/10533786_zpid/
+House for sale,515 Byberry Rd,Philadelphia,PA,19116,"$360,000",3,3.0,1838.0,10088.0,1930,SINGLE_FAMILY,229800.0,https://www.zillow.com/homedetails/515-Byberry-Rd-Philadelphia-PA-19116/10533120_zpid/
+House for sale,15044 Peyton St,Philadelphia,PA,19116,"$369,900",3,2.0,1822.0,32308.0,1960,SINGLE_FAMILY,268000.0,https://www.zillow.com/homedetails/15044-Peyton-St-Philadelphia-PA-19116/10534250_zpid/
+Apartment for sale,11231 Jeanes St,Philadelphia,PA,19116,"$309,000",4,4.0,1722.0,4721.0,1969,MULTI_FAMILY,234100.0,https://www.zillow.com/homedetails/11231-Jeanes-St-Philadelphia-PA-19116/10532201_zpid/
+House for sale,11709 Centennial Sq W,Philadelphia,PA,19116,"$350,000",3,3.0,1914.0,2178.0,1985,SINGLE_FAMILY,246400.0,https://www.zillow.com/homedetails/11709-Centennial-Sq-W-Philadelphia-PA-19116/10532705_zpid/
+Foreclosure,1007 Sanibel St,Philadelphia,PA,19116,"$236,000",3,2.0,1412.0,5998.0,1960,SINGLE_FAMILY,218300.0,https://www.zillow.com/homedetails/1007-Sanibel-St-Philadelphia-PA-19116/10530584_zpid/
+Townhouse for sale,15064 Sunflower Dr,Philadelphia,PA,19116,"$389,000",4,3.0,2400.0,2047.0,2008,TOWNHOUSE,340000.0,https://www.zillow.com/homedetails/15064-Sunflower-Dr-Philadelphia-PA-19116/103776909_zpid/
+Townhouse for sale,15009 Dahlia Dr,Philadelphia,PA,19116,"$349,900",3,2.0,1502.0,4940.0,2012,TOWNHOUSE,330000.0,https://www.zillow.com/homedetails/15009-Dahlia-Dr-Philadelphia-PA-19116/118359008_zpid/
+House for sale,11121 Ridgeway St,Philadelphia,PA,19116,"$334,900",3,3.0,1554.0,4395.0,1969,SINGLE_FAMILY,228300.0,https://www.zillow.com/homedetails/11121-Ridgeway-St-Philadelphia-PA-19116/10531965_zpid/
+Foreclosure,15161 Endicott St,Philadelphia,PA,19116,"$249,900",3,2.0,1288.0,2905.0,1960,MULTI_FAMILY,215700.0,https://www.zillow.com/homedetails/15161-Endicott-St-Philadelphia-PA-19116/10534793_zpid/
+House for sale,517 Simms St,Philadelphia,PA,19116,"$330,000",3,3.0,1250.0,6250.0,1960,SINGLE_FAMILY,240000.0,https://www.zillow.com/homedetails/517-Simms-St-Philadelphia-PA-19116/10533361_zpid/
+House for sale,10174 Ferndale St,Philadelphia,PA,19116,"$379,900",3,2.0,1452.0,9801.0,1965,SINGLE_FAMILY,280600.0,https://www.zillow.com/homedetails/10174-Ferndale-St-Philadelphia-PA-19116/10532303_zpid/
+Apartment for sale,408 Waring St,Philadelphia,PA,19116,"$283,000",4,3.0,1200.0,4220.0,1970,MULTI_FAMILY,202300.0,https://www.zillow.com/homedetails/408-Waring-St-Philadelphia-PA-19116/10531364_zpid/
+Apartment for sale,503 Parlin St,Philadelphia,PA,19116,"$290,800",3,3.0,1440.0,3567.0,1960,MULTI_FAMILY,201000.0,https://www.zillow.com/homedetails/503-Parlin-St-Philadelphia-PA-19116/10529641_zpid/
+Apartment for sale,1345 Wales Pl,Philadelphia,PA,19116,"$285,000",3,1.0,1224.0,2635.0,1966,MULTI_FAMILY,212900.0,https://www.zillow.com/homedetails/1345-Wales-Pl-Philadelphia-PA-19116/10533680_zpid/
+Townhouse for sale,15073 Sunflower Dr,Philadelphia,PA,19116,"$359,900",2,3.0,1880.0,2238.0,2008,TOWNHOUSE,338000.0,https://www.zillow.com/homedetails/15073-Sunflower-Dr-Philadelphia-PA-19116/90198302_zpid/
+Apartment for sale,429 Densmore Rd,Philadelphia,PA,19116,"$274,900",3,3.0,1200.0,3580.0,1969,MULTI_FAMILY,200900.0,https://www.zillow.com/homedetails/429-Densmore-Rd-Philadelphia-PA-19116/10531355_zpid/
+Townhouse for sale,15042 Dahlia Dr,Philadelphia,PA,19116,"$320,000",2,2.0,1450.0,2178.0,2013,TOWNHOUSE,315000.0,https://www.zillow.com/homedetails/15042-Dahlia-Dr-Philadelphia-PA-19116/118352242_zpid/
+Auction,614 Lawler Pl,Philadelphia,PA,19116,,0,,1440.0,4089.0,1962,SINGLE_FAMILY,206200.0,https://www.zillow.com/homedetails/614-Lawler-Pl-Philadelphia-PA-19116/10529892_zpid/
+Lot / Land for sale,11990 Rennard St,Philadelphia,PA,19116,"$499,900",,,,22032.0,2017,LOT,,https://www.zillow.com/homedetails/11990-Rennard-St-Philadelphia-PA-19116/2094621548_zpid/
+Foreclosed,15020 Milford St,Philadelphia,PA,19116,,3,2.0,1698.0,7840.0,1954,SINGLE_FAMILY,231200.0,https://www.zillow.com/homedetails/15020-Milford-St-Philadelphia-PA-19116/10534802_zpid/
+Pre-foreclosure / Auction,12051 Sewell Rd,Philadelphia,PA,19116,,4,2.1,2650.0,4080.0,2005,SINGLE_FAMILY,309400.0,https://www.zillow.com/homedetails/12051-Sewell-Rd-Philadelphia-PA-19116/67364296_zpid/
+Pre-foreclosure / Auction,15014 Dahlia Dr,Philadelphia,PA,19116,,2,2.0,1501.0,2320.0,2011,SINGLE_FAMILY,315000.0,https://www.zillow.com/homedetails/15014-Dahlia-Dr-Philadelphia-PA-19116/118345317_zpid/
+Pre-foreclosure / Auction,10230 Selmer Pl,Philadelphia,PA,19116,,,,1354.0,3049.0,1965,SINGLE_FAMILY,198600.0,https://www.zillow.com/homedetails/10230-Selmer-Pl-Philadelphia-PA-19116/10532287_zpid/
+Pre-foreclosure / Auction,1820 Tomlinson Rd,Philadelphia,PA,19116,,,,1288.0,2613.0,1960,SINGLE_FAMILY,202000.0,https://www.zillow.com/homedetails/1820-Tomlinson-Rd-Philadelphia-PA-19116/10530379_zpid/
+Pre-foreclosure / Auction,13065 Lindsay St,Philadelphia,PA,19116,,4,1.0,1680.0,2520.0,1965,SINGLE_FAMILY,248400.0,https://www.zillow.com/homedetails/13065-Lindsay-St-Philadelphia-PA-19116/10534169_zpid/
+Pre-foreclosure / Auction,15033 London Rd,Philadelphia,PA,19116,,3,,1224.0,10394.0,1960,SINGLE_FAMILY,221900.0,https://www.zillow.com/homedetails/15033-London-Rd-Philadelphia-PA-19116/10534646_zpid/

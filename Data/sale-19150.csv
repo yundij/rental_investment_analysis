@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Apartment for sale,8112 Thouron Ave,Philadelphia,PA,19150,"$284,000",3,3.0,1534.0,2400.0,1950,MULTI_FAMILY,179600.0,https://www.zillow.com/homedetails/8112-Thouron-Ave-Philadelphia-PA-19150/10474583_zpid/
+House for sale,1445 E Mount Pleasant Ave,Philadelphia,PA,19150,"$199,999",3,3.0,1400.0,2627.0,1950,SINGLE_FAMILY,158500.0,https://www.zillow.com/homedetails/1445-E-Mount-Pleasant-Ave-Philadelphia-PA-19150/10473354_zpid/
+House for sale,1618 Woodbrook Ln,Philadelphia,PA,19150,"$219,000",3,1.0,1220.0,1742.0,1950,SINGLE_FAMILY,150000.0,https://www.zillow.com/homedetails/1618-Woodbrook-Ln-Philadelphia-PA-19150/10590164_zpid/
+Townhouse for sale,8420 Cedarbrook Ave,Philadelphia,PA,19150,"$180,000",3,2.0,1164.0,1742.0,1950,TOWNHOUSE,155400.0,https://www.zillow.com/homedetails/8420-Cedarbrook-Ave-Philadelphia-PA-19150/10471572_zpid/
+Townhouse for sale,7717 Fayette St,Philadelphia,PA,19150,"$234,900",4,2.0,1320.0,1158.0,1925,TOWNHOUSE,58200.0,https://www.zillow.com/homedetails/7717-Fayette-St-Philadelphia-PA-19150/10469450_zpid/
+Apartment for sale,2464 77th Ave,Philadelphia,PA,19150,"$200,000",4,2.0,1502.0,2683.0,1930,MULTI_FAMILY,137300.0,https://www.zillow.com/homedetails/2464-77th-Ave-Philadelphia-PA-19150/10472884_zpid/
+Townhouse for sale,7610 Gilbert St,Philadelphia,PA,19150,"$190,000",3,1.0,1110.0,1267.0,1945,TOWNHOUSE,126900.0,https://www.zillow.com/homedetails/7610-Gilbert-St-Philadelphia-PA-19150/10223195_zpid/
+Townhouse for sale,1039 E Phil Ellena St,Philadelphia,PA,19150,"$349,900",4,4.0,2350.0,2992.0,1950,TOWNHOUSE,179200.0,https://www.zillow.com/homedetails/1039-E-Phil-Ellena-St-Philadelphia-PA-19150/80949922_zpid/
+Townhouse for sale,8658 Fayette St,Philadelphia,PA,19150,"$190,000",3,3.0,1332.0,1454.0,1950,TOWNHOUSE,143200.0,https://www.zillow.com/homedetails/8658-Fayette-St-Philadelphia-PA-19150/10590104_zpid/
+Townhouse for sale,8081 Fayette St,Philadelphia,PA,19150,"$169,900",3,2.0,1182.0,1742.0,1946,TOWNHOUSE,131200.0,https://www.zillow.com/homedetails/8081-Fayette-St-Philadelphia-PA-19150/10469553_zpid/
+Townhouse for sale,8439 Williams Ave,Philadelphia,PA,19150,"$150,000",3,3.0,1147.0,1611.0,1950,TOWNHOUSE,128500.0,https://www.zillow.com/homedetails/8439-Williams-Ave-Philadelphia-PA-19150/10590162_zpid/
+Townhouse for sale,8434 Temple Rd,Philadelphia,PA,19150,"$150,000",3,3.0,1080.0,1620.0,1950,TOWNHOUSE,130600.0,https://www.zillow.com/homedetails/8434-Temple-Rd-Philadelphia-PA-19150/10590149_zpid/
+Townhouse for sale,8316 Rugby St,Philadelphia,PA,19150,"$155,000",3,2.0,1158.0,1533.0,1950,TOWNHOUSE,128100.0,https://www.zillow.com/homedetails/8316-Rugby-St-Philadelphia-PA-19150/10590140_zpid/
+Townhouse for sale,8024 Forrest Ave,Philadelphia,PA,19150,"$179,900",3,2.0,1156.0,2038.0,1950,TOWNHOUSE,144500.0,https://www.zillow.com/homedetails/8024-Forrest-Ave-Philadelphia-PA-19150/10474971_zpid/
+Townhouse for sale,7822 Temple Rd,Philadelphia,PA,19150,"$139,900",3,1.0,990.0,936.0,1950,TOWNHOUSE,110800.0,https://www.zillow.com/homedetails/7822-Temple-Rd-Philadelphia-PA-19150/10469751_zpid/
+Townhouse for sale,7520 Gilbert St,Philadelphia,PA,19150,"$245,000",4,2.0,1300.0,1367.0,1920,TOWNHOUSE,130300.0,https://www.zillow.com/homedetails/7520-Gilbert-St-Philadelphia-PA-19150/10223172_zpid/
+Townhouse for sale,8511 Fayette St,Philadelphia,PA,19150,"$208,900",3,2.0,1164.0,1454.0,1950,TOWNHOUSE,132600.0,https://www.zillow.com/homedetails/8511-Fayette-St-Philadelphia-PA-19150/10469656_zpid/
+Townhouse for sale,8615 Temple Rd,Philadelphia,PA,19150,"$175,000",3,2.0,1088.0,1546.0,1950,TOWNHOUSE,129800.0,https://www.zillow.com/homedetails/8615-Temple-Rd-Philadelphia-PA-19150/10590150_zpid/
+Townhouse for sale,7844 Provident St,Philadelphia,PA,19150,"$249,900",3,2.0,1656.0,1890.0,1950,TOWNHOUSE,156700.0,https://www.zillow.com/homedetails/7844-Provident-St-Philadelphia-PA-19150/10470754_zpid/
+House for sale,901 Woodbrook Ln,Philadelphia,PA,19150,"$425,000",4,3.0,2306.0,6960.0,1950,SINGLE_FAMILY,189600.0,https://www.zillow.com/homedetails/901-Woodbrook-Ln-Philadelphia-PA-19150/10477658_zpid/
+Townhouse for sale,8245 Thouron Ave,Philadelphia,PA,19150,"$249,900",3,3.0,1508.0,2147.0,1950,TOWNHOUSE,144400.0,https://www.zillow.com/homedetails/8245-Thouron-Ave-Philadelphia-PA-19150/10474764_zpid/
+Townhouse for sale,8111 Temple Rd,Philadelphia,PA,19150,"$264,900",3,3.0,1388.0,1389.0,1950,TOWNHOUSE,126800.0,https://www.zillow.com/homedetails/8111-Temple-Rd-Philadelphia-PA-19150/10470133_zpid/
+Townhouse for sale,7815 Woolston Ave,Philadelphia,PA,19150,"$219,900",3,2.0,1152.0,1598.0,1950,TOWNHOUSE,135900.0,https://www.zillow.com/homedetails/7815-Woolston-Ave-Philadelphia-PA-19150/10473810_zpid/
+Apartment for sale,8023 Thouron Ave,Philadelphia,PA,19150,"$229,900",2,2.0,1844.0,3175.0,1950,MULTI_FAMILY,136000.0,https://www.zillow.com/homedetails/8023-Thouron-Ave-Philadelphia-PA-19150/10474750_zpid/
+Auction,8112 Rugby St,Philadelphia,PA,19150,,3,2.5,1474.0,2613.0,1950,SINGLE_FAMILY,181900.0,https://www.zillow.com/homedetails/8112-Rugby-St-Philadelphia-PA-19150/10473986_zpid/
+Townhouse for sale,7960 Thouron Ave,Philadelphia,PA,19150,"$149,995",3,2.0,1224.0,1485.0,1950,TOWNHOUSE,140200.0,https://www.zillow.com/homedetails/7960-Thouron-Ave-Philadelphia-PA-19150/10474558_zpid/
+Townhouse for sale,8119 Williams Ave,Philadelphia,PA,19150,"$170,000",3,2.0,1088.0,1306.0,1950,TOWNHOUSE,123500.0,https://www.zillow.com/homedetails/8119-Williams-Ave-Philadelphia-PA-19150/10475585_zpid/
+Auction,8346 Michener Ave,Philadelphia,PA,19150,,4,2.0,1682.0,3049.0,1950,MULTI_FAMILY,,https://www.zillow.com/homedetails/8346-Michener-Ave-Philadelphia-PA-19150/2081741376_zpid/
+Townhouse for sale,7743 Fayette St,Philadelphia,PA,19150,"$240,000",3,2.0,1920.0,1158.0,1925,TOWNHOUSE,117600.0,https://www.zillow.com/homedetails/7743-Fayette-St-Philadelphia-PA-19150/10469463_zpid/
+Townhouse for sale,7948 Michener Ave,Philadelphia,PA,19150,"$155,000",3,1.0,1202.0,1589.0,1950,TOWNHOUSE,126000.0,https://www.zillow.com/homedetails/7948-Michener-Ave-Philadelphia-PA-19150/63497615_zpid/
+Townhouse for sale,2472 79th Ave,Philadelphia,PA,19150,"$249,900",4,2.0,1152.0,1777.0,1930,TOWNHOUSE,126900.0,https://www.zillow.com/homedetails/2472-79th-Ave-Philadelphia-PA-19150/10473190_zpid/
+Townhouse for sale,8639 Williams Ave,Philadelphia,PA,19150,"$170,000",3,2.0,1164.0,1454.0,1950,TOWNHOUSE,132700.0,https://www.zillow.com/homedetails/8639-Williams-Ave-Philadelphia-PA-19150/10475723_zpid/
+Townhouse for sale,7929 Gilbert St,Philadelphia,PA,19150,"$181,900",3,3.0,1224.0,1485.0,1950,TOWNHOUSE,136200.0,https://www.zillow.com/homedetails/7929-Gilbert-St-Philadelphia-PA-19150/10474390_zpid/
+Townhouse for sale,7704 Rugby St,Philadelphia,PA,19150,"$179,900",3,1.0,1188.0,2029.0,1950,TOWNHOUSE,140200.0,https://www.zillow.com/homedetails/7704-Rugby-St-Philadelphia-PA-19150/10473904_zpid/
+Townhouse for sale,7636 Fayette St,Philadelphia,PA,19150,"$125,000",3,1.0,1200.0,1463.0,1925,TOWNHOUSE,113800.0,https://www.zillow.com/homedetails/7636-Fayette-St-Philadelphia-PA-19150/10590101_zpid/
+Townhouse for sale,8539 Michener Ave,Philadelphia,PA,19150,"$189,900",3,2.0,1159.0,1441.0,1950,TOWNHOUSE,126800.0,https://www.zillow.com/homedetails/8539-Michener-Ave-Philadelphia-PA-19150/10470686_zpid/
+Auction,8242 Williams Ave,Philadelphia,PA,19150,,3,2.0,1464.0,1742.0,1950,SINGLE_FAMILY,149900.0,https://www.zillow.com/homedetails/8242-Williams-Ave-Philadelphia-PA-19150/10475398_zpid/
+Townhouse for sale,1410 E Mount Pleasant Ave,Philadelphia,PA,19150,"$160,000",3,1.0,1426.0,1402.0,1950,TOWNHOUSE,142200.0,https://www.zillow.com/homedetails/1410-E-Mount-Pleasant-Ave-Philadelphia-PA-19150/10590127_zpid/
+Townhouse for sale,7736 Fayette St,Philadelphia,PA,19150,"$140,000",3,1.0,1057.0,1424.0,1934,TOWNHOUSE,128500.0,https://www.zillow.com/homedetails/7736-Fayette-St-Philadelphia-PA-19150/10590102_zpid/
+Townhouse for sale,7961 Provident St,Philadelphia,PA,19150,"$159,000",3,2.0,1088.0,1441.0,1950,TOWNHOUSE,117700.0,https://www.zillow.com/homedetails/7961-Provident-St-Philadelphia-PA-19150/10470979_zpid/

@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Foreclosure,421-23 E Rittenhouse St,Philadelphia,PA,19144,"$79,900",4,2.0,1355.0,3113.0,1950,SINGLE_FAMILY,97900.0,https://www.zillow.com/homedetails/421-23-E-Rittenhouse-St-Philadelphia-PA-19144/10535889_zpid/
+Townhouse for sale,739 E Locust Ave,Philadelphia,PA,19144,"$127,000",3,2.0,1150.0,845.0,1925,TOWNHOUSE,19800.0,https://www.zillow.com/homedetails/739-E-Locust-Ave-Philadelphia-PA-19144/10230036_zpid/
+House for sale,252 E High St,Philadelphia,PA,19144,"$275,000",4,3.0,1998.0,4970.0,1905,SINGLE_FAMILY,120800.0,https://www.zillow.com/homedetails/252-E-High-St-Philadelphia-PA-19144/10536897_zpid/
+House for sale,102 W Apsley St,Philadelphia,PA,19144,"$265,000",5,3.0,2068.0,2178.0,1920,SINGLE_FAMILY,172600.0,https://www.zillow.com/homedetails/102-W-Apsley-St-Philadelphia-PA-19144/10231749_zpid/
+House for sale,6042 Wissahickon Ave,Philadelphia,PA,19144,"$435,000",3,3.0,2050.0,3598.0,1900,SINGLE_FAMILY,110000.0,https://www.zillow.com/homedetails/6042-Wissahickon-Ave-Philadelphia-PA-19144/10275555_zpid/
+Condo for sale,6136 Wayne Ave APT 6,Philadelphia,PA,19144,"$37,500",2,2.0,1200.0,-1.0,1929,CONDO,,https://www.zillow.com/homedetails/6136-Wayne-Ave-APT-6-Philadelphia-PA-19144/2082245234_zpid/
+Apartment for sale,336 W Duval St,Philadelphia,PA,19144,"$415,000",5,4.0,2636.0,4042.0,1915,MULTI_FAMILY,316300.0,https://www.zillow.com/homedetails/336-W-Duval-St-Philadelphia-PA-19144/10539466_zpid/
+House for sale,5361 Pulaski Ave,Philadelphia,PA,19144,"$239,000",4,3.0,1930.0,2404.0,1900,SINGLE_FAMILY,138900.0,https://www.zillow.com/homedetails/5361-Pulaski-Ave-Philadelphia-PA-19144/10233954_zpid/
+Townhouse for sale,128 W Pomona St,Philadelphia,PA,19144,"$189,000",3,1.0,1173.0,1171.0,1900,TOWNHOUSE,115500.0,https://www.zillow.com/homedetails/128-W-Pomona-St-Philadelphia-PA-19144/10539355_zpid/
+Apartment for sale,113 W Seymour St,Philadelphia,PA,19144,"$167,000",6,2.0,2295.0,2299.0,1900,MULTI_FAMILY,131200.0,https://www.zillow.com/homedetails/113-W-Seymour-St-Philadelphia-PA-19144/10232136_zpid/
+Condo for sale,6144 Wayne Ave APT 5,Philadelphia,PA,19144,"$28,000",2,2.0,1100.0,-1.0,1925,CONDO,,https://www.zillow.com/homedetails/6144-Wayne-Ave-APT-5-Philadelphia-PA-19144/2085777759_zpid/
+New construction,240 W Penn St,Philadelphia,PA,19144,"$269,500",3,2.0,2000.0,1890.0,1900,MULTI_FAMILY,121100.0,https://www.zillow.com/homedetails/240-W-Penn-St-Philadelphia-PA-19144/10233361_zpid/
+Townhouse for sale,5543 Crowson St,Philadelphia,PA,19144,"$55,000",3,1.0,1200.0,749.0,1925,TOWNHOUSE,59300.0,https://www.zillow.com/homedetails/5543-Crowson-St-Philadelphia-PA-19144/10230931_zpid/
+Apartment for sale,113 W Apsley St,Philadelphia,PA,19144,"$134,900",3,2.0,1792.0,1899.0,1920,MULTI_FAMILY,111200.0,https://www.zillow.com/homedetails/113-W-Apsley-St-Philadelphia-PA-19144/10231758_zpid/
+Apartment for sale,151 E Pomona St,Philadelphia,PA,19144,"$82,500",3,2.0,1344.0,2160.0,1915,MULTI_FAMILY,103500.0,https://www.zillow.com/homedetails/151-E-Pomona-St-Philadelphia-PA-19144/118341411_zpid/
+Foreclosure,631 E Locust Ave,Philadelphia,PA,19144,"$69,900",0,,1408.0,3219.0,1925,MULTI_FAMILY,86500.0,https://www.zillow.com/homedetails/631-E-Locust-Ave-Philadelphia-PA-19144/10230033_zpid/
+For sale by owner,217 E Ashmead St,Philadelphia,PA,19144,"$40,000",3,1.0,1257.0,1785.0,1900,SINGLE_FAMILY,22700.0,https://www.zillow.com/homedetails/217-E-Ashmead-St-Philadelphia-PA-19144/10228791_zpid/
+Townhouse for sale,614 E Stafford St,Philadelphia,PA,19144,"$125,000",3,1.0,1068.0,906.0,1905,TOWNHOUSE,42200.0,https://www.zillow.com/homedetails/614-E-Stafford-St-Philadelphia-PA-19144/10535085_zpid/
+House for sale,6213 Baynton St,Philadelphia,PA,19144,"$199,900",5,1.0,1856.0,2178.0,1905,SINGLE_FAMILY,126500.0,https://www.zillow.com/homedetails/6213-Baynton-St-Philadelphia-PA-19144/10538021_zpid/
+Apartment for sale,137 W Hansberry St,Philadelphia,PA,19144,"$150,000",3,2.0,1188.0,1154.0,1920,MULTI_FAMILY,79400.0,https://www.zillow.com/homedetails/137-W-Hansberry-St-Philadelphia-PA-19144/10232422_zpid/
+Townhouse for sale,125 W Pomona St,Philadelphia,PA,19144,"$215,000",3,2.0,1173.0,1306.0,1900,TOWNHOUSE,153200.0,https://www.zillow.com/homedetails/125-W-Pomona-St-Philadelphia-PA-19144/10539388_zpid/
+Apartment for sale,133 W Washington Ln,Philadelphia,PA,19144,"$215,000",0,,3062.0,3750.0,1900,MULTI_FAMILY,244900.0,https://www.zillow.com/homedetails/133-W-Washington-Ln-Philadelphia-PA-19144/165400080_zpid/
+House for sale,6229 Mccallum St,Philadelphia,PA,19144,"$394,900",5,3.0,2035.0,2613.0,1925,SINGLE_FAMILY,230300.0,https://www.zillow.com/homedetails/6229-Mccallum-St-Philadelphia-PA-19144/10539684_zpid/
+House for sale,81 E Ashmead St,Philadelphia,PA,19144,"$104,900",3,1.0,990.0,1084.0,1900,SINGLE_FAMILY,53000.0,https://www.zillow.com/homedetails/81-E-Ashmead-St-Philadelphia-PA-19144/10228778_zpid/
+Townhouse for sale,67 E Collom St,Philadelphia,PA,19144,"$124,900",4,2.0,1076.0,1062.0,1925,TOWNHOUSE,59700.0,https://www.zillow.com/homedetails/67-E-Collom-St-Philadelphia-PA-19144/10228666_zpid/
+For sale by owner,43 E Narragansett St,Philadelphia,PA,19144,"$32,000",3,1.0,880.0,837.0,1915,TOWNHOUSE,32400.0,https://www.zillow.com/homedetails/43-E-Narragansett-St-Philadelphia-PA-19144/10536076_zpid/
+House for sale,318 W Logan St,Philadelphia,PA,19144,"$374,990",6,5.0,2292.0,2827.0,1930,SINGLE_FAMILY,164800.0,https://www.zillow.com/homedetails/318-W-Logan-St-Philadelphia-PA-19144/10239737_zpid/
+Apartment for sale,5248 Baynton St,Philadelphia,PA,19144,"$215,000",3,3.0,1438.0,1851.0,1920,MULTI_FAMILY,82400.0,https://www.zillow.com/homedetails/5248-Baynton-St-Philadelphia-PA-19144/10229312_zpid/
+Townhouse for sale,85 E Duval St,Philadelphia,PA,19144,"$184,900",5,3.0,1557.0,1149.0,1905,TOWNHOUSE,92200.0,https://www.zillow.com/homedetails/85-E-Duval-St-Philadelphia-PA-19144/10537838_zpid/
+Townhouse for sale,617 E Locust Ave,Philadelphia,PA,19144,"$119,900",8,5.0,2672.0,1276.0,1925,TOWNHOUSE,28400.0,https://www.zillow.com/homedetails/617-E-Locust-Ave-Philadelphia-PA-19144/10230027_zpid/
+Townhouse for sale,421 W School House Ln UNIT 8,Philadelphia,PA,19144,"$180,300",3,3.0,1280.0,5998.0,1980,TOWNHOUSE,132700.0,https://www.zillow.com/homedetails/421-W-School-House-Ln-UNIT-8-Philadelphia-PA-19144/10233746_zpid/
+Apartment for sale,5151 Keyser St,Philadelphia,PA,19144,"$229,375",3,3.0,1472.0,1546.0,1920,MULTI_FAMILY,97500.0,https://www.zillow.com/homedetails/5151-Keyser-St-Philadelphia-PA-19144/10233029_zpid/
+Apartment for sale,221 E Ashmead St,Philadelphia,PA,19144,"$100,000",0,,2499.0,-1.0,1900,MULTI_FAMILY,,https://www.zillow.com/homedetails/221-E-Ashmead-St-Philadelphia-PA-19144/2080504231_zpid/
+Townhouse for sale,45 E Herman St,Philadelphia,PA,19144,"$89,000",3,1.0,1320.0,2178.0,1910,TOWNHOUSE,99700.0,https://www.zillow.com/homedetails/45-E-Herman-St-Philadelphia-PA-19144/10537276_zpid/
+House for sale,640 W Naomi St,Philadelphia,PA,19144,"$395,000",3,2.0,1512.0,3502.0,1900,SINGLE_FAMILY,245700.0,https://www.zillow.com/homedetails/640-W-Naomi-St-Philadelphia-PA-19144/80953721_zpid/
+Apartment for sale,157 E Walnut Ln,Philadelphia,PA,19144,"$224,900",6,3.0,2310.0,5026.0,1900,MULTI_FAMILY,150800.0,https://www.zillow.com/homedetails/157-E-Walnut-Ln-Philadelphia-PA-19144/10537183_zpid/
+Apartment for sale,5107 Pulaski Ave,Philadelphia,PA,19144,"$364,999",5,3.0,3000.0,2857.0,1900,MULTI_FAMILY,171300.0,https://www.zillow.com/homedetails/5107-Pulaski-Ave-Philadelphia-PA-19144/10233176_zpid/
+House for sale,167 E Herman St,Philadelphia,PA,19144,"$119,900",5,1.0,1665.0,4199.0,1910,SINGLE_FAMILY,60200.0,https://www.zillow.com/homedetails/167-E-Herman-St-Philadelphia-PA-19144/10537304_zpid/
+Apartment for sale,277 W Tulpehocken St,Philadelphia,PA,19144,"$450,000",0,,3187.0,4647.0,1900,MULTI_FAMILY,272100.0,https://www.zillow.com/homedetails/277-W-Tulpehocken-St-Philadelphia-PA-19144/10539252_zpid/
+For sale by owner,25 Ashmead Pl N,Philadelphia,PA,19144,"$189,000",4,2.0,2100.0,1201.0,1920,TOWNHOUSE,80400.0,https://www.zillow.com/homedetails/25-Ashmead-Pl-N-Philadelphia-PA-19144/10232340_zpid/

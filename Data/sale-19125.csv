@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,1651 E Berks St,Philadelphia,PA,19125,"$510,000",3,3.0,1622.0,727.0,1920,TOWNHOUSE,216000.0,https://www.zillow.com/homedetails/1651-E-Berks-St-Philadelphia-PA-19125/10257404_zpid/
+Condo for sale,1910 E Hagert St UNIT 9,Philadelphia,PA,19125,"$325,000",2,2.0,1202.0,-1.0,2018,CONDO,,https://www.zillow.com/homedetails/1910-E-Hagert-St-UNIT-9-Philadelphia-PA-19125/2080472992_zpid/
+Townhouse for sale,2660 Tulip St,Philadelphia,PA,19125,"$259,900",3,2.0,972.0,901.0,1918,TOWNHOUSE,208200.0,https://www.zillow.com/homedetails/2660-Tulip-St-Philadelphia-PA-19125/10323417_zpid/
+Townhouse for sale,2629 E Huntingdon St,Philadelphia,PA,19125,"$405,000",3,5.0,1872.0,871.0,2014,TOWNHOUSE,342900.0,https://www.zillow.com/homedetails/2629-E-Huntingdon-St-Philadelphia-PA-19125/10327205_zpid/
+Townhouse for sale,819 Mercer St,Philadelphia,PA,19125,"$310,000",2,2.0,920.0,871.0,1940,TOWNHOUSE,147200.0,https://www.zillow.com/homedetails/819-Mercer-St-Philadelphia-PA-19125/10258405_zpid/
+Townhouse for sale,2304 E Albert St,Philadelphia,PA,19125,"$219,900",3,1.0,900.0,596.0,1925,TOWNHOUSE,138200.0,https://www.zillow.com/homedetails/2304-E-Albert-St-Philadelphia-PA-19125/10327382_zpid/
+Townhouse for sale,2323 E Norris St,Philadelphia,PA,19125,"$449,000",3,4.0,1450.0,1023.0,1875,TOWNHOUSE,169100.0,https://www.zillow.com/homedetails/2323-E-Norris-St-Philadelphia-PA-19125/10324948_zpid/
+Townhouse for sale,2015 E Huntingdon St,Philadelphia,PA,19125,"$239,900",3,1.0,1376.0,958.0,1875,TOWNHOUSE,151900.0,https://www.zillow.com/homedetails/2015-E-Huntingdon-St-Philadelphia-PA-19125/10327117_zpid/
+Townhouse for sale,1341 Marlborough St,Philadelphia,PA,19125,"$399,900",3,2.0,1920.0,1650.0,1915,TOWNHOUSE,230000.0,https://www.zillow.com/homedetails/1341-Marlborough-St-Philadelphia-PA-19125/10256456_zpid/
+Townhouse for sale,1248 Marlborough St,Philadelphia,PA,19125,"$309,000",3,1.0,1452.0,588.0,1925,TOWNHOUSE,250000.0,https://www.zillow.com/homedetails/1248-Marlborough-St-Philadelphia-PA-19125/10256370_zpid/
+Townhouse for sale,2664 Janney St,Philadelphia,PA,19125,"$185,000",2,1.0,648.0,514.0,1875,TOWNHOUSE,111800.0,https://www.zillow.com/homedetails/2664-Janney-St-Philadelphia-PA-19125/10323308_zpid/
+Townhouse for sale,2636 E Thompson St,Philadelphia,PA,19125,"$174,995",2,1.0,960.0,1197.0,1949,TOWNHOUSE,125700.0,https://www.zillow.com/homedetails/2636-E-Thompson-St-Philadelphia-PA-19125/10324450_zpid/
+Townhouse for sale,1034 E Eyre St,Philadelphia,PA,19125,"$319,500",2,2.0,962.0,666.0,1920,TOWNHOUSE,225000.0,https://www.zillow.com/homedetails/1034-E-Eyre-St-Philadelphia-PA-19125/10256950_zpid/
+Townhouse for sale,850 E Thompson St,Philadelphia,PA,19125,"$396,011",4,2.0,2202.0,1528.0,1925,TOWNHOUSE,290900.0,https://www.zillow.com/homedetails/850-E-Thompson-St-Philadelphia-PA-19125/10258252_zpid/
+Townhouse for sale,2014 E York St,Philadelphia,PA,19125,"$364,900",3,2.0,1147.0,1080.0,1890,TOWNHOUSE,258900.0,https://www.zillow.com/homedetails/2014-E-York-St-Philadelphia-PA-19125/10325655_zpid/
+Townhouse for sale,1133 E Berks St,Philadelphia,PA,19125,"$229,999",3,2.0,1700.0,788.0,1920,TOWNHOUSE,204900.0,https://www.zillow.com/homedetails/1133-E-Berks-St-Philadelphia-PA-19125/10257336_zpid/
+Townhouse for sale,251 E Thompson St,Philadelphia,PA,19125,"$265,000",2,1.0,546.0,392.0,1920,TOWNHOUSE,153200.0,https://www.zillow.com/homedetails/251-E-Thompson-St-Philadelphia-PA-19125/10258274_zpid/
+Townhouse for sale,2405 E Gordon St,Philadelphia,PA,19125,"$434,900",4,2.0,1600.0,784.0,1915,TOWNHOUSE,109300.0,https://www.zillow.com/homedetails/2405-E-Gordon-St-Philadelphia-PA-19125/10325629_zpid/
+Townhouse for sale,1359 E Palmer St,Philadelphia,PA,19125,"$599,900",4,3.0,2550.0,1306.0,1920,TOWNHOUSE,450000.0,https://www.zillow.com/homedetails/1359-E-Palmer-St-Philadelphia-PA-19125/10256922_zpid/
+Townhouse for sale,2603 Martha St,Philadelphia,PA,19125,"$299,000",2,1.0,1146.0,631.0,1875,TOWNHOUSE,139700.0,https://www.zillow.com/homedetails/2603-Martha-St-Philadelphia-PA-19125/10323034_zpid/
+Townhouse for sale,1032 Crease St,Philadelphia,PA,19125,"$335,000",2,2.0,927.0,871.0,1920,TOWNHOUSE,288200.0,https://www.zillow.com/homedetails/1032-Crease-St-Philadelphia-PA-19125/10256265_zpid/
+New construction,2212 E Hagert St,Philadelphia,PA,19125,"$699,000",4,3.0,1892.0,3402.0,1925,TOWNHOUSE,,https://www.zillow.com/homedetails/2212-E-Hagert-St-Philadelphia-PA-19125/2080532735_zpid/
+Townhouse for sale,2637 Edgemont St,Philadelphia,PA,19125,"$239,700",2,1.0,1074.0,927.0,1939,TOWNHOUSE,130700.0,https://www.zillow.com/homedetails/2637-Edgemont-St-Philadelphia-PA-19125/10324743_zpid/
+Apartment for sale,1415 E Hewson St,Philadelphia,PA,19125,"$297,000",3,2.0,1260.0,540.0,1925,MULTI_FAMILY,262400.0,https://www.zillow.com/homedetails/1415-E-Hewson-St-Philadelphia-PA-19125/10257496_zpid/
+Townhouse for sale,859 Mercer St,Philadelphia,PA,19125,"$219,900",3,1.0,920.0,670.0,1925,TOWNHOUSE,180900.0,https://www.zillow.com/homedetails/859-Mercer-St-Philadelphia-PA-19125/10258425_zpid/
+Townhouse for sale,834 Almond St,Philadelphia,PA,19125,"$359,900",3,1.0,1368.0,644.0,1920,TOWNHOUSE,259300.0,https://www.zillow.com/homedetails/834-Almond-St-Philadelphia-PA-19125/10258446_zpid/
+New construction,801 Aramingo Ave # 3,Philadelphia,PA,19125,"$360,000",3,3.0,1352.0,-1.0,-1,CONDO,,https://www.zillow.com/homedetails/801-Aramingo-Ave-3-Philadelphia-PA-19125/2081005293_zpid/
+House for sale,2209 2209-2211 E Cumberland St,Philadelphia,PA,19125,"$850,000",10,3.0,6726.0,5758.0,-1,SINGLE_FAMILY,,https://www.zillow.com/homedetails/2209-2209-2211-E-Cumberland-St-Philadelphia-PA-19125/2084138454_zpid/
+Townhouse for sale,2513 Salmon St,Philadelphia,PA,19125,"$289,899",3,2.0,1257.0,666.0,1970,TOWNHOUSE,87600.0,https://www.zillow.com/homedetails/2513-Salmon-St-Philadelphia-PA-19125/10324876_zpid/
+New construction,1768 Frankford Ave APT 1,Philadelphia,PA,19125,"$395,000",2,3.0,1310.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/1768-Frankford-Ave-APT-1-Philadelphia-PA-19125/2080747570_zpid/
+Townhouse for sale,719 E Thompson St,Philadelphia,PA,19125,"$599,900",4,3.0,2200.0,906.0,2016,TOWNHOUSE,471400.0,https://www.zillow.com/homedetails/719-E-Thompson-St-Philadelphia-PA-19125/10258317_zpid/
+Townhouse for sale,2514 Memphis St,Philadelphia,PA,19125,"$315,000",2,1.0,1288.0,670.0,1930,TOWNHOUSE,179400.0,https://www.zillow.com/homedetails/2514-Memphis-St-Philadelphia-PA-19125/10323621_zpid/
+New construction,1133 E Montgomery Ave,Philadelphia,PA,19125,"$679,000",4,4.0,2400.0,818.0,2020,SINGLE_FAMILY,33000.0,https://www.zillow.com/homedetails/1133-E-Montgomery-Ave-Philadelphia-PA-19125/118345365_zpid/
+For sale by owner,2321 Almond St,Philadelphia,PA,19125,"$285,000",3,2.0,1154.0,871.0,1875,CONDO,183900.0,https://www.zillow.com/homedetails/2321-Almond-St-Philadelphia-PA-19125/10324186_zpid/
+Townhouse for sale,1859 Sepviva St,Philadelphia,PA,19125,"$619,900",3,3.0,2302.0,1354.0,2016,TOWNHOUSE,47300.0,https://www.zillow.com/homedetails/1859-Sepviva-St-Philadelphia-PA-19125/165458470_zpid/
+Townhouse for sale,2651 Tulip St,Philadelphia,PA,19125,"$225,000",2,1.0,840.0,771.0,1875,TOWNHOUSE,125600.0,https://www.zillow.com/homedetails/2651-Tulip-St-Philadelphia-PA-19125/10323539_zpid/
+Townhouse for sale,1352 E Susquehanna Ave,Philadelphia,PA,19125,"$414,900",3,3.0,1600.0,601.0,1920,TOWNHOUSE,336700.0,https://www.zillow.com/homedetails/1352-E-Susquehanna-Ave-Philadelphia-PA-19125/10257574_zpid/
+Townhouse for sale,2664 Livingston St,Philadelphia,PA,19125,"$219,900",2,1.0,976.0,740.0,1916,TOWNHOUSE,119200.0,https://www.zillow.com/homedetails/2664-Livingston-St-Philadelphia-PA-19125/10324402_zpid/
+Townhouse for sale,2317 E Hagert St,Philadelphia,PA,19125,"$325,000",2,2.0,1077.0,1167.0,1925,TOWNHOUSE,158900.0,https://www.zillow.com/homedetails/2317-E-Hagert-St-Philadelphia-PA-19125/10326034_zpid/
+Townhouse for sale,2211 E Huntingdon St,Philadelphia,PA,19125,"$279,000",4,2.0,1569.0,823.0,1908,TOWNHOUSE,172300.0,https://www.zillow.com/homedetails/2211-E-Huntingdon-St-Philadelphia-PA-19125/10327137_zpid/

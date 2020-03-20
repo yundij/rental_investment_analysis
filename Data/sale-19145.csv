@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,1824 Mountain St,Philadelphia,PA,19145,"$279,000",2,3.0,1064.0,701.0,1925,TOWNHOUSE,82900.0,https://www.zillow.com/homedetails/1824-Mountain-St-Philadelphia-PA-19145/10365747_zpid/
+Townhouse for sale,2353 S Bucknell St,Philadelphia,PA,19145,"$269,900",2,2.0,980.0,688.0,1920,TOWNHOUSE,88300.0,https://www.zillow.com/homedetails/2353-S-Bucknell-St-Philadelphia-PA-19145/10462146_zpid/
+Townhouse for sale,1604 S 16th St,Philadelphia,PA,19145,"$299,000",3,2.0,1376.0,993.0,1925,TOWNHOUSE,246300.0,https://www.zillow.com/homedetails/1604-S-16th-St-Philadelphia-PA-19145/10371679_zpid/
+Townhouse for sale,2122 Mountain St,Philadelphia,PA,19145,"$225,000",2,1.0,856.0,657.0,1925,TOWNHOUSE,82500.0,https://www.zillow.com/homedetails/2122-Mountain-St-Philadelphia-PA-19145/10365805_zpid/
+Townhouse for sale,3162 S Smedley St,Philadelphia,PA,19145,"$375,000",3,2.0,1152.0,1559.0,1960,TOWNHOUSE,276200.0,https://www.zillow.com/homedetails/3162-S-Smedley-St-Philadelphia-PA-19145/10305232_zpid/
+Townhouse for sale,2729 Mckean St,Philadelphia,PA,19145,"$244,900",3,2.0,1100.0,1528.0,1950,TOWNHOUSE,148300.0,https://www.zillow.com/homedetails/2729-Mckean-St-Philadelphia-PA-19145/10460043_zpid/
+Apartment for sale,2344 Moore St,Philadelphia,PA,19145,"$214,900",3,1.0,1160.0,871.0,1920,MULTI_FAMILY,86200.0,https://www.zillow.com/homedetails/2344-Moore-St-Philadelphia-PA-19145/10459585_zpid/
+Townhouse for sale,1607 S 28th St,Philadelphia,PA,19145,"$255,000",3,2.0,1400.0,980.0,1920,TOWNHOUSE,84300.0,https://www.zillow.com/homedetails/1607-S-28th-St-Philadelphia-PA-19145/10369734_zpid/
+Townhouse for sale,2530 S Lambert St,Philadelphia,PA,19145,"$475,000",4,3.0,1720.0,2299.0,1920,TOWNHOUSE,337000.0,https://www.zillow.com/homedetails/2530-S-Lambert-St-Philadelphia-PA-19145/10307341_zpid/
+House for sale,1840 S Broad St,Philadelphia,PA,19145,"$675,000",6,3.0,4370.0,1306.0,1920,SINGLE_FAMILY,197800.0,https://www.zillow.com/homedetails/1840-S-Broad-St-Philadelphia-PA-19145/10457693_zpid/
+Townhouse for sale,2641 S 17th St,Philadelphia,PA,19145,"$449,000",3,3.0,2210.0,840.0,1920,TOWNHOUSE,222200.0,https://www.zillow.com/homedetails/2641-S-17th-St-Philadelphia-PA-19145/10305344_zpid/
+Townhouse for sale,1744 S Dorrance St,Philadelphia,PA,19145,"$409,900",4,3.0,1554.0,435.0,2019,TOWNHOUSE,38900.0,https://www.zillow.com/homedetails/1744-S-Dorrance-St-Philadelphia-PA-19145/10366471_zpid/
+Townhouse for sale,1517 W Ritner St,Philadelphia,PA,19145,"$325,000",3,3.0,1472.0,871.0,1920,TOWNHOUSE,198100.0,https://www.zillow.com/homedetails/1517-W-Ritner-St-Philadelphia-PA-19145/10302497_zpid/
+Townhouse for sale,3504 Capri Ct,Philadelphia,PA,19145,"$504,000",3,3.0,2448.0,3571.0,2004,TOWNHOUSE,,https://www.zillow.com/homedetails/3504-Capri-Ct-Philadelphia-PA-19145/2080748534_zpid/
+Townhouse for sale,2620 S Colorado St,Philadelphia,PA,19145,"$300,000",3,2.0,1168.0,435.0,1920,TOWNHOUSE,166000.0,https://www.zillow.com/homedetails/2620-S-Colorado-St-Philadelphia-PA-19145/10305935_zpid/
+Townhouse for sale,1908 Geary St,Philadelphia,PA,19145,"$699,900",4,3.0,2295.0,1306.0,2013,TOWNHOUSE,516500.0,https://www.zillow.com/homedetails/1908-Geary-St-Philadelphia-PA-19145/117508252_zpid/
+Townhouse for sale,2835 S 16th St,Philadelphia,PA,19145,"$245,000",3,1.0,1240.0,897.0,1920,TOWNHOUSE,183800.0,https://www.zillow.com/homedetails/2835-S-16th-St-Philadelphia-PA-19145/10304395_zpid/
+Townhouse for sale,1421 W Shunk St,Philadelphia,PA,19145,"$375,000",3,2.0,1508.0,871.0,1920,TOWNHOUSE,201300.0,https://www.zillow.com/homedetails/1421-W-Shunk-St-Philadelphia-PA-19145/10302627_zpid/
+For sale by owner,2012 Mckean St,Philadelphia,PA,19145,"$293,000",3,2.0,1440.0,823.0,2018,TOWNHOUSE,95800.0,https://www.zillow.com/homedetails/2012-Mckean-St-Philadelphia-PA-19145/10457395_zpid/
+Townhouse for sale,2133 Fernon St,Philadelphia,PA,19145,"$279,999",2,3.0,1200.0,657.0,1923,TOWNHOUSE,62900.0,https://www.zillow.com/homedetails/2133-Fernon-St-Philadelphia-PA-19145/10365582_zpid/
+Townhouse for sale,2423 S 15th St,Philadelphia,PA,19145,"$434,900",4,4.0,1346.0,901.0,1920,TOWNHOUSE,192600.0,https://www.zillow.com/homedetails/2423-S-15th-St-Philadelphia-PA-19145/10303401_zpid/
+Townhouse for sale,2445 S Lambert St,Philadelphia,PA,19145,"$229,900",3,1.0,1036.0,727.0,1920,TOWNHOUSE,166100.0,https://www.zillow.com/homedetails/2445-S-Lambert-St-Philadelphia-PA-19145/10307247_zpid/
+Townhouse for sale,1611 S Mole St,Philadelphia,PA,19145,"$400,000",3,3.0,1700.0,614.0,1920,TOWNHOUSE,112200.0,https://www.zillow.com/homedetails/1611-S-Mole-St-Philadelphia-PA-19145/10371414_zpid/
+New construction,1843 Hartranft St # C204,Philadelphia,PA,19145,"$379,000",2,2.0,1068.0,871.0,2020,TOWNHOUSE,,https://www.zillow.com/homedetails/1843-Hartranft-St-C204-Philadelphia-PA-19145/2080558702_zpid/
+Townhouse for sale,2214 Mifflin St,Philadelphia,PA,19145,"$369,000",3,3.0,1734.0,919.0,1920,TOWNHOUSE,107900.0,https://www.zillow.com/homedetails/2214-Mifflin-St-Philadelphia-PA-19145/10459819_zpid/
+Townhouse for sale,2541 S Mole St,Philadelphia,PA,19145,"$264,900",3,2.0,1068.0,779.0,1920,TOWNHOUSE,176900.0,https://www.zillow.com/homedetails/2541-S-Mole-St-Philadelphia-PA-19145/10303950_zpid/
+Townhouse for sale,2634 S 17th St,Philadelphia,PA,19145,"$424,900",3,2.0,1212.0,840.0,1920,TOWNHOUSE,180900.0,https://www.zillow.com/homedetails/2634-S-17th-St-Philadelphia-PA-19145/10305656_zpid/
+Townhouse for sale,1939 Pierce St,Philadelphia,PA,19145,"$375,000",3,3.0,1800.0,657.0,1925,TOWNHOUSE,113200.0,https://www.zillow.com/homedetails/1939-Pierce-St-Philadelphia-PA-19145/10366083_zpid/
+Townhouse for sale,1843 S Ringgold St,Philadelphia,PA,19145,"$232,400",3,2.0,1200.0,871.0,1920,TOWNHOUSE,79700.0,https://www.zillow.com/homedetails/1843-S-Ringgold-St-Philadelphia-PA-19145/10462329_zpid/
+For sale by owner,2105 S Beechwood St,Philadelphia,PA,19145,"$230,000",2,2.0,966.0,714.0,1920,TOWNHOUSE,87800.0,https://www.zillow.com/homedetails/2105-S-Beechwood-St-Philadelphia-PA-19145/10460931_zpid/
+New construction,1843 Hartranft St # C203,Philadelphia,PA,19145,"$399,000",2,2.0,1068.0,871.0,2020,TOWNHOUSE,,https://www.zillow.com/homedetails/1843-Hartranft-St-C203-Philadelphia-PA-19145/2080558412_zpid/
+Townhouse for sale,1603 S 21st St,Philadelphia,PA,19145,"$339,999",3,2.0,1480.0,1080.0,1920,TOWNHOUSE,116900.0,https://www.zillow.com/homedetails/1603-S-21st-St-Philadelphia-PA-19145/10366955_zpid/
+New construction,1843 Hartranft St # A102,Philadelphia,PA,19145,"$929,000",5,5.0,3800.0,3920.0,2020,TOWNHOUSE,,https://www.zillow.com/homedetails/1843-Hartranft-St-A102-Philadelphia-PA-19145/2080643173_zpid/
+Auction,2124 Verona Dr,Philadelphia,PA,19145,,2,2.5,1355.0,-1.0,2007,CONDO,277900.0,https://www.zillow.com/homedetails/2124-Verona-Dr-Philadelphia-PA-19145/71250183_zpid/
+Townhouse for sale,1933 Moore St,Philadelphia,PA,19145,"$208,000",3,2.0,1592.0,1071.0,1920,TOWNHOUSE,123500.0,https://www.zillow.com/homedetails/1933-Moore-St-Philadelphia-PA-19145/10366202_zpid/
+Townhouse for sale,2022 Pierce St,Philadelphia,PA,19145,"$135,000",3,1.0,880.0,662.0,1920,TOWNHOUSE,77900.0,https://www.zillow.com/homedetails/2022-Pierce-St-Philadelphia-PA-19145/10366147_zpid/
+Auction,2918 S Broad St,Philadelphia,PA,19145,,3,2.0,1370.0,1742.0,1950,TOWNHOUSE,266400.0,https://www.zillow.com/homedetails/2918-S-Broad-St-Philadelphia-PA-19145/10302871_zpid/
+New construction,1843 Hartranft St # B101,Philadelphia,PA,19145,"$799,000",4,4.0,3200.0,3049.0,2020,TOWNHOUSE,,https://www.zillow.com/homedetails/1843-Hartranft-St-B101-Philadelphia-PA-19145/2080559255_zpid/
+Townhouse for sale,2027 S Beechwood St,Philadelphia,PA,19145,"$256,900",3,2.0,1024.0,714.0,1920,TOWNHOUSE,82200.0,https://www.zillow.com/homedetails/2027-S-Beechwood-St-Philadelphia-PA-19145/10460915_zpid/
+Townhouse for sale,1608 S Newkirk St,Philadelphia,PA,19145,"$210,000",2,2.0,910.0,871.0,1920,TOWNHOUSE,64200.0,https://www.zillow.com/homedetails/1608-S-Newkirk-St-Philadelphia-PA-19145/10370009_zpid/

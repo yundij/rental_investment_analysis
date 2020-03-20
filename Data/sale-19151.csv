@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Foreclosure,6711 Lansdowne Ave,Philadelphia,PA,19151,"$115,000",5,2.0,2312.0,3201.0,1935,MULTI_FAMILY,144600.0,https://www.zillow.com/homedetails/6711-Lansdowne-Ave-Philadelphia-PA-19151/10348972_zpid/
+Townhouse for sale,607 Marlyn Rd,Philadelphia,PA,19151,"$112,000",3,2.0,1110.0,1742.0,1925,TOWNHOUSE,105500.0,https://www.zillow.com/homedetails/607-Marlyn-Rd-Philadelphia-PA-19151/10350735_zpid/
+Apartment for sale,628 N 64th St,Philadelphia,PA,19151,"$140,000",4,2.0,1924.0,2500.0,1925,MULTI_FAMILY,148800.0,https://www.zillow.com/homedetails/628-N-64th-St-Philadelphia-PA-19151/10350632_zpid/
+Townhouse for sale,7637 Wyndale Ave,Philadelphia,PA,19151,"$140,000",3,2.0,1800.0,1995.0,1949,TOWNHOUSE,131000.0,https://www.zillow.com/homedetails/7637-Wyndale-Ave-Philadelphia-PA-19151/10347069_zpid/
+House for sale,6333 Woodbine Ave,Philadelphia,PA,19151,"$449,000",6,4.0,3941.0,8999.0,1925,SINGLE_FAMILY,579700.0,https://www.zillow.com/homedetails/6333-Woodbine-Ave-Philadelphia-PA-19151/10349828_zpid/
+Foreclosure,6046 W Oxford St,Philadelphia,PA,19151,"$115,000",6,3.0,2591.0,1467.0,1925,TOWNHOUSE,146700.0,https://www.zillow.com/homedetails/6046-W-Oxford-St-Philadelphia-PA-19151/10343555_zpid/
+Townhouse for sale,1701 N Robinson St,Philadelphia,PA,19151,"$145,000",3,2.0,1453.0,1589.0,1925,TOWNHOUSE,126200.0,https://www.zillow.com/homedetails/1701-N-Robinson-St-Philadelphia-PA-19151/10344970_zpid/
+Townhouse for sale,6554 Lansdowne Ave,Philadelphia,PA,19151,"$169,900",3,2.0,1187.0,1485.0,1925,TOWNHOUSE,113200.0,https://www.zillow.com/homedetails/6554-Lansdowne-Ave-Philadelphia-PA-19151/10348919_zpid/
+Townhouse for sale,1743 N 59th St,Philadelphia,PA,19151,"$75,000",3,1.0,1272.0,1476.0,1925,TOWNHOUSE,73700.0,https://www.zillow.com/homedetails/1743-N-59th-St-Philadelphia-PA-19151/10195763_zpid/
+Townhouse for sale,7322 Woodcrest Ave,Philadelphia,PA,19151,"$189,999",3,1.0,1120.0,1476.0,1949,TOWNHOUSE,129900.0,https://www.zillow.com/homedetails/7322-Woodcrest-Ave-Philadelphia-PA-19151/10349665_zpid/
+Townhouse for sale,6124 W Oxford St,Philadelphia,PA,19151,"$150,000",0,,2256.0,2330.0,1925,TOWNHOUSE,170900.0,https://www.zillow.com/homedetails/6124-W-Oxford-St-Philadelphia-PA-19151/90197551_zpid/
+Townhouse for sale,541 N Simpson St,Philadelphia,PA,19151,"$89,900",3,1.0,1280.0,1742.0,1925,TOWNHOUSE,97200.0,https://www.zillow.com/homedetails/541-N-Simpson-St-Philadelphia-PA-19151/10346315_zpid/
+Apartment for sale,5916 W Girard Ave,Philadelphia,PA,19151,"$109,500",4,2.0,1380.0,1681.0,1925,MULTI_FAMILY,53900.0,https://www.zillow.com/homedetails/5916-W-Girard-Ave-Philadelphia-PA-19151/10193468_zpid/
+Townhouse for sale,6028 Haverford Ave,Philadelphia,PA,19151,"$174,900",3,2.0,1152.0,1241.0,1925,TOWNHOUSE,81600.0,https://www.zillow.com/homedetails/6028-Haverford-Ave-Philadelphia-PA-19151/10341415_zpid/
+Townhouse for sale,7301 Ruskin Rd,Philadelphia,PA,19151,"$229,000",5,3.0,1774.0,2016.0,1950,TOWNHOUSE,,https://www.zillow.com/homedetails/7301-Ruskin-Rd-Philadelphia-PA-19151/2091503280_zpid/
+Townhouse for sale,6326 Haverford Ave,Philadelphia,PA,19151,"$229,900",3,3.0,1302.0,1119.0,1925,TOWNHOUSE,95000.0,https://www.zillow.com/homedetails/6326-Haverford-Ave-Philadelphia-PA-19151/10345897_zpid/
+Townhouse for sale,921 Flanders Rd,Philadelphia,PA,19151,"$104,900",3,1.0,1040.0,1441.0,1925,TOWNHOUSE,95500.0,https://www.zillow.com/homedetails/921-Flanders-Rd-Philadelphia-PA-19151/10352088_zpid/
+Foreclosure,7620 Sherwood Rd,Philadelphia,PA,19151,"$147,000",3,1.0,1120.0,1385.0,1949,TOWNHOUSE,129900.0,https://www.zillow.com/homedetails/7620-Sherwood-Rd-Philadelphia-PA-19151/10347596_zpid/
+Townhouse for sale,7542 Brockton Rd,Philadelphia,PA,19151,"$198,960",3,2.0,1120.0,1759.0,1949,TOWNHOUSE,167000.0,https://www.zillow.com/homedetails/7542-Brockton-Rd-Philadelphia-PA-19151/10346729_zpid/
+Townhouse for sale,1464 N 60th St,Philadelphia,PA,19151,"$78,000",3,1.0,1162.0,1319.0,1925,TOWNHOUSE,84500.0,https://www.zillow.com/homedetails/1464-N-60th-St-Philadelphia-PA-19151/10344424_zpid/
+Townhouse for sale,518 N Simpson St,Philadelphia,PA,19151,"$75,000",3,1.0,1140.0,1829.0,1925,TOWNHOUSE,93500.0,https://www.zillow.com/homedetails/518-N-Simpson-St-Philadelphia-PA-19151/10346401_zpid/
+Townhouse for sale,1639 Ashurst Rd,Philadelphia,PA,19151,"$194,900",3,1.0,1120.0,1328.0,1949,TOWNHOUSE,152300.0,https://www.zillow.com/homedetails/1639-Ashurst-Rd-Philadelphia-PA-19151/10348738_zpid/
+Auction,7009 Woodbine Ave,Philadelphia,PA,19151,,,,3425.0,12880.0,1925,SINGLE_FAMILY,478100.0,https://www.zillow.com/homedetails/7009-Woodbine-Ave-Philadelphia-PA-19151/80945967_zpid/
+Condo for sale,1613 Pennington Rd,Philadelphia,PA,19151,"$185,000",3,2.0,1216.0,1467.0,1949,CONDO,165300.0,https://www.zillow.com/homedetails/1613-Pennington-Rd-Philadelphia-PA-19151/10348231_zpid/
+Townhouse for sale,720 Wynnewood Rd,Philadelphia,PA,19151,"$139,000",3,2.0,1446.0,1576.0,1925,TOWNHOUSE,121600.0,https://www.zillow.com/homedetails/720-Wynnewood-Rd-Philadelphia-PA-19151/10350492_zpid/
+Apartment for sale,1218 N 60th St,Philadelphia,PA,19151,"$85,000",3,1.0,1124.0,701.0,1925,MULTI_FAMILY,77100.0,https://www.zillow.com/homedetails/1218-N-60th-St-Philadelphia-PA-19151/10344371_zpid/
+Apartment for sale,6145 Lansdowne Ave,Philadelphia,PA,19151,"$110,000",0,,1722.0,1568.0,1915,MULTI_FAMILY,69000.0,https://www.zillow.com/homedetails/6145-Lansdowne-Ave-Philadelphia-PA-19151/10343276_zpid/
+Townhouse for sale,1632 N Edgewood St,Philadelphia,PA,19151,"$150,000",3,2.0,1232.0,1115.0,1925,TOWNHOUSE,90400.0,https://www.zillow.com/homedetails/1632-N-Edgewood-St-Philadelphia-PA-19151/10344623_zpid/
+Auction,824 Marlyn Rd,Philadelphia,PA,19151,,4,1.0,1662.0,1306.0,1925,SINGLE_FAMILY,133700.0,https://www.zillow.com/homedetails/824-Marlyn-Rd-Philadelphia-PA-19151/10350948_zpid/
+Townhouse for sale,5917 W Oxford St,Philadelphia,PA,19151,"$194,000",3,2.0,1400.0,1250.0,1927,TOWNHOUSE,97300.0,https://www.zillow.com/homedetails/5917-W-Oxford-St-Philadelphia-PA-19151/10343576_zpid/
+Apartment for sale,637 N 64th St,Philadelphia,PA,19151,"$225,000",0,,2176.0,2500.0,1925,MULTI_FAMILY,142000.0,https://www.zillow.com/homedetails/637-N-64th-St-Philadelphia-PA-19151/165231931_zpid/
+Apartment for sale,2119 N 63rd St,Philadelphia,PA,19151,"$350,000",0,,2000.0,1075.0,1922,MULTI_FAMILY,80100.0,https://www.zillow.com/homedetails/2119-N-63rd-St-Philadelphia-PA-19151/80950422_zpid/
+Townhouse for sale,1324 Westbury Dr,Philadelphia,PA,19151,"$209,000",3,2.0,1120.0,1589.0,1949,TOWNHOUSE,129900.0,https://www.zillow.com/homedetails/1324-Westbury-Dr-Philadelphia-PA-19151/10347925_zpid/
+Townhouse for sale,912 N 66th St,Philadelphia,PA,19151,"$125,000",3,1.0,1288.0,1006.0,1910,TOWNHOUSE,98400.0,https://www.zillow.com/homedetails/912-N-66th-St-Philadelphia-PA-19151/10351776_zpid/
+Apartment for sale,6500 Haverford Ave,Philadelphia,PA,19151,"$299,900",0,,4726.0,2278.0,1925,MULTI_FAMILY,210500.0,https://www.zillow.com/homedetails/6500-Haverford-Ave-Philadelphia-PA-19151/80954342_zpid/
+Townhouse for sale,1342 N 76th St,Philadelphia,PA,19151,"$175,000",3,1.0,1120.0,1598.0,1949,TOWNHOUSE,129900.0,https://www.zillow.com/homedetails/1342-N-76th-St-Philadelphia-PA-19151/10348109_zpid/
+House for sale,6140 Lansdowne Ave,Philadelphia,PA,19151,"$100,000",2,2.0,2064.0,1306.0,1925,SINGLE_FAMILY,82700.0,https://www.zillow.com/homedetails/6140-Lansdowne-Ave-Philadelphia-PA-19151/10343228_zpid/
+Foreclosure,6625 Lotus Rd,Philadelphia,PA,19151,"$130,000",3,1.0,1116.0,1350.0,1920,TOWNHOUSE,112700.0,https://www.zillow.com/homedetails/6625-Lotus-Rd-Philadelphia-PA-19151/10349465_zpid/
+Townhouse for sale,1528 N Edgewood St,Philadelphia,PA,19151,"$133,000",3,1.0,912.0,1028.0,1925,TOWNHOUSE,66600.0,https://www.zillow.com/homedetails/1528-N-Edgewood-St-Philadelphia-PA-19151/10344610_zpid/
+Townhouse for sale,1237 N 60th St,Philadelphia,PA,19151,"$75,000",3,3.0,2006.0,1376.0,1915,TOWNHOUSE,44400.0,https://www.zillow.com/homedetails/1237-N-60th-St-Philadelphia-PA-19151/10344269_zpid/

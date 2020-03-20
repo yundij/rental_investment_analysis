@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+New construction,1911 Walnut St # 4801,Philadelphia,PA,19103,"$25,000,000",4,6.0,8666.0,-1.0,-1,CONDO,,https://www.zillow.com/homedetails/1911-Walnut-St-4801-Philadelphia-PA-19103/2082756498_zpid/
+Townhouse for sale,2014 Delancey Pl,Philadelphia,PA,19103,"$8,000,000",5,7.0,9725.0,-1.0,1852,TOWNHOUSE,,https://www.zillow.com/homedetails/2014-Delancey-Pl-Philadelphia-PA-19103/2080588580_zpid/
+Condo for sale,1900 John F Kennedy Blvd APT 2001,Philadelphia,PA,19103,"$150,000",2,1.0,1150.0,-1.0,1965,CONDO,,https://www.zillow.com/homedetails/1900-John-F-Kennedy-Blvd-APT-2001-Philadelphia-PA-19103/2081498872_zpid/
+Townhouse for sale,2212 Race St,Philadelphia,PA,19103,"$920,000",3,3.0,2650.0,1080.0,1999,TOWNHOUSE,435100.0,https://www.zillow.com/homedetails/2212-Race-St-Philadelphia-PA-19103/10211426_zpid/
+House for sale,1910 Rittenhouse Sq,Philadelphia,PA,19103,"$5,495,000",5,6.0,5374.0,1899.0,1750,SINGLE_FAMILY,2111100.0,https://www.zillow.com/homedetails/1910-Rittenhouse-Sq-Philadelphia-PA-19103/10211089_zpid/
+Townhouse for sale,1812 Delancey St,Philadelphia,PA,19103,"$4,125,000",5,7.0,5000.0,1498.0,1800,TOWNHOUSE,2638700.0,https://www.zillow.com/homedetails/1812-Delancey-St-Philadelphia-PA-19103/165106120_zpid/
+Townhouse for sale,1712 Rittenhouse Square St,Philadelphia,PA,19103,"$1,875,000",3,3.0,2946.0,3049.0,1957,TOWNHOUSE,,https://www.zillow.com/homedetails/1712-Rittenhouse-Square-St-Philadelphia-PA-19103/2080472616_zpid/
+House for sale,1932 Pine St,Philadelphia,PA,19103,"$845,000",4,2.0,1772.0,871.0,1870,SINGLE_FAMILY,639600.0,https://www.zillow.com/homedetails/1932-Pine-St-Philadelphia-PA-19103/10210238_zpid/
+Townhouse for sale,2412 Delancey St,Philadelphia,PA,19103,"$569,000",3,1.0,1400.0,871.0,1912,TOWNHOUSE,496200.0,https://www.zillow.com/homedetails/2412-Delancey-St-Philadelphia-PA-19103/10210041_zpid/
+Townhouse for sale,1914-16 Panama St,Philadelphia,PA,19103,"$1,275,000",5,5.0,3085.0,1141.0,1875,TOWNHOUSE,877200.0,https://www.zillow.com/homedetails/1914-16-Panama-St-Philadelphia-PA-19103/10210096_zpid/
+Townhouse for sale,2213 Delancey Pl,Philadelphia,PA,19103,"$1,899,000",5,4.0,4737.0,1363.0,1918,TOWNHOUSE,2082600.0,https://www.zillow.com/homedetails/2213-Delancey-Pl-Philadelphia-PA-19103/10209946_zpid/
+Townhouse for sale,2019 Delancey St,Philadelphia,PA,19103,"$4,600,000",5,9.0,7505.0,2178.0,1860,TOWNHOUSE,3056200.0,https://www.zillow.com/homedetails/2019-Delancey-St-Philadelphia-PA-19103/10209916_zpid/
+Condo for sale,130 S 18th St UNIT 3102,Philadelphia,PA,19103,"$9,200,000",4,4.0,5384.0,-1.0,2009,CONDO,7150600.0,https://www.zillow.com/homedetails/130-S-18th-St-UNIT-3102-Philadelphia-PA-19103/90196813_zpid/
+For sale by owner,1919 Chestnut St APT 721,Philadelphia,PA,19103,"$325,000",1,1.0,837.0,-1.0,1965,SINGLE_FAMILY,,https://www.zillow.com/homedetails/1919-Chestnut-St-APT-721-Philadelphia-PA-19103/2126208720_zpid/
+Townhouse for sale,2028 Locust St,Philadelphia,PA,19103,"$1,750,000",5,5.0,3560.0,1306.0,1850,TOWNHOUSE,1339500.0,https://www.zillow.com/homedetails/2028-Locust-St-Philadelphia-PA-19103/67362669_zpid/
+Townhouse for sale,2429 Locust St APT 510,Philadelphia,PA,19103,"$375,000",1,1.0,743.0,-1.0,1900,TOWNHOUSE,,https://www.zillow.com/homedetails/2429-Locust-St-APT-510-Philadelphia-PA-19103/2080895748_zpid/
+Townhouse for sale,2036 Cherry St,Philadelphia,PA,19103,"$1,250,000",6,4.0,2600.0,1306.0,1859,TOWNHOUSE,580000.0,https://www.zillow.com/homedetails/2036-Cherry-St-Philadelphia-PA-19103/10211378_zpid/
+Townhouse for sale,2039 Pine St,Philadelphia,PA,19103,"$3,450,000",4,4.0,3945.0,1742.0,1862,TOWNHOUSE,1330200.0,https://www.zillow.com/homedetails/2039-Pine-St-Philadelphia-PA-19103/10210175_zpid/
+Townhouse for sale,233 S 24th St,Philadelphia,PA,19103,"$825,000",3,3.0,1815.0,1149.0,1838,TOWNHOUSE,782200.0,https://www.zillow.com/homedetails/233-S-24th-St-Philadelphia-PA-19103/10211316_zpid/
+Apartment for sale,224 W Rittenhouse Sq # 2415A,Philadelphia,PA,19103,"$180,000",0,1.0,528.0,-1.0,1970,APARTMENT,,https://www.zillow.com/homedetails/224-W-Rittenhouse-Sq-2415A-Philadelphia-PA-19103/2080715809_zpid/
+Condo for sale,2122 Spruce St APT 301,Philadelphia,PA,19103,"$259,900",1,1.0,532.0,-1.0,1900,CONDO,222200.0,https://www.zillow.com/homedetails/2122-Spruce-St-APT-301-Philadelphia-PA-19103/62676192_zpid/
+New construction,1911 Walnut St # 4001,Philadelphia,PA,19103,"$7,949,995",3,4.0,4725.0,-1.0,-1,CONDO,,https://www.zillow.com/homedetails/1911-Walnut-St-4001-Philadelphia-PA-19103/2085019043_zpid/
+Condo for sale,2018-32 Walnut St # 6L,Philadelphia,PA,19103,"$530,000",2,2.0,1198.0,1411.0,1980,CONDO,452000.0,https://www.zillow.com/homedetails/2018-32-Walnut-St-6L-Philadelphia-PA-19103/10603410_zpid/
+Townhouse for sale,1624 Spruce St APT 3R,Philadelphia,PA,19103,"$310,000",1,1.0,691.0,43560.0,1900,TOWNHOUSE,266400.0,https://www.zillow.com/homedetails/1624-Spruce-St-APT-3R-Philadelphia-PA-19103/67364847_zpid/
+Condo for sale,224 W Rittenhouse Sq # 1005,Philadelphia,PA,19103,"$975,000",3,2.0,1483.0,-1.0,1970,CONDO,,https://www.zillow.com/homedetails/224-W-Rittenhouse-Sq-1005-Philadelphia-PA-19103/2080582317_zpid/
+New construction,1644 Carlton St,Philadelphia,PA,19103,"$2,750,000",5,7.0,5050.0,1359.0,2019,TOWNHOUSE,,https://www.zillow.com/homedetails/1644-Carlton-St-Philadelphia-PA-19103/2082829492_zpid/
+Condo for sale,1706 Rittenhouse Sq UNIT 2401,Philadelphia,PA,19103,"$6,495,000",4,4.0,4166.0,-1.0,2010,CONDO,6112500.0,https://www.zillow.com/homedetails/1706-Rittenhouse-Sq-UNIT-2401-Philadelphia-PA-19103/115827520_zpid/
+Condo for sale,1811-19 Chestnut St # 202,Philadelphia,PA,19103,"$450,000",2,3.0,1329.0,-1.0,1918,CONDO,,https://www.zillow.com/homedetails/1811-19-Chestnut-St-202-Philadelphia-PA-19103/2107474278_zpid/
+Condo for sale,220 W Rittenhouse Sq APT 17B,Philadelphia,PA,19103,"$1,150,000",2,3.0,2559.0,2559.0,1950,CONDO,1369500.0,https://www.zillow.com/homedetails/220-W-Rittenhouse-Sq-APT-17B-Philadelphia-PA-19103/10603141_zpid/
+Condo for sale,2219 Delancey Pl APT 6,Philadelphia,PA,19103,"$750,000",2,3.0,1725.0,-1.0,1900,CONDO,,https://www.zillow.com/homedetails/2219-Delancey-Pl-APT-6-Philadelphia-PA-19103/2080978938_zpid/
+Townhouse for sale,2035 Chancellor St,Philadelphia,PA,19103,"$699,900",3,3.0,1900.0,1900.0,1980,TOWNHOUSE,473800.0,https://www.zillow.com/homedetails/2035-Chancellor-St-Philadelphia-PA-19103/10603708_zpid/
+Condo for sale,1706 Rittenhouse Sq UNIT 801,Philadelphia,PA,19103,"$5,299,000",4,3.0,4166.0,-1.0,2010,CONDO,5405400.0,https://www.zillow.com/homedetails/1706-Rittenhouse-Sq-UNIT-801-Philadelphia-PA-19103/118352929_zpid/
+Condo for sale,1811 Chestnut St APT 406,Philadelphia,PA,19103,"$399,900",2,2.0,1118.0,-1.0,1900,CONDO,386500.0,https://www.zillow.com/homedetails/1811-Chestnut-St-APT-406-Philadelphia-PA-19103/87764050_zpid/
+Condo for sale,250 S 18th St APT 601,Philadelphia,PA,19103,"$4,750,000",4,5.0,3716.0,-1.0,1900,CONDO,1858100.0,https://www.zillow.com/homedetails/250-S-18th-St-APT-601-Philadelphia-PA-19103/244630457_zpid/
+Townhouse for sale,2112 Appletree St,Philadelphia,PA,19103,"$765,000",3,2.0,1815.0,871.0,1980,TOWNHOUSE,502700.0,https://www.zillow.com/homedetails/2112-Appletree-St-Philadelphia-PA-19103/10211351_zpid/
+Townhouse for sale,2100 Locust St,Philadelphia,PA,19103,"$2,990,000",5,6.0,5488.0,1598.0,1925,TOWNHOUSE,,https://www.zillow.com/homedetails/2100-Locust-St-Philadelphia-PA-19103/2107134404_zpid/
+Condo for sale,237 S 18th St APT 6B,Philadelphia,PA,19103,"$3,500,000",3,4.0,4000.0,-1.0,1910,CONDO,,https://www.zillow.com/homedetails/237-S-18th-St-APT-6B-Philadelphia-PA-19103/2090889751_zpid/
+Townhouse for sale,2100-2 Locust St,Philadelphia,PA,19103,"$2,990,000",5,6.0,5488.0,1742.0,1925,TOWNHOUSE,1668900.0,https://www.zillow.com/homedetails/2100-2-Locust-St-Philadelphia-PA-19103/10597014_zpid/
+New construction,2108 Walnut St # 301,Philadelphia,PA,19103,"$3,500,000",3,4.0,2816.0,-1.0,2018,CONDO,,https://www.zillow.com/homedetails/2108-Walnut-St-301-Philadelphia-PA-19103/2083704985_zpid/
+Condo for sale,2302 Spruce St APT 3,Philadelphia,PA,19103,"$449,900",2,1.0,856.0,-1.0,1900,CONDO,282400.0,https://www.zillow.com/homedetails/2302-Spruce-St-APT-3-Philadelphia-PA-19103/53611002_zpid/

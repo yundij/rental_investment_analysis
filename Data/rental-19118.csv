@@ -1,0 +1,23 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,8100 Lincoln Dr,Philadelphia,PA,19118,"$5,800/mo",6,5.0,6896.0,1925,40946.0,SINGLE_FAMILY
+Apartment for rent,8306 Crittenden St # C,Philadelphia,PA,19118,"$1,800/mo",2,2.0,1200.0,-1,-1.0,MULTI_FAMILY
+Apartment for rent,16 E Gravers Ln,Philadelphia,PA,19118,"$2,900/mo",3,1.5,1784.0,1921,2178.0,MULTI_FAMILY
+Apartment for rent,50 E Willow Grove Ave APT 3A,Philadelphia,PA,19118,"$1,250/mo",1,1.0,900.0,-1,-1.0,APARTMENT
+Townhouse for rent,7601 Crittenden St APT F1,Philadelphia,PA,19118,"$1,650/mo",3,2.5,1566.0,1970,-1.0,TOWNHOUSE
+Townhouse for rent,205 E Highland Ave,Philadelphia,PA,19118,"$2,700/mo",4,2.0,2080.0,1920,2944.0,TOWNHOUSE
+Apartment for rent,7928 Germantown Ave APT A,Philadelphia,PA,19118,"$1,725/mo",2,2.0,982.0,-1,-1.0,APARTMENT
+Apartment for rent,8116 Germantown Ave # 1,Philadelphia,PA,19118,"$1,075/mo",1,1.0,624.0,-1,-1.0,APARTMENT
+Apartment for rent,8515 Germantown Ave REAR A,Philadelphia,PA,19118,"$2,395/mo",3,2.0,1464.0,-1,-1.0,APARTMENT
+Apartment for rent,8001 Germantown Ave APT 23,Philadelphia,PA,19118,"$1,050/mo",1,1.0,419.0,-1,-1.0,APARTMENT
+Apartment for rent,301 W Willow Grove Ave # 2R,Philadelphia,PA,19118,"$2,295/mo",1,1.0,1248.0,-1,-1.0,APARTMENT
+Townhouse for rent,14 Newton St APT F24,Philadelphia,PA,19118,"$1,750/mo",1,1.5,1150.0,1990,1100.0,TOWNHOUSE
+Apartment for rent,W Springfield Ave,Philadelphia,PA,19118,"$1,900/mo",2,1.0,,1907,-1.0,APARTMENT
+Apartment for rent,110 W Meade St,Philadelphia,PA,19118,"$3,200/mo",3,2.5,1477.0,1925,871.0,MULTI_FAMILY
+Apartment for rent,50 E Willow Grove Ave # 3,Philadelphia,PA,19118,"$1,250/mo",1,1.0,900.0,-1,-1.0,APARTMENT
+Condo for rent,7841 Germantown Ave,Philadelphia,PA,19118,"$2,450/mo",4,2.0,8261.0,1925,6744.0,CONDO
+Apartment for rent,7738 Ardleigh St,Philadelphia,PA,19118,"$2,750/mo",5,3.0,2700.0,1925,4791.0,MULTI_FAMILY
+Townhouse for rent,7735 Devon St,Philadelphia,PA,19118,"$1,700/mo",3,1.0,1800.0,1940,1955.0,TOWNHOUSE
+Apartment for rent,400 E Mermaid Ln,Philadelphia,PA,19118,"$1,350/mo",1,1.0,875.0,-1,-1.0,APARTMENT
+House for rent,47-49 W Highland Ave,Philadelphia,PA,19118,"$1,250/mo",1,1.0,500.0,1925,-1.0,SINGLE_FAMILY
+House for rent,47 W Highland Ave,Philadelphia,PA,19118,"$1,250/mo",1,1.0,500.0,1925,-1.0,SINGLE_FAMILY
+House for rent,730 Thomas Rd,Philadelphia,PA,19118,"$9,500/mo",6,4.5,7573.0,1930,57194.0,SINGLE_FAMILY

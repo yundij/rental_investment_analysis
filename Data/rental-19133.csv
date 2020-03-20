@@ -1,0 +1,31 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,714 W Allegheny Ave,Philadelphia,PA,19133,$650/mo,1,1.0,1224.0,1920,919.0,SINGLE_FAMILY
+Townhouse for rent,2233 N Camac St,Philadelphia,PA,19133,"$2,750/mo",6,2.0,,2011,-1.0,TOWNHOUSE
+Townhouse for rent,2212 N 12th St,Philadelphia,PA,19133,"$2,600/mo",6,2.0,2000.0,1920,1306.0,TOWNHOUSE
+Apartment for rent,2206 N Front St # 3D,Philadelphia,PA,19133,"$1,275/mo",1,1.0,750.0,-1,-1.0,APARTMENT
+Apartment for rent,2213 N Camac St # B,Philadelphia,PA,19133,"$1,500/mo",3,1.0,1100.0,-1,-1.0,APARTMENT
+Townhouse for rent,2219 N 10th St,Philadelphia,PA,19133,"$1,600/mo",5,2.0,1530.0,1925,1455.0,TOWNHOUSE
+Condo for rent,1239 W Allegheny Ave,Philadelphia,PA,19133,"$1,025/mo",2,1.0,2736.0,1930,1856.0,CONDO
+Apartment for rent,2200 N Camac St # 2,Philadelphia,PA,19133,"$2,500/mo",5,2.0,,2012,-1.0,APARTMENT
+Townhouse for rent,2547 N 9th St,Philadelphia,PA,19133,"$1,300/mo",3,2.0,1500.0,1952,871.0,TOWNHOUSE
+House for rent,2823 N 12th St,Philadelphia,PA,19133,"$3,600/mo",5,2.5,2000.0,1925,1418.0,SINGLE_FAMILY
+Apartment for rent,2210 N Camac St,Philadelphia,PA,19133,"$2,100/mo",4,2.0,1600.0,1915,1398.0,APARTMENT
+Townhouse for rent,1234 W Allegheny Ave # 1A-1F,Philadelphia,PA,19133,$700/mo,0,1.0,600.0,1930,-1.0,TOWNHOUSE
+Townhouse for rent,2236 N 5th St,Philadelphia,PA,19133,"$1,800/mo",4,2.5,1816.0,1920,1359.0,TOWNHOUSE
+Townhouse for rent,2727 N 5th St # 1,Philadelphia,PA,19133,$775/mo,1,1.0,1620.0,1920,-1.0,TOWNHOUSE
+Apartment for rent,2510 N 2nd St,Philadelphia,PA,19133,$750+/mo,0,1.0,,1915,-1.0,APARTMENT
+House for rent,2239 N 10th St,Philadelphia,PA,19133,"$2,500/mo",4,2.0,1209.0,1925,1681.0,SINGLE_FAMILY
+Apartment for rent,2510 N 5th St APT 2,Philadelphia,PA,19133,"$1,000/mo",3,1.0,,-1,-1.0,APARTMENT
+House for rent,1103 W Silver St,Philadelphia,PA,19133,"$1,250/mo",3,1.0,1600.0,1920,1263.0,SINGLE_FAMILY
+House for rent,651 W Mayfield St,Philadelphia,PA,19133,"$1,300/mo",3,1.0,980.0,1920,700.0,SINGLE_FAMILY
+House for rent,2413 N Waterloo St,Philadelphia,PA,19133,"$1,500/mo",4,1.0,1450.0,1920,663.0,SINGLE_FAMILY
+Apartment for rent,2238 N 12th St # 2,Philadelphia,PA,19133,$900/mo,2,1.0,1500.0,1920,-1.0,APARTMENT
+Apartment for rent,2405 N Waterloo St # 1,Philadelphia,PA,19133,"$1,100/mo",2,1.5,886.0,-1,-1.0,APARTMENT
+House for rent,2553 N 12th St,Philadelphia,PA,19133,"$1,450/mo",4,1.0,1650.0,1915,1022.0,SINGLE_FAMILY
+Townhouse for rent,911 W Boston Ave,Philadelphia,PA,19133,"$1,200/mo",2,1.0,1200.0,1915,871.0,TOWNHOUSE
+Townhouse for rent,917 W Boston Ave,Philadelphia,PA,19133,"$1,100/mo",3,1.0,1357.0,1920,953.0,TOWNHOUSE
+House for rent,2408 Germantown Ave,Philadelphia,PA,19133,"$1,000/mo",2,1.0,2736.0,1915,1908.0,SINGLE_FAMILY
+Apartment for rent,1103 W Lehigh Ave # 7-1101-3,Philadelphia,PA,19133,$950/mo,2,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,1231 W Allegheny Ave # 3,Philadelphia,PA,19133,"$1,050/mo",3,1.0,900.0,-1,-1.0,APARTMENT
+Apartment for rent,2512 N 2nd St,Philadelphia,PA,19133,$950+/mo,2,1.5,,1915,-1.0,APARTMENT
+House for rent,2341 N Camac St,Philadelphia,PA,19133,"$1,550/mo",3,1.5,1500.0,1925,672.0,SINGLE_FAMILY

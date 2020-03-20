@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Foreclosure,2938 Arlan Ave,Philadelphia,PA,19136,"$195,000",4,2.0,1479.0,4756.0,1962,MULTI_FAMILY,196300.0,https://www.zillow.com/homedetails/2938-Arlan-Ave-Philadelphia-PA-19136/10523215_zpid/
+Apartment for sale,8041 Crispin St,Philadelphia,PA,19136,"$209,900",3,3.0,1188.0,1916.0,1955,MULTI_FAMILY,172000.0,https://www.zillow.com/homedetails/8041-Crispin-St-Philadelphia-PA-19136/10568858_zpid/
+Townhouse for sale,4313 Oakmont St,Philadelphia,PA,19136,"$139,900",3,1.0,1116.0,1136.0,1950,TOWNHOUSE,118300.0,https://www.zillow.com/homedetails/4313-Oakmont-St-Philadelphia-PA-19136/10572067_zpid/
+Townhouse for sale,4710 Lansing St,Philadelphia,PA,19136,"$155,000",3,1.0,1046.0,1141.0,1953,TOWNHOUSE,91300.0,https://www.zillow.com/homedetails/4710-Lansing-St-Philadelphia-PA-19136/10572937_zpid/
+Townhouse for sale,4724 Shelmire Ave,Philadelphia,PA,19136,"$169,900",3,2.0,1290.0,971.0,1953,TOWNHOUSE,101600.0,https://www.zillow.com/homedetails/4724-Shelmire-Ave-Philadelphia-PA-19136/10571726_zpid/
+Townhouse for sale,4608 Hartel Ave,Philadelphia,PA,19136,"$139,900",3,1.0,1024.0,1459.0,1945,TOWNHOUSE,110800.0,https://www.zillow.com/homedetails/4608-Hartel-Ave-Philadelphia-PA-19136/10573062_zpid/
+Townhouse for sale,3609 Meridian St,Philadelphia,PA,19136,"$224,900",3,2.0,1408.0,1533.0,1950,TOWNHOUSE,160500.0,https://www.zillow.com/homedetails/3609-Meridian-St-Philadelphia-PA-19136/10570677_zpid/
+Apartment for sale,8213 Winthrop St,Philadelphia,PA,19136,"$289,900",4,3.0,1722.0,3785.0,1957,MULTI_FAMILY,228400.0,https://www.zillow.com/homedetails/8213-Winthrop-St-Philadelphia-PA-19136/10525014_zpid/
+Townhouse for sale,4717 Loring St,Philadelphia,PA,19136,"$139,900",3,2.0,1260.0,901.0,1953,TOWNHOUSE,99500.0,https://www.zillow.com/homedetails/4717-Loring-St-Philadelphia-PA-19136/10571631_zpid/
+Condo for sale,8030 Ditman St APT 66,Philadelphia,PA,19136,"$99,999",2,2.0,828.0,-1.0,1960,CONDO,,https://www.zillow.com/homedetails/8030-Ditman-St-APT-66-Philadelphia-PA-19136/2099770140_zpid/
+Townhouse for sale,8416 Jackson St,Philadelphia,PA,19136,"$139,900",3,1.0,1152.0,1768.0,1960,TOWNHOUSE,135800.0,https://www.zillow.com/homedetails/8416-Jackson-St-Philadelphia-PA-19136/10575730_zpid/
+Townhouse for sale,8107 Terry St,Philadelphia,PA,19136,"$137,500",2,1.0,914.0,1302.0,1950,TOWNHOUSE,120300.0,https://www.zillow.com/homedetails/8107-Terry-St-Philadelphia-PA-19136/10568961_zpid/
+Apartment for sale,8008 Crispin St APT D,Philadelphia,PA,19136,"$229,000",2,3.0,1121.0,2613.0,1955,MULTI_FAMILY,163700.0,https://www.zillow.com/homedetails/8008-Crispin-St-APT-D-Philadelphia-PA-19136/10568815_zpid/
+Townhouse for sale,4723 Marple St,Philadelphia,PA,19136,"$105,000",3,1.0,1240.0,1219.0,1953,TOWNHOUSE,101700.0,https://www.zillow.com/homedetails/4723-Marple-St-Philadelphia-PA-19136/10572441_zpid/
+Townhouse for sale,3539 Rhawn St,Philadelphia,PA,19136,"$129,900",2,1.0,928.0,1515.0,1961,TOWNHOUSE,128000.0,https://www.zillow.com/homedetails/3539-Rhawn-St-Philadelphia-PA-19136/10571241_zpid/
+House for sale,8807 Frankford Ave,Philadelphia,PA,19136,"$249,900",3,1.0,1336.0,6930.0,1954,SINGLE_FAMILY,149200.0,https://www.zillow.com/homedetails/8807-Frankford-Ave-Philadelphia-PA-19136/80947386_zpid/
+Townhouse for sale,4618 Pennypack St,Philadelphia,PA,19136,"$214,900",3,2.0,1296.0,2408.0,1962,TOWNHOUSE,145300.0,https://www.zillow.com/homedetails/4618-Pennypack-St-Philadelphia-PA-19136/10574558_zpid/
+Townhouse for sale,4407 Loring St,Philadelphia,PA,19136,"$144,900",3,1.0,1078.0,871.0,1950,TOWNHOUSE,101700.0,https://www.zillow.com/homedetails/4407-Loring-St-Philadelphia-PA-19136/10419562_zpid/
+New construction,2752 Willits Rd,Philadelphia,PA,19136,"$499,900",5,4.0,3335.0,22668.0,2019,SINGLE_FAMILY,229200.0,https://www.zillow.com/homedetails/2752-Willits-Rd-Philadelphia-PA-19136/58545841_zpid/
+Apartment for sale,3318 Rhawn St,Philadelphia,PA,19136,"$260,000",4,2.0,3400.0,5248.0,1949,MULTI_FAMILY,196800.0,https://www.zillow.com/homedetails/3318-Rhawn-St-Philadelphia-PA-19136/10571194_zpid/
+Townhouse for sale,3515 Sheffield Ave,Philadelphia,PA,19136,"$209,000",3,2.0,1432.0,1598.0,1953,TOWNHOUSE,159000.0,https://www.zillow.com/homedetails/3515-Sheffield-Ave-Philadelphia-PA-19136/10570526_zpid/
+Apartment for sale,4216 Welsh Rd,Philadelphia,PA,19136,"$256,000",3,2.0,1200.0,4800.0,1945,MULTI_FAMILY,54100.0,https://www.zillow.com/homedetails/4216-Welsh-Rd-Philadelphia-PA-19136/10574040_zpid/
+House for sale,8029 Rowland Ave,Philadelphia,PA,19136,"$254,900",3,2.0,1846.0,3550.0,1957,SINGLE_FAMILY,,https://www.zillow.com/homedetails/8029-Rowland-Ave-Philadelphia-PA-19136/2081076266_zpid/
+Condo for sale,8030 Ditman St APT 79,Philadelphia,PA,19136,"$75,000",1,1.0,650.0,-1.0,1960,CONDO,,https://www.zillow.com/homedetails/8030-Ditman-St-APT-79-Philadelphia-PA-19136/2091179158_zpid/
+Townhouse for sale,3512 Shelmire Ave,Philadelphia,PA,19136,"$179,999",3,2.0,1416.0,1589.0,1950,TOWNHOUSE,158700.0,https://www.zillow.com/homedetails/3512-Shelmire-Ave-Philadelphia-PA-19136/10570038_zpid/
+Townhouse for sale,4136 Rhawn St,Philadelphia,PA,19136,"$159,000",3,,1184.0,1646.0,1910,TOWNHOUSE,157300.0,https://www.zillow.com/homedetails/4136-Rhawn-St-Philadelphia-PA-19136/10573389_zpid/
+Apartment for sale,2736 Maxwell St,Philadelphia,PA,19136,"$227,000",3,2.0,1152.0,2182.0,1956,MULTI_FAMILY,176400.0,https://www.zillow.com/homedetails/2736-Maxwell-St-Philadelphia-PA-19136/10521116_zpid/
+Townhouse for sale,3416 Aldine St,Philadelphia,PA,19136,"$200,000",3,2.0,1448.0,1616.0,1925,TOWNHOUSE,159600.0,https://www.zillow.com/homedetails/3416-Aldine-St-Philadelphia-PA-19136/10569487_zpid/
+Townhouse for sale,7529 Torresdale Ave,Philadelphia,PA,19136,"$189,000",3,2.0,1426.0,1420.0,1953,TOWNHOUSE,107400.0,https://www.zillow.com/homedetails/7529-Torresdale-Ave-Philadelphia-PA-19136/10573659_zpid/
+Apartment for sale,3513 Welsh Rd,Philadelphia,PA,19136,"$179,900",0,,1755.0,2687.0,1945,MULTI_FAMILY,188000.0,https://www.zillow.com/homedetails/3513-Welsh-Rd-Philadelphia-PA-19136/10571323_zpid/
+New construction,2744 Willits Rd,Philadelphia,PA,19136,"$499,900",5,4.0,3335.0,7949.0,2019,SINGLE_FAMILY,,https://www.zillow.com/homedetails/2744-Willits-Rd-Philadelphia-PA-19136/2082892021_zpid/
+Townhouse for sale,3301 Tudor St,Philadelphia,PA,19136,"$189,500",3,1.0,1188.0,2779.0,1950,TOWNHOUSE,161700.0,https://www.zillow.com/homedetails/3301-Tudor-St-Philadelphia-PA-19136/10569663_zpid/
+Auction,3100 Welsh Rd,Philadelphia,PA,19136,,,,1912.0,6098.0,1949,SINGLE_FAMILY,239500.0,https://www.zillow.com/homedetails/3100-Welsh-Rd-Philadelphia-PA-19136/10520290_zpid/
+Townhouse for sale,3418 Solly Ave,Philadelphia,PA,19136,"$284,900",3,2.0,1824.0,1755.0,1955,TOWNHOUSE,143700.0,https://www.zillow.com/homedetails/3418-Solly-Ave-Philadelphia-PA-19136/10571468_zpid/
+Apartment for sale,7710 Jackson St,Philadelphia,PA,19136,"$229,900",3,2.0,2632.0,4146.0,1950,MULTI_FAMILY,172900.0,https://www.zillow.com/homedetails/7710-Jackson-St-Philadelphia-PA-19136/10573512_zpid/
+Townhouse for sale,4757 Oakmont St,Philadelphia,PA,19136,"$120,000",3,1.0,1214.0,962.0,1950,TOWNHOUSE,94500.0,https://www.zillow.com/homedetails/4757-Oakmont-St-Philadelphia-PA-19136/10572167_zpid/
+House for sale,4400 Decatur St,Philadelphia,PA,19136,"$585,000",6,3.0,3486.0,10179.0,1960,SINGLE_FAMILY,241100.0,https://www.zillow.com/homedetails/4400-Decatur-St-Philadelphia-PA-19136/124249010_zpid/
+Townhouse for sale,3438 Ashville St,Philadelphia,PA,19136,"$258,500",3,2.0,1088.0,3524.0,1992,TOWNHOUSE,162100.0,https://www.zillow.com/homedetails/3438-Ashville-St-Philadelphia-PA-19136/10570977_zpid/
+Townhouse for sale,4616 Vista St,Philadelphia,PA,19136,"$149,900",3,1.0,1260.0,901.0,1950,TOWNHOUSE,107900.0,https://www.zillow.com/homedetails/4616-Vista-St-Philadelphia-PA-19136/10419728_zpid/
+Townhouse for sale,4241 Mill St,Philadelphia,PA,19136,"$149,500",3,1.0,986.0,1289.0,1945,TOWNHOUSE,79000.0,https://www.zillow.com/homedetails/4241-Mill-St-Philadelphia-PA-19136/10574067_zpid/

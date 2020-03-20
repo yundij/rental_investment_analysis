@@ -1,0 +1,33 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Townhouse for rent,721 E Thompson St,Philadelphia,PA,19125,"$3,250/mo",3,2.0,2200.0,1925,904.0,TOWNHOUSE
+House for rent,2435 Coral St,Philadelphia,PA,19125,"$3,000/mo",3,2.5,2200.0,2014,1080.0,SINGLE_FAMILY
+House for rent,1640 E Hewson St,Philadelphia,PA,19125,"$1,550/mo",2,1.0,800.0,1920,624.0,SINGLE_FAMILY
+Townhouse for rent,2210 E York St APT 1F,Philadelphia,PA,19125,$975/mo,1,1.0,2700.0,-1,-1.0,TOWNHOUSE
+Apartment for rent,2645 E Lehigh Ave # 1,Philadelphia,PA,19125,$900/mo,0,,300.0,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,2337 E Albert St,Philadelphia,PA,19125,"$1,500/mo",3,1.0,1006.0,1925,871.0,TOWNHOUSE
+Apartment for rent,2120 E York St,Philadelphia,PA,19125,"$1,460+/mo",1,1.0,,-1,-1.0,APARTMENT
+House for rent,Tulip St,Philadelphia,PA,19125,"$1,800/mo",2,1.5,1000.0,-1,-1.0,SINGLE_FAMILY
+Townhouse for rent,2103 E Susquehanna Ave,Philadelphia,PA,19125,"$2,500/mo",3,2.0,2126.0,2010,1365.0,TOWNHOUSE
+Apartment for rent,1304 E Columbia Ave # 2,Philadelphia,PA,19125,"$1,299/mo",1,1.0,2663.0,-1,-1.0,APARTMENT
+Townhouse for rent,530 E Thompson St,Philadelphia,PA,19125,"$2,500/mo",3,2.5,1416.0,1920,683.0,TOWNHOUSE
+Townhouse for rent,E Dauphin St,Philadelphia,PA,19125,"$2,100/mo",3,3.0,1440.0,-1,-1.0,TOWNHOUSE
+Apartment for rent,958 Shackamaxon St # 1R,Philadelphia,PA,19125,"$2,200/mo",2,2.0,1200.0,-1,-1.0,APARTMENT
+Apartment for rent,E Columbia Ave,Philadelphia,PA,19125,"$1,700/mo",1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,214 E Thompson St,Philadelphia,PA,19125,"$3,000/mo",4,3.0,2200.0,1918,1258.0,TOWNHOUSE
+Townhouse for rent,1942 E Oakdale St,Philadelphia,PA,19125,"$1,350/mo",2,1.0,672.0,1920,435.0,TOWNHOUSE
+House for rent,2506 E Dauphin St,Philadelphia,PA,19125,"$2,150/mo",3,1.5,1117.0,1933,1206.0,SINGLE_FAMILY
+Townhouse for rent,1247 E Columbia Ave # 15,Philadelphia,PA,19125,"$1,745/mo",1,1.0,710.0,2014,-1.0,TOWNHOUSE
+House for rent,2616 Tulip St,Philadelphia,PA,19125,"$1,300/mo",2,1.0,1000.0,1875,770.0,SINGLE_FAMILY
+House for rent,2573 Memphis St,Philadelphia,PA,19125,"$1,500/mo",2,1.0,1010.0,1917,825.0,SINGLE_FAMILY
+Apartment for rent,331 E Girard Ave UNIT 1,Philadelphia,PA,19125,"$1,550/mo",1,1.0,685.0,-1,-1.0,APARTMENT
+House for rent,2546 Jasper St,Philadelphia,PA,19125,"$1,500/mo",2,1.0,1000.0,1876,849.0,SINGLE_FAMILY
+Townhouse for rent,E Hewson St,Philadelphia,PA,19125,"$1,460/mo",2,1.0,1056.0,-1,-1.0,TOWNHOUSE
+Townhouse for rent,2230 Coral St,Philadelphia,PA,19125,"$2,150/mo",2,2.0,1100.0,1917,670.0,TOWNHOUSE
+House for rent,1333 E Palmer St,Philadelphia,PA,19125,"$2,200/mo",2,1.0,1502.0,1920,1726.0,SINGLE_FAMILY
+Townhouse for rent,113 Richmond St,Philadelphia,PA,19125,"$1,600/mo",2,1.0,832.0,1919,583.0,TOWNHOUSE
+Townhouse for rent,2635 Mercer St,Philadelphia,PA,19125,"$1,350/mo",2,1.0,652.0,1989,823.0,TOWNHOUSE
+Townhouse for rent,1425 Frankford Ave UNIT B,Philadelphia,PA,19125,"$1,700/mo",1,1.0,660.0,2019,-1.0,TOWNHOUSE
+House for rent,2233 Memphis St,Philadelphia,PA,19125,"$1,759/mo",2,1.0,675.0,1936,631.0,SINGLE_FAMILY
+Townhouse for rent,1314 E Oxford St,Philadelphia,PA,19125,"$2,100/mo",3,1.5,1095.0,1925,1058.0,TOWNHOUSE
+House for rent,2437 Tulip St,Philadelphia,PA,19125,"$1,450/mo",2,1.0,924.0,1875,756.0,SINGLE_FAMILY
+House for rent,2035 Frankford Ave,Philadelphia,PA,19125,"$1,900/mo",2,1.0,,-1,-1.0,SINGLE_FAMILY

@@ -1,0 +1,6 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Off market,123-51 S Broad St # 2,Philadelphia,PA,19109,,,,760200.0,57500.0,1927,SINGLE_FAMILY,,https://www.zillow.com/homedetails/123-51-S-Broad-St-2-Philadelphia-PA-19109/165458034_zpid/
+Off market,123 S Broad St # 4,Philadelphia,PA,19109,,0,,310659.0,57500.0,1927,SINGLE_FAMILY,,https://www.zillow.com/homedetails/123-S-Broad-St-4-Philadelphia-PA-19109/276568209_zpid/
+Off market,123 S Broad St # 2,Philadelphia,PA,19109,,0,,310659.0,57500.0,1927,SINGLE_FAMILY,,https://www.zillow.com/homedetails/123-S-Broad-St-2-Philadelphia-PA-19109/276567394_zpid/
+Off market,123 S Broad St STE 2080,Philadelphia,PA,19109,,,,,-1.0,-1,SINGLE_FAMILY,,https://www.zillow.com/homedetails/123-S-Broad-St-STE-2080-Philadelphia-PA-19109/2128179942_zpid/
+Off market,123 S Broad St FLOOR 3,Philadelphia,PA,19109,,0,,310659.0,57500.0,1927,SINGLE_FAMILY,,https://www.zillow.com/homedetails/123-S-Broad-St-FLOOR-3-Philadelphia-PA-19109/276567960_zpid/

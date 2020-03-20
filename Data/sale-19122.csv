@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,1310 N Hope St UNIT 19,Philadelphia,PA,19122,"$599,000",3,4.0,2011.0,649.0,2015,TOWNHOUSE,,https://www.zillow.com/homedetails/1310-N-Hope-St-UNIT-19-Philadelphia-PA-19122/2080451152_zpid/
+Apartment for sale,1419 N 7th St APT 2,Philadelphia,PA,19122,"$285,000",2,1.0,932.0,1494.0,2017,APARTMENT,,https://www.zillow.com/homedetails/1419-N-7th-St-APT-2-Philadelphia-PA-19122/2081538705_zpid/
+Townhouse for sale,1207 N Leithgow St,Philadelphia,PA,19122,"$300,000",4,2.0,1530.0,675.0,1915,TOWNHOUSE,191300.0,https://www.zillow.com/homedetails/1207-N-Leithgow-St-Philadelphia-PA-19122/10259488_zpid/
+Townhouse for sale,1426 N Hope St,Philadelphia,PA,19122,"$335,000",3,2.0,1530.0,740.0,1920,TOWNHOUSE,372000.0,https://www.zillow.com/homedetails/1426-N-Hope-St-Philadelphia-PA-19122/10258963_zpid/
+New construction,1232 N Front St # 3C,Philadelphia,PA,19122,"$409,900",2,2.0,1304.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/1232-N-Front-St-3C-Philadelphia-PA-19122/2080531915_zpid/
+Townhouse for sale,1345 N Mascher St,Philadelphia,PA,19122,"$407,500",2,3.0,1584.0,548.0,1920,TOWNHOUSE,353600.0,https://www.zillow.com/homedetails/1345-N-Mascher-St-Philadelphia-PA-19122/10597018_zpid/
+New construction,502 W Montgomery Ave # 1,Philadelphia,PA,19122,"$240,000",2,2.0,1294.0,6242.0,2020,APARTMENT,,https://www.zillow.com/homedetails/502-W-Montgomery-Ave-1-Philadelphia-PA-19122/2081388992_zpid/
+New construction,1335 N 7th St # A,Philadelphia,PA,19122,"$389,900",3,4.0,2000.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/1335-N-7th-St-A-Philadelphia-PA-19122/2083150011_zpid/
+Townhouse for sale,443 W Thompson St,Philadelphia,PA,19122,"$499,000",3,3.0,2290.0,749.0,2016,TOWNHOUSE,390000.0,https://www.zillow.com/homedetails/443-W-Thompson-St-Philadelphia-PA-19122/246160574_zpid/
+New construction,1232 N Front St # 3A,Philadelphia,PA,19122,"$399,900",2,2.0,1179.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/1232-N-Front-St-3A-Philadelphia-PA-19122/2080532001_zpid/
+New construction,1241 N Leithgow St,Philadelphia,PA,19122,"$565,000",3,3.0,2280.0,435.0,2020,TOWNHOUSE,,https://www.zillow.com/homedetails/1241-N-Leithgow-St-Philadelphia-PA-19122/2090648753_zpid/
+Condo for sale,1308 N Hope St # B,Philadelphia,PA,19122,"$380,000",2,1.0,1134.0,-1.0,2015,CONDO,,https://www.zillow.com/homedetails/1308-N-Hope-St-B-Philadelphia-PA-19122/2092420097_zpid/
+Townhouse for sale,170 170 172 W Palmer St,Philadelphia,PA,19122,"$255,000",3,1.0,1110.0,487.0,1915,TOWNHOUSE,,https://www.zillow.com/homedetails/170-170-172-W-Palmer-St-Philadelphia-PA-19122/2082068148_zpid/
+Townhouse for sale,1038 W Oxford St,Philadelphia,PA,19122,"$265,000",3,2.0,1387.0,1306.0,1920,TOWNHOUSE,317100.0,https://www.zillow.com/homedetails/1038-W-Oxford-St-Philadelphia-PA-19122/10265603_zpid/
+Townhouse for sale,1348 N Mascher St,Philadelphia,PA,19122,"$649,000",3,3.0,2828.0,1202.0,2015,TOWNHOUSE,,https://www.zillow.com/homedetails/1348-N-Mascher-St-Philadelphia-PA-19122/2080577340_zpid/
+Townhouse for sale,1342 N 5th St,Philadelphia,PA,19122,"$569,999",4,4.0,2800.0,919.0,2019,TOWNHOUSE,49500.0,https://www.zillow.com/homedetails/1342-N-5th-St-Philadelphia-PA-19122/10259628_zpid/
+Townhouse for sale,1409 N 7th St,Philadelphia,PA,19122,"$279,900",5,2.0,2395.0,2000.0,1915,TOWNHOUSE,107300.0,https://www.zillow.com/homedetails/1409-N-7th-St-Philadelphia-PA-19122/10265894_zpid/
+Townhouse for sale,1937 N Darien St,Philadelphia,PA,19122,"$180,000",5,2.0,900.0,553.0,1920,TOWNHOUSE,64500.0,https://www.zillow.com/homedetails/1937-N-Darien-St-Philadelphia-PA-19122/10266076_zpid/
+Condo for sale,1518 N Mascher St # 2,Philadelphia,PA,19122,"$489,000",3,3.0,1494.0,-1.0,2018,CONDO,,https://www.zillow.com/homedetails/1518-N-Mascher-St-2-Philadelphia-PA-19122/2080965789_zpid/
+Townhouse for sale,2107 N Franklin St,Philadelphia,PA,19122,"$125,000",4,2.0,1550.0,919.0,1960,TOWNHOUSE,79800.0,https://www.zillow.com/homedetails/2107-N-Franklin-St-Philadelphia-PA-19122/10265950_zpid/
+Townhouse for sale,1326 N Mascher St UNIT L,Philadelphia,PA,19122,"$650,000",3,3.0,2400.0,840.0,2017,TOWNHOUSE,,https://www.zillow.com/homedetails/1326-N-Mascher-St-UNIT-L-Philadelphia-PA-19122/2080612893_zpid/
+Townhouse for sale,407 W Jefferson St,Philadelphia,PA,19122,"$369,990",3,3.0,1239.0,688.0,1920,TOWNHOUSE,125000.0,https://www.zillow.com/homedetails/407-W-Jefferson-St-Philadelphia-PA-19122/10259778_zpid/
+Condo for sale,1309 N Lawrence St # 6,Philadelphia,PA,19122,"$349,900",1,2.0,1568.0,-1.0,1900,CONDO,,https://www.zillow.com/homedetails/1309-N-Lawrence-St-6-Philadelphia-PA-19122/2128909753_zpid/
+Townhouse for sale,1236 N Howard St,Philadelphia,PA,19122,"$335,000",3,2.0,1116.0,831.0,1920,TOWNHOUSE,148000.0,https://www.zillow.com/homedetails/1236-N-Howard-St-Philadelphia-PA-19122/10259003_zpid/
+Condo for sale,1203 N 3rd St # 104,Philadelphia,PA,19122,"$420,000",2,2.0,1481.0,21780.0,2003,CONDO,,https://www.zillow.com/homedetails/1203-N-3rd-St-104-Philadelphia-PA-19122/2141118796_zpid/
+Condo for sale,1535 N Philip St UNIT 15,Philadelphia,PA,19122,"$295,000",3,2.0,1353.0,-1.0,2013,CONDO,,https://www.zillow.com/homedetails/1535-N-Philip-St-UNIT-15-Philadelphia-PA-19122/2083514651_zpid/
+Townhouse for sale,738 W Master St,Philadelphia,PA,19122,"$310,000",4,3.0,1776.0,879.0,1920,TOWNHOUSE,163700.0,https://www.zillow.com/homedetails/738-W-Master-St-Philadelphia-PA-19122/10241223_zpid/
+Townhouse for sale,1533 N Mascher St,Philadelphia,PA,19122,"$615,000",3,3.0,2400.0,901.0,2017,TOWNHOUSE,,https://www.zillow.com/homedetails/1533-N-Mascher-St-Philadelphia-PA-19122/2091171259_zpid/
+New construction,1438 N Cadwallader St # 1A,Philadelphia,PA,19122,"$360,000",2,3.0,1335.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/1438-N-Cadwallader-St-1A-Philadelphia-PA-19122/2081590271_zpid/
+New construction,1417 N 8th St # 2,Philadelphia,PA,19122,"$255,000",2,1.0,,-1.0,2020,CONDO,,https://www.zillow.com/homedetails/1417-N-8th-St-2-Philadelphia-PA-19122/2080979781_zpid/
+New construction,1947 N 4th St # 1,Philadelphia,PA,19122,"$269,000",3,2.0,1550.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/1947-N-4th-St-1-Philadelphia-PA-19122/2082875054_zpid/
+Townhouse for sale,422 W Jefferson St,Philadelphia,PA,19122,"$249,000",3,1.0,1200.0,601.0,1920,TOWNHOUSE,173200.0,https://www.zillow.com/homedetails/422-W-Jefferson-St-Philadelphia-PA-19122/10259773_zpid/
+For sale by owner,2137 N 8th St,Philadelphia,PA,19122,"$275,000",4,4.0,1788.0,1062.0,1915,CONDO,97100.0,https://www.zillow.com/homedetails/2137-N-8th-St-Philadelphia-PA-19122/10266045_zpid/
+New construction,1433 N Orkney St,Philadelphia,PA,19122,"$485,000",3,4.0,2500.0,757.0,2019,TOWNHOUSE,35100.0,https://www.zillow.com/homedetails/1433-N-Orkney-St-Philadelphia-PA-19122/118371012_zpid/
+Townhouse for sale,1805 Waterloo St,Philadelphia,PA,19122,"$185,900",2,1.0,830.0,435.0,1915,TOWNHOUSE,100700.0,https://www.zillow.com/homedetails/1805-Waterloo-St-Philadelphia-PA-19122/10260026_zpid/
+New construction,2106 N 5th St,Philadelphia,PA,19122,"$369,000",3,3.0,4200.0,836.0,2019,SINGLE_FAMILY,8900.0,https://www.zillow.com/homedetails/2106-N-5th-St-Philadelphia-PA-19122/118365801_zpid/
+New construction,413 W Hewson St # A,Philadelphia,PA,19122,"$289,000",3,3.0,1830.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/413-W-Hewson-St-A-Philadelphia-PA-19122/2084358837_zpid/
+New construction,2137 N Darien St,Philadelphia,PA,19122,"$325,000",4,3.0,1000.0,566.0,2020,TOWNHOUSE,11300.0,https://www.zillow.com/homedetails/2137-N-Darien-St-Philadelphia-PA-19122/10266086_zpid/
+New construction,1429 Germantown Ave UNIT 4-A,Philadelphia,PA,19122,"$265,000",1,1.0,821.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/1429-Germantown-Ave-UNIT-4-A-Philadelphia-PA-19122/2083279239_zpid/
+Apartment for sale,714 W Berks St,Philadelphia,PA,19122,"$329,900",3,2.0,2162.0,2879.0,2007,MULTI_FAMILY,157300.0,https://www.zillow.com/homedetails/714-W-Berks-St-Philadelphia-PA-19122/87766971_zpid/

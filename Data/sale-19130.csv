@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Townhouse for sale,1717 Wallace St,Philadelphia,PA,19130,"$1,275,000",6,5.0,4209.0,3598.0,1920,TOWNHOUSE,736600.0,https://www.zillow.com/homedetails/1717-Wallace-St-Philadelphia-PA-19130/10243691_zpid/
+Townhouse for sale,2231 Green St APT 1,Philadelphia,PA,19130,"$365,000",2,2.0,1212.0,1212.0,1900,TOWNHOUSE,244500.0,https://www.zillow.com/homedetails/2231-Green-St-APT-1-Philadelphia-PA-19130/10605691_zpid/
+Condo for sale,829 N 29th St APT 1,Philadelphia,PA,19130,"$389,000",1,2.0,1260.0,6243.0,1900,CONDO,259100.0,https://www.zillow.com/homedetails/829-N-29th-St-APT-1-Philadelphia-PA-19130/71245766_zpid/
+Townhouse for sale,869 N 30th St,Philadelphia,PA,19130,"$475,000",3,3.0,1550.0,884.0,1920,TOWNHOUSE,394800.0,https://www.zillow.com/homedetails/869-N-30th-St-Philadelphia-PA-19130/10243194_zpid/
+Townhouse for sale,2440 Aspen St,Philadelphia,PA,19130,"$615,000",3,3.0,2296.0,988.0,1923,TOWNHOUSE,506200.0,https://www.zillow.com/homedetails/2440-Aspen-St-Philadelphia-PA-19130/10244214_zpid/
+Townhouse for sale,939 N 26th St,Philadelphia,PA,19130,"$449,000",3,2.0,1290.0,871.0,1925,TOWNHOUSE,345900.0,https://www.zillow.com/homedetails/939-N-26th-St-Philadelphia-PA-19130/10316308_zpid/
+House for sale,1726 Green St # 4,Philadelphia,PA,19130,"$375,000",2,1.0,950.0,-1.0,1900,SINGLE_FAMILY,260000.0,https://www.zillow.com/homedetails/1726-Green-St-4-Philadelphia-PA-19130/10604594_zpid/
+Townhouse for sale,1613 North St,Philadelphia,PA,19130,"$1,150,000",4,4.0,2583.0,1132.0,2002,TOWNHOUSE,649500.0,https://www.zillow.com/homedetails/1613-North-St-Philadelphia-PA-19130/62675404_zpid/
+Townhouse for sale,1514 Mount Vernon St # 101,Philadelphia,PA,19130,"$254,900",2,1.0,800.0,801.0,1900,TOWNHOUSE,210700.0,https://www.zillow.com/homedetails/1514-Mount-Vernon-St-101-Philadelphia-PA-19130/87766118_zpid/
+Townhouse for sale,1702 Wallace St # 2,Philadelphia,PA,19130,"$250,000",2,1.0,731.0,871.0,1920,TOWNHOUSE,215200.0,https://www.zillow.com/homedetails/1702-Wallace-St-2-Philadelphia-PA-19130/87762996_zpid/
+Townhouse for sale,873 N Pennock St,Philadelphia,PA,19130,"$424,900",3,1.0,1104.0,1014.0,1935,TOWNHOUSE,361700.0,https://www.zillow.com/homedetails/873-N-Pennock-St-Philadelphia-PA-19130/10243053_zpid/
+Condo for sale,2401 Pennsylvania Ave APT 5B36,Philadelphia,PA,19130,"$299,900",1,1.0,1397.0,1397.0,1960,CONDO,274800.0,https://www.zillow.com/homedetails/2401-Pennsylvania-Ave-APT-5B36-Philadelphia-PA-19130/10604825_zpid/
+For sale by owner,2225 Wallace St,Philadelphia,PA,19130,"$779,000",3,2.0,2345.0,1226.0,1900,SINGLE_FAMILY,671700.0,https://www.zillow.com/homedetails/2225-Wallace-St-Philadelphia-PA-19130/10243716_zpid/
+New construction,754 N 26th St,Philadelphia,PA,19130,"$1,500,000",4,3.0,3000.0,1028.0,1920,TOWNHOUSE,497400.0,https://www.zillow.com/homedetails/754-N-26th-St-Philadelphia-PA-19130/10242811_zpid/
+Townhouse for sale,2213 Mount Vernon St,Philadelphia,PA,19130,"$1,039,000",5,3.0,3444.0,1537.0,1920,TOWNHOUSE,850000.0,https://www.zillow.com/homedetails/2213-Mount-Vernon-St-Philadelphia-PA-19130/10243636_zpid/
+Condo for sale,1938 Green St # 2,Philadelphia,PA,19130,"$399,000",2,2.0,931.0,1742.0,1920,CONDO,,https://www.zillow.com/homedetails/1938-Green-St-2-Philadelphia-PA-19130/2105172091_zpid/
+New construction,2100 Hamilton St # 4A,Philadelphia,PA,19130,"$2,647,925",3,4.0,2125.0,-1.0,-1,CONDO,,https://www.zillow.com/homedetails/2100-Hamilton-St-4A-Philadelphia-PA-19130/2081043357_zpid/
+Townhouse for sale,882 N 26th St,Philadelphia,PA,19130,"$435,000",3,3.0,1799.0,919.0,1915,TOWNHOUSE,438900.0,https://www.zillow.com/homedetails/882-N-26th-St-Philadelphia-PA-19130/10242844_zpid/
+Townhouse for sale,2003 Brandywine St,Philadelphia,PA,19130,"$549,000",4,2.0,1914.0,858.0,1920,TOWNHOUSE,579900.0,https://www.zillow.com/homedetails/2003-Brandywine-St-Philadelphia-PA-19130/10243451_zpid/
+Condo for sale,1601 Spring Garden St APT 514,Philadelphia,PA,19130,"$190,000",1,1.0,790.0,790.0,1817,CONDO,156500.0,https://www.zillow.com/homedetails/1601-Spring-Garden-St-APT-514-Philadelphia-PA-19130/10604201_zpid/
+Condo for sale,1722 Mount Vernon St APT 4,Philadelphia,PA,19130,"$425,000",2,2.0,1157.0,-1.0,1847,CONDO,,https://www.zillow.com/homedetails/1722-Mount-Vernon-St-APT-4-Philadelphia-PA-19130/2081002554_zpid/
+Townhouse for sale,763 N 25th St,Philadelphia,PA,19130,"$399,999",3,2.0,1230.0,823.0,1920,TOWNHOUSE,408300.0,https://www.zillow.com/homedetails/763-N-25th-St-Philadelphia-PA-19130/10242530_zpid/
+Townhouse for sale,744 N 22nd St,Philadelphia,PA,19130,"$659,900",3,4.0,2200.0,871.0,1920,TOWNHOUSE,526400.0,https://www.zillow.com/homedetails/744-N-22nd-St-Philadelphia-PA-19130/10241844_zpid/
+Townhouse for sale,2432 Poplar St,Philadelphia,PA,19130,"$429,000",5,1.0,1605.0,871.0,1920,TOWNHOUSE,394600.0,https://www.zillow.com/homedetails/2432-Poplar-St-Philadelphia-PA-19130/10244748_zpid/
+Townhouse for sale,1627 Olive St,Philadelphia,PA,19130,"$289,900",2,1.0,930.0,531.0,1915,TOWNHOUSE,23600.0,https://www.zillow.com/homedetails/1627-Olive-St-Philadelphia-PA-19130/60321742_zpid/
+New construction,909 N 20th St # 1,Philadelphia,PA,19130,"$420,000",3,3.0,1668.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/909-N-20th-St-1-Philadelphia-PA-19130/2083424960_zpid/
+Townhouse for sale,1629 Green St # 3,Philadelphia,PA,19130,"$269,000",1,1.0,591.0,-1.0,1900,TOWNHOUSE,173000.0,https://www.zillow.com/homedetails/1629-Green-St-3-Philadelphia-PA-19130/90196505_zpid/
+Condo for sale,844 N 29th St APT 119,Philadelphia,PA,19130,"$319,000",2,1.0,1362.0,-1.0,1920,CONDO,,https://www.zillow.com/homedetails/844-N-29th-St-APT-119-Philadelphia-PA-19130/2132336449_zpid/
+Townhouse for sale,843 N Bambrey St,Philadelphia,PA,19130,"$339,999",2,1.0,1258.0,670.0,1923,TOWNHOUSE,352800.0,https://www.zillow.com/homedetails/843-N-Bambrey-St-Philadelphia-PA-19130/10242745_zpid/
+Townhouse for sale,2523 Aspen St,Philadelphia,PA,19130,"$822,500",4,3.0,2050.0,1306.0,1929,TOWNHOUSE,721600.0,https://www.zillow.com/homedetails/2523-Aspen-St-Philadelphia-PA-19130/10244273_zpid/
+For sale by owner,2231 Green St APT 3,Philadelphia,PA,19130,"$315,000",1,1.0,1262.0,876.0,1900,TOWNHOUSE,251400.0,https://www.zillow.com/homedetails/2231-Green-St-APT-3-Philadelphia-PA-19130/10605693_zpid/
+Condo for sale,2601 Pennsylvania Ave APT 221,Philadelphia,PA,19130,"$240,000",2,1.0,1135.0,-1.0,1950,CONDO,223700.0,https://www.zillow.com/homedetails/2601-Pennsylvania-Ave-APT-221-Philadelphia-PA-19130/63498386_zpid/
+Townhouse for sale,2918 Cambridge St,Philadelphia,PA,19130,"$469,000",4,2.0,1546.0,1306.0,1915,TOWNHOUSE,312000.0,https://www.zillow.com/homedetails/2918-Cambridge-St-Philadelphia-PA-19130/10317371_zpid/
+Townhouse for sale,1522 Fairmount Ave,Philadelphia,PA,19130,"$725,000",4,5.0,2532.0,1167.0,2010,TOWNHOUSE,719000.0,https://www.zillow.com/homedetails/1522-Fairmount-Ave-Philadelphia-PA-19130/103777016_zpid/
+New construction,722 N 19th St # 1,Philadelphia,PA,19130,"$495,000",3,4.0,1963.0,-1.0,2020,CONDO,,https://www.zillow.com/homedetails/722-N-19th-St-1-Philadelphia-PA-19130/2081242280_zpid/
+Condo for sale,1523 Green St APT 4,Philadelphia,PA,19130,"$315,000",1,2.0,1166.0,-1.0,1900,CONDO,283100.0,https://www.zillow.com/homedetails/1523-Green-St-APT-4-Philadelphia-PA-19130/63499099_zpid/
+Townhouse for sale,870 N 19th St,Philadelphia,PA,19130,"$685,000",4,6.0,2448.0,1816.0,1920,TOWNHOUSE,798000.0,https://www.zillow.com/homedetails/870-N-19th-St-Philadelphia-PA-19130/90197927_zpid/
+Townhouse for sale,2703 Poplar St,Philadelphia,PA,19130,"$375,000",4,1.0,1376.0,871.0,1920,TOWNHOUSE,351000.0,https://www.zillow.com/homedetails/2703-Poplar-St-Philadelphia-PA-19130/10316477_zpid/
+Townhouse for sale,867 N Judson St,Philadelphia,PA,19130,"$295,000",2,1.0,840.0,614.0,1920,TOWNHOUSE,271300.0,https://www.zillow.com/homedetails/867-N-Judson-St-Philadelphia-PA-19130/10242051_zpid/
+Condo for sale,2001 Hamilton St APT 725,Philadelphia,PA,19130,"$345,000",2,1.0,891.0,-1.0,1970,CONDO,264400.0,https://www.zillow.com/homedetails/2001-Hamilton-St-APT-725-Philadelphia-PA-19130/62675960_zpid/

@@ -1,0 +1,19 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+Condo for rent,1029 Spruce St APT 104,Philadelphia,PA,19107,"$1,700/mo",1,1.0,564.0,1900,-1.0,CONDO
+Apartment for rent,201-50 S 13th St # 1101,Philadelphia,PA,19107,"$2,160/mo",2,1.0,,-1,-1.0,APARTMENT
+House for rent,328 Butler Ave,Philadelphia,PA,19107,"$1,600/mo",2,1.0,954.0,1900,459.0,SINGLE_FAMILY
+Townhouse for rent,306 S Quince St,Philadelphia,PA,19107,"$3,200/mo",2,2.5,1698.0,1980,435.0,TOWNHOUSE
+Townhouse for rent,211 S Quince St,Philadelphia,PA,19107,"$3,400/mo",3,2.0,1680.0,1850,853.0,TOWNHOUSE
+Apartment for rent,322 S 11th St # C,Philadelphia,PA,19107,"$1,200/mo",0,1.0,,-1,-1.0,APARTMENT
+Condo for rent,1300 Pine St APT 4R,Philadelphia,PA,19107,"$1,545/mo",1,1.0,650.0,-1,-1.0,CONDO
+Condo for rent,916 Pine St APT 2F,Philadelphia,PA,19107,"$1,465/mo",2,1.0,600.0,1860,-1.0,CONDO
+Condo for rent,1203 Spruce St # 2R,Philadelphia,PA,19107,"$1,395/mo",1,1.0,5941.0,-1,-1.0,CONDO
+Condo for rent,1300 Pine St # 3F,Philadelphia,PA,19107,"$1,625/mo",1,1.0,450.0,-1,-1.0,CONDO
+Condo for rent,261 S 9th St # 3F,Philadelphia,PA,19107,"$1,525/mo",1,1.0,450.0,1900,-1.0,CONDO
+Apartment for rent,802 Sansom St # 302,Philadelphia,PA,19107,"$1,875/mo",1,1.0,675.0,1888,-1.0,APARTMENT
+Condo for rent,250 S 13th St APT 4F,Philadelphia,PA,19107,"$1,650/mo",1,1.0,641.0,1920,-1.0,CONDO
+Apartment for rent,1202 Pine St APT 1,Philadelphia,PA,19107,"$1,800/mo",2,1.0,650.0,-1,-1.0,APARTMENT
+Apartment for rent,220 N 13th St # 2R,Philadelphia,PA,19107,"$1,700/mo",2,1.0,1200.0,-1,-1.0,APARTMENT
+Apartment for rent,1017 Arch St,Philadelphia,PA,19107,"$3,600/mo",3,2.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,1322 Locust St APT 4F,Philadelphia,PA,19107,"$1,350/mo",1,1.0,,-1,-1.0,MULTI_FAMILY
+Apartment for rent,921 Ridge Ave APT 3D,Philadelphia,PA,19107,"$2,300/mo",3,3.0,,-1,-1.0,APARTMENT

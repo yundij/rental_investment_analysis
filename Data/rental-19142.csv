@@ -1,0 +1,38 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,year_built,lot_size,home_type
+House for rent,2518 S 62nd St,Philadelphia,PA,19142,"$1,150/mo",3,1.0,1125.0,1916,1306.0,SINGLE_FAMILY
+Apartment for rent,2602 S Muhlfeld St,Philadelphia,PA,19142,$785/mo,1,1.0,960.0,1925,1157.0,APARTMENT
+House for rent,2233 S Hobson St,Philadelphia,PA,19142,"$1,175/mo",3,1.5,1008.0,1920,953.0,SINGLE_FAMILY
+House for rent,6931 Paschall Ave,Philadelphia,PA,19142,"$1,295/mo",4,2.0,1536.0,1930,1600.0,SINGLE_FAMILY
+House for rent,6700 Dicks Ave,Philadelphia,PA,19142,"$1,200/mo",3,1.5,1312.0,1925,1306.0,SINGLE_FAMILY
+House for rent,2213 S Hobson St,Philadelphia,PA,19142,"$1,300/mo",3,1.0,1008.0,1934,871.0,SINGLE_FAMILY
+House for rent,2556 S 68th St,Philadelphia,PA,19142,"$1,300/mo",3,1.0,960.0,1920,1306.0,SINGLE_FAMILY
+Townhouse for rent,1724 S Avondale St,Philadelphia,PA,19142,$995/mo,3,1.0,1050.0,1925,1750.0,TOWNHOUSE
+House for rent,2639 S Felton St,Philadelphia,PA,19142,"$1,300/mo",3,1.0,960.0,1925,1149.0,SINGLE_FAMILY
+Apartment for rent,2904 S Dewey St # 2906,Philadelphia,PA,19142,"$1,100/mo",3,1.0,1099.0,-1,-1.0,APARTMENT
+Townhouse for rent,6421 Upland St,Philadelphia,PA,19142,"$1,000/mo",3,1.0,1000.0,1925,871.0,TOWNHOUSE
+House for rent,2629 S 69th St,Philadelphia,PA,19142,"$1,300/mo",3,1.0,1008.0,1925,1328.0,SINGLE_FAMILY
+House for rent,6338 Kingsessing Ave,Philadelphia,PA,19142,$995/mo,3,1.0,1206.0,1920,1197.0,SINGLE_FAMILY
+Apartment for rent,6899 Elmwood Ave FLOOR 2,Philadelphia,PA,19142,$595/mo,1,1.0,,-1,-1.0,APARTMENT
+Apartment for rent,S Muhlfeld St,Philadelphia,PA,19142,$785/mo,1,1.0,550.0,1935,-1.0,APARTMENT
+House for rent,2521 Bonnaffon St,Philadelphia,PA,19142,$895/mo,3,1.0,1200.0,-1,-1.0,SINGLE_FAMILY
+Apartment for rent,6721 Upland St,Philadelphia,PA,19142,$650/mo,1,1.0,700.0,-1,-1.0,APARTMENT
+Apartment for rent,Woodland Ave,Philadelphia,PA,19142,"$1,100/mo",3,1.0,950.0,-1,-1.0,APARTMENT
+House for rent,6134 Glenmore Ave,Philadelphia,PA,19142,$750/mo,2,1.0,930.0,1925,720.0,SINGLE_FAMILY
+House for rent,2645 S Hobson St,Philadelphia,PA,19142,"$1,075/mo",3,1.0,960.0,1935,1306.0,SINGLE_FAMILY
+Townhouse for rent,1762 S 60th St,Philadelphia,PA,19142,"$1,200/mo",3,1.5,1538.0,1925,1473.0,TOWNHOUSE
+House for rent,2906 S Dewey St,Philadelphia,PA,19142,"$1,100/mo",3,1.0,1200.0,1925,1136.0,SINGLE_FAMILY
+House for rent,2648 S Massey St,Philadelphia,PA,19142,"$1,050/mo",3,1.0,960.0,1925,1232.0,SINGLE_FAMILY
+Apartment for rent,2500 Bonnaffon St # 1,Philadelphia,PA,19142,$800/mo,1,1.0,,-1,-1.0,APARTMENT
+Townhouse for rent,2612 S Carroll St,Philadelphia,PA,19142,"$1,200/mo",3,1.0,960.0,1920,1259.0,TOWNHOUSE
+Apartment for rent,2650 S Hobson St,Philadelphia,PA,19142,"$1,050/mo",3,1.0,960.0,1935,1112.0,MULTI_FAMILY
+House for rent,6526 Chester Ave,Philadelphia,PA,19142,$995/mo,3,1.0,1000.0,1925,940.0,SINGLE_FAMILY
+Apartment for rent,7020 Greenway Ave # 2,Philadelphia,PA,19142,"$1,050/mo",2,1.0,1250.0,-1,-1.0,MULTI_FAMILY
+Townhouse for rent,2602 S Sylmar St,Philadelphia,PA,19142,"$1,350/mo",3,1.0,960.0,1920,927.0,TOWNHOUSE
+Townhouse for rent,6339 Theodore St,Philadelphia,PA,19142,"$1,000/mo",2,1.0,888.0,1952,840.0,TOWNHOUSE
+Townhouse for rent,2111 S Shields St,Philadelphia,PA,19142,"$1,000/mo",3,1.0,1050.0,1936,1228.0,TOWNHOUSE
+House for rent,2527 S Gross St,Philadelphia,PA,19142,$975/mo,2,1.0,932.0,1925,700.0,SINGLE_FAMILY
+House for rent,6504 Wheeler St,Philadelphia,PA,19142,$950/mo,3,2.0,1088.0,1925,1089.0,SINGLE_FAMILY
+House for rent,6006 Reinhard St,Philadelphia,PA,19142,"$1,300/mo",3,1.0,1216.0,1920,958.0,SINGLE_FAMILY
+House for rent,6235 Reedland St,Philadelphia,PA,19142,"$1,250/mo",3,1.0,1112.0,1920,1054.0,SINGLE_FAMILY
+House for rent,6538 Allman St,Philadelphia,PA,19142,"$1,300/mo",3,1.0,1125.0,1920,827.0,SINGLE_FAMILY
+Townhouse for rent,2851 S 65th St,Philadelphia,PA,19142,"$1,800/mo",4,2.0,1056.0,1925,2661.0,TOWNHOUSE

@@ -1,0 +1,41 @@
+title,address,city,state,postal_code,price,bedroom,bathroom,area,lot_size,year_built,home_type,tax_assessed_value,url
+Apartment for sale,5903 Cedar Ave,Philadelphia,PA,19143,"$140,000",4,2.0,1456.0,1511.0,1925,MULTI_FAMILY,87900.0,https://www.zillow.com/homedetails/5903-Cedar-Ave-Philadelphia-PA-19143/10185537_zpid/
+House for sale,1501 S 47th St,Philadelphia,PA,19143,"$199,900",7,3.0,1446.0,958.0,1940,SINGLE_FAMILY,64800.0,https://www.zillow.com/homedetails/1501-S-47th-St-Philadelphia-PA-19143/10309265_zpid/
+Townhouse for sale,5622 Warrington Ave,Philadelphia,PA,19143,"$175,000",3,2.0,1180.0,1171.0,1925,TOWNHOUSE,55400.0,https://www.zillow.com/homedetails/5622-Warrington-Ave-Philadelphia-PA-19143/10483195_zpid/
+House for sale,5711 Ashland Ave,Philadelphia,PA,19143,"$80,000",4,2.0,1696.0,1742.0,1920,SINGLE_FAMILY,64400.0,https://www.zillow.com/homedetails/5711-Ashland-Ave-Philadelphia-PA-19143/10480892_zpid/
+Townhouse for sale,5729 Belmar St,Philadelphia,PA,19143,"$122,000",3,1.0,798.0,836.0,1925,TOWNHOUSE,,https://www.zillow.com/homedetails/5729-Belmar-St-Philadelphia-PA-19143/2080472615_zpid/
+Townhouse for sale,932 S Paxon St,Philadelphia,PA,19143,"$99,000",4,1.0,1920.0,1080.0,1925,TOWNHOUSE,75900.0,https://www.zillow.com/homedetails/932-S-Paxon-St-Philadelphia-PA-19143/10477844_zpid/
+Townhouse for sale,1623 S Conestoga St,Philadelphia,PA,19143,"$109,000",3,2.0,990.0,901.0,1925,TOWNHOUSE,51400.0,https://www.zillow.com/homedetails/1623-S-Conestoga-St-Philadelphia-PA-19143/10484114_zpid/
+Townhouse for sale,1338 S Paxon St,Philadelphia,PA,19143,"$230,000",3,2.0,1210.0,810.0,1940,TOWNHOUSE,20400.0,https://www.zillow.com/homedetails/1338-S-Paxon-St-Philadelphia-PA-19143/10309730_zpid/
+For sale by owner,1912 S Ithan St,Philadelphia,PA,19143,"$45,000",3,1.0,990.0,953.0,1965,TOWNHOUSE,57400.0,https://www.zillow.com/homedetails/1912-S-Ithan-St-Philadelphia-PA-19143/10484481_zpid/
+Condo for sale,4637 Pine St APT D405,Philadelphia,PA,19143,"$280,000",2,1.0,1258.0,-1.0,1920,CONDO,179800.0,https://www.zillow.com/homedetails/4637-Pine-St-APT-D405-Philadelphia-PA-19143/10607450_zpid/
+Townhouse for sale,5936 Pine St,Philadelphia,PA,19143,"$229,900",4,3.0,1480.0,1280.0,1925,TOWNHOUSE,45500.0,https://www.zillow.com/homedetails/5936-Pine-St-Philadelphia-PA-19143/10184858_zpid/
+Townhouse for sale,2536 S 58th St,Philadelphia,PA,19143,"$159,900",3,2.0,1358.0,1119.0,1925,TOWNHOUSE,69000.0,https://www.zillow.com/homedetails/2536-S-58th-St-Philadelphia-PA-19143/10402606_zpid/
+Townhouse for sale,1130 S Paxon St,Philadelphia,PA,19143,"$95,000",3,1.0,1350.0,1097.0,1925,TOWNHOUSE,59400.0,https://www.zillow.com/homedetails/1130-S-Paxon-St-Philadelphia-PA-19143/10478897_zpid/
+Townhouse for sale,5511 Belmar Ter,Philadelphia,PA,19143,"$173,900",3,3.0,1412.0,1141.0,1925,TOWNHOUSE,49900.0,https://www.zillow.com/homedetails/5511-Belmar-Ter-Philadelphia-PA-19143/10483447_zpid/
+New construction,1008 S Saint Bernard St,Philadelphia,PA,19143,"$689,900",4,5.0,3815.0,3014.0,2020,SINGLE_FAMILY,75900.0,https://www.zillow.com/homedetails/1008-S-Saint-Bernard-St-Philadelphia-PA-19143/10479533_zpid/
+Townhouse for sale,4720 Larchwood Ave,Philadelphia,PA,19143,"$579,900",4,3.0,2000.0,1533.0,1911,TOWNHOUSE,293400.0,https://www.zillow.com/homedetails/4720-Larchwood-Ave-Philadelphia-PA-19143/10451801_zpid/
+Townhouse for sale,5422 Webster St,Philadelphia,PA,19143,"$104,900",3,2.0,1260.0,953.0,1925,TOWNHOUSE,110000.0,https://www.zillow.com/homedetails/5422-Webster-St-Philadelphia-PA-19143/10454407_zpid/
+Townhouse for sale,6215 Osage Ave,Philadelphia,PA,19143,"$279,900",3,3.0,2203.0,1206.0,1925,TOWNHOUSE,55900.0,https://www.zillow.com/homedetails/6215-Osage-Ave-Philadelphia-PA-19143/10184956_zpid/
+Townhouse for sale,5715 Hadfield St,Philadelphia,PA,19143,"$69,900",3,1.0,1090.0,927.0,1920,TOWNHOUSE,54500.0,https://www.zillow.com/homedetails/5715-Hadfield-St-Philadelphia-PA-19143/10481763_zpid/
+Townhouse for sale,923 S Paxon St,Philadelphia,PA,19143,"$99,000",3,1.0,1012.0,962.0,1925,TOWNHOUSE,19400.0,https://www.zillow.com/homedetails/923-S-Paxon-St-Philadelphia-PA-19143/10477827_zpid/
+Foreclosure,5513 Beaumont Ave,Philadelphia,PA,19143,"$55,000",3,1.0,1160.0,975.0,1925,TOWNHOUSE,70600.0,https://www.zillow.com/homedetails/5513-Beaumont-Ave-Philadelphia-PA-19143/10482487_zpid/
+Townhouse for sale,733 S 59th St,Philadelphia,PA,19143,"$199,900",3,2.0,1365.0,1154.0,1925,TOWNHOUSE,44800.0,https://www.zillow.com/homedetails/733-S-59th-St-Philadelphia-PA-19143/10187967_zpid/
+House for sale,823 S Saint Bernard St,Philadelphia,PA,19143,"$649,000",5,6.0,3004.0,2178.0,1920,SINGLE_FAMILY,288000.0,https://www.zillow.com/homedetails/823-S-Saint-Bernard-St-Philadelphia-PA-19143/10479512_zpid/
+Townhouse for sale,1835 S Vogdes St,Philadelphia,PA,19143,"$149,000",3,2.0,1008.0,927.0,1920,TOWNHOUSE,16300.0,https://www.zillow.com/homedetails/1835-S-Vogdes-St-Philadelphia-PA-19143/10484342_zpid/
+Townhouse for sale,5715 Florence Ave,Philadelphia,PA,19143,"$164,900",4,3.0,1620.0,1633.0,1920,TOWNHOUSE,60100.0,https://www.zillow.com/homedetails/5715-Florence-Ave-Philadelphia-PA-19143/165346734_zpid/
+Apartment for sale,5341 Angora Ter,Philadelphia,PA,19143,"$189,000",0,,2112.0,2613.0,1925,MULTI_FAMILY,,https://www.zillow.com/homedetails/5341-Angora-Ter-Philadelphia-PA-19143/2080518213_zpid/
+Townhouse for sale,5530 Osage Ave,Philadelphia,PA,19143,"$165,000",3,2.0,1140.0,953.0,1925,TOWNHOUSE,78000.0,https://www.zillow.com/homedetails/5530-Osage-Ave-Philadelphia-PA-19143/10543309_zpid/
+Apartment for sale,817 S 48th St,Philadelphia,PA,19143,"$649,000",7,3.0,3402.0,2970.0,1895,MULTI_FAMILY,365900.0,https://www.zillow.com/homedetails/817-S-48th-St-Philadelphia-PA-19143/10452371_zpid/
+Townhouse for sale,4954 Walton Ave,Philadelphia,PA,19143,"$324,999",4,2.0,1698.0,1681.0,1925,TOWNHOUSE,204800.0,https://www.zillow.com/homedetails/4954-Walton-Ave-Philadelphia-PA-19143/10452951_zpid/
+Townhouse for sale,1320 S 54th St,Philadelphia,PA,19143,"$179,999",3,2.0,1232.0,1232.0,1920,TOWNHOUSE,57900.0,https://www.zillow.com/homedetails/1320-S-54th-St-Philadelphia-PA-19143/10482732_zpid/
+Apartment for sale,4620 Regent St,Philadelphia,PA,19143,"$345,000",4,2.0,1080.0,1472.0,1965,MULTI_FAMILY,196500.0,https://www.zillow.com/homedetails/4620-Regent-St-Philadelphia-PA-19143/10452065_zpid/
+House for sale,1130 S 46th St,Philadelphia,PA,19143,"$548,000",6,2.0,2550.0,2021.0,1925,SINGLE_FAMILY,340900.0,https://www.zillow.com/homedetails/1130-S-46th-St-Philadelphia-PA-19143/10452293_zpid/
+House for sale,5139 Hadfield St,Philadelphia,PA,19143,"$250,000",2,2.0,1705.0,871.0,1925,SINGLE_FAMILY,61500.0,https://www.zillow.com/homedetails/5139-Hadfield-St-Philadelphia-PA-19143/10478298_zpid/
+Townhouse for sale,1442 S 55th St,Philadelphia,PA,19143,"$154,900",3,2.0,1227.0,871.0,1920,TOWNHOUSE,16500.0,https://www.zillow.com/homedetails/1442-S-55th-St-Philadelphia-PA-19143/10482777_zpid/
+New construction,1237 S 47th St # 01,Philadelphia,PA,19143,"$390,000",2,3.0,1515.0,-1.0,2019,CONDO,,https://www.zillow.com/homedetails/1237-S-47th-St-01-Philadelphia-PA-19143/2086367662_zpid/
+Townhouse for sale,1410 S 54th St,Philadelphia,PA,19143,"$149,900",3,1.0,1544.0,1392.0,1920,TOWNHOUSE,55500.0,https://www.zillow.com/homedetails/1410-S-54th-St-Philadelphia-PA-19143/10482743_zpid/
+Foreclosure,1335 S 54th St,Philadelphia,PA,19143,"$69,900",3,1.0,1356.0,1206.0,1920,TOWNHOUSE,51500.0,https://www.zillow.com/homedetails/1335-S-54th-St-Philadelphia-PA-19143/10479388_zpid/
+Townhouse for sale,5803 Rodman St,Philadelphia,PA,19143,"$189,000",3,3.0,1065.0,1049.0,1925,TOWNHOUSE,73900.0,https://www.zillow.com/homedetails/5803-Rodman-St-Philadelphia-PA-19143/10185446_zpid/
+Apartment for sale,444 S 54th St,Philadelphia,PA,19143,"$295,000",0,,1658.0,1306.0,1920,MULTI_FAMILY,84500.0,https://www.zillow.com/homedetails/444-S-54th-St-Philadelphia-PA-19143/165402838_zpid/
+Apartment for sale,4844 Cedar Ave,Philadelphia,PA,19143,"$589,000",7,5.0,2700.0,2090.0,1925,MULTI_FAMILY,300000.0,https://www.zillow.com/homedetails/4844-Cedar-Ave-Philadelphia-PA-19143/10451905_zpid/
