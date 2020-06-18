@@ -2,7 +2,7 @@
 
 # Rental Profit Analysis
 
-> An analysis about potential rental profit for properties for sale
+> An analysis about potential rental profit of properties for sale
 
 Rental investment is a popular choice for people to diversify their investment portfolio. When chosen wisely, a rental property can lead to great profit, and produce steady and rewarding cashflow. However, the process can also involve high risk,  which makes choosing which the property to buy an important decision. The number of listings on the housing market makes this decision process overwhelming and challenging. This project is to make a web application to provide users with guidance to choose the most profitable rental investment property listed on the market.  
 
